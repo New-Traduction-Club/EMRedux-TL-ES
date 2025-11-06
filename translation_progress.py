@@ -5,20 +5,29 @@ def contar_traduccion():
     total = 0
     traducidas = 0
     for archivo in glob.glob("files/*.rpy"):
-        with open(archivo, encoding="utf-8") as f:
+        with open(archivo, 'r', encoding="utf-8") as f:
             lines = f.readlines()
-            for i in range(len(lines)):
-                if 'old "' in lines[i]:
+            i = 0
+            while i < len(lines):
+                line = lines[i].strip()
+
+                # Maneja bloques old/new
+                if line.startswith('old "'):
                     total += 1
-                if 'new "' in lines[i] and not lines[i].strip().endswith('new ""'):
-                    traducidas += 1
-                if re.match(r'^\s*#.*$', lines[i]):
-                    if i+1 < len(lines):
-                        linea_trad = lines[i+1].strip()
-                        if linea_trad.startswith('"') or re.match(r'^\w+\s*".*"$', linea_trad):
-                            total += 1
-                            if linea_trad != '""' and not re.match(r'^\w+\s*""$', linea_trad):
-                                traducidas += 1
+                    if i + 1 < len(lines) and lines[i+1].strip().startswith('new "') and not lines[i+1].strip().endswith('new ""'):
+                        traducidas += 1
+                    i += 2  # Saltar la línea 'new'
+                    continue
+
+                # Maneja diálogos comentados
+                if line.startswith('#'):
+                    original_match = re.search(r'#\s*(".*"|\w+\s+".*")', line)
+                    if original_match and i + 1 < len(lines):
+                        total += 1
+                        next_line = lines[i+1].strip()
+                        if next_line and not next_line.endswith('""'):
+                            traducidas += 1
+                i += 1
     return total, traducidas
 
 if __name__ == "__main__":

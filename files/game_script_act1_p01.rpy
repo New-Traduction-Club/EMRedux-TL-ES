@@ -634,7 +634,7 @@ translate spanish game_script_act1_19de4c87:
 translate spanish game_script_act1_0f7425d2:
 
     # mc "Screw the festival."
-    mc ""
+    mc "Que le den al festival."
 
 # game/game_script_act1.rpy:220
 translate spanish game_script_act1_3ed8bb9a:

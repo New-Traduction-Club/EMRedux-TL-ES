@@ -1,0 +1,1998 @@
+
+# game/game_script_act2.rpy:641
+translate spanish game_script_act2_7d3454f2:
+
+    # "Turning back to the TV, we watch on as the scene drags out, for over a minute."
+    ""
+
+# game/game_script_act2.rpy:642
+translate spanish game_script_act2_4127853e:
+
+    # "Endless jump-cuts panning to each side, switching focus from the teens to the fish and back, shots from inside the fish tank..."
+    ""
+
+# game/game_script_act2.rpy:644
+translate spanish game_script_act2_371ea2e4:
+
+    # mc "...{i}This?{/i}"
+    mc ""
+
+# game/game_script_act2.rpy:646
+translate spanish game_script_act2_65ef1e9e:
+
+    # "Try as I might, I can't help but let out a groan."
+    ""
+
+# game/game_script_act2.rpy:649
+translate spanish game_script_act2_bf737ec4:
+
+    # n turned doub om oe b1d zz1 "Hey, don’t give me that!"
+    n turned doub om oe b1d zz1 ""
+
+# game/game_script_act2.rpy:650
+translate spanish game_script_act2_0064f7d1:
+
+    # n turned nerv om e2b rhip "It might be a little...{w=0.5}{i}cheesy.{/i}"
+    n turned nerv om e2b rhip ""
+
+# game/game_script_act2.rpy:651
+translate spanish game_script_act2_70c44d1d:
+
+    # n turned nerv om oe b1b "But, that doesn't mean it's bad!"
+    n turned nerv om oe b1b ""
+
+# game/game_script_act2.rpy:652
+translate spanish game_script_act2_8f6001b6:
+
+    # n lhip turned anno om oe b1d "I bet you like some goofy, over-the-top things yourself!"
+    n lhip turned anno om oe b1d ""
+
+# game/game_script_act2.rpy:653
+translate spanish game_script_act2_cb347ef0:
+
+    # n turned doub om oe b1a "Shall we go through your anime collection?"
+    n turned doub om oe b1a ""
+
+# game/game_script_act2.rpy:655
+translate spanish game_script_act2_92c5433a:
+
+    # mc "That’s not..."
+    mc ""
+
+# game/game_script_act2.rpy:657
+translate spanish game_script_act2_2b35b6fe:
+
+    # mc "..."
+    mc ""
+
+# game/game_script_act2.rpy:658
+translate spanish game_script_act2_8881d028:
+
+    # mc "Okay, fair point."
+    mc ""
+
+# game/game_script_act2.rpy:660
+translate spanish game_script_act2_ac864431:
+
+    # n rdown e1a b1b mg "Come on, give it a chance."
+    n rdown e1a b1b mg ""
+
+# game/game_script_act2.rpy:662
+translate spanish game_script_act2_167814cd:
+
+    # mc "Alright, alright."
+    mc ""
+
+# game/game_script_act2.rpy:663
+translate spanish game_script_act2_aa2fd97f:
+
+    # mc "I might as well..."
+    mc ""
+
+# game/game_script_act2.rpy:667
+translate spanish game_script_act2_c8ef027a:
+
+    # "I take a seat beside her on the couch."
+    ""
+
+# game/game_script_act2.rpy:679
+translate spanish game_script_act2_40f7ee74:
+
+    # n "See?"
+    n ""
+
+# game/game_script_act2.rpy:680
+translate spanish game_script_act2_f19dc232:
+
+    # n b1c mc "I told you!"
+    n b1c mc ""
+
+# game/game_script_act2.rpy:682
+translate spanish game_script_act2_312c6d6d:
+
+    # "As the closing credits play, I get up from the couch and stretch."
+    ""
+
+# game/game_script_act2.rpy:683
+translate spanish game_script_act2_c60e05e8:
+
+    # "Peering over at the nearest clock, I notice that a little over two hours have passed."
+    ""
+
+# game/game_script_act2.rpy:685
+translate spanish game_script_act2_61c6c2db:
+
+    # mc "Wow, have we really been watching this crap for {i}that long{/i}?!"
+    mc ""
+
+# game/game_script_act2.rpy:687
+translate spanish game_script_act2_de413bad:
+
+    # n rdown lhip e1c b1a mi "Oh shut up, you were enjoying it!"
+    n rdown lhip e1c b1a mi ""
+
+# game/game_script_act2.rpy:688
+translate spanish game_script_act2_5eb3b02f:
+
+    # n e1a "I could see it in your eyes!"
+    n e1a ""
+
+# game/game_script_act2.rpy:690
+translate spanish game_script_act2_a3bb0e1d:
+
+    # mc "Oh? Seems like you were more interested in looking my way than watching the film you love {i}sooo{/i} much."
+    mc ""
+
+# game/game_script_act2.rpy:694
+translate spanish game_script_act2_cd414042:
+
+    # "Embarrassed, Natsuki averts her gaze as her face glows bright red."
+    ""
+
+# game/game_script_act2.rpy:697
+translate spanish game_script_act2_0c2efc42:
+
+    # n b1e e2a ldown ml "I didn’t mean it {i}that{/i} way..."
+    n b1e e2a ldown ml ""
+
+# game/game_script_act2.rpy:698
+translate spanish game_script_act2_ee8dc17c:
+
+    # n e2b mh "I-{w=0.2}I...{w=0.8}{nw}"
+    n e2b mh ""
+
+# game/game_script_act2.rpy:700
+translate spanish game_script_act2_3d7c0e63:
+
+    # extend "was just gauging your reaction to the film.{w=0.6} God."
+    extend ""
+
+# game/game_script_act2.rpy:702
+translate spanish game_script_act2_46ed9256:
+
+    # mc "Mhm. I {i}completely{/i} believe you."
+    mc ""
+
+# game/game_script_act2.rpy:704
+translate spanish game_script_act2_22ae2a9e:
+
+    # n rdown turned anno om oe b1d n1 zz1 "Whatever. My point stands."
+    n rdown turned anno om oe b1d n1 zz1 ""
+
+# game/game_script_act2.rpy:705
+translate spanish game_script_act2_4fef85db:
+
+    # n mh "You liked it."
+    n mh ""
+
+# game/game_script_act2.rpy:707
+translate spanish game_script_act2_6ed07a3a:
+
+    # mc "Okay, okay, I {i}may{/i} have underestimated it."
+    mc ""
+
+# game/game_script_act2.rpy:708
+translate spanish game_script_act2_3333e780:
+
+    # mc "It’s certainly got personality..."
+    mc ""
+
+# game/game_script_act2.rpy:709
+translate spanish game_script_act2_6ed5e29d:
+
+    # mc "But it’s still probably one of the cheesiest things I’ve ever seen."
+    mc ""
+
+# game/game_script_act2.rpy:710
+translate spanish game_script_act2_bb53233e:
+
+    # mc "I mean, the acting was so hammy, it was hard to take it seriously."
+    mc ""
+
+# game/game_script_act2.rpy:712
+translate spanish game_script_act2_c44128e9:
+
+    # n turned pout om oe b1b "But that’s what makes it so fun!"
+    n turned pout om oe b1b ""
+
+# game/game_script_act2.rpy:713
+translate spanish game_script_act2_b5cbc82f:
+
+    # n turned worr om oe b1c "Like, yeah, okay, it’s a tragedy at heart."
+    n turned worr om oe b1c ""
+
+# game/game_script_act2.rpy:714
+translate spanish game_script_act2_e473d837:
+
+    # n mb b1a "But the over-the-top acting is what separates the campy scenes from the, well, tragic ones."
+    n mb b1a ""
+
+# game/game_script_act2.rpy:715
+translate spanish game_script_act2_6ea5066e:
+
+    # n b1c mc e1a "Like that house party!"
+    n b1c mc e1a ""
+
+# game/game_script_act2.rpy:717
+translate spanish game_script_act2_56faee66:
+
+    # mc "I had no idea what was going on throughout most of that scene."
+    mc ""
+
+# game/game_script_act2.rpy:718
+translate spanish game_script_act2_1a41ed7c:
+
+    # mc "It felt so disconnected from the rest of the film."
+    mc ""
+
+# game/game_script_act2.rpy:720
+translate spanish game_script_act2_103a35f3:
+
+    # n rdown e1b b2b n2 mb "Well, I couldn’t tell you what half the scenes even mean, but they still mean something to me, y’know?"
+    n rdown e1b b2b n2 mb ""
+
+# game/game_script_act2.rpy:722
+translate spanish game_script_act2_802ee458:
+
+    # mc "And I don’t wanna take that away from you."
+    mc ""
+
+# game/game_script_act2.rpy:723
+translate spanish game_script_act2_a2e2bdf7:
+
+    # mc "It’s just not for me, I guess."
+    mc ""
+
+# game/game_script_act2.rpy:725
+translate spanish game_script_act2_c4096666:
+
+    # n e1a mh "Yeah, I guess not."
+    n e1a mh ""
+
+# game/game_script_act2.rpy:727
+translate spanish game_script_act2_377b5e5a:
+
+    # "We both fall silent for a moment, not too sure where to go from here."
+    ""
+
+# game/game_script_act2.rpy:728
+translate spanish game_script_act2_16728fa7:
+
+    # "Trying to look for something, anything to distract from the odd tension in the room, my eyes are drawn to the kitchen door."
+    ""
+
+# game/game_script_act2.rpy:731
+translate spanish game_script_act2_ac52e851:
+
+    # mc "Hey, uh, you feeling hungry yet?"
+    mc ""
+
+# game/game_script_act2.rpy:732
+translate spanish game_script_act2_5431091d:
+
+    # mc "I sure do."
+    mc ""
+
+# game/game_script_act2.rpy:734
+translate spanish game_script_act2_2168f548:
+
+    # n mh "Actually...yeah."
+    n mh ""
+
+# game/game_script_act2.rpy:736
+translate spanish game_script_act2_29a19df9:
+
+    # mc "Bacon sandwich sound good?"
+    mc ""
+
+# game/game_script_act2.rpy:738
+translate spanish game_script_act2_162d2602:
+
+    # n mb "Sounds good."
+    n mb ""
+
+# game/game_script_act2.rpy:740
+translate spanish game_script_act2_f8e5d875:
+
+    # "I nod, heading into the kitchen."
+    ""
+
+# game/game_script_act2.rpy:743
+translate spanish game_script_act2_6db96b81:
+
+    # "I turn towards the refrigerator, and yank it open. "
+    ""
+
+# game/game_script_act2.rpy:744
+translate spanish game_script_act2_f44f139d:
+
+    # "However, there's no bacon in sight."
+    ""
+
+# game/game_script_act2.rpy:745
+translate spanish game_script_act2_e3363ed2:
+
+    # "In fact, there's hardly anything here..."
+    ""
+
+# game/game_script_act2.rpy:747
+translate spanish game_script_act2_a95b21b2:
+
+    # mc "Crap."
+    mc ""
+
+# game/game_script_act2.rpy:749
+translate spanish game_script_act2_6033ecc7:
+
+    # "Thinking about it, we’re low on nearly everything at the moment."
+    ""
+
+# game/game_script_act2.rpy:750
+translate spanish game_script_act2_0904f265:
+
+    # "Which actually makes now the perfect time to get groceries..."
+    ""
+
+# game/game_script_act2.rpy:752
+translate spanish game_script_act2_eff4d126:
+
+    # mc "Hey, Natsuki?"
+    mc ""
+
+# game/game_script_act2.rpy:754
+translate spanish game_script_act2_1eede5aa:
+
+    # "She makes her way into the kitchen."
+    ""
+
+# game/game_script_act2.rpy:757
+translate spanish game_script_act2_28e26a36:
+
+    # n lhip mh "What’s up?"
+    n lhip mh ""
+
+# game/game_script_act2.rpy:759
+translate spanish game_script_act2_fdd13323:
+
+    # mc "There’s no bacon here."
+    mc ""
+
+# game/game_script_act2.rpy:760
+translate spanish game_script_act2_f5b31ac1:
+
+    # mc "In fact, we’re running pretty low on groceries in general."
+    mc ""
+
+# game/game_script_act2.rpy:761
+translate spanish game_script_act2_e2171fdd:
+
+    # mc "I’ve got some bread, maybe a few slices of turkey or something..."
+    mc ""
+
+# game/game_script_act2.rpy:762
+translate spanish game_script_act2_4092c6b5:
+
+    # mc "Unless...you want some oats?"
+    mc ""
+
+# game/game_script_act2.rpy:764
+translate spanish game_script_act2_5716d60a:
+
+    # "Natsuki’s face twists in disgust."
+    ""
+
+# game/game_script_act2.rpy:767
+translate spanish game_script_act2_bad8ac71:
+
+    # n mi "Gross."
+    n mi ""
+
+# game/game_script_act2.rpy:769
+translate spanish game_script_act2_327dd25a:
+
+    # mc "Thought so."
+    mc ""
+
+# game/game_script_act2.rpy:770
+translate spanish game_script_act2_8df662ad:
+
+    # mc "Means that I’m gonna have to head to the store sometime this afternoon."
+    mc ""
+
+# game/game_script_act2.rpy:771
+translate spanish game_script_act2_a5686a60:
+
+    # mc "In fact, I should probably just get it out of the way now."
+    mc ""
+
+# game/game_script_act2.rpy:772
+translate spanish game_script_act2_d6b9d7e3:
+
+    # mc "You wanna come with?"
+    mc ""
+
+# game/game_script_act2.rpy:774
+translate spanish game_script_act2_27e86025:
+
+    # n turned flus cm oe b1b "Uh..."
+    n turned flus cm oe b1b ""
+
+# game/game_script_act2.rpy:776
+translate spanish game_script_act2_f073ac69:
+
+    # "Natsuki gestures to her face."
+    ""
+
+# game/game_script_act2.rpy:778
+translate spanish game_script_act2_bf532425:
+
+    # mc "Oh...{w=0.8}right."
+    mc ""
+
+# game/game_script_act2.rpy:779
+translate spanish game_script_act2_dc0ff26a_1:
+
+    # mc "Sorry."
+    mc ""
+
+# game/game_script_act2.rpy:780
+translate spanish game_script_act2_6c47422a:
+
+    # mc "So you’ll be fine here?"
+    mc ""
+
+# game/game_script_act2.rpy:782
+translate spanish game_script_act2_58691064:
+
+    # n e1a mb "Yeah."
+    n e1a mb ""
+
+# game/game_script_act2.rpy:783
+translate spanish game_script_act2_7b67f7b4:
+
+    # n rhip turned nerv om ce b1b zz3 "Promise I won’t burn down the place..."
+    n rhip turned nerv om ce b1b zz3 ""
+
+# game/game_script_act2.rpy:785
+translate spanish game_script_act2_5d974a0c:
+
+    # n e1b b1a mh zz1 "...Unless..."
+    n e1b b1a mh zz1 ""
+
+# game/game_script_act2.rpy:786
+translate spanish game_script_act2_db11cf34:
+
+    # n e1a ldown "You wouldn’t have any sunglasses, would you?"
+    n e1a ldown ""
+
+# game/game_script_act2.rpy:787
+translate spanish game_script_act2_d341969a:
+
+    # n "Sounds stupid, but it should do the trick."
+    n ""
+
+# game/game_script_act2.rpy:789
+translate spanish game_script_act2_3dbd9c98:
+
+    # mc "I don’t think so..."
+    mc ""
+
+# game/game_script_act2.rpy:790
+translate spanish game_script_act2_2034c056:
+
+    # mc "Maybe."
+    mc ""
+
+# game/game_script_act2.rpy:792
+translate spanish game_script_act2_cf766591:
+
+    # n e1b b1f mg "Well, I wouldn’t mind coming with{w=0.2} {nw}"
+    n e1b b1f mg ""
+
+# game/game_script_act2.rpy:794
+translate spanish game_script_act2_9fd0635a:
+
+    # extend "if I could cover up my eye."
+    extend ""
+
+# game/game_script_act2.rpy:796
+translate spanish game_script_act2_ad31c709:
+
+    # mc "I could go and take a look."
+    mc ""
+
+# game/game_script_act2.rpy:798
+translate spanish game_script_act2_11bedf1c:
+
+    # "Hmm..."
+    ""
+
+# game/game_script_act2.rpy:799
+translate spanish game_script_act2_a89e6929:
+
+    # "I know where I can find some sunglasses."
+    ""
+
+# game/game_script_act2.rpy:801
+translate spanish game_script_act2_8d5fe7a2:
+
+    # mc "Actually..."
+    mc ""
+
+# game/game_script_act2.rpy:803
+translate spanish game_script_act2_31b7c429:
+
+    # mc "Give me a minute."
+    mc ""
+
+# game/game_script_act2.rpy:806
+translate spanish game_script_act2_3622eb73:
+
+    # "I rush upstairs, into the spare room."
+    ""
+
+# game/game_script_act2.rpy:810
+translate spanish game_script_act2_c3725f91:
+
+    # "I head over to the cupboards opposite the couch."
+    ""
+
+# game/game_script_act2.rpy:811
+translate spanish game_script_act2_ec31cfa1:
+
+    # "My eyes dart around, looking for where the sunglasses could be, finally landing on the shoe-box on the top of the cupboard."
+    ""
+
+# game/game_script_act2.rpy:812
+translate spanish game_script_act2_45d36c07:
+
+    # "Taking off the lid, I scour through the years worth of junk in the box."
+    ""
+
+# game/game_script_act2.rpy:813
+translate spanish game_script_act2_8f0be774:
+
+    # "Old action figures with stiff joints, broken CDs, video game cartridges from before my time..."
+    ""
+
+# game/game_script_act2.rpy:814
+translate spanish game_script_act2_e687bcd8:
+
+    # "Finally, at the bottom of the box, I find what I’m looking for."
+    ""
+
+# game/game_script_act2.rpy:815
+translate spanish game_script_act2_da2318f6:
+
+    # "Sayori’s old sunglasses, She must’ve left these here years ago."
+    ""
+
+# game/game_script_act2.rpy:816
+translate spanish game_script_act2_82ea4055:
+
+    # "They’re a little...flashy."
+    ""
+
+# game/game_script_act2.rpy:817
+translate spanish game_script_act2_258f0c3d:
+
+    # "It’s worth a shot, though."
+    ""
+
+# game/game_script_act2.rpy:821
+translate spanish game_script_act2_83424c36:
+
+    # "As I make my way back downstairs, Natsuki’s waiting for me at the bottom of the stairs."
+    ""
+
+# game/game_script_act2.rpy:823
+translate spanish game_script_act2_539d314b:
+
+    # n "Any luck?"
+    n ""
+
+# game/game_script_act2.rpy:825
+translate spanish game_script_act2_59dba1fa:
+
+    # mc "Actually, yeah."
+    mc ""
+
+# game/game_script_act2.rpy:826
+translate spanish game_script_act2_03f34182:
+
+    # mc "{i}Something{/i} tells me they’re not your style though."
+    mc ""
+
+# game/game_script_act2.rpy:828
+translate spanish game_script_act2_7446247a:
+
+    # n rhip e4a b2b mc zz3 "Oh, they can’t be {i}that{/i} bad."
+    n rhip e4a b2b mc zz3 ""
+
+# game/game_script_act2.rpy:830
+translate spanish game_script_act2_17a2a630:
+
+    # "I hand them over to her."
+    ""
+
+# game/game_script_act2.rpy:838
+translate spanish game_script_act2_5c3dd5b9:
+
+    # n mq rdown "...you’re kidding."
+    n mq rdown ""
+
+# game/game_script_act2.rpy:840
+translate spanish game_script_act2_001c639a:
+
+    # mc "Come on, just try them on!"
+    mc ""
+
+# game/game_script_act2.rpy:842
+translate spanish game_script_act2_c4eca54f:
+
+    # n e1b b1d mg "Fiiiine."
+    n e1b b1d mg ""
+
+# game/game_script_act2.rpy:849
+translate spanish game_script_act2_4ba9d796:
+
+    # "Natsuki lets out an exaggerated sigh, before putting the sunglasses on."
+    ""
+
+# game/game_script_act2.rpy:854
+translate spanish game_script_act2_9af3b136:
+
+    # n ".{w=0.5}{nw}"
+    n ""
+
+# game/game_script_act2.rpy:856
+translate spanish game_script_act2_44eacda6:
+
+    # extend ".{w=0.5}{nw}"
+    extend ""
+
+# game/game_script_act2.rpy:858
+translate spanish game_script_act2_b9b155fe:
+
+    # extend "."
+    extend ""
+
+# game/game_script_act2.rpy:861
+translate spanish game_script_act2_71003681:
+
+    # "I try to keep a straight face, but can’t help letting out a bit of a chuckle."
+    ""
+
+# game/game_script_act2.rpy:864
+translate spanish game_script_act2_c0cb9f27:
+
+    # n mi "Yeah, there is no way in hell I’m wearing these."
+    n mi ""
+
+# game/game_script_act2.rpy:866
+translate spanish game_script_act2_dc295065:
+
+    # mc "But they’re {i}soooo{/i} cute!"
+    mc ""
+
+# game/game_script_act2.rpy:868
+translate spanish game_script_act2_a01dd58c:
+
+    # n mh "Oh, shut up."
+    n mh ""
+
+# game/game_script_act2.rpy:870
+translate spanish game_script_act2_4386fd67:
+
+    # mc "Hey, at least they do the job."
+    mc ""
+
+# game/game_script_act2.rpy:872
+translate spanish game_script_act2_10ee62d4:
+
+    # n lhip e4a b3b zz3 mi "I don't care, it's not worth going outside looking like some 70’s rockstar."
+    n lhip e4a b3b zz3 mi ""
+
+# game/game_script_act2.rpy:875
+translate spanish game_script_act2_c143020b:
+
+    # "She tosses the sunglasses aside, thankfully landing on the couch."
+    ""
+
+# game/game_script_act2.rpy:877
+translate spanish game_script_act2_507188d9:
+
+    # mc "Hey, watch it! The shades aren’t mine."
+    mc ""
+
+# game/game_script_act2.rpy:879
+translate spanish game_script_act2_f03ab6ac:
+
+    # n rdown e1a b1f mh zz1 "Whose are they?"
+    n rdown e1a b1f mh zz1 ""
+
+# game/game_script_act2.rpy:881
+translate spanish game_script_act2_375a1163:
+
+    # mc "Oh, they’re Sayori’s."
+    mc ""
+
+# game/game_script_act2.rpy:882
+translate spanish game_script_act2_6a84d6a9:
+
+    # mc "They’re from years ago though."
+    mc ""
+
+# game/game_script_act2.rpy:884
+translate spanish game_script_act2_f7a31b66:
+
+    # n e1b ldown rhip mb "Right. Now you mention it, I definitely get that impression."
+    n e1b ldown rhip mb ""
+
+# game/game_script_act2.rpy:886
+translate spanish game_script_act2_d6092f84:
+
+    # mc "So, I take it you’re not coming with?"
+    mc ""
+
+# game/game_script_act2.rpy:888
+translate spanish game_script_act2_8bd51438:
+
+    # n b2b e1b mb "Yeaaah...I’ll pass."
+    n b2b e1b mb ""
+
+# game/game_script_act2.rpy:889
+translate spanish game_script_act2_8cb2c8d8:
+
+    # n e1a b1c mb zz1 "Hey."
+    n e1a b1c mb zz1 ""
+
+# game/game_script_act2.rpy:890
+translate spanish game_script_act2_9f254f34:
+
+    # n zz2 mc e4b b1c rhip "I’ll keep your seat warm."
+    n zz2 mc e4b b1c rhip ""
+
+# game/game_script_act2.rpy:892
+translate spanish game_script_act2_8742c68c:
+
+    # "I let out a chuckle."
+    ""
+
+# game/game_script_act2.rpy:894
+translate spanish game_script_act2_b4ca9a0b:
+
+    # mc "Anything you want?"
+    mc ""
+
+# game/game_script_act2.rpy:897
+translate spanish game_script_act2_867952a7:
+
+    # n zz1 e1a b1c mh "Well, since you asked,{w=0.8} {nw}"
+    n zz1 e1a b1c mh ""
+
+# game/game_script_act2.rpy:899
+translate spanish game_script_act2_d404be44:
+
+    # extend "I do have a sweet tooth."
+    extend ""
+
+# game/game_script_act2.rpy:900
+translate spanish game_script_act2_9b8ab026:
+
+    # n b1c "Maybe some chocolate..?"
+    n b1c ""
+
+# game/game_script_act2.rpy:901
+translate spanish game_script_act2_51dd859d:
+
+    # n e1b b1b "Don’t sweat it if you can’t though."
+    n e1b b1b ""
+
+# game/game_script_act2.rpy:903
+translate spanish game_script_act2_f0c54518:
+
+    # mc "Gotcha."
+    mc ""
+
+# game/game_script_act2.rpy:904
+translate spanish game_script_act2_cb70afb1:
+
+    # mc "So..."
+    mc ""
+
+# game/game_script_act2.rpy:906
+translate spanish game_script_act2_3e72d693:
+
+    # n e1a b1c mg "Hang on."
+    n e1a b1c mg ""
+
+# game/game_script_act2.rpy:910
+translate spanish game_script_act2_596b2294:
+
+    # "Nat rips off a square of kitchen roll."
+    ""
+
+# game/game_script_act2.rpy:913
+translate spanish game_script_act2_50136920:
+
+    # n b1c mh "Hey [player], you got a marker?"
+    n b1c mh ""
+
+# game/game_script_act2.rpy:915
+translate spanish game_script_act2_f6fa1363:
+
+    # mc "Um, yeah, sure."
+    mc ""
+
+# game/game_script_act2.rpy:917
+translate spanish game_script_act2_51933c47:
+
+    # "I look around the dining table to find a marker lying across some crumpled up paper."
+    ""
+
+# game/game_script_act2.rpy:918
+translate spanish game_script_act2_81ae9807:
+
+    # "Oh, great."
+    ""
+
+# game/game_script_act2.rpy:919
+translate spanish game_script_act2_166fff76:
+
+    # "I never finished that poem for the club."
+    ""
+
+# game/game_script_act2.rpy:920
+translate spanish game_script_act2_a3ed2b01:
+
+    # "But given the events of last night, I can hardly be blamed for forgetting..."
+    ""
+
+# game/game_script_act2.rpy:921
+translate spanish game_script_act2_d786e503:
+
+    # "Regardless, I grab the marker, toss the paper in the trash and hand it to Natsuki."
+    ""
+
+# game/game_script_act2.rpy:927
+translate spanish game_script_act2_65959c7e:
+
+    # "Marker in hand, she starts scribbling away at the weak tissue paper, somehow avoiding any major tears."
+    ""
+
+# game/game_script_act2.rpy:929
+translate spanish game_script_act2_6f71ec4a:
+
+    # "She hands it over to me, and I fold it, stuffing it into my back pocket."
+    ""
+
+# game/game_script_act2.rpy:931
+translate spanish game_script_act2_1fa8c813:
+
+    # n mb "Now you won’t forget."
+    n mb ""
+
+# game/game_script_act2.rpy:933
+translate spanish game_script_act2_a64e8bc0:
+
+    # mc "Thanks."
+    mc ""
+
+# game/game_script_act2.rpy:934
+translate spanish game_script_act2_00c31e10:
+
+    # mc "I won’t be long. The store’s not too far."
+    mc ""
+
+# game/game_script_act2.rpy:936
+translate spanish game_script_act2_02ce66c5:
+
+    # n rhip zz3 b3b e4a mc "I’ll manage the {i}terrifying{/i} 'home alone' experience."
+    n rhip zz3 b3b e4a mc ""
+
+# game/game_script_act2.rpy:938
+translate spanish game_script_act2_c2e6f021:
+
+    # mc "Alright, I’ll be back soon."
+    mc ""
+
+# game/game_script_act2.rpy:943
+translate spanish game_script_act2_d765c463:
+
+    # "I give Natsuki a wave goodbye as I head out the door."
+    ""
+
+# game/game_script_act2.rpy:963
+translate spanish game_script_act2_0d21391f:
+
+    # "I make my way down to the shopping district."
+    ""
+
+# game/game_script_act2.rpy:964
+translate spanish game_script_act2_2867f7a2:
+
+    # "As I pass by, I notice an autumn leaf fluttering along the sidewalk."
+    ""
+
+# game/game_script_act2.rpy:965
+translate spanish game_script_act2_2b3ad92f:
+
+    # "Is it fall already?"
+    ""
+
+# game/game_script_act2.rpy:966
+translate spanish game_script_act2_ea3b2ea9:
+
+    # "No wonder there’s such a chill..."
+    ""
+
+# game/game_script_act2.rpy:967
+translate spanish game_script_act2_a5847886:
+
+    # "With the store now in view, I quicken my pace."
+    ""
+
+# game/game_script_act2.rpy:971
+translate spanish game_script_act2_35268e4f:
+
+    # "As I make my way inside, I’m engulfed in the warm aroma of the indoor heater."
+    ""
+
+# game/game_script_act2.rpy:972
+translate spanish game_script_act2_b48f6cf5:
+
+    # "I take a basket from the rack, and pull out the piece of tissue paper with the shopping list."
+    ""
+
+# game/game_script_act2.rpy:976
+translate spanish game_script_act2_6ac70ed1:
+
+    # "She should’ve really given me some quantities, because I don’t know how much of these I should get."
+    ""
+
+# game/game_script_act2.rpy:977
+translate spanish game_script_act2_72e147bc:
+
+    # "I have a limited budget, so that should give me a solid limit on how much I can get."
+    ""
+
+# game/game_script_act2.rpy:978
+translate spanish game_script_act2_1d545579:
+
+    # "I scour the aisles for each item on the list, and crossing them off the list as I do so."
+    ""
+
+# game/game_script_act2.rpy:979
+translate spanish game_script_act2_f33f6c01:
+
+    # "Bacon..."
+    ""
+
+# game/game_script_act2.rpy:981
+translate spanish game_script_act2_cde58531:
+
+    # "Sugar..."
+    ""
+
+# game/game_script_act2.rpy:983
+translate spanish game_script_act2_e0ca1f06:
+
+    # "Whipped cream..."
+    ""
+
+# game/game_script_act2.rpy:985
+translate spanish game_script_act2_0a44c278:
+
+    # "Eggs, flour..."
+    ""
+
+# game/game_script_act2.rpy:986
+translate spanish game_script_act2_09b9cf6d:
+
+    # "You know, I should get some stuff for dinner tonight."
+    ""
+
+# game/game_script_act2.rpy:987
+translate spanish game_script_act2_fcfa900d:
+
+    # "I could go for some grilled fish and rice."
+    ""
+
+# game/game_script_act2.rpy:988
+translate spanish game_script_act2_4aac9184:
+
+    # "Now the chocolate bar."
+    ""
+
+# game/game_script_act2.rpy:989
+translate spanish game_script_act2_d3b6239c:
+
+    # "Fortunately, the snack aisle is just opposite the self-checkout tills."
+    ""
+
+# game/game_script_act2.rpy:990
+translate spanish game_script_act2_92b0ef47:
+
+    # "I skim through the mountain of snacks, unsure of what would be to Natsuki’s taste, until..."
+    ""
+
+# game/game_script_act2.rpy:999
+translate spanish game_script_act2_9bd2e71c:
+
+    # m b1f mg "Oh,{w=0.6} [player]?{w=0.9} {nw}"
+    m b1f mg ""
+
+# game/game_script_act2.rpy:1001
+translate spanish game_script_act2_eb8a6d3e:
+
+    # extend "Fancy seeing you here."
+    extend ""
+
+# game/game_script_act2.rpy:1003
+translate spanish game_script_act2_cec305a5:
+
+    # "Monika?"
+    ""
+
+# game/game_script_act2.rpy:1004
+translate spanish game_script_act2_e9eb8473:
+
+    # "What’s she doing here?"
+    ""
+
+# game/game_script_act2.rpy:1006
+translate spanish game_script_act2_f1367616:
+
+    # mc "{cps=20}Hiiii...{/cps}Monika. {w=0.6}What’s going on?"
+    mc ""
+
+# game/game_script_act2.rpy:1008
+translate spanish game_script_act2_895b832a:
+
+    # m mb "Oh, nothing."
+    m mb ""
+
+# game/game_script_act2.rpy:1009
+translate spanish game_script_act2_301c55dc:
+
+    # m e4b "Just getting some snacks for the club."
+    m e4b ""
+
+# game/game_script_act2.rpy:1010
+translate spanish game_script_act2_e0c56ab9:
+
+    # m "What about you?{w=0.8} {nw}"
+    m ""
+
+# game/game_script_act2.rpy:1012
+translate spanish game_script_act2_b220dba9:
+
+    # extend "You don’t exactly look ready for the club."
+    extend ""
+
+# game/game_script_act2.rpy:1015
+translate spanish game_script_act2_45edf277:
+
+    # "She chuckles in an attempt to lighten the mood,{w=0.8} {nw}"
+    ""
+
+# game/game_script_act2.rpy:1017
+translate spanish game_script_act2_43bde88c:
+
+    # extend "but I’m too tired to laugh with her."
+    extend ""
+
+# game/game_script_act2.rpy:1021
+translate spanish game_script_act2_e50f5b8f:
+
+    # "She takes notice of my lack of enthusiasm and quickly backpedals."
+    ""
+
+# game/game_script_act2.rpy:1025
+translate spanish game_script_act2_2161187d:
+
+    # m rhip e2c b1d mh "Gosh, listen to me. My mind is just fixated on 'club, club, club'."
+    m rhip e2c b1d mh ""
+
+# game/game_script_act2.rpy:1028
+translate spanish game_script_act2_1245a566:
+
+    # m e4b mb b1b n2 "Sorry, aha...{w=0.9} Maybe it's a sign that I need a break..."
+    m e4b mb b1b n2 ""
+
+# game/game_script_act2.rpy:1030
+translate spanish game_script_act2_bd90947f:
+
+    # mc "Don’t worry about it. I haven’t been to school today either,{w=0.8} {nw}"
+    mc ""
+
+# game/game_script_act2.rpy:1032
+translate spanish game_script_act2_02b3ff6c:
+
+    # extend "so..."
+    extend ""
+
+# game/game_script_act2.rpy:1034
+translate spanish game_script_act2_53ac0def:
+
+    # m mi "Oh?{w=0.8} {nw}"
+    m mi ""
+
+# game/game_script_act2.rpy:1036
+translate spanish game_script_act2_064db7dc:
+
+    # extend "Why’s that?"
+    extend ""
+
+# game/game_script_act2.rpy:1038
+translate spanish game_script_act2_3e2b86f4:
+
+    # mc "It’s...been a rough week. I should keep it at that."
+    mc ""
+
+# game/game_script_act2.rpy:1040
+translate spanish game_script_act2_c8c1f72f:
+
+    # m b1a e1a n1 md "{cps=9}...{/cps}"
+    m b1a e1a n1 md ""
+
+# game/game_script_act2.rpy:1041
+translate spanish game_script_act2_84558f88:
+
+    # m lpoint b1b me "Are you okay, [player]?"
+    m lpoint b1b me ""
+
+# game/game_script_act2.rpy:1043
+translate spanish game_script_act2_19c4771d:
+
+    # "Her tone screams concern for me, and for a second, I almost consider telling her everything."
+    ""
+
+# game/game_script_act2.rpy:1044
+translate spanish game_script_act2_60a76632:
+
+    # "I quickly push the thought aside and give a vague explanation instead."
+    ""
+
+# game/game_script_act2.rpy:1046
+translate spanish game_script_act2_aecc95a6:
+
+    # mc "I’m fine, really. I just don’t want to get into it."
+    mc ""
+
+# game/game_script_act2.rpy:1053
+translate spanish game_script_act2_33fba87d:
+
+    # "Monika continues ransacking the shelves, indeterminately tossing all manner of snacks into her basket."
+    ""
+
+# game/game_script_act2.rpy:1054
+translate spanish game_script_act2_00e7d31e:
+
+    # "She looks...{w=0.8}stressed."
+    ""
+
+# game/game_script_act2.rpy:1055
+translate spanish game_script_act2_60a900be:
+
+    # "Has she slept...?"
+    ""
+
+# game/game_script_act2.rpy:1056
+translate spanish game_script_act2_c2605de1:
+
+    # "It’s probably not right of me to ask."
+    ""
+
+# game/game_script_act2.rpy:1057
+translate spanish game_script_act2_876f8533:
+
+    # "I do anyway."
+    ""
+
+# game/game_script_act2.rpy:1059
+translate spanish game_script_act2_ce1f5263:
+
+    # mc "{size=-5}Are you?{/size}"
+    mc ""
+
+# game/game_script_act2.rpy:1061
+translate spanish game_script_act2_6f38c0a2:
+
+    # m e1a b1a me "Huh?"
+    m e1a b1a me ""
+
+# game/game_script_act2.rpy:1063
+translate spanish game_script_act2_97a1b0b8:
+
+    # mc "I meant are you okay?"
+    mc ""
+
+# game/game_script_act2.rpy:1065
+translate spanish game_script_act2_83e968a1:
+
+    # m rhip e2c mb "Haha..."
+    m rhip e2c mb ""
+
+# game/game_script_act2.rpy:1071
+translate spanish game_script_act2_d03d398d:
+
+    # "Monika stops and takes a deep breath, averting her eyes."
+    ""
+
+# game/game_script_act2.rpy:1075
+translate spanish game_script_act2_900240e0:
+
+    # "But within a second, she looks me in the eye and smiles warmly."
+    ""
+
+# game/game_script_act2.rpy:1076
+translate spanish game_script_act2_73a6036c:
+
+    # "It {i}looks{/i} like she’s being genuine."
+    ""
+
+# game/game_script_act2.rpy:1079
+translate spanish game_script_act2_5f44734f:
+
+    # m mb "I’m okay, [player]."
+    m mb ""
+
+# game/game_script_act2.rpy:1080
+translate spanish game_script_act2_f44c5cba:
+
+    # m e1a "But I appreciate you asking."
+    m e1a ""
+
+# game/game_script_act2.rpy:1081
+translate spanish game_script_act2_8fe9ea13:
+
+    # m lpoint e4b b1a mb "It shows how caring you are!"
+    m lpoint e4b b1a mb ""
+
+# game/game_script_act2.rpy:1083
+translate spanish game_script_act2_1ed89260:
+
+    # "Without another word, she awkwardly goes back to snack-hunting."
+    ""
+
+# game/game_script_act2.rpy:1084
+translate spanish game_script_act2_5804faaf:
+
+    # "Nice one, [player]."
+    ""
+
+# game/game_script_act2.rpy:1085
+translate spanish game_script_act2_e8b0985a:
+
+    # "I’d better change the topic."
+    ""
+
+# game/game_script_act2.rpy:1088
+translate spanish game_script_act2_fe1f0f98:
+
+    # mc "So, uh, what’re all those for?"
+    mc ""
+
+# game/game_script_act2.rpy:1090
+translate spanish game_script_act2_2343f61b:
+
+    # m rhip mg "Oh, I was planning a bit of a surprise party..."
+    m rhip mg ""
+
+# game/game_script_act2.rpy:1091
+translate spanish game_script_act2_b59156d0:
+
+    # m e1b "But if you can't make it today, perhaps I should reschedule..."
+    m e1b ""
+
+# game/game_script_act2.rpy:1093
+translate spanish game_script_act2_f2fabbce:
+
+    # mc "Oh, uh, yeah..."
+    mc ""
+
+# game/game_script_act2.rpy:1097
+translate spanish game_script_act2_f60ad995:
+
+    # mc "I’ll definitely be in next week onwards. Promise."
+    mc ""
+
+# game/game_script_act2.rpy:1099
+translate spanish game_script_act2_b1445966:
+
+    # m "{cps=9}...{/cps}{nw}"
+    m ""
+
+# game/game_script_act2.rpy:1101
+translate spanish game_script_act2_7e2cd6fe:
+
+    # extend "okay."
+    extend ""
+
+# game/game_script_act2.rpy:1102
+translate spanish game_script_act2_ce413dc2:
+
+    # m rhip e1b "I’m just...concerned is all. We’re barely a club without you, so you being away is..."
+    m rhip e1b ""
+
+# game/game_script_act2.rpy:1103
+translate spanish game_script_act2_bb22c4ae:
+
+    # m md "..."
+    m md ""
+
+# game/game_script_act2.rpy:1105
+translate spanish game_script_act2_6fc1bed9:
+
+    # "She sighs,{w=0.8} {nw}"
+    ""
+
+# game/game_script_act2.rpy:1107
+translate spanish game_script_act2_7e13c12a:
+
+    # extend "then smiles."
+    extend ""
+
+# game/game_script_act2.rpy:1110
+translate spanish game_script_act2_f6e06fe1:
+
+    # m mb "But if you’re able to come back next week, that’s great!"
+    m mb ""
+
+# game/game_script_act2.rpy:1112
+translate spanish game_script_act2_dac16979:
+
+    # mc "I will."
+    mc ""
+
+# game/game_script_act2.rpy:1114
+translate spanish game_script_act2_b2c22111:
+
+    # "I gesture towards the snacks again."
+    ""
+
+# game/game_script_act2.rpy:1116
+translate spanish game_script_act2_88bfb0e1:
+
+    # mc "But, uh, what’s the occasion?"
+    mc ""
+
+# game/game_script_act2.rpy:1118
+translate spanish game_script_act2_0477a28d:
+
+    # m e1b mb "Well..."
+    m e1b mb ""
+
+# game/game_script_act2.rpy:1119
+translate spanish game_script_act2_a9ea6187:
+
+    # m lpoint b2b e4a mg "You know better than any of us that Sayori’s been feeling pretty down lately..."
+    m lpoint b2b e4a mg ""
+
+# game/game_script_act2.rpy:1120
+translate spanish game_script_act2_2709f0ae:
+
+    # m b1a mb e4b "So, I wanted to plan something nice for her to cheer her up!"
+    m b1a mb e4b ""
+
+# game/game_script_act2.rpy:1121
+translate spanish game_script_act2_e6b0f647:
+
+    # m rhip e1a mh "Just a nice, planned-out 'welcome back' event at the club. I want to show her that we really care, y’know?"
+    m rhip e1a mh ""
+
+# game/game_script_act2.rpy:1123
+translate spanish game_script_act2_14507e7d:
+
+    # mc "That sounds great."
+    mc ""
+
+# game/game_script_act2.rpy:1125
+translate spanish game_script_act2_4fd74f83:
+
+    # "That's really thoughtful of Monika, planning an entire party for Sayori."
+    ""
+
+# game/game_script_act2.rpy:1126
+translate spanish game_script_act2_d1b60c79:
+
+    # "If nothing else, she'll love the snacks."
+    ""
+
+# game/game_script_act2.rpy:1127
+translate spanish game_script_act2_2c3fe081:
+
+    # "Speaking of which..."
+    ""
+
+# game/game_script_act2.rpy:1129
+translate spanish game_script_act2_08dcdcf2:
+
+    # mc "Well, if I can just suggest something..."
+    mc ""
+
+# game/game_script_act2.rpy:1131
+translate spanish game_script_act2_0c70e25c:
+
+    # "I grab a large bar of white chocolate and hand it over to her."
+    ""
+
+# game/game_script_act2.rpy:1133
+translate spanish game_script_act2_a4b9f2b9:
+
+    # "Monika's turns over the bar, and her eyebrows raise as she reads over the nutritional label."
+    ""
+
+# game/game_script_act2.rpy:1136
+translate spanish game_script_act2_104db9d9:
+
+    # m mh "Um...{w=0.5}isn’t this a bit too sugary?"
+    m mh ""
+
+# game/game_script_act2.rpy:1138
+translate spanish game_script_act2_f7b1f83f:
+
+    # mc "That’s...the point. This {i}is{/i} Sayori we’re talking about, after all."
+    mc ""
+
+# game/game_script_act2.rpy:1140
+translate spanish game_script_act2_bb4f33fc:
+
+    # m mb "Aha, good call."
+    m mb ""
+
+# game/game_script_act2.rpy:1141
+translate spanish game_script_act2_d1fe2802:
+
+    # m b1b e1b n2 "I’m a bit clueless when it comes to these kinds of things, so I appreciate the direction."
+    m b1b e1b n2 ""
+
+# game/game_script_act2.rpy:1143
+translate spanish game_script_act2_d194b36d:
+
+    # mc "I would be too, if I hadn’t known her for thirteen years."
+    mc ""
+
+# game/game_script_act2.rpy:1144
+translate spanish game_script_act2_60c78201:
+
+    # mc "So don’t worry about it."
+    mc ""
+
+# game/game_script_act2.rpy:1146
+translate spanish game_script_act2_0eb32134:
+
+    # "Unsure of what to pick for Natsuki, I take a safe bet and grab a carton of cupcakes, placing it in my basket."
+    ""
+
+# game/game_script_act2.rpy:1147
+translate spanish game_script_act2_038f6fbd:
+
+    # "Monika and I head over to the self-checkout tills, both of us scanning our items, waiting to be rung up so we could pay."
+    ""
+
+# game/game_script_act2.rpy:1149
+translate spanish game_script_act2_979e28ea:
+
+    # mc "Since you’re gonna reschedule the party, wouldn't it be a good idea to hold off and buy these things later?"
+    mc ""
+
+# game/game_script_act2.rpy:1153
+translate spanish game_script_act2_6c8bec66:
+
+    # "She shrugs nonchalantly."
+    ""
+
+# game/game_script_act2.rpy:1156
+translate spanish game_script_act2_081cb7af:
+
+    # m mi "Well, I’m already here. I might as well get them now."
+    m mi ""
+
+# game/game_script_act2.rpy:1157
+translate spanish game_script_act2_eadb4a34:
+
+    # m "I can afford it, so it’d be a waste to have to put all these back on the right shelves."
+    m ""
+
+# game/game_script_act2.rpy:1158
+translate spanish game_script_act2_11797d6e:
+
+    # m mb "I’ll toss them into the fridge and bring them in on Monday."
+    m mb ""
+
+# game/game_script_act2.rpy:1159
+translate spanish game_script_act2_cae83a33:
+
+    # m rdown lpoint "They’ll still be fresh by then."
+    m rdown lpoint ""
+
+# game/game_script_act2.rpy:1161
+translate spanish game_script_act2_a3b1a71e:
+
+    # mc "I guess."
+    mc ""
+
+# game/game_script_act2.rpy:1162
+translate spanish game_script_act2_12fc7e7d:
+
+    # mc "And uh, what’re you going to do at the club instead?"
+    mc ""
+
+# game/game_script_act2.rpy:1164
+translate spanish game_script_act2_75a4b9ba:
+
+    # m e1b mi ldown "That’s a good question...I hadn’t really thought of that..."
+    m e1b mi ldown ""
+
+# game/game_script_act2.rpy:1165
+translate spanish game_script_act2_0d308525:
+
+    # m mb e1a "Oh! Maybe, I could suggest they write a poem during the club hours?"
+    m mb e1a ""
+
+# game/game_script_act2.rpy:1166
+translate spanish game_script_act2_769af9c6:
+
+    # m "It could encourage some cooperation...{w=0.8}{nw}"
+    m ""
+
+# game/game_script_act2.rpy:1168
+translate spanish game_script_act2_07a21d3e:
+
+    # extend "maybe they could develop their writing styles with each other?"
+    extend ""
+
+# game/game_script_act2.rpy:1169
+translate spanish game_script_act2_bbab5103:
+
+    # m b1a mb "Oh, this could be wonderful. I would really love it if we could treat the club more like a team."
+    m b1a mb ""
+
+# game/game_script_act2.rpy:1170
+translate spanish game_script_act2_ef41e060:
+
+    # m forward b1b laug cm oe "Could you {i}imagine{/i} Natsuki and Yuri writing a poem together?"
+    m forward b1b laug cm oe ""
+
+# game/game_script_act2.rpy:1172
+translate spanish game_script_act2_cbd4d2c7:
+
+    # "As she goes on her uncharacteristic rapid tangent, I realize something."
+    ""
+
+# game/game_script_act2.rpy:1173
+translate spanish game_script_act2_f2c3989c:
+
+    # "I can’t really say anything about Natsuki’s absence..."
+    ""
+
+# game/game_script_act2.rpy:1175
+translate spanish game_script_act2_a246bd36:
+
+    # "I guess she’ll just have to find out on her own."
+    ""
+
+# game/game_script_act2.rpy:1176
+translate spanish game_script_act2_b4c14313:
+
+    # "I hate having to keep secrets like this, but I made a promise."
+    ""
+
+# game/game_script_act2.rpy:1178
+translate spanish game_script_act2_667e0bab:
+
+    # mc "Yeah, that would definitely be interesting..."
+    mc ""
+
+# game/game_script_act2.rpy:1180
+translate spanish game_script_act2_c31f2d62:
+
+    # m b1a me "Yeah..."
+    m b1a me ""
+
+# game/game_script_act2.rpy:1182
+translate spanish game_script_act2_70d82349:
+
+    # "After paying for our items, we head out of the store with our bags in tow."
+    ""
+
+# game/game_script_act2.rpy:1189
+translate spanish game_script_act2_c7497ef5:
+
+    # m "Well, I guess this is where we part ways."
+    m ""
+
+# game/game_script_act2.rpy:1190
+translate spanish game_script_act2_6786e265:
+
+    # m e1a mg "You sure you can’t come to the club...?"
+    m e1a mg ""
+
+# game/game_script_act2.rpy:1192
+translate spanish game_script_act2_c303a1a2:
+
+    # mc "I’m sure. I’m..."
+    mc ""
+
+# game/game_script_act2.rpy:1194
+translate spanish game_script_act2_08131751:
+
+    # "I do some bag-juggling to reach my phone, and glance at the time."
+    ""
+
+# game/game_script_act2.rpy:1195
+translate spanish game_script_act2_9f4d9c7f:
+
+    # "Oh {i}crap{/i}."
+    ""
+
+# game/game_script_act2.rpy:1197
+translate spanish game_script_act2_c2aec3f8:
+
+    # mc "...running way later than I should anyway."
+    mc ""
+
+# game/game_script_act2.rpy:1199
+translate spanish game_script_act2_810af265:
+
+    # m me "I see."
+    m me ""
+
+# game/game_script_act2.rpy:1201
+translate spanish game_script_act2_07f99d29:
+
+    # mc "Yeah...."
+    mc ""
+
+# game/game_script_act2.rpy:1202
+translate spanish game_script_act2_fe38a334:
+
+    # mc "It was nice seeing you, Monika."
+    mc ""
+
+# game/game_script_act2.rpy:1204
+translate spanish game_script_act2_a9f83c7a:
+
+    # m me "So...{w=0.8}{nw}"
+    m me ""
+
+# game/game_script_act2.rpy:1206
+translate spanish game_script_act2_1be24379:
+
+    # extend "Monday?"
+    extend ""
+
+# game/game_script_act2.rpy:1208
+translate spanish game_script_act2_07c9d58b:
+
+    # mc "I wouldn't miss it for the world. Sayori needs the support."
+    mc ""
+
+# game/game_script_act2.rpy:1210
+translate spanish game_script_act2_423a9cb3:
+
+    # m lpoint mb "Great. I’ll see you then."
+    m lpoint mb ""
+
+# game/game_script_act2.rpy:1211
+translate spanish game_script_act2_eb4e24ae:
+
+    # m e4b "Take care, [player]!"
+    m e4b ""
+
+# game/game_script_act2.rpy:1215
+translate spanish game_script_act2_194c4369:
+
+    # "She turns away and walks down the other side of the street, heading towards school."
+    ""
+
+# game/game_script_act2.rpy:1216
+translate spanish game_script_act2_9329bfe4:
+
+    # "I start my way home, walking at a brisk pace."
+    ""
+
+# game/game_script_act2.rpy:1217
+translate spanish game_script_act2_4f9a4c2f:
+
+    # "Monika hid it well, but I could feel her disappointment."
+    ""
+
+# game/game_script_act2.rpy:1218
+translate spanish game_script_act2_3d91a5e9:
+
+    # "And when Natsuki doesn’t show up either..."
+    ""
+
+# game/game_script_act2.rpy:1219
+translate spanish game_script_act2_3f739ce1:
+
+    # "I sigh."
+    ""
+
+# game/game_script_act2.rpy:1221
+translate spanish game_script_act2_8b001353:
+
+    # "Why is nothing going the way I thought it would?"
+    ""
+
+# game/game_script_act2.rpy:1222
+translate spanish game_script_act2_35c66676:
+
+    # "The first time I talked to Monika, she looked like she had everything together."
+    ""
+
+# game/game_script_act2.rpy:1223
+translate spanish game_script_act2_9ddc0acd:
+
+    # "But now, she looks like she hasn’t slept in days..."
+    ""
+
+# game/game_script_act2.rpy:1224
+translate spanish game_script_act2_192f4c89:
+
+    # "Sayori’s depressed. Even if I could see the future, I wouldn’t have believed it."
+    ""
+
+# game/game_script_act2.rpy:1225
+translate spanish game_script_act2_c2bc539d:
+
+    # "I mean, Natsuki is living in my house, for God’s sake!"
+    ""
+
+# game/game_script_act2.rpy:1226
+translate spanish game_script_act2_086b5e22:
+
+    # "And me..."
+    ""
+
+# game/game_script_act2.rpy:1227
+translate spanish game_script_act2_efccfaf5:
+
+    # "I..."
+    ""
+
+# game/game_script_act2.rpy:1230
+translate spanish game_script_act2_239f15cc:
+
+    # "If I’d known the stress and anxiety that being involved in the Literature Club would cause..."
+    ""
+
+# game/game_script_act2.rpy:1231
+translate spanish game_script_act2_f0ea2d19:
+
+    # "I probably wouldn’t have joined in the first place."
+    ""
+
+# game/game_script_act2.rpy:1232
+translate spanish game_script_act2_0d004d95:
+
+    # "I mean, who would?"
+    ""
+
+# game/game_script_act2.rpy:1233
+translate spanish game_script_act2_a7056915:
+
+    # "It was all cute girls and fun poems at first."
+    ""
+
+# game/game_script_act2.rpy:1234
+translate spanish game_script_act2_f7a9f0ad:
+
+    # "Now, it feels like I haven’t seen words on paper in years."
+    ""
+
+# game/game_script_act2.rpy:1235
+translate spanish game_script_act2_bf0874e3:
+
+    # "But..."
+    ""
+
+# game/game_script_act2.rpy:1236
+translate spanish game_script_act2_08168040:
+
+    # "Regardless of how I feel about the whole ordeal, I’m not leaving anytime soon."
+    ""
+
+# game/game_script_act2.rpy:1237
+translate spanish game_script_act2_56f8e68c:
+
+    # "If I hadn’t joined the club, Natsuki would still be stuck with her abusive dad..."
+    ""
+
+# game/game_script_act2.rpy:1238
+translate spanish game_script_act2_32d8e32f:
+
+    # "With nobody to help her..."
+    ""
+
+# game/game_script_act2.rpy:1240
+translate spanish game_script_act2_44ffbee5:
+
+    # "And Sayori."
+    ""
+
+# game/game_script_act2.rpy:1241
+translate spanish game_script_act2_df2abf78:
+
+    # "She’d be..."
+    ""
+
+# game/game_script_act2.rpy:1243
+translate spanish game_script_act2_b486c0d6:
+
+    # "I feel my chest tighten as my heartbeat accelerates."
+    ""
+
+# game/game_script_act2.rpy:1244
+translate spanish game_script_act2_3b9bb9f8:
+
+    # "I struggle to maintain my breath, so I hold myself against a wall to regain my composure and keep myself from collapsing."
+    ""
+
+# game/game_script_act2.rpy:1245
+translate spanish game_script_act2_5743af44:
+
+    # "However, that does little to stop my mind and heart from racing."
+    ""
+
+# game/game_script_act2.rpy:1246
+translate spanish game_script_act2_3a7e3e1a:
+
+    # "...Would she?"
+    ""
+
+# game/game_script_act2.rpy:1247
+translate spanish game_script_act2_2180f7d5:
+
+    # "Don’t know."
+    ""
+
+# game/game_script_act2.rpy:1248
+translate spanish game_script_act2_9f840884:
+
+    # "Doesn’t matter."
+    ""
+
+# game/game_script_act2.rpy:1249
+translate spanish game_script_act2_6f082499:
+
+    # "Didn’t happen."
+    ""
+
+# game/game_script_act2.rpy:1250
+translate spanish game_script_act2_95797750:
+
+    # "I’m here now."
+    ""
+
+# game/game_script_act2.rpy:1251
+translate spanish game_script_act2_f6ab00b9:
+
+    # "And I need to keep myself together."
+    ""
+
+# game/game_script_act2.rpy:1254
+translate spanish game_script_act2_594225dc:
+
+    # "If only to help Natsuki..."
+    ""
+
+# game/game_script_act2.rpy:1255
+translate spanish game_script_act2_eceba185:
+
+    # "And be there for the club."
+    ""
+
+# game/game_script_act2.rpy:1256
+translate spanish game_script_act2_84369719:
+
+    # "The club..."
+    ""
+
+# game/game_script_act2.rpy:1257
+translate spanish game_script_act2_1f5c740a:
+
+    # "It’s funny, really."
+    ""
+
+# game/game_script_act2.rpy:1258
+translate spanish game_script_act2_8ec65fe6:
+
+    # "I joined a Literature Club, but I still haven’t read a single real book."
+    ""
+
+# game/game_script_act2.rpy:1259
+translate spanish game_script_act2_f07ce6f2:
+
+    # "Ironic, in a way."
+    ""
+
+# game/game_script_act2.rpy:1260
+translate spanish game_script_act2_776caccc:
+
+    # "I’m sure Natsuki would disagree."
+    ""
+
+# game/game_script_act2.rpy:1263
+translate spanish game_script_act2_67924283:
+
+    # "I lift the bags to my not-so-injured arm and start walking again."
+    ""
+
+# game/game_script_act2.rpy:1264
+translate spanish game_script_act2_158bad58:
+
+    # "I need to hurry."
+    ""
+
+# game/game_script_act2.rpy:1272
+translate spanish game_script_act2_277f71af:
+
+    # "Still reeling from the encounter with Monika, I reach my street, with the groceries in tow."
+    ""
+
+# game/game_script_act2.rpy:1273
+translate spanish game_script_act2_0307af32:
+
+    # "The bags themselves aren’t hefty, but I feel like my arm is going to give out."
+    ""
+
+# game/game_script_act2.rpy:1274
+translate spanish game_script_act2_397a5c43:
+
+    # "This is what I get for not sleeping well, or eating well for that matter."
+    ""
+
+# game/game_script_act2.rpy:1275
+translate spanish game_script_act2_937d47c2:
+
+    # "To be honest, I’m not doing anything well at this point."
+    ""
+
+# game/game_script_act2.rpy:1279
+translate spanish game_script_act2_b7ac7358:
+
+    # "I walk up to the front door and shove it open with my good shoulder."
+    ""
+
+# game/game_script_act2.rpy:1289
+translate spanish game_script_act2_3799b531:
+
+    # "Hauling the bags over into the kitchen, I lift them up before setting them down on the counter."
+    ""
+
+# game/game_script_act2.rpy:1290
+translate spanish game_script_act2_35d5f75a:
+
+    # "One of them slouches over to the side, the carton of cupcakes I bought for Natsuki sliding out in plain view."
+    ""
+
+# game/game_script_act2.rpy:1291
+translate spanish game_script_act2_ea89056f:
+
+    # "Almost immediately, Natsuki’s arm reaches around me and snatches it away."
+    ""

@@ -4,217 +4,217 @@
 translate spanish game_script_act1_291cd73e:
 
     # "It's the day of the festival."
-    ""
+    "Ha llegado el día del festival."
 
 # game/game_script_act1.rpy:28
 translate spanish game_script_act1_f55f58cd:
 
     # "Of all days, I expected this to be the one where I'd be walking to school with Sayori."
-    ""
+    "Esperaba ir a clase con Sayori en un día tan señalado,"
 
 # game/game_script_act1.rpy:29
 translate spanish game_script_act1_45006ffb:
 
     # "But...Sayori isn't answering her phone."
-    ""
+    "pero Sayori no contesta el teléfono."
 
 # game/game_script_act1.rpy:31
 translate spanish game_script_act1_dc6f007c:
 
     # "Should I go and wake her up?"
-    ""
+    "¿Debería ir a su casa y despertarla?"
 
 # game/game_script_act1.rpy:32
 translate spanish game_script_act1_b709a8d9:
 
     # "It's not a big deal to at least wait for her, or help her get up."
-    ""
+    "Esperarla o ayudarla a levantarse de la cama no me supondría un gran sacrificio."
 
 # game/game_script_act1.rpy:33
 translate spanish game_script_act1_e601aa4e:
 
     # "Even the simple gesture of walking her to school makes her really happy."
-    ""
+    "El simple hecho de que vayamos juntos a clase le alegra el día."
 
 # game/game_script_act1.rpy:34
 translate spanish game_script_act1_70e7cabf:
 
     # "Besides..."
-    ""
+    "Además...,"
 
 # game/game_script_act1.rpy:35
 translate spanish game_script_act1_68430306:
 
     # "I told her yesterday that things will be the same as they always have been."
-    ""
+    "ayer le dije que todo volvería a la normalidad."
 
 # game/game_script_act1.rpy:36
 translate spanish game_script_act1_96e3abbd:
 
     # "That's all she wants, and it's what I'll do for her."
-    ""
+    "Es todo lo que quiere y es justo lo que quiero darle."
 
 # game/game_script_act1.rpy:38
 translate spanish game_script_act1_6daf4588:
 
     # "Yeah, I've made up my mind."
-    ""
+    "Vale, me voy a buscarla."
 
 # game/game_script_act1.rpy:39
 translate spanish game_script_act1_6f7f2a01:
 
     # "I grab the cupcakes Natsuki and I made yesterday, and make my way to Sayori's."
-    ""
+    "Cojo los cupcakes que hicimos Natsuki y yo ayer y voy directo a casa de Sayori."
 
 # game/game_script_act1.rpy:46
 translate spanish game_script_act1_6b4f2a29:
 
     # "I reach her house{nw}{done} and knock on the door."
-    ""
+    "Llego a casa de Sayori{nw}{done} y llamo a la puerta."
 
 # game/game_script_act1.rpy:48
 translate spanish game_script_act1_dd510ca0:
 
     # "I reach her house{fast} and knock on the door."
-    ""
+    "Llego a casa de Sayori{fast} y llamo a la puerta."
 
 # game/game_script_act1.rpy:49
 translate spanish game_script_act1_b8d78e77:
 
     # "I don't expect an answer, since she's not picking up her phone, either."
-    ""
+    "No coge mis llamadas, así que tampoco espero respuesta."
 
 # game/game_script_act1.rpy:50
 translate spanish game_script_act1_a19898c6:
 
     # "Like yesterday, I open the door and let myself in."
-    ""
+    "Abro la puerta y me tomo la libertad de entrar, como hice ayer."
 
 # game/game_script_act1.rpy:57
 translate spanish game_script_act1_4f4ec354:
 
     # "She really is a heavy sleeper..."
-    ""
+    "Duerme como una marmota..."
 
 # game/game_script_act1.rpy:58
 translate spanish game_script_act1_17df0a8d:
 
     # "I swallow."
-    ""
+    "Trago saliva."
 
 # game/game_script_act1.rpy:59
 translate spanish game_script_act1_5166b167:
 
     # "I can't believe I ended up doing this after all."
-    ""
+    "No me puedo creer que haya acabado haciendo esto."
 
 # game/game_script_act1.rpy:60
 translate spanish game_script_act1_66baf796:
 
     # "Waking her up in her own house..."
-    ""
+    "Despertarla en su propia casa..."
 
 # game/game_script_act1.rpy:61
 translate spanish game_script_act1_d39780a5:
 
     # "Isn't that more like something a boyfriend would do?"
-    ""
+    "¿No es algo que haría una pareja?"
 
 # game/game_script_act1.rpy:62
 translate spanish game_script_act1_cc4d5947:
 
     # "In any case..."
-    ""
+    "En cualquier caso...,"
 
 # game/game_script_act1.rpy:63
 translate spanish game_script_act1_eff61fd1:
 
     # "It just feels right."
-    ""
+    "siento que es lo correcto."
 
 # game/game_script_act1.rpy:64
 translate spanish game_script_act1_12ca57ec:
 
     # "Outside Sayori's room,{w}{done} I knock on her door."
-    ""
+    "Cuando llego a su habitación,{w}{done} llamo a la puerta."
 
 # game/game_script_act1.rpy:66
 translate spanish game_script_act1_b0b0fd43:
 
     # "Outside Sayori's room,{fast} I knock on her door."
-    ""
+    "Cuando llego a su habitación,{fast} llamo a la puerta."
 
 # game/game_script_act1.rpy:67
 translate spanish game_script_act1_e766b9e2:
 
     # mc "Sayori?"
-    mc ""
+    mc "¿Sayori?"
 
 # game/game_script_act1.rpy:68
 translate spanish game_script_act1_2d697678:
 
     # mc "Wake up, dummy..."
-    mc ""
+    mc "Despierta, idiota..."
 
 # game/game_script_act1.rpy:69
 translate spanish game_script_act1_4f673053:
 
     # "There's no response."
-    ""
+    "No hay respuesta."
 
 # game/game_script_act1.rpy:70
 translate spanish game_script_act1_e55755b1:
 
     # "I really didn't want to have to enter her room like this..."
-    ""
+    "No quería tener que entrar en su cuarto de esta forma..."
 
 # game/game_script_act1.rpy:71
 translate spanish game_script_act1_5f524499:
 
     # "Isn't it kind of a breach of privacy?"
-    ""
+    "Parece una violación de su privacidad...,"
 
 # game/game_script_act1.rpy:72
 translate spanish game_script_act1_92ad08b5:
 
     # "But she really leaves me no choice."
-    ""
+    "pero no me queda otra."
 
 # game/game_script_act1.rpy:73
 translate spanish game_script_act1_b0993b5c:
 
     # "I gently open the door."
-    ""
+    "Abro la puerta con cuidado."
 
 # game/game_script_act1.rpy:75
 translate spanish game_script_act1_4afacb09:
 
     # mc "Sayo--{nw}"
-    mc ""
+    mc "Sayo...{nw}"
 
 # game/game_script_act1.rpy:83
 translate spanish game_script_act1_6ac7589d:
 
     # mc "...ri?!"
-    mc ""
+    mc "¡¿... ri?!"
 
 # game/game_script_act1.rpy:86
 translate spanish game_script_act1_2d7cce6a:
 
     # s "[player]?!"
-    s ""
+    s "¡¿[player]?!"
 
 # game/game_script_act1.rpy:89
 translate spanish game_script_act1_d61e5692:
 
     # "Sayori stands at the foot of her bed, a long rope in her hand."
-    ""
+    "Sayori está frente a su cama, con una cuerda bastante larga en su mano."
 
 # game/game_script_act1.rpy:90
 translate spanish game_script_act1_211cae4d:
 
     # "It's tied into a hangman's noose."
-    ""
+    "Está anudándola con el propósito de ahorcarse."
 
 # game/game_script_act1.rpy:91
 translate spanish game_script_act1_9c578752:

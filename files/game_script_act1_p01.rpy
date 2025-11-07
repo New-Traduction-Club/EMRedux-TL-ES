@@ -220,193 +220,193 @@ translate spanish game_script_act1_211cae4d:
 translate spanish game_script_act1_9c578752:
 
     # "In the shock of the moment, I release my grip on the cupcakes."
-    ""
+    "En el impacto del momento, suelto la bandeja de cupcakes."
 
 # game/game_script_act1.rpy:93
 translate spanish game_script_act1_0ecfd99c:
 
     # "The tray clatters to the floor."
-    ""
+    "La bandeja traquetea en el suelo."
 
 # game/game_script_act1.rpy:96
 translate spanish game_script_act1_1687cf73:
 
     # mc "Oh my God..."
-    mc ""
+    mc "Dios mío..."
 
 # game/game_script_act1.rpy:99
 translate spanish game_script_act1_ea494db5:
 
     # s "It...It's--"
-    s ""
+    s "Y-Yo..., yo..."
 
 # game/game_script_act1.rpy:101
 translate spanish game_script_act1_88a30d76:
 
     # s "I-I'm so sorry, [player]!"
-    s ""
+    s "¡L-Lo siento mucho, [player]!"
 
 # game/game_script_act1.rpy:103
 translate spanish game_script_act1_f063fb7d:
 
     # s "I'm sorry...{w}I'm sorry."
-    s ""
+    s "Lo siento...{w} lo siento..."
 
 # game/game_script_act1.rpy:106
 translate spanish game_script_act1_ed13f6ad:
 
     # "She breaks down into incoherent sobs."
-    ""
+    "Se arrodilla, completamente inundada en  ininteligibles sollozos."
 
 # game/game_script_act1.rpy:108
 translate spanish game_script_act1_73ce31aa:
 
     # mc "Jesus-...Sayori..."
-    mc ""
+    mc "Dios, Sayori..."
 
 # game/game_script_act1.rpy:110
 translate spanish game_script_act1_0c6d3861:
 
     # "I should've known. It was obvious."
-    ""
+    "Lo debí haber sabido, era demasiado obvio."
 
 # game/game_script_act1.rpy:111
 translate spanish game_script_act1_accadaea:
 
     # "I didn't listen, didn't see the signs."
-    ""
+    "No escuché, no vi las señales. Tenía orejas y ojos completamente sellados."
 
 # game/game_script_act1.rpy:113
 translate spanish game_script_act1_5ba299ee:
 
     # "I...{w}almost lost her. My best friend."
-    ""
+    "Casi...{w} la pierdo. Casi pierdo a mi mejor amiga."
 
 # game/game_script_act1.rpy:114
 translate spanish game_script_act1_49b2da52:
 
     # "The one I grew up with."
-    ""
+    "Con la que crecí."
 
 # game/game_script_act1.rpy:116
 translate spanish game_script_act1_6719eafe:
 
     # "Sayori lets go of the noose, dropping it to the floor with a heavy thud."
-    ""
+    "Sayori suelta la cuerda, cayendo al suelo con un golpe seco."
 
 # game/game_script_act1.rpy:117
 translate spanish game_script_act1_8fe1a0ff:
 
     # "Just the act of looking at it makes my heart sink."
-    ""
+    "El simple hecho de mirar la cuerda ahí tirada... hace que mi corazón se ahogue."
 
 # game/game_script_act1.rpy:119
 translate spanish game_script_act1_e87e0575:
 
     # mc "Sayori..."
-    mc ""
+    mc "Sayori..."
 
 # game/game_script_act1.rpy:121
 translate spanish game_script_act1_9eaafb91:
 
     # "She gets up and rushes towards me, clutching my shirt and crying into my chest."
-    ""
+    "Se abalanza hacia mí, arrugando mi camisa mientras llora en mi pecho."
 
 # game/game_script_act1.rpy:122
 translate spanish game_script_act1_525215b1:
 
     # s mg e1h "I-I didn't want to face it again."
-    s mg e1h ""
+    s mg e1h "N-No quería sufrirlo más."
 
 # game/game_script_act1.rpy:123
 translate spanish game_script_act1_4d00f5b8:
 
     # s mh "What I...talked to you about."
-    s mh ""
+    s mh "Ya sabes..., de lo que te hablé."
 
 # game/game_script_act1.rpy:125
 translate spanish game_script_act1_d2b08650:
 
     # s "I can't wake up every day like this."
-    s ""
+    s "No puedo levantarme de la cama todos los días de la misma manera."
 
 # game/game_script_act1.rpy:127
 translate spanish game_script_act1_dbd84492:
 
     # s "I {i}can't{/i}, [player]."
-    s ""
+    s "No puedo, [player]."
 
 # game/game_script_act1.rpy:130
 translate spanish game_script_act1_6dc4287b:
 
     # "Words catch and stick in my throat, unable to come out."
-    ""
+    "Mis propias palabras se atascan en mi garganta, sin posibilidad de salir."
 
 # game/game_script_act1.rpy:132
 translate spanish game_script_act1_9298dbe6:
 
     # s mh e4e b2b rdown ldown "I..."
-    s mh e4e b2b rdown ldown ""
+    s mh e4e b2b rdown ldown "No..."
 
 # game/game_script_act1.rpy:133
 translate spanish game_script_act1_57d17b94:
 
     # s mg "I can't."
-    s mg ""
+    s mg "No puedo."
 
 # game/game_script_act1.rpy:134
 translate spanish game_script_act1_36ecc26b:
 
     # s mk b2c "I just..."
-    s mk b2c ""
+    s mk b2c "He estado..."
 
 # game/game_script_act1.rpy:137
 translate spanish game_script_act1_71bbc272:
 
     # "She backs away. There is a short pause."
-    ""
+    "Retrocede y deja de hablar por un instante."
 
 # game/game_script_act1.rpy:138
 translate spanish game_script_act1_94a1ff1e:
 
     # "All is silent, aside from Sayori's sobbing."
-    ""
+    "Todo está en silencio, obviando el leve llanto de Sayori."
 
 # game/game_script_act1.rpy:140
 translate spanish game_script_act1_da2f7a71:
 
     # s mh e1h "I...I was about to do it, [player]..."
-    s mh e1h ""
+    s mh e1h "He... He estado a punto de hacerlo, [player]..."
 
 # game/game_script_act1.rpy:141
 translate spanish game_script_act1_001c01e9:
 
     # s mg "I was...so close. I could feel it."
-    s mg ""
+    s mg "He estado tan cerca... que casi podía sentirlo."
 
 # game/game_script_act1.rpy:142
 translate spanish game_script_act1_a5d90402:
 
     # s mk b2b "I'd have never seen you again."
-    s mk b2b ""
+    s mk b2b "No hubiese podido volver a verte."
 
 # game/game_script_act1.rpy:145
 translate spanish game_script_act1_5e006e6a:
 
     # "I finally pull myself together enough to speak."
-    ""
+    "Aúno todas las fuerzas posibles para poder articular palabras coherentes."
 
 # game/game_script_act1.rpy:147
 translate spanish game_script_act1_bb7caede:
 
     # mc "Sayori...{done}could you imagine if I'd found you like that?"
-    mc ""
+    mc "Sayori...,{done} ¿puedes imaginarte lo que pasaría si te hubiese encontrado así?"
 
 # game/game_script_act1.rpy:149
 translate spanish game_script_act1_dff2227a:
 
     # mc "Sayori...{fast}could you imagine if I'd found you like that?"
-    mc ""
+    mc "Sayori...,{fast} ¿puedes imaginarte lo que pasaría si te hubiese encontrado así?"
 
 # game/game_script_act1.rpy:150
 translate spanish game_script_act1_a2b4f5c1:

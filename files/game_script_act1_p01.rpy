@@ -1042,91 +1042,91 @@ translate spanish game_script_act1_1d4989ab:
 translate spanish game_script_act1_c46788a8:
 
     # "Behind me, the door that leads from the entrance to my waiting room swings open, and a couple of nurses walk by."
-    "Tras de mí, la puerta de mi sala de espera se abre y entran un par de enfermeros."
+    "Tras de mí, la puerta de la sala de espera se abre y entran un par de enfermeros."
 
 # game/game_script_act1.rpy:372
 translate spanish game_script_act1_3a6f204e:
 
     # "But my phone buzzes again in my hand, and I turn my attention back to it."
-    ""
+    "Pero el teléfono vuelve a vibrar y mi atención vuelve a él."
 
 # game/game_script_act1.rpy:385
 translate spanish game_script_act1_b3548ece:
 
     # "A couple more minutes of idle waiting pass before I get another message from her."
-    ""
+    "Pasan un par de minutos hasta que vuelvo a recibir otro mensaje de ella."
 
 # game/game_script_act1.rpy:392
 translate spanish game_script_act1_f077a9c5:
 
     # "I return the phone to my pocket, running my hands through my hair."
-    ""
+    "Pongo el teléfono en mi bolsillo mientras me paso las manos a través del pelo."
 
 # game/game_script_act1.rpy:393
 translate spanish game_script_act1_dbdd01fa:
 
     # "Why now?"
-    ""
+    "¿Por qué ahora?"
 
 # game/game_script_act1.rpy:394
 translate spanish game_script_act1_9041f8f1:
 
     # "I feel terrible for Sayori, the fact that she’s in such pain right now and how oblivious I was to all of it."
-    ""
+    "Me siento fatal por Sayori, por el hecho de que esté sufriendo tanto y lo ajeno que fui a ello."
 
 # game/game_script_act1.rpy:395
 translate spanish game_script_act1_42f823c1:
 
     # "But on the other hand, I also feel like I’ve put Monika and Yuri on the spot in front of all of our classmates."
-    ""
+    "Aunque, por otra parte, siento que he puesto a Monika y a Yuri en ridículo frente a todos nuestros compañeros."
 
 # game/game_script_act1.rpy:396
 translate spanish game_script_act1_9e2a268f:
 
     # "There is no winning, is there?"
-    ""
+    "No hay manera de salirme con la mía, ¿verdad?"
 
 # game/game_script_act1.rpy:397
 translate spanish game_script_act1_ed101de0:
 
     # "Monika and Yuri..."
-    ""
+    "Un momento..., he dicho Monika y Yuri."
 
 # game/game_script_act1.rpy:398
 translate spanish game_script_act1_85e341f6:
 
     # "Where's Natsuki?"
-    ""
+    "¿Dónde está Natsuki?"
 
 # game/game_script_act1.rpy:399
 translate spanish game_script_act1_a5e8d1c4:
 
     # "I take a deep breath."
-    ""
+    "Respiro hondo."
 
 # game/game_script_act1.rpy:400
 translate spanish game_script_act1_287f6268:
 
     # "Okay [player], one problem at a time."
-    ""
+    "Vale, [player], vamos de uno en uno."
 
 # game/game_script_act1.rpy:401
 translate spanish game_script_act1_e7adc6ad:
 
     # "Natsuki's probably fine."
-    ""
+    "Lo más probable es que Natsuki esté bien."
 
 # game/game_script_act1.rpy:402
 translate spanish game_script_act1_7eb3803f:
 
     # "Focus on Sayori right now."
-    ""
+    "Céntrate en Sayori."
 
 # game/game_script_act1.rpy:403
 translate spanish game_script_act1_5b90fd8a:
 
     # "She needs you."
-    ""
+    "Te necesita."
 
 # game/game_script_act1.rpy:405
 translate spanish game_script_act1_b9613191:

@@ -1997,3 +1997,5 @@ translate spanish game_script_act1_3439194f:
 
     # "After a few seconds of hyperventilating...{w}I can almost breathe again."
     ""
+
+### holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa

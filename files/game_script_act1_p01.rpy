@@ -1132,19 +1132,19 @@ translate spanish game_script_act1_5b90fd8a:
 translate spanish game_script_act1_b9613191:
 
     # "I feel my knees bouncing uncontrollably."
-    ""
+    "Siento que mis piernas tiemblan sin control."
 
 # game/game_script_act1.rpy:406
 translate spanish game_script_act1_e4adad5a:
 
     # "My hands shake, my arms tense to the point of physical pain."
-    ""
+    "Lo mismo ocurre con mis manos. En este momento, mis brazos se encuentran tan tensos... que me provocan dolor si trato de moverlos."
 
 # game/game_script_act1.rpy:407
 translate spanish game_script_act1_f90d6c7b:
 
     # "I try to take deep breaths."
-    ""
+    "Trato de relajarme y respirar hondo."
 
 # game/game_script_act1.rpy:408
 translate spanish game_script_act1_d7b9c94e:
@@ -1162,19 +1162,19 @@ translate spanish game_script_act1_02def2f0:
 translate spanish game_script_act1_ffdb6c5f:
 
     # "Calm do--{nw}"
-    ""
+    "Reláj{nw}"
 
 # game/game_script_act1.rpy:412
 translate spanish game_script_act1_270a1632:
 
     # "I'm snapped out of it by another text."
-    ""
+    "Otro mensaje llega y me saca de mi intento de relajación."
 
 # game/game_script_act1.rpy:418
 translate spanish game_script_act1_65cf93b0:
 
     # "I’m almost tempted to leave the message alone..."
-    ""
+    "Casi que preferiría dejar el mensaje en visto..."
 
 # game/game_script_act1.rpy:419
 translate spanish game_script_act1_253e945d:
@@ -1186,19 +1186,19 @@ translate spanish game_script_act1_253e945d:
 translate spanish game_script_act1_67c9fb6b:
 
     # "I don’t like lying to people, but..."
-    "No me gusta mentirle a la gente, pero..."
+    "No me gusta mentirle a la gente, pero es que...,"
 
 # game/game_script_act1.rpy:426
 translate spanish game_script_act1_8415ca72:
 
     # "At this point, I can’t tell her about Sayori. It’d seem like I’m throwing her under the bus anyway."
-    "En este momento, no puedo decir nada de lo que le ha pasado a Sayori. Es que parecería que la estoy dejando en ridículo."
+    "... en este momento, no puedo decir nada de lo que le ha pasado a Sayori. Es que parecería que la estoy dejando en ridículo."
 
 # game/game_script_act1.rpy:427
 translate spanish game_script_act1_b63b3462:
 
     # "And I don’t have a single clue where Natsuki is."
-    ""
+    "Y no tengo ni pajolera idea de dónde está Natsuki."
 
 # game/game_script_act1.rpy:428
 translate spanish game_script_act1_81216afa:
@@ -1228,25 +1228,25 @@ translate spanish game_script_act1_59577f7f:
 translate spanish game_script_act1_738649fc:
 
     # "I need to get my mind off of this."
-    ""
+    "Necesito dejar mi mente en blanco..."
 
 # game/game_script_act1.rpy:448
 translate spanish game_script_act1_1773b6de:
 
     # "I could try and help her, for one, by getting a hold of Natsuki."
-    ""
+    "Podría intentar ayudarla, por ejemplo, dando con el paradero de Natsuki."
 
 # game/game_script_act1.rpy:449
 translate spanish game_script_act1_66e641cd:
 
     # "I type out a message, hoping to get some answers."
-    ""
+    "Quizá mandarle un mensaje sea una buena idea, por lo que le escribo uno y espero que responda."
 
 # game/game_script_act1.rpy:457
 translate spanish game_script_act1_c915662f:
 
     # "A couple of minutes pass with no response."
-    "Pasan un par de minutos sin respuesta alguna, por supuesto."
+    "Pasan un par de minutos y no ha habido señal de una respuesta."
 
 # game/game_script_act1.rpy:458
 translate spanish game_script_act1_e002d6d6:
@@ -1258,7 +1258,7 @@ translate spanish game_script_act1_e002d6d6:
 translate spanish game_script_act1_6aee621b:
 
     # "I go to message aga--{nw}"
-    ""
+    "Voy a mandarle ot{nw}"
 
 # game/game_script_act1.rpy:463
 translate spanish game_script_act1_4ec8bb2b:

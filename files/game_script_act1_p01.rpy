@@ -1276,19 +1276,19 @@ translate spanish game_script_act1_e9c0686e:
 translate spanish game_script_act1_760813a9:
 
     # "I quickly stand up, putting my phone away."
-    ""
+    "Me levanto con rapidez y tiro mi teléfono."
 
 # game/game_script_act1.rpy:471
 translate spanish game_script_act1_3aa88ecf:
 
     # "Before I have time to say anything, she locks me in a tight embrace and sobs into my chest, startling me slightly."
-    ""
+    "Antes de poder decirle nada, me abraza muy fuerte y llora en mi pecho."
 
 # game/game_script_act1.rpy:473
 translate spanish game_script_act1_cd4c1aa5:
 
     # mc "...H-hey, it’s okay."
-    mc ""
+    mc "O-Oye, tranquila, todo irá bien."
 
 # game/game_script_act1.rpy:475
 translate spanish game_script_act1_59ea28b2:
@@ -1300,7 +1300,7 @@ translate spanish game_script_act1_59ea28b2:
 translate spanish game_script_act1_79420d02:
 
     # "She can barely get a sentence out."
-    ""
+    "Apenas puede formar una frase entera."
 
 # game/game_script_act1.rpy:478
 translate spanish game_script_act1_760f63d6:

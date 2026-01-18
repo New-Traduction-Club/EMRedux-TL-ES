@@ -34,23 +34,23 @@ translate spanish strings:
 
     # game/splash.rpy:16
     old "In an interstellar burst\nI'm back to save the universe"
-    new ""
+    new "In an interstellar burst\nI'm back to save the universe"
 
     # game/splash.rpy:18
     old "I only stick with you\nBecause there are no others"
-    new ""
+    new "I only stick with you\nBecause there are no others"
 
     # game/splash.rpy:20
     old "Don't look in the mirror at the face you don't recognize\nHelp me call the doctor put me inside"
-    new ""
+    new "Don't look in the mirror at the face you don't recognize\nHelp me call the doctor put me inside"
 
     # game/splash.rpy:22
     old "There's such a chill\nSuch a chill"
-    new ""
+    new "There's such a chill\nSuch a chill"
 
     # game/splash.rpy:24
     old "We hope that you choke\nThat you choke"
-    new ""
+    new "We hope that you choke\nThat you choke"
 
     # game/splash.rpy:176
     old "By playing [config.name] you agree that you have completed Doki Doki Literature Club and accept any spoilers contained within."

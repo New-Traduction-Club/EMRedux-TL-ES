@@ -2,115 +2,115 @@
 translate spanish game_script_act1_372ac9cc:
 
     # "Instantly, my whole body begins to wobble and shake as the adrenaline fades."
-    ""
+    "Al instante, mi cuerpo empieza a tambalear y me noto tembloroso a medida que desaparece la adrenalina."
 
 # game/game_script_act1.rpy:712
 translate spanish game_script_act1_83d379d5:
 
     # "I catch myself on the counter, and vomit into the sink."
-    ""
+    "Por instinto, me agarro a la encimera y, tras ello, vomito en el fregadero."
 
 # game/game_script_act1.rpy:713
 translate spanish game_script_act1_20b5306e:
 
     # "My heart rate slows down."
-    ""
+    "Mi ritmo cardíaco se ralentiza."
 
 # game/game_script_act1.rpy:718
 translate spanish game_script_act1_4853441e:
 
     # "But I can't get it out of my head."
-    ""
+    "Pero no me lo quito de la cabeza."
 
 # game/game_script_act1.rpy:719
 translate spanish game_script_act1_f65bf318:
 
     # "The vision of what would've happened if I was..."
-    ""
+    "No consigo quitarme de la cabeza esa visión de lo que hubiese pasado si hubiese..."
 
 # game/game_script_act1.rpy:720
 translate spanish game_script_act1_a6bd6446:
 
     # "I can't think about it."
-    ""
+    "Deja de pensar en ello."
 
 # game/game_script_act1.rpy:721
 translate spanish game_script_act1_a6bd6446_1:
 
     # "I can't think about it."
-    ""
+    "Deja de pensar en ello."
 
 # game/game_script_act1.rpy:722
 translate spanish game_script_act1_024a159e:
 
     # "Distraction. Now."
-    ""
+    "Una distracción. Ya."
 
 # game/game_script_act1.rpy:723
 translate spanish game_script_act1_636b7858:
 
     # "Food. Haven't eaten today."
-    ""
+    "Comida. Sí, eso. No he comido nada hoy."
 
 # game/game_script_act1.rpy:724
 translate spanish game_script_act1_ee0024fe:
 
     # "Make food."
-    ""
+    "Me haré algo de comer."
 
 # game/game_script_act1.rpy:726
 translate spanish game_script_act1_4fd3ade2:
 
     # "I wash the sink out and pour water into my hands."
-    ""
+    "Limpio el desastre del fregadero y me echo agua en las manos."
 
 # game/game_script_act1.rpy:727
 translate spanish game_script_act1_4f177f58:
 
     # "Splashing the cold water on my face, I wipe my mouth before drinking a bit from the faucet."
-    ""
+    "Me salpico el agua en la cara y me limpio la boca antes de beber del grifo."
 
 # game/game_script_act1.rpy:728
 translate spanish game_script_act1_506b011c:
 
     # "The acidic taste still stings my throat, even as I wash the water around and spit it out."
-    ""
+    "Aunque haya bebido agua y me haya enjuagado la boca, aún noto ese sabor ácido en mi garganta."
 
 # game/game_script_act1.rpy:729
 translate spanish game_script_act1_4bf30b7f:
 
     # "Next step: food."
-    ""
+    "A lo que vamos: hacerme de comer."
 
 # game/game_script_act1.rpy:730
 translate spanish game_script_act1_c53ad1d6:
 
     # "I force myself to make a sandwich."
-    ""
+    "Me obligo a hacerme un sándwich."
 
 # game/game_script_act1.rpy:731
 translate spanish game_script_act1_57ffb944:
 
     # "I grab some bread and vegetables from the fridge."
-    ""
+    "Cojo pan y verduras varias de la nevera."
 
 # game/game_script_act1.rpy:732
 translate spanish game_script_act1_ad651316:
 
     # "My mind, desperate for any purchase, settles on Monika’s reaction."
-    ""
+    "Me desespero al ver que no he comprado nada para reponer la nevera y se me viene a la cabeza la reacción de Monika."
 
 # game/game_script_act1.rpy:733
 translate spanish game_script_act1_1a7e274e:
 
     # "I feel sorry for her, and her ruined festival."
-    ""
+    "Lo siento muchísimo por ella y por su festival arruinado."
 
 # game/game_script_act1.rpy:734
 translate spanish game_script_act1_05087e38:
 
     # "Yuri, as well."
-    ""
+    "Lo siento también por Yuri..."
 
 # game/game_script_act1.rpy:735
 translate spanish game_script_act1_51d7bc2f:
@@ -122,7 +122,7 @@ translate spanish game_script_act1_51d7bc2f:
 translate spanish game_script_act1_cf5685e6:
 
     # "I noticed that she {i}still{/i} hasn’t texted back."
-    ""
+    "Me percato de que no me ha respondido."
 
 # game/game_script_act1.rpy:737
 translate spanish game_script_act1_2e4da718:
@@ -140,7 +140,7 @@ translate spanish game_script_act1_7dbbb621:
 translate spanish game_script_act1_5e4e3b33:
 
     # "I was so wrapped up in my own worrying, I managed to accidentally cut my finger open while slicing a tomato."
-    ""
+    "Estaba tan absorto en mis preocupaciones... que me las he apañado para cortarme el dedo en lugar del tomate."
 
 # game/game_script_act1.rpy:750
 translate spanish game_script_act1_00557965:
@@ -152,25 +152,25 @@ translate spanish game_script_act1_00557965:
 translate spanish game_script_act1_0ecb4399:
 
     # "I quickly wrap my finger in a paper towel, letting the few drops of blood soak into it."
-    "Con rapidez, envuelvo mi dedo en una toalla de papel, que consigue absorber las pocas gotas de sangre que habían."
+    "Con rapidez, envuelvo mi dedo en una servilleta, que consigue absorber las pocas gotas de sangre que habían."
 
 # game/game_script_act1.rpy:752
 translate spanish game_script_act1_e6f1c864:
 
     # "I hardly felt a thing."
-    ""
+    "Aunque... ni lo he notado."
 
 # game/game_script_act1.rpy:753
 translate spanish game_script_act1_0ae1b135:
 
     # "I sigh, looking over the damage I've done."
-    ""
+    "Suspiro mientras observo el desastre que he causado en un instante."
 
 # game/game_script_act1.rpy:754
 translate spanish game_script_act1_898784aa:
 
     # "Well, at least now I know the knife isn't going blunt anytime soon."
-    ""
+    "Mirando el lado bueno... sé que el cuchillo no se va a echar a perder tan rápido."
 
 # game/game_script_act1.rpy:755
 translate spanish game_script_act1_924493cc:
@@ -194,13 +194,13 @@ translate spanish game_script_act1_e20da3ca:
 translate spanish game_script_act1_c745a6f8:
 
     # "I collapse onto my bed, exhaust being the only thing I can feel now."
-    ""
+    "Me derrumbo en la cama, siendo el cansancio lo que predomina en mí ahora."
 
 # game/game_script_act1.rpy:764
 translate spanish game_script_act1_8741cc03:
 
     # "Fighting the urge to fall asleep, I manage to send a text to Sayori."
-    ""
+    "Luchando por no quedarme dormido, consigo mandarle un mensaje a Sayori."
 
 # game/game_script_act1.rpy:765
 translate spanish game_script_act1_066eea88:
@@ -212,7 +212,7 @@ translate spanish game_script_act1_066eea88:
 translate spanish game_script_act1_f6361e57:
 
     # "I conk out within minutes."
-    ""
+    "Prácticamente pierdo el conocimiento en pocos minutos."
 
 # game/game_script_act1.rpy:782
 translate spanish game_script_act1_11b743b3:

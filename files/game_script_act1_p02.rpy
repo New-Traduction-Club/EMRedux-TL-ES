@@ -254,37 +254,37 @@ translate spanish game_script_act1_fba6b5b7:
 translate spanish game_script_act1_e81efaa7:
 
     # "Wait..."
-    ""
+    "Espera..."
 
 # game/game_script_act1.rpy:789
 translate spanish game_script_act1_f0657274:
 
     # "Okay."
-    ""
+    "Un momento..."
 
 # game/game_script_act1.rpy:790
 translate spanish game_script_act1_8bf9a4f8:
 
     # "Think clearly, [player]."
-    ""
+    "Piensa con la cabeza, [player]."
 
 # game/game_script_act1.rpy:791
 translate spanish game_script_act1_3819164d:
 
     # "By the time I get changed and walk to school, it'll probably be around two o'clock."
-    ""
+    "Entre que me visto y voy para allá, ya son las dos en punto...,"
 
 # game/game_script_act1.rpy:792
 translate spanish game_script_act1_083f7425:
 
     # "School ends around three."
-    ""
+    "y el insti termina sobre las tres."
 
 # game/game_script_act1.rpy:794
 translate spanish game_script_act1_75030b08:
 
     # "{i}Yeah...{/i}"
-    ""
+    "Pues..."
 
 # game/game_script_act1.rpy:795
 translate spanish game_script_act1_d10b4fc7:
@@ -296,13 +296,13 @@ translate spanish game_script_act1_d10b4fc7:
 translate spanish game_script_act1_4336ec34:
 
     # "Another absence. That’s going to look {i}fantastic{/i} on my school standing."
-    "Qué bien va a quedar en mi expediente escolar otra ausencia más."
+    "Qué bien va a quedar en mi expediente otra falta de asistencia más."
 
 # game/game_script_act1.rpy:797
 translate spanish game_script_act1_0cc9db0d:
 
     # "Good job, [player]."
-    ""
+    "Bien hecho, [player]."
 
 # game/game_script_act1.rpy:798
 translate spanish game_script_act1_274e99b7:
@@ -320,25 +320,25 @@ translate spanish game_script_act1_93260731:
 translate spanish game_script_act1_cd3af3d9:
 
     # "Mostly to see if Natsuki made it in today."
-    ""
+    "La realidad es que quiero ver si está Natsuki hoy...,"
 
 # game/game_script_act1.rpy:801
 translate spanish game_script_act1_0530d3ee:
 
     # "...but I'm not looking forward to confronting Monika."
-    ""
+    "aunque no me apetece encarar a Monika."
 
 # game/game_script_act1.rpy:802
 translate spanish game_script_act1_bae6c31c:
 
     # "What do I even say?"
-    ""
+    "¿Qué estoy diciendo?"
 
 # game/game_script_act1.rpy:803
 translate spanish game_script_act1_dbd916b4:
 
     # "It’s not going to be a pleasant day."
-    "Hoy no va a ser un buen día."
+    "Si es que hoy no va a ser un buen día, estoy seguro de ello..."
 
 # game/game_script_act1.rpy:804
 translate spanish game_script_act1_96bc78f1:
@@ -362,7 +362,7 @@ translate spanish game_script_act1_2c9a60c5:
 translate spanish game_script_act1_697f67ef:
 
     # "How long was I even {i}in{/i} there?"
-    ""
+    "Dios, ¿cuánto tiempo he estado metido en el baño?"
 
 # game/game_script_act1.rpy:814
 translate spanish game_script_act1_28faf898:
@@ -374,7 +374,7 @@ translate spanish game_script_act1_28faf898:
 translate spanish game_script_act1_f5702620:
 
     # "It just occurs to me, neither Natsuki {i}nor{/i} Sayori have responded to me."
-    ""
+    "Y se me acaba de venir a la mente que ni Sayori, ni Natsuki, me han contestado."
 
 # game/game_script_act1.rpy:816
 translate spanish game_script_act1_3f95a4bc:
@@ -386,7 +386,7 @@ translate spanish game_script_act1_3f95a4bc:
 translate spanish game_script_act1_94e8bdeb:
 
     # "My fears have crept their way back, rooting themselves into the pit of my stomach like a vile tumor."
-    "Mis miedos han vuelto sigilosamente, arraigándose en la boca de mi estómago como un tumor mortal."
+    "Mis miedos han vuelto a mí de forma sigilosa, echando raíces en la boca de mi estómago como si de un tumor mortal se tratase."
 
 # game/game_script_act1.rpy:818
 translate spanish game_script_act1_25f7f05f:

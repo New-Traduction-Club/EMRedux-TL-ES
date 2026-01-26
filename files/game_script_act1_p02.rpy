@@ -398,7 +398,7 @@ translate spanish game_script_act1_25f7f05f:
 translate spanish game_script_act1_9780ce7d_1:
 
     # "{i}She’s in a safe place and she will be okay.{/i}"
-    ""
+    "Está en un lugar seguro y estará bien."
 
 # game/game_script_act1.rpy:820
 translate spanish game_script_act1_c9d3cffd:
@@ -410,7 +410,7 @@ translate spanish game_script_act1_c9d3cffd:
 translate spanish game_script_act1_980b3438:
 
     # "I’m tempted to call her, let her know what’s happened..."
-    ""
+    "De lo que tengo ganas ahora mismo es de llamarla y ponerla al día de lo ocurrido..."
 
 # game/game_script_act1.rpy:822
 translate spanish game_script_act1_4c38b8ea:

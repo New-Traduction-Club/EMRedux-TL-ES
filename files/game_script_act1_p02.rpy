@@ -440,7 +440,7 @@ translate spanish game_script_act1_735724c0:
 translate spanish game_script_act1_2fb7da61:
 
     # "I almost wish I were omniscient, so I wouldn’t have this painful, crushing {i}worry{/i}..."
-    ""
+    "A veces, deseo ser un fantasma para dejar de sentir preocupación y dolor."
 
 # game/game_script_act1.rpy:838
 translate spanish game_script_act1_c055d7ac:
@@ -464,19 +464,19 @@ translate spanish game_script_act1_fdb12d86:
 translate spanish game_script_act1_b6dabb50:
 
     # "At least Sayori isn’t here to scold me for missing class."
-    "Menos mal que Sayori no está aquí, ya que me hubiese regañado por haberme saltado las clases."
+    "Menos mal que Sayori no está aquí, ya que me hubiese regañado por haberme saltado las clases...,"
 
 # game/game_script_act1.rpy:842
 translate spanish game_script_act1_ea65b706:
 
     # "...who am I kidding?"
-    "..."
+    "y a quién quiero engañar."
 
 # game/game_script_act1.rpy:843
 translate spanish game_script_act1_704ce469:
 
     # "Right now I’d take any amount of teasing to see her."
-    "A quién quiero engañar, aguantaría hasta al diablo por tal de verla."
+    "Aguantaría hasta al diablo por tal de verla."
 
 # game/game_script_act1.rpy:844
 translate spanish game_script_act1_a20cefa7_2:
@@ -518,13 +518,13 @@ translate spanish game_script_act1_7cb66bc9:
 translate spanish game_script_act1_095e0c14:
 
     # "My gut feels like it’s been dropped onto solid concrete."
-    "Siento como si mis entrañas se hubiesen estrellado en el hormigón más sólido."
+    "Siento como si mis entrañas se hubiesen estrellado en el suelo a toda velocidad."
 
 # game/game_script_act1.rpy:853
 translate spanish game_script_act1_7a611292:
 
     # "My already present worry only gets worse."
-    "Mi actual preocupación no se alivia... solo empeora."
+    "Mi ya punzante preocupación no se alivia..., solo empeora."
 
 # game/game_script_act1.rpy:854
 translate spanish game_script_act1_b26d8aca:
@@ -536,7 +536,7 @@ translate spanish game_script_act1_b26d8aca:
 translate spanish game_script_act1_56d289a5:
 
     # "As I enter, both Monika and Yuri turn to look at me."
-    ""
+    "Tal cual entro, Monika y Yuri me miran a la vez."
 
 # game/game_script_act1.rpy:862
 translate spanish game_script_act1_0e21eb37:
@@ -548,7 +548,7 @@ translate spanish game_script_act1_0e21eb37:
 translate spanish game_script_act1_2755e88e:
 
     # "Whatever plan I had to explain myself vanished the second I entered."
-    "El plan que tenía para excusarme se ha ido a la mierda completamente."
+    "El plan que tenía para excusar todo lo ocurrido se ha ido a la mierda completamente."
 
 # game/game_script_act1.rpy:864
 translate spanish game_script_act1_cac3cb97:
@@ -572,25 +572,25 @@ translate spanish game_script_act1_150869d6:
 translate spanish game_script_act1_ac89cd97:
 
     # m "[player], could we talk for a moment?"
-    m ""
+    m "Oye, [player], ¿podemos hablar un momentito?"
 
 # game/game_script_act1.rpy:872
 translate spanish game_script_act1_0f71ec6f:
 
     # "She addresses me with an emotionless, dreary monotone."
-    ""
+    "Me habla de forma monótona, lúgubre y sin sentimientos."
 
 # game/game_script_act1.rpy:874
 translate spanish game_script_act1_863680b0:
 
     # mc "I mean yeah, I suppose..."
-    mc "Claro, en plan, supongo..."
+    mc "Claro. En plan, supongo..."
 
 # game/game_script_act1.rpy:876
 translate spanish game_script_act1_82617c22:
 
     # m "You want to chat out in the hall or..?"
-    m ""
+    m "¿Quieres que vayamos al pasillo? ¿O prefieres en otro sitio?"
 
 # game/game_script_act1.rpy:879
 translate spanish game_script_act1_cf9b21ae:
@@ -608,7 +608,7 @@ translate spanish game_script_act1_825a7a26:
 translate spanish game_script_act1_a4a42fdc:
 
     # "Great."
-    "Geeeenial."
+    "Geeenial."
 
 # game/game_script_act1.rpy:884
 translate spanish game_script_act1_d453351e:

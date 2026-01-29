@@ -632,7 +632,7 @@ translate spanish game_script_act1_bdfa6cfe:
 translate spanish game_script_act1_46db55ba:
 
     # "This is going to suck."
-    "Esto va a joder, y mucho."
+    "Esto va a ser una putada, y una buena putada."
 
 # game/game_script_act1.rpy:891
 translate spanish game_script_act1_650a337d:
@@ -650,13 +650,13 @@ translate spanish game_script_act1_8994a7f3:
 translate spanish game_script_act1_9465857c:
 
     # mc "Something...{done}happened with Sayori."
-    mc ""
+    mc "Algo le ha...{done} pasado a Sayori."
 
 # game/game_script_act1.rpy:897
 translate spanish game_script_act1_5b40ad43:
 
     # mc "Something...{fast}happened with Sayori."
-    mc ""
+    mc "Algo le ha...{fast} pasado a Sayori."
 
 # game/game_script_act1.rpy:898
 translate spanish game_script_act1_af0be58c:
@@ -716,7 +716,7 @@ translate spanish game_script_act1_11831365:
 translate spanish game_script_act1_79b43e35:
 
     # mc "She's safe."
-    mc ""
+    mc "Está a salvo."
 
 # game/game_script_act1.rpy:917
 translate spanish game_script_act1_ef6dfa9c:
@@ -734,19 +734,19 @@ translate spanish game_script_act1_6f9d1f4c:
 translate spanish game_script_act1_017f2ad6:
 
     # "Yuri hides her face within her book, seemingly tuning out of the conversation."
-    ""
+    "Yuri entierra su cara en el libro que lee, aparentemente desconectándose de la conversación."
 
 # game/game_script_act1.rpy:924
 translate spanish game_script_act1_83f72f96:
 
     # "She seems upset. I don't blame her."
-    ""
+    "Parece molesta y no la culpo."
 
 # game/game_script_act1.rpy:926
 translate spanish game_script_act1_8368034b:
 
     # "Monika takes a deep breath."
-    ""
+    "Monika respira hondo."
 
 # game/game_script_act1.rpy:932
 translate spanish game_script_act1_30a66545:
@@ -764,25 +764,25 @@ translate spanish game_script_act1_ae4b72c8:
 translate spanish game_script_act1_a2d5b650:
 
     # m "I was in a panic and everyone was staring at us."
-    m ""
+    m "Era un un momento crítico y todo el mundo nos enfilaba con la mirada."
 
 # game/game_script_act1.rpy:938
 translate spanish game_script_act1_378074a4:
 
     # m "I was stressed out and didn't want us to look bad and..."
-    m ""
+    m "Estaba estresada y no quería quedar mal..."
 
 # game/game_script_act1.rpy:940
 translate spanish game_script_act1_36833a28:
 
     # "She swallows and shakes her head a bit."
-    ""
+    "Traga saliva y niega con la cabeza."
 
 # game/game_script_act1.rpy:942
 translate spanish game_script_act1_952fb6bd:
 
     # m "But if Sayori's safe...that's all that matters to me."
-    m ""
+    m "Si Sayori está a salvo... es todo lo que quiero saber."
 
 # game/game_script_act1.rpy:944
 translate spanish game_script_act1_c6dea59c:

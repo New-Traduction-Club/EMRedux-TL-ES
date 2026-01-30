@@ -1256,7 +1256,7 @@ translate spanish game_script_act1_7bbf9ae1:
 translate spanish game_script_act1_6b670943:
 
     # n "I shouldn’t have even..."
-    n "La cosa es que ni siquiera tendría que haberte dicho..."
+    n "La cosa es que ni siquiera tendría que habértelo dicho..."
 
 # game/game_script_act1.rpy:1878
 translate spanish game_script_act1_ab0899a4:
@@ -1298,13 +1298,13 @@ translate spanish game_script_act1_e04f8287:
 translate spanish game_script_act1_a0483ac1:
 
     # n "I don't know if we should do this."
-    n ""
+    n "No sé si sería buena idea hacerlo."
 
 # game/game_script_act1.rpy:1898
 translate spanish game_script_act1_f4305047:
 
     # n "Or if it'll even change anything in the first place."
-    n ""
+    n "Y si se hiciese, no sé si llegaría a cambiar algo..."
 
 # game/game_script_act1.rpy:1899
 translate spanish game_script_act1_b2e8cdcc:

@@ -1462,5 +1462,5 @@ translate spanish strings:
 
     # game/game_script_chuck.rpy:12
     old "Alternate:\nReckoner"
-    new ""
+    new "Final alternativo:\nReckoner"
 

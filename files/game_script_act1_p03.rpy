@@ -1694,7 +1694,7 @@ translate spanish game_script_act1_409520e3:
 translate spanish game_script_act1_3f3117c9:
 
     # "Each one worse than the last."
-    ""
+    "Cada una peor que la otra..."
 
 # game/game_script_act1.rpy:2041
 translate spanish game_script_act1_6f63a148:

@@ -1322,13 +1322,13 @@ translate spanish game_script_act1_a28869be_1:
 translate spanish game_script_act1_096cd95c:
 
     # mc "Natsuki, the only thing we should be concerned about now is your safety."
-    mc ""
+    mc "Natsuki, lo único que debería importarnos ahora es tu seguridad."
 
 # game/game_script_act1.rpy:1908
 translate spanish game_script_act1_552e931f:
 
     # mc "Because, it’s not going to get better if..."
-    mc "Porque... a ver, no mejorará si..."
+    mc "Porque... a ver, no mejorará si...,"
 
 # game/game_script_act1.rpy:1912
 translate spanish game_script_act1_3c306103:

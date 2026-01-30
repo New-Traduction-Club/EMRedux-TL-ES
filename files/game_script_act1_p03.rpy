@@ -416,7 +416,7 @@ translate spanish game_script_act1_bb2cf764:
 translate spanish game_script_act1_ac67821b:
 
     # mc "Before you say anything...{w}I don’t care about the festival."
-    mc ""
+    mc "Antes de que digas nada...,{w} me la suda lo del festival."
 
 # game/game_script_act1.rpy:1476
 translate spanish game_script_act1_ec4abb61:
@@ -446,13 +446,13 @@ translate spanish game_script_act1_a51de77b:
 translate spanish game_script_act1_db381410:
 
     # m "{i}Got it!{/i}"
-    m "¡Por fin lo tengo!"
+    m "¡Por fin la tengo!"
 
 # game/game_script_act1.rpy:1484
 translate spanish game_script_act1_cd82f58c:
 
     # "Monika swings open the clubroom door, waving the hole-puncher around like a trophy."
-    "Monika abre la puerta del aula de golpe, mientras sostiene un perforador de papeles en la mano."
+    "Monika abre la puerta del aula de golpe, mientras sostiene una perforadora de papel en la mano."
 
 # game/game_script_act1.rpy:1485
 translate spanish game_script_act1_84367f24:
@@ -506,31 +506,31 @@ translate spanish game_script_act1_84b239bd:
 translate spanish game_script_act1_5f84478e:
 
     # "Should I bring this outside with me?"
-    ""
+    "¿Debería llevarme la caja?"
 
 # game/game_script_act1.rpy:1502
 translate spanish game_script_act1_8e02fe9a:
 
     # "Maybe. Just in case she wants to read."
-    ""
+    "Puede, por si quiere leer algo."
 
 # game/game_script_act1.rpy:1503
 translate spanish game_script_act1_5b09f9b3:
 
     # "I can tell she's upset."
-    ""
+    "Se ve a leguas que está muy enfadada."
 
 # game/game_script_act1.rpy:1504
 translate spanish game_script_act1_d9ae7062:
 
     # "Maybe having the books there will take some pressure off of her."
-    ""
+    "Puede que llevarme la caja de mangas le quite algo de presión..."
 
 # game/game_script_act1.rpy:1506
 translate spanish game_script_act1_4c4a164e:
 
     # "As I heft up the box, Monika turns her attention to me."
-    ""
+    "Mientras levanto la caja en peso, Monika llama mi atención."
 
 # game/game_script_act1.rpy:1509
 translate spanish game_script_act1_dbecce39:
@@ -566,7 +566,7 @@ translate spanish game_script_act1_be4a9794:
 translate spanish game_script_act1_c63c9562:
 
     # m "We still have five minutes left..."
-    m ""
+    m "Aún nos quedan cinco minutos..."
 
 # game/game_script_act1.rpy:1523
 translate spanish game_script_act1_f9a3c2b7:
@@ -584,37 +584,37 @@ translate spanish game_script_act1_bd9be39e:
 translate spanish game_script_act1_cd06f091:
 
     # "Probably all three."
-    ""
+    "Puede que las tres."
 
 # game/game_script_act1.rpy:1526
 translate spanish game_script_act1_0dcd58f4:
 
     # "None of this has been fair to her, admittedly."
-    ""
+    "Admito que nada de esto está siendo justo para ella..."
 
 # game/game_script_act1.rpy:1527
 translate spanish game_script_act1_93a3151b:
 
     # "I feel terrible for keeping her out of the loop."
-    ""
+    "Y me siento fatal por mantenerla al margen."
 
 # game/game_script_act1.rpy:1528
 translate spanish game_script_act1_b67e01e4:
 
     # "It's clearly doing a number on her emotions."
-    ""
+    "Se nota que esto hace mella en sus sentimientos...,"
 
 # game/game_script_act1.rpy:1529
 translate spanish game_script_act1_9a11bbf9:
 
     # "But it's for the best."
-    ""
+    "pero es por su bien."
 
 # game/game_script_act1.rpy:1531
 translate spanish game_script_act1_74465187:
 
     # "Monika takes two deep, swift breaths, lifts her head back up and shrugs."
-    ""
+    "Monika respira profunda y rápidamente un par de veces. Tras eso, se encoge de hombros."
 
 # game/game_script_act1.rpy:1534
 translate spanish game_script_act1_467ec4e6:

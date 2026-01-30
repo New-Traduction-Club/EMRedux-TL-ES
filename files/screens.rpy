@@ -4,119 +4,119 @@ translate spanish strings:
 
     # game/screens.rpy:420
     old "History"
-    new ""
+    new "Historia"
 
     # game/screens.rpy:420
     old "Skip"
-    new ""
+    new "Saltar"
 
     # game/screens.rpy:420
     old "Save"
-    new ""
+    new "Guardar"
 
     # game/screens.rpy:420
     old "Load"
-    new ""
+    new "Cargar"
 
     # game/screens.rpy:420
     old "Hide"
-    new ""
+    new "Ocultar"
 
     # game/screens.rpy:420
     old "Settings"
-    new ""
+    new "Opciones"
 
     # game/screens.rpy:420
     old "Main Menu"
-    new ""
+    new "Menú principal"
 
     # game/screens.rpy:420
     old "Exit"
-    new ""
+    new "Cerrar"
 
     # game/screens.rpy:540
     old "Select Chapter"
-    new ""
+    new "Selección de capítulo"
 
     # game/screens.rpy:542
     old "New Game"
-    new ""
+    new "Nueva partida"
 
     # game/screens.rpy:546
     old "Save Game"
-    new ""
+    new "Guardar partida"
 
     # game/screens.rpy:548
     old "Load Game"
-    new ""
+    new "Cargar partida"
 
     # game/screens.rpy:555
     old "Credits"
-    new ""
+    new "Créditos"
 
     # game/screens.rpy:558
     old "Music"
-    new ""
+    new "Música"
 
     # game/screens.rpy:559
     old "Gallery"
-    new ""
+    new "Galería de imágenes"
 
     # game/screens.rpy:562
     old "Bonus"
-    new ""
+    new "Bonus"
 
     # game/screens.rpy:566
     old "Quit"
-    new ""
+    new "Cerrar el juego"
 
     # game/screens.rpy:815
     old "About"
-    new ""
+    new "Sobre"
 
     # game/screens.rpy:822
     old "Version [config.version!t]\n"
-    new ""
+    new "Versión [config.version!t]\n"
 
     # game/screens.rpy:828
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new ""
+    new "Hecho con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/screens.rpy:931
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new ""
+    new "{#file_time}%A, %B %d %Y, %H:%M"
 
     # game/screens.rpy:931
     old "empty slot"
-    new ""
+    new "Espacio vacío"
 
     # game/screens.rpy:1035
     old "Display"
-    new ""
+    new "Pantalla"
 
     # game/screens.rpy:1036
     old "Windowed"
-    new ""
+    new "Ventana"
 
     # game/screens.rpy:1037
     old "Fullscreen"
-    new ""
+    new "Pantalla completa"
 
     # game/screens.rpy:1041
     old "Display resolution"
-    new ""
+    new "Resolución de pantalla"
 
     # game/screens.rpy:1043
     old "Original Resolution (16:9)"
-    new ""
+    new "Resolución original (16:9)"
 
     # game/screens.rpy:1043
     old "It is recommended to restart to apply the changes."
-    new ""
+    new "Se recomienda reiniciar la aplicación para aplicar los cambios."
 
     # game/screens.rpy:1048
     old "Ultra Wide Resolution (21:9)"
-    new ""
+    new "Resolución Ultraancha (21:9)"
 
     # game/screens.rpy:1056
     old "Rollback Side"
@@ -124,7 +124,7 @@ translate spanish strings:
 
     # game/screens.rpy:1057
     old "Disable"
-    new ""
+    new "Deshabilitar"
 
     # game/screens.rpy:1058
     old "Left"

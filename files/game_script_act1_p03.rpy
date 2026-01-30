@@ -176,7 +176,7 @@ translate spanish game_script_act1_ea393697:
 translate spanish game_script_act1_47805a3b:
 
     # mc "And it only took us...{w}a week."
-    mc ""
+    mc "Pues sí, y hemos necesitado para leerlo...{w} una semana entera."
 
 # game/game_script_act1.rpy:1406
 translate spanish game_script_act1_2fe1bf98:

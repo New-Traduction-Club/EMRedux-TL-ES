@@ -1982,16 +1982,16 @@ translate spanish game_script_act1_245592bc:
 translate spanish game_script_act1_2838bce2:
 
     # "Natsuki stops, before giving my hand a quick squeeze."
-    ""
+    "Natsuki se detiene antes de darle a mi mano un espachurrón rápido."
 
 # game/game_script_act1.rpy:2161
 translate spanish game_script_act1_898f1af9:
 
     # "I return the gesture, making sure to be careful."
-    ""
+    "Le hago lo mismo y me aseguro de tener cuidado al apretar."
 
 # game/game_script_act1.rpy:2162
 translate spanish game_script_act1_e851121f:
 
     # "I don't want to hurt her."
-    ""
+    "No quiero hacerle daño."

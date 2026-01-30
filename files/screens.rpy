@@ -128,93 +128,93 @@ translate spanish strings:
 
     # game/screens.rpy:1058
     old "Left"
-    new ""
+    new "Izquierda"
 
     # game/screens.rpy:1059
     old "Right"
-    new ""
+    new "Derecha"
 
     # game/screens.rpy:1064
     old "Unseen Text"
-    new ""
+    new "Texto no visto"
 
     # game/screens.rpy:1065
     old "After Choices"
-    new ""
+    new "Después de elegir"
 
     # game/screens.rpy:1071
     old "Discord Presence"
-    new ""
+    new "Presencia de Discord"
 
     # game/screens.rpy:1072
     old "Off"
-    new ""
+    new "Apagado"
 
     # game/screens.rpy:1073
     old "On"
-    new ""
+    new "Encendido"
 
     # game/screens.rpy:1077
     old "Blur Options"
-    new ""
+    new "Opciones de desenfoque"
 
     # game/screens.rpy:1078
     old "Gaussian Blur"
-    new ""
+    new "Desenfoque Gaussiano"
 
     # game/screens.rpy:1079
     old "Default Blur"
-    new ""
+    new "Desenfoque predeterminado"
 
     # game/screens.rpy:1094
     old "Text Speed"
-    new ""
+    new "Velocidad de texto"
 
     # game/screens.rpy:1107
     old "Choose Theme"
-    new ""
+    new "Elige tema"
 
     # game/screens.rpy:1125
     old "Language"
-    new ""
+    new "Idioma"
 
     # game/screens.rpy:1134
     old "Music Volume"
-    new ""
+    new "Volumen de música"
 
     # game/screens.rpy:1141
     old "Sound Volume"
-    new ""
+    new "Volumen de sonido"
 
     # game/screens.rpy:1147
     old "Ambience Volume"
-    new ""
+    new "Volumen ambiental"
 
     # game/screens.rpy:1155
     old "Mute All"
-    new ""
+    new "Silenciar todo"
 
     # game/screens.rpy:1303
     old "The dialogue history is empty."
-    new ""
+    new "La historia está vacía"
 
     # game/screens.rpy:1531
     old "OK"
-    new ""
+    new "Vale"
 
     # game/screens.rpy:1534
     old "Cancel"
-    new ""
+    new "Cancelar"
 
     # game/screens.rpy:1600
     old "Yes"
-    new ""
+    new "Sí"
 
     # game/screens.rpy:1601
     old "No"
-    new ""
+    new "No"
 
     # game/screens.rpy:1664
     old "Skipping"
-    new ""
+    new "Saltando"
 

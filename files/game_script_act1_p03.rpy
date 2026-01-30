@@ -98,7 +98,7 @@ translate spanish game_script_act1_b14691a9:
 translate spanish game_script_act1_746cc901:
 
     # "Natsuki yanks open the closet door, and starts fishing around for her Parfait Girls collection."
-    "De un tirón, Natsuki abre la puerta del armario y empieza a rebuscar su colección de Parfait Girls."
+    "De un tirón, Natsuki abre la puerta del armario y empieza a buscar su colección de Parfait Girls."
 
 # game/game_script_act1.rpy:1388
 translate spanish game_script_act1_4c6188da:

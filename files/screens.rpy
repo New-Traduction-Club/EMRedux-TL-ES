@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/screens.rpy:420
     old "History"
-    new "Historia"
+    new "Historial"
 
     # game/screens.rpy:420
     old "Skip"
@@ -196,7 +196,7 @@ translate spanish strings:
 
     # game/screens.rpy:1303
     old "The dialogue history is empty."
-    new "La historia está vacía"
+    new "El historial está vacío"
 
     # game/screens.rpy:1531
     old "OK"

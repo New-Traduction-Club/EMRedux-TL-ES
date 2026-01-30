@@ -806,7 +806,7 @@ translate spanish game_script_act1_dc1f4cea:
 translate spanish game_script_act1_6f40eaad:
 
     # "While it was necessary...I still feel awful for contributing to its failure."
-    "Aunque sea necesario cntarlo... me siento fatal siendo parte del fracaso de Monika."
+    "Aunque era necesario... me siento fatal siendo parte del fracaso de Monika."
 
 # game/game_script_act1.rpy:950
 translate spanish game_script_act1_6534ec8c:

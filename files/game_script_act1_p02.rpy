@@ -632,7 +632,7 @@ translate spanish game_script_act1_bdfa6cfe:
 translate spanish game_script_act1_46db55ba:
 
     # "This is going to suck."
-    "Esto va a ser una putada, y una buena putada."
+    "Esto va a ser una putada..., una buena putada."
 
 # game/game_script_act1.rpy:891
 translate spanish game_script_act1_650a337d:

@@ -626,7 +626,7 @@ translate spanish game_script_act1_467ec4e6:
 translate spanish game_script_act1_01bc0227:
 
     # m "I just wish she could’ve stayed longer. I needed to fill her in on the poem activity."
-    m "Ojalá se hubiera quedado un poco más, quería que supiese lo de los poemas."
+    m "aunque ojalá se hubiera quedado un poco más, quería que supiese lo de los poemas."
 
 # game/game_script_act1.rpy:1538
 translate spanish game_script_act1_9158f751:

@@ -176,25 +176,25 @@ translate spanish game_script_act1_ea393697:
 translate spanish game_script_act1_47805a3b:
 
     # mc "And it only took us...{w}a week."
-    mc "Pues sí, y hemos necesitado para leerlo...{w} una semana entera."
+    mc "Y hemos necesitado para leerlo...{w} una semana entera."
 
 # game/game_script_act1.rpy:1406
 translate spanish game_script_act1_2fe1bf98:
 
     # n "Yeah."
-    n "Sí."
+    n "Sí...,"
 
 # game/game_script_act1.rpy:1408
 translate spanish game_script_act1_d9bd2d64:
 
     # n "Now only eleven more parts!"
-    n "¡porque quedan once tomos más!"
+    n "¡pues te quedan once tomos más!"
 
 # game/game_script_act1.rpy:1410
 translate spanish game_script_act1_1138e799:
 
     # mc "{i}I can hardly contain my excitement.{/i}"
-    mc "Me siento incapaz de ocultar mi pasión por tal afirmación. Siento mi corazón desbordarse de mi pecho."
+    mc "{i}Me hallo ante tal coyuntura que apenas puedo domeñar el júbilo que me embarga.{/i}"
 
 # game/game_script_act1.rpy:1412
 translate spanish game_script_act1_39804dee:

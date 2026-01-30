@@ -1868,7 +1868,7 @@ translate spanish game_script_act1_72a64b78:
 translate spanish game_script_act1_9d9c22ff:
 
     # "And with the heavy toll this day has taken on me, sleep takes me."
-    ""
+    "Con la abundante carga del día de hoy, el sueño me arrastra."
 
 # game/game_script_act1.rpy:1330
 translate spanish game_script_act1_3d9ab0ca:

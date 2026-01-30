@@ -1964,13 +1964,13 @@ translate spanish game_script_act1_999db181:
 translate spanish game_script_act1_f6ccb5e8:
 
     # "She motions towards her house, her arm wavering a little."
-    ""
+    "Señala hacia su casa de forma poco precisa, ya que le tambalea algo el brazo."
 
 # game/game_script_act1.rpy:2156
 translate spanish game_script_act1_dc106d71:
 
     # "We stop a few doors down."
-    "Nos detenemos a unas casas de llegar a la suya."
+    "Nos detenemos a unas casas antes de llegar a la suya."
 
 # game/game_script_act1.rpy:2157
 translate spanish game_script_act1_245592bc:

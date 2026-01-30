@@ -1700,7 +1700,7 @@ translate spanish game_script_act1_3f3117c9:
 translate spanish game_script_act1_6f63a148:
 
     # "Several steps behind, I can still make out her father’s shouts over the line, her expression dropping more and more with each and every word."
-    ""
+    "Pese a estar bastante atrás, consigo distinguir a su padre gritando por teléfono y ver su expresión decaer más y más con cada palabra que sale del auricular."
 
 # game/game_script_act1.rpy:2043
 translate spanish game_script_act1_50dbc5fb:
@@ -1778,61 +1778,61 @@ translate spanish game_script_act1_7a1371c7:
 translate spanish game_script_act1_71096e5f:
 
     # "Natsuki wipes her face with her sleeve and sniffles."
-    ""
+    "Natsuki se limpia la cara con la manga y sorbe la nariz."
 
 # game/game_script_act1.rpy:2076
 translate spanish game_script_act1_f7527b36:
 
     # "Nodding, I quickly collect the Parfait Girls collection before we rush out of the school gates."
-    ""
+    "Asintiendo, recojo la caja de Parfait Girls antes de salir pitando del instituto."
 
 # game/game_script_act1.rpy:2080
 translate spanish game_script_act1_27b77a7f:
 
     # "While we're walking, she shoots a quizzical look my way."
-    ""
+    "Mientras caminamos, me mira inquisitivamente."
 
 # game/game_script_act1.rpy:2083
 translate spanish game_script_act1_7a4b68d1:
 
     # n "By the way..."
-    n ""
+    n "Por cierto...,"
 
 # game/game_script_act1.rpy:2085
 translate spanish game_script_act1_bfcbce44:
 
     # n "Why did you bring Parfait Girls?"
-    n ""
+    n "¿por qué te has traído Parfait Girls?"
 
 # game/game_script_act1.rpy:2087
 translate spanish game_script_act1_6ae669e7:
 
     # mc "I thought that you'd want to read."
-    mc ""
+    mc "Pensé que tendrías ganas de leer."
 
 # game/game_script_act1.rpy:2089
 translate spanish game_script_act1_da990884:
 
     # n "So you brought the {i}whole box{/i}?"
-    n ""
+    n "Claro, y te traes la caja entera, ¿no?"
 
 # game/game_script_act1.rpy:2091
 translate spanish game_script_act1_70a444bd:
 
     # mc "I don't know."
-    mc ""
+    mc "Pues supongo."
 
 # game/game_script_act1.rpy:2092
 translate spanish game_script_act1_1c3ecbe9:
 
     # mc "I thought maybe you'd just like...having it nearby, you know?"
-    mc ""
+    mc "Pensé que te gustaría... sentir la caja cerca, no sé yo."
 
 # game/game_script_act1.rpy:2094
 translate spanish game_script_act1_4a43ec50:
 
     # mc "Like a comfort thing."
-    mc ""
+    mc "Como algo relajante, imagino."
 
 # game/game_script_act1.rpy:2096
 translate spanish game_script_act1_bb2cf764_3:
@@ -1844,43 +1844,43 @@ translate spanish game_script_act1_bb2cf764_3:
 translate spanish game_script_act1_1473a19e:
 
     # n "I guess it {i}is{/i}, isn't it?"
-    n ""
+    n "Supongo que es relajante."
 
 # game/game_script_act1.rpy:2100
 translate spanish game_script_act1_db85128a:
 
     # n "Never really thought about it that way."
-    n ""
+    n "Aunque nunca lo he pensado de ese modo."
 
 # game/game_script_act1.rpy:2103
 translate spanish game_script_act1_a5e407e7:
 
     # "She pauses."
-    ""
+    "Se para."
 
 # game/game_script_act1.rpy:2106
 translate spanish game_script_act1_fb0bbc00:
 
     # n "Well, I can't exactly take it home with me..."
-    n ""
+    n "Es que... no creo que me la pueda llevar a casa."
 
 # game/game_script_act1.rpy:2108
 translate spanish game_script_act1_990d223c:
 
     # n "Dad would..."
-    n ""
+    n "Mi padre podría..."
 
 # game/game_script_act1.rpy:2110
 translate spanish game_script_act1_94d64b74:
 
     # mc "Don't worry."
-    mc ""
+    mc "Tranquila."
 
 # game/game_script_act1.rpy:2111
 translate spanish game_script_act1_57ee7309:
 
     # mc "I'll keep it at my place."
-    mc ""
+    mc "Se queda conmigo."
 
 # game/game_script_act1.rpy:2112
 translate spanish game_script_act1_22f3ad71:

@@ -1574,7 +1574,7 @@ translate spanish game_script_act1_6caa439a:
 translate spanish game_script_act1_3567c648:
 
     # "But I need try to keep it together and figure something out."
-    ""
+    "Pero necesito calmarme y encontrar una solución."
 
 # game/game_script_act1.rpy:2003
 translate spanish game_script_act1_58cd5695:
@@ -1586,7 +1586,7 @@ translate spanish game_script_act1_58cd5695:
 translate spanish game_script_act1_6bed5224:
 
     # "But...{w} I don't know if I can."
-    ""
+    "Pero...,{w} n-no sé si puedo."
 
 # game/game_script_act1.rpy:2006
 translate spanish game_script_act1_375d117c:
@@ -1604,7 +1604,7 @@ translate spanish game_script_act1_e10ca273:
 translate spanish game_script_act1_ce086c24:
 
     # "Damn it..."
-    ""
+    "Joder..."
 
 # game/game_script_act1.rpy:2012
 translate spanish game_script_act1_48fc95e3:

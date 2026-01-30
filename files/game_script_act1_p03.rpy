@@ -32,7 +32,7 @@ translate spanish game_script_act1_4a4dc0a6:
 translate spanish game_script_act1_80774bad:
 
     # "...{w}What?"
-    ""
+    "¿Q-{w}Qué?"
 
 # game/game_script_act1.rpy:1364
 translate spanish game_script_act1_1cc85908:

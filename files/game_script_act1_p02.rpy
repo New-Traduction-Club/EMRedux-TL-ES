@@ -578,7 +578,7 @@ translate spanish game_script_act1_ac89cd97:
 translate spanish game_script_act1_0f71ec6f:
 
     # "She addresses me with an emotionless, dreary monotone."
-    "Me habla de forma monótona, fría y lúgubre."
+    "Me habla de una forma monótona, fría y lúgubre."
 
 # game/game_script_act1.rpy:874
 translate spanish game_script_act1_863680b0:

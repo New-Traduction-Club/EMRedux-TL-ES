@@ -1886,13 +1886,13 @@ translate spanish game_script_act1_57ee7309:
 translate spanish game_script_act1_22f3ad71:
 
     # mc "For safekeeping."
-    mc ""
+    mc "Por si acaso."
 
 # game/game_script_act1.rpy:2114
 translate spanish game_script_act1_cb6294cb:
 
     # n "Too late to take it back to the club, I take it?"
-    n ""
+    n "Muy tarde para llevarlo al club. ¿Lo cojo?"
 
 # game/game_script_act1.rpy:2116
 translate spanish game_script_act1_cf1adef2:
@@ -1904,7 +1904,7 @@ translate spanish game_script_act1_cf1adef2:
 translate spanish game_script_act1_a341c2fc:
 
     # n "Fine."
-    n ""
+    n "Genial."
 
 # game/game_script_act1.rpy:2121
 translate spanish game_script_act1_99d4afd9:

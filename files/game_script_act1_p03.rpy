@@ -776,7 +776,7 @@ translate spanish game_script_act1_91cb5596:
 translate spanish game_script_act1_3d238ca7:
 
     # mc "Natsuki?"
-    mc "¿Hola?"
+    mc "¿hola?"
 
 # game/game_script_act1.rpy:1610
 translate spanish game_script_act1_77d65967:

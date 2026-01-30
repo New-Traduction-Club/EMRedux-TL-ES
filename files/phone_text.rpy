@@ -4,21 +4,21 @@ translate spanish strings:
 
     # game/phone_text.rpy:155
     old "< Back"
-    new ""
+    new "< Atrás"
 
     # game/phone_text.rpy:157
     old "Active"
-    new ""
+    new "Activo ahora"
 
     # game/phone_text.rpy:432
     old "New Messages"
-    new ""
+    new "Nuevos mensajes"
 
     # game/phone_text.rpy:458
     old "Type a message."
-    new ""
+    new "Escribe un mensaje"
 
     # game/phone_text.rpy:460
     old "Send"
-    new ""
+    new "Enviar"
 

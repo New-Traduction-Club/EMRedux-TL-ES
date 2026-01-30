@@ -2,7 +2,7 @@
 translate spanish game_script_act1_7b993bad:
 
     # m "...A stroke?"
-    m "¿... derrame cerebral?"
+    m "¿Un derrame cerebral?"
 
 # game/game_script_act1.rpy:1358
 translate spanish game_script_act1_9d0dbae9:

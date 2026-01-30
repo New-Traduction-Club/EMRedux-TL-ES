@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/act_selector.rpy:80
     old "{play} Play"
-    new ""
+    new "{play} Jugar"
 

@@ -392,7 +392,7 @@ translate spanish game_script_act1_94e8bdeb:
 translate spanish game_script_act1_25f7f05f:
 
     # "I figure they might have taken Sayori’s phone or she’s turned it off, that’s not a huge deal right now."
-    "Me doy cuenta de que pueden haberle quitado el teléfono o que ella misma lo haya apagado, pero no creo que ese sea el mayor de mis problemas."
+    "Me doy cuenta de que pueden haberle quitado el teléfono a Sayori o que ella misma lo haya apagado, pero no creo que ese sea el mayor de mis problemas."
 
 # game/game_script_act1.rpy:819
 translate spanish game_script_act1_9780ce7d_1:

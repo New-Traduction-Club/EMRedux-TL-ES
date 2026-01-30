@@ -1118,7 +1118,7 @@ translate spanish game_script_act1_dda32de1:
 translate spanish game_script_act1_ca954841:
 
     # mc "This probably won’t be a permanent solution, but it’ll get you away for long enough for us to do something about...{w}{i}him.{/i}"
-    mc "Puede que no sea una solución permanente, pero conseguirá tenerte un tiempo alejada hasta encontrar una manera de encargarnos de... 'él'."
+    mc "Puede que no sea una solución permanente, pero conseguirá tenerte un tiempo alejada hasta encontrar una manera de encargarnos de...{w} 'él'."
 
 # game/game_script_act1.rpy:1803
 translate spanish game_script_act1_85eb7596:
@@ -1130,7 +1130,7 @@ translate spanish game_script_act1_85eb7596:
 translate spanish game_script_act1_d33ba67e:
 
     # mc "And you need it now."
-    mc ""
+    mc "Y lo necesitas ya."
 
 # game/game_script_act1.rpy:1809
 translate spanish game_script_act1_a25a5770:
@@ -1142,19 +1142,19 @@ translate spanish game_script_act1_a25a5770:
 translate spanish game_script_act1_085c9923:
 
     # n "You know I can't do that."
-    n ""
+    n "Sabes perfectamente que no puedo, [player]."
 
 # game/game_script_act1.rpy:1812
 translate spanish game_script_act1_6f7e6be2:
 
     # n "I don't want to be a burden to you."
-    n ""
+    n "No quiero ser una carga para ti."
 
 # game/game_script_act1.rpy:1813
 translate spanish game_script_act1_8c15250e:
 
     # n "Besides..."
-    n ""
+    n "Aparte..."
 
 # game/game_script_act1.rpy:1814
 translate spanish game_script_act1_64567b68:
@@ -1166,13 +1166,13 @@ translate spanish game_script_act1_64567b68:
 translate spanish game_script_act1_4a2fe505:
 
     # n "No matter what."
-    n ""
+    n "Pase lo que pase."
 
 # game/game_script_act1.rpy:1819
 translate spanish game_script_act1_f58cffb7:
 
     # n "{cps=8}He'll {i}never{/i} let me go.{/cps}"
-    n ""
+    n "{cps=8}No me dejaría irme.{/cps}"
 
 # game/game_script_act1.rpy:1823
 translate spanish game_script_act1_bb2cf764_2:

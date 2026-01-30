@@ -124,7 +124,7 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:242
     old "Return"
-    new ""
+    new "Volver"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
@@ -360,7 +360,7 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1582
     old "Done"
-    new ""
+    new "Hecho"
 
     # renpy/common/00director.rpy:1592
     old "(statement)"
@@ -464,23 +464,23 @@ translate spanish strings:
 
     # renpy/common/00gui.rpy:448
     old "Are you sure?"
-    new ""
+    new "¿Estás seguro?"
 
     # renpy/common/00gui.rpy:449
     old "Are you sure you want to delete this save?"
-    new ""
+    new "¿Quieres borrar este espacio de guardado?"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to overwrite your save?"
-    new ""
+    new "¿Quieres sobreescribir estos datos?"
 
     # renpy/common/00gui.rpy:451
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "Al cargar se perderá el progreso no guardado.\n¿Quieres cargar estos datos?"
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to quit?"
-    new ""
+    new "¿Quieres cerrar la aplicación?"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
@@ -532,7 +532,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:290
     old "display"
-    new ""
+    new "pantalla"
 
     # renpy/common/00preferences.rpy:310
     old "transitions"

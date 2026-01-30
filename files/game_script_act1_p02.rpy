@@ -1952,7 +1952,7 @@ translate spanish game_script_act1_0aac335e:
 translate spanish game_script_act1_e0d07450:
 
     # "All that's on my mind is a sense of foreboding doom, and the anxiety of an uncertain future."
-    ""
+    "No me saco de la cabeza el presentimiento de que va a ocurrir una desgracia y me angustia no saber qué pasará en el futuro."
 
 # game/game_script_act1.rpy:1345
 translate spanish game_script_act1_95c3ee08:

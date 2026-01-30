@@ -1892,13 +1892,13 @@ translate spanish game_script_act1_22f3ad71:
 translate spanish game_script_act1_cb6294cb:
 
     # n "Too late to take it back to the club, I take it?"
-    n "Muy tarde para llevarlo al club. ¿Lo cojo?"
+    n "Me parece a mí que, en realidad, es porque es muy tarde para llevar ya la caja al club, ¿no?"
 
 # game/game_script_act1.rpy:2116
 translate spanish game_script_act1_cf1adef2:
 
     # mc "Yeah."
-    mc "Claro."
+    mc "Eh..., sí."
 
 # game/game_script_act1.rpy:2118
 translate spanish game_script_act1_a341c2fc:
@@ -1910,31 +1910,31 @@ translate spanish game_script_act1_a341c2fc:
 translate spanish game_script_act1_99d4afd9:
 
     # "She appears to be uncomfortable with the decision..."
-    ""
+    "Parece que está inconforme con que me quede la caja...,"
 
 # game/game_script_act1.rpy:2123
 translate spanish game_script_act1_b78f819e:
 
     # "...before showing a weak smile."
-    ""
+    "hasta que la veo sonreír."
 
 # game/game_script_act1.rpy:2126
 translate spanish game_script_act1_0c381921:
 
     # n "Just...be careful with them, okay?"
-    n ""
+    n "Ten... cuidado con ella, ¿vale?"
 
 # game/game_script_act1.rpy:2128
 translate spanish game_script_act1_01271121:
 
     # n "They're important to me."
-    n ""
+    n "Esa colección es muy importante para mí."
 
 # game/game_script_act1.rpy:2130
 translate spanish game_script_act1_1bf60051:
 
     # mc "Of course."
-    mc "Claro, ¿por qué iba a negarme?"
+    mc "Claro, no tienes de qué preocuparte."
 
 # game/game_script_act1.rpy:2133
 translate spanish game_script_act1_3fdbbd7c:

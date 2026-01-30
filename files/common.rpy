@@ -382,7 +382,7 @@
 
     # renpy/common/00gui.rpy:460
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "¿Confías en el dispositivo en el que se creó la partida? Solo debes elegir "sí" si eres el único usuario del dispositivo."
+    new "¿Confías en el dispositivo en el que se creó la partida? Solo debes elegir 'sí' si eres el único usuario del dispositivo."
 
     # renpy/common/00keymap.rpy:325
     old "Failed to save screenshot as %s."

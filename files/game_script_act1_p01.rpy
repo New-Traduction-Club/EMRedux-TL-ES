@@ -1930,7 +1930,7 @@ translate spanish game_script_act1_21a72660:
 translate spanish game_script_act1_62bf1f21:
 
     # "The image of Sayori, noose around her neck, the frightened expression frozen on her face..."
-    "en esa imagen de Sayori con la cuerda rodeando su cuello y esa expresión en su cara, fría a más no poder..."
+    "en esa imagen de Sayori con la cuerda rodeando su cuello y esa expresión en su cara, fría a más no poder...?"
 
 # game/game_script_act1.rpy:699
 translate spanish game_script_act1_a20cefa7_1:

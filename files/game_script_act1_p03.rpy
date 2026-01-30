@@ -1136,7 +1136,7 @@ translate spanish game_script_act1_d33ba67e:
 translate spanish game_script_act1_a25a5770:
 
     # "Natsuki wipes her tears from her eyes and shakes her head."
-    "Natsuki se limpia las lágrimas y sacude su cabeza."
+    "Natsuki se limpia las lágrimas y niega con la cabeza."
 
 # game/game_script_act1.rpy:1811
 translate spanish game_script_act1_085c9923:

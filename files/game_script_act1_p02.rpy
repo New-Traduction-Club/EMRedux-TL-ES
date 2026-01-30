@@ -1442,7 +1442,7 @@ translate spanish game_script_act1_9b5974ab:
 translate spanish game_script_act1_3da8e993:
 
     # mc "Y'know, despite your differences, Yuri does care about you."
-    mc "Tú sabes..., que tengáis vuestras diferencias no quita que le importes."
+    mc "Tú sabes..., que Yuri y tú tengáis vuestras diferencias no quita que le importes."
 
 # game/game_script_act1.rpy:1175
 translate spanish game_script_act1_7e984877:

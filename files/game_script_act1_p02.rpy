@@ -1724,13 +1724,13 @@ translate spanish game_script_act1_c9dac702:
 translate spanish game_script_act1_b102c717:
 
     # "What am I kidding, I already know the answer."
-    ""
+    "A quién voy a engañar, ya me sé la respuesta."
 
 # game/game_script_act1.rpy:1282
 translate spanish game_script_act1_7581af97:
 
     # "I’ll fail her, just like before."
-    ""
+    "Le habré fallado, igual que antes."
 
 # game/game_script_act1.rpy:1286
 translate spanish game_script_act1_85f54586:
@@ -1748,19 +1748,19 @@ translate spanish game_script_act1_893d8353:
 translate spanish game_script_act1_9b981303:
 
     # "I'll fail her."
-    ""
+    "Le habré fallado,"
 
 # game/game_script_act1.rpy:1289
 translate spanish game_script_act1_aab11884:
 
     # "And she'll be dead."
-    ""
+    "y acabará muriendo...,"
 
 # game/game_script_act1.rpy:1290
 translate spanish game_script_act1_aee1002f:
 
     # "And it'll all be my fault."
-    ""
+    "y será mi culpa."
 
 # game/game_script_act1.rpy:1291
 translate spanish game_script_act1_e826ee9a:
@@ -1772,13 +1772,13 @@ translate spanish game_script_act1_e826ee9a:
 translate spanish game_script_act1_227630af:
 
     # "I have an urge to run to the hospital and be right next to her, making sure she's safe."
-    ""
+    "Me dan ganas de ir al hospital corriendo y quedarme a su lado, asegurándome de su bienestar."
 
 # game/game_script_act1.rpy:1293
 translate spanish game_script_act1_7a83f6ed:
 
     # "I want to see her be happy again, be the Sayori I've known for so long..."
-    ""
+    "Quiero volver a verla feliz, quiero que vuelva a ser la Sayori que conocí hace mucho tiempo..."
 
 # game/game_script_act1.rpy:1295
 translate spanish game_script_act1_bc35bd60:

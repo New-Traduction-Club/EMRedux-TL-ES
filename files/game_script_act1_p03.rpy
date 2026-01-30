@@ -1940,7 +1940,7 @@ translate spanish game_script_act1_1bf60051:
 translate spanish game_script_act1_3fdbbd7c:
 
     # "We step out onto the sidewalk outside the school gate, Natsuki leading the way."
-    ""
+    "Salimos del recinto y Natsuki se pone por delante, liderando el paseo."
 
 # game/game_script_act1.rpy:2145
 translate spanish game_script_act1_34f83e6e:

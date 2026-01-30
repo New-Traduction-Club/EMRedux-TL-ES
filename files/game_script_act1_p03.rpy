@@ -1664,7 +1664,7 @@ translate spanish game_script_act1_b6a52fb2:
 translate spanish game_script_act1_c3f540ee:
 
     # "Natsuki slowly pulls her phone out of her pocket, and puts a finger in front of her mouth, mimicking a 'shush'."
-    ""
+    "Natsuki saca su teléfono lentamente y se acerca un dedo a los labios, indicándome que me calle."
 
 # game/game_script_act1.rpy:2033
 translate spanish game_script_act1_e0154157:

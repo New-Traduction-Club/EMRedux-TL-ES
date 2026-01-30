@@ -268,10 +268,6 @@
     old "Add"
     new "Añadir"
 
-    # renpy/common/00director.rpy:1667
-    old "Cancel"
-    new "Cancelar"
-
     # renpy/common/00director.rpy:1670
     old "Remove"
     new "Quitar"
@@ -420,10 +416,6 @@
     old "Contacting App Store\nPlease Wait..."
     new "Contacting App Store\nPlease Wait..."
 
-    # renpy/common/00gallery.rpy:643
-    old "Image [index] of [count] locked."
-    new "Image [index] of [count] locked."
-
     # renpy/common/00gallery.rpy:663
     old "prev"
     new "prev"
@@ -511,4 +503,7 @@
     # renpy/common/_errorhandling.rpym:796
     old "Parsing the script failed."
     new "La compilación del script falló."
+    
+    old "Return"
+    new "Volver"
 

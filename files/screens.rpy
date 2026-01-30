@@ -160,11 +160,11 @@ translate spanish strings:
 
     # game/screens.rpy:1078
     old "Gaussian Blur"
-    new "Desenfoque Gaussiano"
+    new "Gaussiano"
 
     # game/screens.rpy:1079
     old "Default Blur"
-    new "Desenfoque predeterminado"
+    new "Predeterminado"
 
     # game/screens.rpy:1094
     old "Text Speed"
@@ -172,7 +172,7 @@ translate spanish strings:
 
     # game/screens.rpy:1107
     old "Choose Theme"
-    new "Elige tema"
+    new "Elegir tema"
 
     # game/screens.rpy:1125
     old "Language"

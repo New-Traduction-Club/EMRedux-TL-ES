@@ -626,7 +626,7 @@ translate spanish game_script_act1_467ec4e6:
 translate spanish game_script_act1_01bc0227:
 
     # m "I just wish she could’ve stayed longer. I needed to fill her in on the poem activity."
-    m ""
+    m "Ojalá se hubiera quedado un poco más, quería que supiese lo de los poemas."
 
 # game/game_script_act1.rpy:1538
 translate spanish game_script_act1_9158f751:
@@ -770,7 +770,7 @@ translate spanish game_script_act1_68569e9e:
 translate spanish game_script_act1_91cb5596:
 
     # "She just stares ahead blankly."
-    "Lo único que hace es mirar hacia el frente con la mirada perdida."
+    "Lo único que hace es mirar hacia el frente, perdida."
 
 # game/game_script_act1.rpy:1603
 translate spanish game_script_act1_3d238ca7:
@@ -878,7 +878,7 @@ translate spanish game_script_act1_e1fbf5df:
 translate spanish game_script_act1_2943f145:
 
     # n "It’s funny, really...{w}I did want to perform my poem after all."
-    n "Es gracioso, me apetecía muchísimo recitar mi poema y todo..."
+    n "Es gracioso, me...{w} me apetecía muchísimo recitar mi poema y todo..."
 
 # game/game_script_act1.rpy:1673
 translate spanish game_script_act1_1a7b00d3:
@@ -974,7 +974,7 @@ translate spanish game_script_act1_b8342bad:
 translate spanish game_script_act1_384b423e:
 
     # "...this whole time."
-    ""
+    "Han abusado de ella... durante todo este tiempo."
 
 # game/game_script_act1.rpy:1736
 translate spanish game_script_act1_0efafb0c:
@@ -1046,7 +1046,7 @@ translate spanish game_script_act1_5afdf86f:
 translate spanish game_script_act1_cb3dfcd7:
 
     # n "No one would believe me."
-    n ""
+    n "Nadie me creería si les contase esto."
 
 # game/game_script_act1.rpy:1768
 translate spanish game_script_act1_1d104161:
@@ -1100,7 +1100,7 @@ translate spanish game_script_act1_2cac21b3:
 translate spanish game_script_act1_2485f494_1:
 
     # mc "I..."
-    mc "Me..."
+    mc "Tengo..."
 
 # game/game_script_act1.rpy:1797
 translate spanish game_script_act1_3b08702a:

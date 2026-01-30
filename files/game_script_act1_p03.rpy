@@ -50,7 +50,7 @@ translate spanish game_script_act1_1e6403ec:
 translate spanish game_script_act1_cea29739:
 
     # "Why would she lie to me? Or Monika?"
-    "¿Por qué me mentiría? ¿Por qué mentirle a Monika?"
+    "¿Por qué me mentiría en un principio? ¿Por qué mentirle ahora a Monika?"
 
 # game/game_script_act1.rpy:1367
 translate spanish game_script_act1_2e856fb2:

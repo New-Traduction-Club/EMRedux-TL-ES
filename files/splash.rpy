@@ -58,7 +58,7 @@ translate spanish strings:
 
     # game/splash.rpy:176
     old "I agree."
-    new ""
+    new "Acepto."
 
     # game/splash.rpy:182
     old "By playing [config.name] you agree that you have completed Exit Music Redux and Doki Doki Literature Club and accept any spoilers contained within."

@@ -16,7 +16,7 @@ En desarrollo
 
 ## Progreso
 <!-- PROGRESO_TRADUCCION_START -->
-**1700 de 11194 líneas traducidas**
+**1706 de 11194 líneas traducidas**
 
-**Progreso:** 15.19%
+**Progreso:** 15.24%
 <!-- PROGRESO_TRADUCCION_END -->

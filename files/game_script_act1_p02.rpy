@@ -1778,19 +1778,19 @@ translate spanish game_script_act1_227630af:
 translate spanish game_script_act1_7a83f6ed:
 
     # "I want to see her be happy again, be the Sayori I've known for so long..."
-    "Quiero volver a verla feliz, quiero que vuelva a ser la Sayori que conocí hace mucho tiempo..."
+    "Quiero volver a verla feliz, quiero que vuelva a ser la Sayori que conocí hace mucho tiempo...,"
 
 # game/game_script_act1.rpy:1295
 translate spanish game_script_act1_bc35bd60:
 
     # "But I can only see her strangled corpse, dangling from her ceiling fan."
-    ""
+    "pero lo único que veo ahora es su cuerpo estrangulado, colgando del ventilador de techo..."
 
 # game/game_script_act1.rpy:1296
 translate spanish game_script_act1_a9b919ea:
 
     # "{i}Why is this happening to me?{/i}"
-    ""
+    "¿Por qué me tiene que pasar esto a mí?"
 
 # game/game_script_act1.rpy:1297
 translate spanish game_script_act1_d8e5e7bd:
@@ -1802,31 +1802,31 @@ translate spanish game_script_act1_d8e5e7bd:
 translate spanish game_script_act1_02affade:
 
     # "Constantly on-edge."
-    "En constante nerviosismo."
+    "Sentirme en constante nerviosismo..."
 
 # game/game_script_act1.rpy:1299
 translate spanish game_script_act1_b52cfde5:
 
     # "Overthinking and overreacting to news that I {i}should{/i} be happy about."
-    "Sobrepensando y exagerando cosas de las noticias buenas que 'deberían' hacerme feliz."
+    "Sobrepensando y exagerando por esas noticias buenas que 'deberían' hacerme feliz."
 
 # game/game_script_act1.rpy:1300
 translate spanish game_script_act1_5208fd7a:
 
     # "Deep and terrible worry whenever I have the slightest bad thought."
-    ""
+    "Una profunda y terrible preocupación cada vez que tengo el más mínimo mal pensamiento."
 
 # game/game_script_act1.rpy:1301
 translate spanish game_script_act1_8d600ab2:
 
     # "I can't keep going like this."
-    ""
+    "No puedo seguir así."
 
 # game/game_script_act1.rpy:1302
 translate spanish game_script_act1_24cbc77e:
 
     # "My hands trembling, I send a message back to Sayori."
-    ""
+    "Con las manos temblorosas, me las apaño para enviarle un mensaje de respuesta a Sayori."
 
 # game/game_script_act1.rpy:1309
 translate spanish game_script_act1_48c037f5:
@@ -1838,13 +1838,13 @@ translate spanish game_script_act1_48c037f5:
 translate spanish game_script_act1_f0d6a8f5:
 
     # "{i}'See you soon.'{/i}"
-    ""
+    "'Nos vemos, Sayori'..."
 
 # game/game_script_act1.rpy:1312
 translate spanish game_script_act1_118f0e8b:
 
     # "If I’m not admitted myself first."
-    "Si no me ingresan a mí primero."
+    "Si no me hospitalizan a mí primero."
 
 # game/game_script_act1.rpy:1314
 translate spanish game_script_act1_2e3d9786:

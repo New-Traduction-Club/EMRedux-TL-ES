@@ -20,7 +20,7 @@ translate spanish game_script_act1_598aa3d2:
 translate spanish game_script_act1_2f09b690:
 
     # n "T-thank you."
-    n ""
+    n "g-gracias..."
 
 # game/game_script_act1.rpy:2172
 translate spanish game_script_act1_74d69760:
@@ -32,7 +32,7 @@ translate spanish game_script_act1_74d69760:
 translate spanish game_script_act1_fba8ab27:
 
     # "That must have taken her a lot to say."
-    ""
+    "Ha debido costarle mucho decirlo."
 
 # game/game_script_act1.rpy:2174
 translate spanish game_script_act1_d34afd41:
@@ -50,7 +50,7 @@ translate spanish game_script_act1_5c91e75a:
 translate spanish game_script_act1_f191f8a9:
 
     # "She releases me from her grip."
-    ""
+    "Me suelta la mano."
 
 # game/game_script_act1.rpy:2181
 translate spanish game_script_act1_a8acee89:

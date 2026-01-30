@@ -1382,7 +1382,7 @@ translate spanish game_script_act1_ad10452e:
 translate spanish game_script_act1_2906ece8:
 
     # "She must be doing it for a reason."
-    "debe hacerlo por algún motivo."
+    "debe de hacerlo por algún motivo."
 
 # game/game_script_act1.rpy:1146
 translate spanish game_script_act1_ce63c15e:

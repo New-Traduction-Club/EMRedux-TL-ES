@@ -120,7 +120,7 @@ translate spanish strings:
 
     # game/screens.rpy:1056
     old "Rollback Side"
-    new ""
+    new "Revertir lado"
 
     # game/screens.rpy:1057
     old "Disable"

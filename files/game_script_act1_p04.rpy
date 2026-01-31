@@ -68,7 +68,7 @@ translate spanish game_script_act1_5f9b0496:
 translate spanish game_script_act1_3f117a40:
 
     # "Natsuki continues onward, head down, clutching her backpack."
-    ""
+    "Natsuki continua hacia delante, mochila en mano, con la cabeza gacha."
 
 # game/game_script_act1.rpy:2188
 translate spanish game_script_act1_5d1ed70a:
@@ -152,13 +152,13 @@ translate spanish game_script_act1_2e559586:
 translate spanish game_script_act1_7c301c94:
 
     # "I raise my hand in a goodbye wave."
-    ""
+    "Levanto mi mano en señal de despedida."
 
 # game/game_script_act1.rpy:2207
 translate spanish game_script_act1_a6d5706d:
 
     # "She raises hers, shouldering her bag in the process."
-    ""
+    "Ella hace lo mismo y se cuelga la mochila en el hombro."
 
 # game/game_script_act1.rpy:2209
 translate spanish game_script_act1_1f6d20b7:
@@ -194,7 +194,7 @@ translate spanish game_script_act1_0cf8b987:
 translate spanish game_script_act1_e0b688da:
 
     # "I need to get home, if only to figure out my next move."
-    "Necesito volver a casa y pensar en algo..."
+    "Necesito volver a casa y pensar en algo...,"
 
 # game/game_script_act1.rpy:2217
 translate spanish game_script_act1_bf99243e:
@@ -212,55 +212,55 @@ translate spanish game_script_act1_28986d4d:
 translate spanish game_script_act1_5f55d7b6:
 
     # "So I have {i}something{/i} concrete to form a plan with."
-    ""
+    "Así podré pensar en algo más concreto teniendo su casa de referencia."
 
 # game/game_script_act1.rpy:2220
 translate spanish game_script_act1_4d9f5351:
 
     # "With nothing else to do here, I pick up Parfait Girls, turn around, and begin the trek home."
-    ""
+    "Como ya no tengo más nada que hacer, cojo la colección de mangas y empiezo a caminar a casa..."
 
 # game/game_script_act1.rpy:2229
 translate spanish game_script_act1_29c52d68:
 
     # "Three rings, going on four."
-    ""
+    "Tres 'rings', cuatro 'rings'..."
 
 # game/game_script_act1.rpy:2230
 translate spanish game_script_act1_388ebdbb:
 
     # mc "Come on, pick up..."
-    mc ""
+    mc "Venga, cógelo ya, Sayori..."
 
 # game/game_script_act1.rpy:2238
 translate spanish game_script_act1_58aa7742:
 
     # s_phone "[player], hey."
-    s_phone ""
+    s_phone "Hola, [player]."
 
 # game/game_script_act1.rpy:2239
 translate spanish game_script_act1_587e282f:
 
     # mc_phone "Hey, Sayori."
-    mc_phone ""
+    mc_phone "Hola, Sayori."
 
 # game/game_script_act1.rpy:2240
 translate spanish game_script_act1_3c85557b:
 
     # mc_phone "H-how are you?"
-    mc_phone ""
+    mc_phone "¿C-Cómo estás?"
 
 # game/game_script_act1.rpy:2242
 translate spanish game_script_act1_e54f705b:
 
     # phone "She pauses for a moment."
-    phone ""
+    phone "Se queda callada un momento."
 
 # game/game_script_act1.rpy:2244
 translate spanish game_script_act1_bf696139:
 
     # s_phone "The best I’ve been doing in years."
-    s_phone ""
+    s_phone "Estoy lo mejor que me he podido sentir en años."
 
 # game/game_script_act1.rpy:2245
 translate spanish game_script_act1_1639edd3:

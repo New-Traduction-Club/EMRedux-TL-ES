@@ -272,7 +272,7 @@ translate spanish game_script_act1_1639edd3:
 translate spanish game_script_act1_e4201538:
 
     # phone "I find it difficult to express my relief."
-    phone "Me es difícil expresar alivio."
+    phone "Me es difícil expresar que me encuentro aliviado."
 
 # game/game_script_act1.rpy:2248
 translate spanish game_script_act1_8dd13b31:
@@ -308,7 +308,7 @@ translate spanish game_script_act1_2ba879ed:
 translate spanish game_script_act1_1f02deb2:
 
     # s_phone "So I’ll be back tomorrow!"
-    s_phone "¡Mañana me tendrás por allí!"
+    s_phone "Así que... ¡mañana me tendrás por allí!"
 
 # game/game_script_act1.rpy:2255
 translate spanish game_script_act1_003e51a5:
@@ -320,7 +320,7 @@ translate spanish game_script_act1_003e51a5:
 translate spanish game_script_act1_eb15f766:
 
     # s_phone "O-oh, I forgot!"
-    s_phone "A-Ay, que se me pasa..."
+    s_phone "A-Ay, antes de que se me olvide..."
 
 # game/game_script_act1.rpy:2257
 translate spanish game_script_act1_b79a4504:
@@ -332,7 +332,7 @@ translate spanish game_script_act1_b79a4504:
 translate spanish game_script_act1_5b531da9:
 
     # mc_phone "That’s...{w}that's great!"
-    mc_phone "¡Está...{w} muy bien!"
+    mc_phone "¡Eso está...{w} de escándalo!"
 
 # game/game_script_act1.rpy:2259
 translate spanish game_script_act1_d20a9d17:
@@ -356,103 +356,103 @@ translate spanish game_script_act1_afd39a94:
 translate spanish game_script_act1_0e4310c4:
 
     # s_phone "I love the Literature Club."
-    s_phone ""
+    s_phone "Me encanta el club, ¿sabes?"
 
 # game/game_script_act1.rpy:2263
 translate spanish game_script_act1_24d82b08:
 
     # s_phone "Besides, I’m the Vice President!"
-    s_phone ""
+    s_phone "Y bueno, que no se te olvide... ¡que soy la vicepresidenta!"
 
 # game/game_script_act1.rpy:2264
 translate spanish game_script_act1_bb1e0a97:
 
     # s_phone "I can't just shirk my responsibilities like that!"
-    s_phone ""
+    s_phone "¡No puedo escaquearme de mis responsabilidades así como así!"
 
 # game/game_script_act1.rpy:2266
 translate spanish game_script_act1_ec8dcf29:
 
     # phone "She’s almost acting like her 'normal self'."
-    phone ""
+    phone "Está intentando ser la 'Sayori' de siempre."
 
 # game/game_script_act1.rpy:2267
 translate spanish game_script_act1_87e93570:
 
     # phone "It’s honestly terrifying how she was on Monday, compared to now."
-    phone ""
+    phone "Da miedo ver cómo estaba el lunes y cómo está ahora."
 
 # game/game_script_act1.rpy:2268
 translate spanish game_script_act1_284f98ae:
 
     # phone "It seems like she wants to move past what happened."
-    phone ""
+    phone "Parece que quiere pasar página."
 
 # game/game_script_act1.rpy:2269
 translate spanish game_script_act1_b23b8107:
 
     # phone "On one hand, I’m all for trying to create a more positive environment for her..."
-    phone ""
+    phone "Por una parte, estoy totalmente a favor de intentar crear un entorno más positivo para ella..."
 
 # game/game_script_act1.rpy:2270
 translate spanish game_script_act1_87c9a566:
 
     # phone "On the other hand..."
-    phone ""
+    phone "Por otra parte..."
 
 # game/game_script_act1.rpy:2272
 translate spanish game_script_act1_e55dd08a:
 
     # mc_phone "I guess, if you really want to."
-    mc_phone ""
+    mc_phone "Bueno, si insistes..."
 
 # game/game_script_act1.rpy:2273
 translate spanish game_script_act1_24f9f0e2:
 
     # mc_phone "You wanna walk to school with me?"
-    mc_phone ""
+    mc_phone "¿Te apetece ir al instituto conmigo?"
 
 # game/game_script_act1.rpy:2274
 translate spanish game_script_act1_17230e21:
 
     # s_phone "Of course I do, [player]."
-    s_phone ""
+    s_phone "Pues claro, [player]."
 
 # game/game_script_act1.rpy:2275
 translate spanish game_script_act1_5982ecbf:
 
     # s_phone "Like always."
-    s_phone ""
+    s_phone "Como siempre hemos hecho."
 
 # game/game_script_act1.rpy:2276
 translate spanish game_script_act1_7dcdeff1:
 
     # mc_phone "Alright. I’ll see you tomorrow then?"
-    mc_phone ""
+    mc_phone "De fábula. ¿Nos vemos mañana?"
 
 # game/game_script_act1.rpy:2277
 translate spanish game_script_act1_031b0f46:
 
     # s_phone "See you tomorrow!"
-    s_phone ""
+    s_phone "¡Nos vemos mañana, sí!"
 
 # game/game_script_act1.rpy:2278
 translate spanish game_script_act1_97b01383:
 
     # mc_phone "Don't forget about your alarm."
-    mc_phone ""
+    mc_phone "No te olvides de ponerte una alarma antes de irte a dormir."
 
 # game/game_script_act1.rpy:2279
 translate spanish game_script_act1_764f0b8b:
 
     # s_phone "Ehehe, I won’t!"
-    s_phone ""
+    s_phone "Je, je, je..., ¡no me olvidaré!"
 
 # game/game_script_act1.rpy:2280
 translate spanish game_script_act1_62b82f71:
 
     # s_phone "Bye~."
-    s_phone ""
+    s_phone "¡Chaítooo...!"
 
 # game/game_script_act1.rpy:2285
 translate spanish game_script_act1_370fda78:
@@ -470,13 +470,13 @@ translate spanish game_script_act1_5f6e4f6e:
 translate spanish game_script_act1_6c25b71e:
 
     # "I just hope that Sayori didn't notice that I wasn’t all there."
-    "Solo espero que Sayori no se percate de que no he estado muy presente..."
+    "Solo espero que Sayori no se percate de que no he estado muy bien, que digamos..."
 
 # game/game_script_act1.rpy:2288
 translate spanish game_script_act1_9de5c1e1:
 
     # "I'm so exhausted by what happened today, I'm just unable to really express...{w}{i}anything.{/i}"
-    "Después de lo de hoy, no soy capaz de decirle...{w} 'todo'."
+    "Después de todo lo que ha pasado hoy, no soy capaz de decirle...{w} absolutamente nada."
 
 # game/game_script_act1.rpy:2289
 translate spanish game_script_act1_893b930b:

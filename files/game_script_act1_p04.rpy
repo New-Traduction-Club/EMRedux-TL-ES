@@ -260,37 +260,37 @@ translate spanish game_script_act1_e54f705b:
 translate spanish game_script_act1_bf696139:
 
     # s_phone "The best I’ve been doing in years."
-    s_phone "Estoy lo mejor que me he podido sentir en años."
+    s_phone "Lo mejor que he podido estar nunca."
 
 # game/game_script_act1.rpy:2245
 translate spanish game_script_act1_1639edd3:
 
     # s_phone "I actually feel...{w}alright."
-    s_phone ""
+    s_phone "En realidad, me siento...{w} bien."
 
 # game/game_script_act1.rpy:2247
 translate spanish game_script_act1_e4201538:
 
     # phone "I find it difficult to express my relief."
-    phone ""
+    phone "Me es difícil expresar alivio."
 
 # game/game_script_act1.rpy:2248
 translate spanish game_script_act1_8dd13b31:
 
     # phone "I knew that getting professional help would be good for her, but I assumed it would be a more gradual process."
-    phone ""
+    phone "Sé que tener a profesionales ayudándote es bueno, pero debe ser un proceso lento."
 
 # game/game_script_act1.rpy:2250
 translate spanish game_script_act1_c9607f1d:
 
     # mc_phone "Honestly, I’m really happy for you, Sayori."
-    mc_phone ""
+    mc_phone "Si te soy sincero, Sayori, me siento muy orgulloso de ti."
 
 # game/game_script_act1.rpy:2251
 translate spanish game_script_act1_6a1f3c51:
 
     # s_phone "Thanks, [player]."
-    s_phone ""
+    s_phone "Gracias, [player]."
 
 # game/game_script_act1.rpy:2252
 translate spanish game_script_act1_b6c42e2b:

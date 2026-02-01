@@ -296,61 +296,61 @@ translate spanish game_script_act1_6a1f3c51:
 translate spanish game_script_act1_b6c42e2b:
 
     # s_phone "I actually don’t have to stay here anymore."
-    s_phone ""
+    s_phone "Y que sepas que no me tengo que quedar aquí ya."
 
 # game/game_script_act1.rpy:2253
 translate spanish game_script_act1_2ba879ed:
 
     # s_phone "Mum’s on her way to pick me up."
-    s_phone ""
+    s_phone "Mi madre viene ya a recogerme."
 
 # game/game_script_act1.rpy:2254
 translate spanish game_script_act1_1f02deb2:
 
     # s_phone "So I’ll be back tomorrow!"
-    s_phone ""
+    s_phone "¡Mañana me tendrás por allí!"
 
 # game/game_script_act1.rpy:2255
 translate spanish game_script_act1_003e51a5:
 
     # mc_phone "Oh, nice!"
-    mc_phone ""
+    mc_phone "¡Es genial!"
 
 # game/game_script_act1.rpy:2256
 translate spanish game_script_act1_eb15f766:
 
     # s_phone "O-oh, I forgot!"
-    s_phone ""
+    s_phone "A-Ay, que se me pasa..."
 
 # game/game_script_act1.rpy:2257
 translate spanish game_script_act1_b79a4504:
 
     # s_phone "The doctor said I could probably go to school tomorrow if I wanted..."
-    s_phone ""
+    s_phone "El doctor me ha dicho que puedo volver al insti mañana si tengo ganas..."
 
 # game/game_script_act1.rpy:2258
 translate spanish game_script_act1_5b531da9:
 
     # mc_phone "That’s...{w}that's great!"
-    mc_phone ""
+    mc_phone "¡Está...{w} muy bien!"
 
 # game/game_script_act1.rpy:2259
 translate spanish game_script_act1_d20a9d17:
 
     # mc_phone "Just remember, you don’t have to come to the club if you don’t want to."
-    mc_phone ""
+    mc_phone "Pero Sayori, no es necesario que asistas a las reuniones del club si no te apetece."
 
 # game/game_script_act1.rpy:2260
 translate spanish game_script_act1_844bd26a:
 
     # s_phone "No, I...{w}I do."
-    s_phone ""
+    s_phone "No, no...,{w} quiero asistir."
 
 # game/game_script_act1.rpy:2261
 translate spanish game_script_act1_afd39a94:
 
     # s_phone "I really do."
-    s_phone ""
+    s_phone "Tengo ganas de asistir."
 
 # game/game_script_act1.rpy:2262
 translate spanish game_script_act1_0e4310c4:

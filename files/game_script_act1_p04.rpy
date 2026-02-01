@@ -518,7 +518,7 @@ translate spanish game_script_act1_69de41a8:
 translate spanish game_script_act1_8993ee3b:
 
     # "I sit on my bed, trying to drown out my thoughts by scrolling aimlessly through my phone."
-    "Me siento en la cama, tratando de ahogar mis pensamientos moviéndome por los menús de mi teléfono."
+    "Me siento en la cama, tratando de ahogar mis pensamientos arrastrando mi dedo por los menús del teléfono."
 
 # game/game_script_act1.rpy:2300
 translate spanish game_script_act1_daecabc3:

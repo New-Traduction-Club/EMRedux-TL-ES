@@ -500,7 +500,7 @@ translate spanish game_script_act1_4c2fe5df:
 translate spanish game_script_act1_8301592e:
 
     # "I should wash them, but I just don't have the energy right now."
-    "Y debería lavarlos, pero no puedo moverme."
+    "Y debería lavarlos, pero no tengo ganas."
 
 # game/game_script_act1.rpy:2296
 translate spanish game_script_act1_d8c343b6:

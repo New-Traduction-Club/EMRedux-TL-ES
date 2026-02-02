@@ -548,7 +548,7 @@ translate spanish game_script_act1_1b900ebe:
 translate spanish game_script_act1_350eb45a:
 
     # "Her own father, beating and berating her..."
-    "Su padre la castiga y abusa físicamente de ella..."
+    "Su padre la castiga, abusa física y verbalmente de ella..."
 
 # game/game_script_act1.rpy:2305
 translate spanish game_script_act1_f83e5973:
@@ -608,7 +608,7 @@ translate spanish game_script_act1_8d9a4bec:
 translate spanish game_script_act1_86175e90:
 
     # "I frantically type out my instructions for her, step-by-step."
-    "Le escribo, paso a paso, lo que debe hacer."
+    "Le escribo, paso a paso y de forma dedicada, lo que debe hacer."
 
 # game/game_script_act1.rpy:2315
 translate spanish game_script_act1_9f049f42:

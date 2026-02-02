@@ -692,13 +692,13 @@ translate spanish game_script_act1_891b6ddd:
 translate spanish game_script_act1_31666e5e:
 
     # "Doing so during these days of stress does wonders for my anxieties in the short-term."
-    ""
+    "Es que, después de toda la mierda por la que he pasado estos días..., haberme pegado una buena ducha me alivia esa ansiedad de forma momentánea."
 
 # game/game_script_act1.rpy:2342
 translate spanish game_script_act1_74a01f84:
 
     # "Although obviously, that feeling didn’t stay long."
-    ""
+    "Aunque esa relajación no vaya a durar mucho, claro está."
 
 # game/game_script_act1.rpy:2343
 translate spanish game_script_act1_0a372522:

@@ -698,7 +698,7 @@ translate spanish game_script_act1_31666e5e:
 translate spanish game_script_act1_74a01f84:
 
     # "Although obviously, that feeling didn’t stay long."
-    "Aunque esa relajación no vaya a durar mucho, claro está."
+    "Aunque esa relajación no ha durado mucho, claro está."
 
 # game/game_script_act1.rpy:2343
 translate spanish game_script_act1_0a372522:

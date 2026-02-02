@@ -638,7 +638,7 @@ translate spanish game_script_act1_70f4a2d8:
 translate spanish game_script_act1_cbc488eb:
 
     # "God..."
-    "Joder..."
+    "Dios..."
 
 # game/game_script_act1.rpy:2320
 translate spanish game_script_act1_9bd3aa41:
@@ -686,7 +686,7 @@ translate spanish game_script_act1_aa13b69f:
 translate spanish game_script_act1_891b6ddd:
 
     # "Hell, I even managed to fit a quick shower in."
-    "Coño, si hasta me pude duchar y todo."
+    "Madre mía, si hasta me he podido duchar y todo."
 
 # game/game_script_act1.rpy:2341
 translate spanish game_script_act1_31666e5e:

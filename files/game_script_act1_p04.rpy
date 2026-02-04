@@ -140,7 +140,7 @@ translate spanish game_script_act1_08d8ea08:
 translate spanish game_script_act1_f2d75a45:
 
     # "I hear a crash as he slams it behind him."
-    "Cuando la cierra, escucho un golpe."
+    "Escucho un fuerte golpe cuando la cierra tras de sí."
 
 # game/game_script_act1.rpy:2203
 translate spanish game_script_act1_2e559586:

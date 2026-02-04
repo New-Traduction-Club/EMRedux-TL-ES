@@ -212,7 +212,7 @@ translate spanish game_script_act1_28986d4d:
 translate spanish game_script_act1_5f55d7b6:
 
     # "So I have {i}something{/i} concrete to form a plan with."
-    "Así podré pensar en algo más concreto teniendo su casa de referencia."
+    "Así podré pensar en algo más concreto teniéndola de referencia."
 
 # game/game_script_act1.rpy:2220
 translate spanish game_script_act1_4d9f5351:

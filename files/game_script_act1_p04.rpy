@@ -206,7 +206,7 @@ translate spanish game_script_act1_bf99243e:
 translate spanish game_script_act1_28986d4d:
 
     # "I whip out my phone and snap a photo of Natsuki’s place."
-    "Cojo mi teléfono y saco una foto de la casa de Natsuki."
+    "Cojo mi teléfono y saco una foto de la casa."
 
 # game/game_script_act1.rpy:2219
 translate spanish game_script_act1_5f55d7b6:
@@ -218,7 +218,7 @@ translate spanish game_script_act1_5f55d7b6:
 translate spanish game_script_act1_4d9f5351:
 
     # "With nothing else to do here, I pick up Parfait Girls, turn around, and begin the trek home."
-    "Como ya no tengo más nada que hacer, cojo la colección de mangas y empiezo a caminar a casa..."
+    "Como ya no tengo más nada que hacer, cojo la colección de mangas y empiezo mi trayecto a casa..."
 
 # game/game_script_act1.rpy:2229
 translate spanish game_script_act1_29c52d68:

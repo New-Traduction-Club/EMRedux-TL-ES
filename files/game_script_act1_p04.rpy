@@ -410,7 +410,7 @@ translate spanish game_script_act1_e55dd08a:
 translate spanish game_script_act1_24f9f0e2:
 
     # mc_phone "You wanna walk to school with me?"
-    mc_phone "¿Te apetece ir al instituto conmigo?"
+    mc_phone "¿Quieres ir mañana caminando juntos a clase?"
 
 # game/game_script_act1.rpy:2274
 translate spanish game_script_act1_17230e21:

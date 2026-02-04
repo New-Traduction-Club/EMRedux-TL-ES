@@ -332,7 +332,7 @@ translate spanish game_script_act1_b79a4504:
 translate spanish game_script_act1_5b531da9:
 
     # mc_phone "That’s...{w}that's great!"
-    mc_phone "¡Eso está...{w} de escándalo!"
+    mc_phone "¡Eso es...{w} es fascinante!"
 
 # game/game_script_act1.rpy:2259
 translate spanish game_script_act1_d20a9d17:

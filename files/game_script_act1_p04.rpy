@@ -194,13 +194,13 @@ translate spanish game_script_act1_0cf8b987:
 translate spanish game_script_act1_e0b688da:
 
     # "I need to get home, if only to figure out my next move."
-    "Necesito volver a casa y pensar en algo...,"
+    "Necesito volver a casa y pensar en algo."
 
 # game/game_script_act1.rpy:2217
 translate spanish game_script_act1_bf99243e:
 
     # "Speaking of..."
-    "Y hablando de 'casa'."
+    "Y hablando de 'casa'..."
 
 # game/game_script_act1.rpy:2218
 translate spanish game_script_act1_28986d4d:

@@ -920,13 +920,13 @@ translate spanish game_script_act1_fb1c5db2:
 translate spanish game_script_act1_f01d2128:
 
     # n e1a mh "[player], I got your messages..."
-    n e1a mh ""
+    n e1a mh "Vi lo que me mandaste, [player]..., "
 
 # game/game_script_act1.rpy:2418
 translate spanish game_script_act1_f1a9f5ac:
 
     # n e1b b2b "I still don’t know about all this."
-    n e1b b2b "Pero es que sigo sin tener muy claro todo esto."
+    n e1b b2b "pero es que sigo sin tener muy claro todo esto."
 
 # game/game_script_act1.rpy:2419
 translate spanish game_script_act1_92adcd8c:
@@ -938,7 +938,7 @@ translate spanish game_script_act1_92adcd8c:
 translate spanish game_script_act1_39dec636:
 
     # mc "We’ll figure something out."
-    mc "Pues ya pensaremos en algo."
+    mc "Pues ya se nos ocurrirá."
 
 # game/game_script_act1.rpy:2422
 translate spanish game_script_act1_48bc452a:
@@ -956,13 +956,13 @@ translate spanish game_script_act1_3fa6f0c2:
 translate spanish game_script_act1_04fe51eb:
 
     # "She speaks in a hushed tone."
-    ""
+    "Me susurra."
 
 # game/game_script_act1.rpy:2432
 translate spanish game_script_act1_8abab470:
 
     # n lhip mh b1b "We can’t get the police involved."
-    n lhip mh b1b "Ni de coña podemos dejar que la policía se meta en esto."
+    n lhip mh b1b "Ni de coña podemos dejar que la policía se meta."
 
 # game/game_script_act1.rpy:2435
 translate spanish game_script_act1_f763a963:

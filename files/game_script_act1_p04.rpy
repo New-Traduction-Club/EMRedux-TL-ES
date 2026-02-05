@@ -872,19 +872,19 @@ translate spanish game_script_act1_09a13088:
 translate spanish game_script_act1_368d8b4d:
 
     # s b1b e1b mb "I know, [player]."
-    s b1b e1b mb ""
+    s b1b e1b mb "Lo sé, [player]."
 
 # game/game_script_act1.rpy:2392
 translate spanish game_script_act1_d2ff3658:
 
     # s b2a e1a mh "I'll be okay."
-    s b2a e1a mh ""
+    s b2a e1a mh "Estaré bien."
 
 # game/game_script_act1.rpy:2393
 translate spanish game_script_act1_c548f301:
 
     # s b1a mg "We...should probably get to school."
-    s b1a mg "Deberíamos... ir tirando ya. Al instituto, digo."
+    s b1a mg "Deberíamos... ir tirando ya. A clase, digo."
 
 # game/game_script_act1.rpy:2395
 translate spanish game_script_act1_581395e5:

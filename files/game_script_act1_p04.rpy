@@ -1016,7 +1016,7 @@ translate spanish game_script_act1_93f9b633:
 translate spanish game_script_act1_8cf94c32:
 
     # mc "Why would the cops take you back there after what he's done to you?"
-    mc "¿Por qué ha de importar tu edad sabiendo lo que ese hombre te ha hecho?"
+    mc "¿Por qué te harían volver con él sabiendo lo que te ha hecho?"
 
 # game/game_script_act1.rpy:2454
 translate spanish game_script_act1_7024f8f5:

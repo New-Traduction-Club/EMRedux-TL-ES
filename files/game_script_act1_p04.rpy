@@ -1022,25 +1022,25 @@ translate spanish game_script_act1_8cf94c32:
 translate spanish game_script_act1_7024f8f5:
 
     # mc "Natsuki, please. Think this through."
-    mc ""
+    mc "Piensa bien las cosas, Natsuki."
 
 # game/game_script_act1.rpy:2455
 translate spanish game_script_act1_58ef973f:
 
     # mc "The cops will {i}not{/i} take you back to your father."
-    mc ""
+    mc "La policía no te va a hacer volver con tu padre."
 
 # game/game_script_act1.rpy:2456
 translate spanish game_script_act1_d4ee321b:
 
     # n rhip e1a "[player]...{w}I want to believe you."
-    n rhip e1a ""
+    n rhip e1a "Quiero...{w} creerte, [player],"
 
 # game/game_script_act1.rpy:2457
 translate spanish game_script_act1_cc192674:
 
     # n e1b mh "But I know that there's always a chance, and even a slim possibility of going back to him...{w}after {i}that{/i}."
-    n e1b mh ""
+    n e1b mh "pero sé que existe una posibilidad, por pequeña que sea, de volver a su vera."
 
 # game/game_script_act1.rpy:2458
 translate spanish game_script_act1_f68b2f07:

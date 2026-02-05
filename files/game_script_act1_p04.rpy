@@ -974,43 +974,43 @@ translate spanish game_script_act1_f763a963:
 translate spanish game_script_act1_c89295d1:
 
     # n e4a me "I’m...{w}not eighteen yet."
-    n e4a me ""
+    n e4a me "Aún no tengo...{w} dieciocho..."
 
 # game/game_script_act1.rpy:2438
 translate spanish game_script_act1_62518ac1:
 
     # n lhip e1a b2b "If we go to the police..."
-    n lhip e1a b2b ""
+    n lhip e1a b2b "Si fuésemos a la poli...,"
 
 # game/game_script_act1.rpy:2440
 translate spanish game_script_act1_b3355627:
 
     # n e4a mh "I could get sent straight back to him."
-    n e4a mh ""
+    n e4a mh "me harían volver con él."
 
 # game/game_script_act1.rpy:2441
 translate spanish game_script_act1_1ac8866d:
 
     # n e1c mg "I don't want..."
-    n e1c mg ""
+    n e1c mg "Y no quiero..."
 
 # game/game_script_act1.rpy:2444
 translate spanish game_script_act1_67e283d7:
 
     # "That doesn't sound right."
-    ""
+    "Eso no me suena justo."
 
 # game/game_script_act1.rpy:2445
 translate spanish game_script_act1_6bcbf53e:
 
     # "Why would they care about her age?"
-    ""
+    "¿Por qué tiene que importar la edad que tenga?"
 
 # game/game_script_act1.rpy:2448
 translate spanish game_script_act1_93f9b633:
 
     # mc "No, that makes no sense."
-    mc ""
+    mc "No, eso no tiene mucho sentido."
 
 # game/game_script_act1.rpy:2452
 translate spanish game_script_act1_8cf94c32:

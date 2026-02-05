@@ -608,7 +608,7 @@ translate spanish game_script_act1_8d9a4bec:
 translate spanish game_script_act1_86175e90:
 
     # "I frantically type out my instructions for her, step-by-step."
-    "Le escribo, paso a paso y de forma dedicada, lo que debe hacer."
+    "Le escribo, paso a paso y de forma detallada, lo que debe hacer."
 
 # game/game_script_act1.rpy:2315
 translate spanish game_script_act1_9f049f42:
@@ -686,7 +686,7 @@ translate spanish game_script_act1_aa13b69f:
 translate spanish game_script_act1_891b6ddd:
 
     # "Hell, I even managed to fit a quick shower in."
-    "Madre mía, si hasta me he podido duchar y todo."
+    "Si es que hasta me he podido duchar y todo."
 
 # game/game_script_act1.rpy:2341
 translate spanish game_script_act1_31666e5e:
@@ -758,7 +758,7 @@ translate spanish game_script_act1_7e2663f0:
 translate spanish game_script_act1_eac179e1:
 
     # mc "It’s alright. I haven’t been waiting lo--{nw}"
-    mc ""
+    mc "Tranqui, no llevo esperando mu...{nw}"
 
 # game/game_script_act1.rpy:2362
 translate spanish game_script_act1_7c5b5e8b:

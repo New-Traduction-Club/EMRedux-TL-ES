@@ -998,7 +998,7 @@ translate spanish game_script_act1_1ac8866d:
 translate spanish game_script_act1_67e283d7:
 
     # "That doesn't sound right."
-    "Eso no me suena justo."
+    "Eso no me suena correcto."
 
 # game/game_script_act1.rpy:2445
 translate spanish game_script_act1_6bcbf53e:
@@ -1016,7 +1016,7 @@ translate spanish game_script_act1_93f9b633:
 translate spanish game_script_act1_8cf94c32:
 
     # mc "Why would the cops take you back there after what he's done to you?"
-    mc ""
+    mc "¿Por qué ha de importar tu edad sabiendo lo que ese hombre te ha hecho?"
 
 # game/game_script_act1.rpy:2454
 translate spanish game_script_act1_7024f8f5:

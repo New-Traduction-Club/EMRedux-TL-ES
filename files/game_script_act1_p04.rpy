@@ -1046,7 +1046,7 @@ translate spanish game_script_act1_cc192674:
 translate spanish game_script_act1_f68b2f07:
 
     # n "I can't, okay?"
-    n ""
+    n "No puedo, ¿vale?"
 
 # game/game_script_act1.rpy:2463
 translate spanish game_script_act1_bba9ca01:
@@ -1058,7 +1058,7 @@ translate spanish game_script_act1_bba9ca01:
 translate spanish game_script_act1_40a31bf8:
 
     # "I’m not convinced. This doesn't sound right at all."
-    ""
+    "No me convence. Esto no me suena nada bien."
 
 # game/game_script_act1.rpy:2466
 translate spanish game_script_act1_9adb1f0c:

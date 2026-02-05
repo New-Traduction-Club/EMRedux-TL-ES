@@ -446,7 +446,7 @@ translate spanish game_script_act1_97b01383:
 translate spanish game_script_act1_764f0b8b:
 
     # s_phone "Ehehe, I won’t!"
-    s_phone "Je, je, je..., ¡no me olvidaré!"
+    s_phone "Je, je, je..., ¡no te preocupes!"
 
 # game/game_script_act1.rpy:2280
 translate spanish game_script_act1_62b82f71:

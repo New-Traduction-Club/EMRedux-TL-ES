@@ -1064,13 +1064,13 @@ translate spanish game_script_act1_40a31bf8:
 translate spanish game_script_act1_9adb1f0c:
 
     # "But since we've got no safer alternatives, I'll have to go along with it."
-    ""
+    "Pero no tenemos alternativas más seguras, así que tendré que aceptarlo a regañadientes."
 
 # game/game_script_act1.rpy:2468
 translate spanish game_script_act1_a79adc45:
 
     # "But still, I'm not convinced."
-    ""
+    "Aún así, sigue sin convencerme."
 
 # game/game_script_act1.rpy:2470
 translate spanish game_script_act1_26fcfdac:
@@ -1082,25 +1082,25 @@ translate spanish game_script_act1_26fcfdac:
 translate spanish game_script_act1_15906bfd:
 
     # mc "When {i}is{/i} your birthday, anyway?"
-    mc ""
+    mc "Ya que estamos..., ¿qué día es tu cumpleaños?"
 
 # game/game_script_act1.rpy:2473
 translate spanish game_script_act1_58df5a87:
 
     # "I'm honestly shocked that I never asked before."
-    ""
+    "Me sorprende no haberle preguntado antes, la verdad."
 
 # game/game_script_act1.rpy:2474
 translate spanish game_script_act1_0607305f:
 
     # "Here I am, inviting this girl to stay with me for an indefinite time, and I don't even know her birthday."
-    ""
+    "Así soy yo, invitando una chica a mi casa de forma indefinida y sin siquiera saber su cumpleaños."
 
 # game/game_script_act1.rpy:2475
 translate spanish game_script_act1_80fde41c:
 
     # n ldown n1 mg e1a "Fifth of November..."
-    n ldown n1 mg e1a ""
+    n ldown n1 mg e1a "Cinco de noviembre..."
 
 # game/game_script_act1.rpy:2477
 translate spanish game_script_act1_db9110c7:

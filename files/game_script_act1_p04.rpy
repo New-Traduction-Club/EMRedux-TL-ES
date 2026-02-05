@@ -896,7 +896,7 @@ translate spanish game_script_act1_581395e5:
 translate spanish game_script_act1_ef9ba3dd:
 
     # "We take our leave, heading down the street and turning the corner together."
-    "Nos despedimos, bajando por la calle y doblando la esquina juntos."
+    "Nos despedimos, bajamos la calle y cruzamos juntos."
 
 # game/game_script_act1.rpy:2412
 translate spanish game_script_act1_f1f15c94:

@@ -968,7 +968,7 @@ translate spanish game_script_act1_8abab470:
 translate spanish game_script_act1_f763a963:
 
     # "She pauses before glancing away and down at her feet."
-    ""
+    "Hace una pausa antes de mirar hacia a otro lado y mirar después a sus pies."
 
 # game/game_script_act1.rpy:2437
 translate spanish game_script_act1_c89295d1:

@@ -782,7 +782,7 @@ translate spanish game_script_act1_5db406a9:
 translate spanish game_script_act1_73f094cf:
 
     # mc "It's good to see you."
-    mc ""
+    mc "Ma alegro de verte."
 
 # game/game_script_act1.rpy:2369
 translate spanish game_script_act1_478b9332:
@@ -794,31 +794,31 @@ translate spanish game_script_act1_478b9332:
 translate spanish game_script_act1_dd701df8:
 
     # s "Great, actually. I get to see the Literature Club again!"
-    s "Pues muy bien. ¡Tengo ganas de ver a las chicas en el club otra vez!"
+    s "Pues muy bien. ¡Tengo ganas de ver a las chicas otra vez!"
 
 # game/game_script_act1.rpy:2374
 translate spanish game_script_act1_167884a5:
 
     # "I can’t help but still be concerned."
-    "No puedo evitar preocuparme..."
+    "Me preocupa una cosa...,"
 
 # game/game_script_act1.rpy:2375
 translate spanish game_script_act1_c44b6dfc:
 
     # "Is this happiness merely temporary?"
-    "¿Es esta felicidad que muestra... temporal?"
+    "¿es esta felicidad que veo... temporal?"
 
 # game/game_script_act1.rpy:2376
 translate spanish game_script_act1_03202afe:
 
     # "Or is she suppressing her true emotions?"
-    "¿Está ocultando sus verdaderas emociones?"
+    "¿Está ocultando sus verdaderos sentimientos?"
 
 # game/game_script_act1.rpy:2377
 translate spanish game_script_act1_e2cce3d9:
 
     # "What she shows on the outside could very well be another mask that she’s put on just to persuade me into believing otherwise."
-    "Lo más probable es que lo que muestra por fuera bien podría ser otra máscara que se ha puesto solo para convencerme de lo contrario."
+    "Lo más probable es que, lo que muestra por fuera, bien podría ser otra máscara que se ha puesto solo para convencerme de lo contrario."
 
 # game/game_script_act1.rpy:2379
 translate spanish game_script_act1_e87e0575_2:

@@ -1106,61 +1106,61 @@ translate spanish game_script_act1_80fde41c:
 translate spanish game_script_act1_db9110c7:
 
     # mc "So, about a month, give or take a few days."
-    mc ""
+    mc "En un mes y pico."
 
 # game/game_script_act1.rpy:2478
 translate spanish game_script_act1_c1c665bb:
 
     # n mh "I could just wait until then to--{w=0.2}{nw}"
-    n mh ""
+    n mh "Podría esperar hasta entonces para...{w=0.2}{nw}"
 
 # game/game_script_act1.rpy:2480
 translate spanish game_script_act1_f92241b8:
 
     # mc "Natsuki, another month there is another month he can hurt you."
-    mc ""
+    mc "Otro mes encerrada en esa casa es otro mes para que siga haciéndote daño."
 
 # game/game_script_act1.rpy:2481
 translate spanish game_script_act1_8c13661d:
 
     # mc "A-and I can’t sit back and watch that happen."
-    mc ""
+    mc "Y n-no puedo quedarme ahí plantado sin hacer nada al respecto."
 
 # game/game_script_act1.rpy:2482
 translate spanish game_script_act1_1ed9f86d:
 
     # mc "I refuse."
-    mc ""
+    mc "Me niego."
 
 # game/game_script_act1.rpy:2485
 translate spanish game_script_act1_10db05f0:
 
     # "I pause, to take a breath."
-    "Respiro con tranquilidad."
+    "Paro de hablar para coger aire."
 
 # game/game_script_act1.rpy:2487
 translate spanish game_script_act1_a63ef5b8:
 
     # mc "A month away..."
-    mc ""
+    mc "Un mes, ¿eh...?"
 
 # game/game_script_act1.rpy:2489
 translate spanish game_script_act1_54c256d0:
 
     # mc "It’ll be easier to just hide out until then."
-    mc "creo que lo mejor va a ser esconderse hasta que ocurra."
+    mc "Creo que lo mejor va a ser esconderse hasta entonces."
 
 # game/game_script_act1.rpy:2490
 translate spanish game_script_act1_6484b81a:
 
     # mc "We can manage that. I know we can."
-    mc ""
+    mc "Podemos hacerlo, y lo sé perfectamente."
 
 # game/game_script_act1.rpy:2491
 translate spanish game_script_act1_b411c7c5:
 
     # mc "Then, as soon as your birthday comes around..."
-    mc ""
+    mc "Cuando se acerque tu cumpleaños..."
 
 # game/game_script_act1.rpy:2493
 translate spanish game_script_act1_9834109b:
@@ -1172,25 +1172,25 @@ translate spanish game_script_act1_9834109b:
 translate spanish game_script_act1_0b18f78f:
 
     # n e4a b1d me "Jesus, [player]..."
-    n e4a b1d me ""
+    n e4a b1d me "Dios, [player]..."
 
 # game/game_script_act1.rpy:2495
 translate spanish game_script_act1_c8771371:
 
     # n e1a b2b mh "I don’t know."
-    n e1a b2b mh ""
+    n e1a b2b mh "No tengo ni idea, ¿vale?"
 
 # game/game_script_act1.rpy:2496
 translate spanish game_script_act1_4c56e165:
 
     # n e1c mh "It works, but..."
-    n e1c mh ""
+    n e1c mh "Claro que podemos hacerlo, pero...,"
 
 # game/game_script_act1.rpy:2497
 translate spanish game_script_act1_1071fdc5:
 
     # n e1a b2c "A {i}month?{/i}"
-    n e1a b2c ""
+    n e1a b2c "¿esperar un mes?"
 
 # game/game_script_act1.rpy:2500
 translate spanish game_script_act1_ac321f75:
@@ -1202,19 +1202,19 @@ translate spanish game_script_act1_ac321f75:
 translate spanish game_script_act1_09eb1481:
 
     # n blaw "..."
-    n blaw ""
+    n blaw "..."
 
 # game/game_script_act1.rpy:2502
 translate spanish game_script_act1_29efbba8:
 
     # n mg e1b "I...guess so."
-    n mg e1b ""
+    n mg e1b "S-Supongo..."
 
 # game/game_script_act1.rpy:2503
 translate spanish game_script_act1_2202045a:
 
     # n e1a mh "You gotta understand, this isn't easy for me."
-    n e1a mh ""
+    n e1a mh "Tienes que entender que, para mí, esto no es coser y cantar."
 
 # game/game_script_act1.rpy:2504
 translate spanish game_script_act1_9834109b_1:
@@ -1226,25 +1226,25 @@ translate spanish game_script_act1_9834109b_1:
 translate spanish game_script_act1_8f94bb81:
 
     # "She swallows and winces, her hands caressing and brushing the hem of her skirt."
-    ""
+    "Hace una mueca con la cara mientras traga saliva. Puedo ver que acaricia el dobladillo de su falda."
 
 # game/game_script_act1.rpy:2507
 translate spanish game_script_act1_5c7a4b23:
 
     # n b1b e1b mg "...Yeah."
-    n b1b e1b mg ""
+    n b1b e1b mg "Vale."
 
 # game/game_script_act1.rpy:2508
 translate spanish game_script_act1_d078e3c8:
 
     # n b1c e1a mh "Yeah, I'll do it."
-    n b1c e1a mh ""
+    n b1c e1a mh "Lo haremos como tú dices."
 
 # game/game_script_act1.rpy:2510
 translate spanish game_script_act1_42bdc18a:
 
     # mc "It’s gonna be okay, Natsuki."
-    mc ""
+    mc "Todo saldrá bien, Natsuki."
 
 # game/game_script_act1.rpy:2517
 translate spanish game_script_act1_9cb30dbc:
@@ -1256,7 +1256,7 @@ translate spanish game_script_act1_9cb30dbc:
 translate spanish game_script_act1_96147139:
 
     # n lhip b1a mg "...long story."
-    n lhip b1a mg ""
+    n lhip b1a mg "Es... largo de contar ahora mismo."
 
 # game/game_script_act1.rpy:2520
 translate spanish game_script_act1_076d574a:

@@ -1838,31 +1838,31 @@ translate spanish game_script_act1_f7adcb9e:
 translate spanish game_script_act1_bf99243e_1:
 
     # "Speaking of..."
-    ""
+    "Y hablando de Natsuki..."
 
 # game/game_script_act1.rpy:2792
 translate spanish game_script_act1_6f1dae1a:
 
     # "I feel really bad for her right now."
-    ""
+    "Me siento mal por ella ahora mismo."
 
 # game/game_script_act1.rpy:2793
 translate spanish game_script_act1_bf298df0:
 
     # "Everything happening with her home life would be enough to send anyone past the brink."
-    ""
+    "Todo lo que le ha pasado en casa es más que suficiente para llevar a cualquiera al borde del abismo."
 
 # game/game_script_act1.rpy:2794
 translate spanish game_script_act1_dd6dd84a:
 
     # "Now she's found out what happened to Sayori."
-    ""
+    "Y ahora sabe lo que le ha pasado a Sayori."
 
 # game/game_script_act1.rpy:2795
 translate spanish game_script_act1_7368871b:
 
     # "Yet she seems so...{w}{i}calm.{/i}"
-    ""
+    "Aunque parece muy...{w} tranquila."
 
 # game/game_script_act1.rpy:2796
 translate spanish game_script_act1_acb15db5:

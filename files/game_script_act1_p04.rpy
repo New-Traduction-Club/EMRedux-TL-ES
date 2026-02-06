@@ -1094,7 +1094,7 @@ translate spanish game_script_act1_58df5a87:
 translate spanish game_script_act1_0607305f:
 
     # "Here I am, inviting this girl to stay with me for an indefinite time, and I don't even know her birthday."
-    "Así soy yo, invitando una chica a mi casa de forma indefinida y sin siquiera saber su cumpleaños."
+    "Así soy yo, invitando una chica a mi casa de forma indefinida sin siquiera saber su cumpleaños."
 
 # game/game_script_act1.rpy:2475
 translate spanish game_script_act1_80fde41c:

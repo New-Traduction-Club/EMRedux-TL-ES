@@ -1868,13 +1868,13 @@ translate spanish game_script_act1_7368871b:
 translate spanish game_script_act1_acb15db5:
 
     # "It's almost eerie how little emotion she displays."
-    ""
+    "Casi que da miedo lo poco que muestra sus sentimientos."
 
 # game/game_script_act1.rpy:2797
 translate spanish game_script_act1_fc8d5db7:
 
     # "The fact that she has had to hide her emotions like this for so long is gut-wrenching."
-    ""
+    "El hecho de que tenga que ocultarlos durante tanto tiempo... es desgarrador."
 
 # game/game_script_act1.rpy:2799
 translate spanish game_script_act1_6c78c3f9:

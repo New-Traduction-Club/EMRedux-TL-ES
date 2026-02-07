@@ -1916,13 +1916,13 @@ translate spanish game_script_act1_12838ed0:
 translate spanish game_script_act1_ce1f31f4:
 
     # mc "Natsuki, are you not even going to talk about what happened?"
-    mc ""
+    mc "¿vas a obviar que todo esto ha pasado?"
 
 # game/game_script_act1.rpy:2838
 translate spanish game_script_act1_f44dc254:
 
     # "She looks over to Sayori, who's quietly writing in a notebook and chatting with Yuri."
-    ""
+    "Mira a Sayori, que escribe algo en una libreta mientras habla con Yuri."
 
 # game/game_script_act1.rpy:2839
 translate spanish game_script_act1_bfcf0b77:
@@ -1934,31 +1934,31 @@ translate spanish game_script_act1_bfcf0b77:
 translate spanish game_script_act1_9053d1af:
 
     # mc "Listen..."
-    mc ""
+    mc "Escucha,"
 
 # game/game_script_act1.rpy:2846
 translate spanish game_script_act1_b441d7a6:
 
     # mc "I’m sorry that you were one of the last ones to find out."
-    mc "No, no lo voy a obviar. Siento que seas una de las últimas en enterarte."
+    mc "siento que seas una de las últimas en enterarte."
 
 # game/game_script_act1.rpy:2847
 translate spanish game_script_act1_17397b4a:
 
     # mc "She wanted to...{w}own it, I guess."
-    mc "Imagino que Sayori quería...{w} domar al toro sin ayuda."
+    mc "Sayori quería...{w} domar al toro sin ayuda."
 
 # game/game_script_act1.rpy:2848
 translate spanish game_script_act1_99eb7596:
 
     # mc "Tell people herself."
-    mc "Ya sabes, decirlo todo ella."
+    mc "Ya sabes, decirlo ella."
 
 # game/game_script_act1.rpy:2850
 translate spanish game_script_act1_a0cc1203:
 
     # mc "I guess when all else fails, taking control is the best thing you can do."
-    mc ""
+    mc "Supongo que, si todo se va a la mierda, lo mejor que puedes hacer es tomar el control de la situación."
 
 # game/game_script_act1.rpy:2853
 translate spanish game_script_act1_6e920eb0:
@@ -1976,22 +1976,22 @@ translate spanish game_script_act1_61505717:
 translate spanish game_script_act1_453a4d2f:
 
     # n "I mean, I don't even think I could begin to imagine how worried you are right now."
-    n ""
+    n "En plan, no quiero ni imaginarme lo preocupado que debes estar ahora mismo..."
 
 # game/game_script_act1.rpy:2863
 translate spanish game_script_act1_7726b339:
 
     # "I pause, looking right into her eyes, and sigh."
-    ""
+    "Me detengo, mirándole a sus ojos, mientras profiero un largo suspiro."
 
 # game/game_script_act1.rpy:2864
 translate spanish game_script_act1_f0ffd7a8:
 
     # "Then I tell the truth."
-    ""
+    "Ahí es cuando le digo la verdad."
 
 # game/game_script_act1.rpy:2866
 translate spanish game_script_act1_022fbab3:
 
     # mc "I don’t think a day’s gone by where I haven’t had some kind of anxious breakdown."
-    mc ""
+    mc "No ha pasado ni un solo día en el que haya tenido una crisis de ansiedad o algo parecido."

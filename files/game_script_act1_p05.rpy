@@ -2,13 +2,13 @@
 translate spanish game_script_act1_7da51848:
 
     # mc "I’m {i}terrified{/i} where I wasn’t before."
-    mc "Siento una especie de 'miedo' que antes no tenía, no sentía..."
+    mc "Siento una especie de 'miedo' que antes no tenía..."
 
 # game/game_script_act1.rpy:2871
 translate spanish game_script_act1_699ee660:
 
     # mc "Seeing her here, though...{w}it helps."
-    mc ""
+    mc "Verla aquí me...{w} ayuda."
 
 # game/game_script_act1.rpy:2877
 translate spanish game_script_act1_f1aa16ca:
@@ -26,109 +26,109 @@ translate spanish game_script_act1_15b69a3e:
 translate spanish game_script_act1_1e674012:
 
     # n "I'm sorry for bringing it up."
-    n ""
+    n "Siento haberlo sacado."
 
 # game/game_script_act1.rpy:2885
 translate spanish game_script_act1_6d17f52b:
 
     # mc "No, it's fine.{w} I'm fine."
-    mc ""
+    mc "No, no pasa nada. Estoy bien."
 
 # game/game_script_act1.rpy:2890
 translate spanish game_script_act1_add83cda:
 
     # n "You sure as hell don't sound fine to me."
-    n ""
+    n "Pues no me lo pareces."
 
 # game/game_script_act1.rpy:2892
 translate spanish game_script_act1_75d7512e:
 
     # n "You do realise you can tell me the truth, right?"
-    n ""
+    n "Sabes que me puedes decir la verdad, ¿no?"
 
 # game/game_script_act1.rpy:2896
 translate spanish game_script_act1_b40a52eb:
 
     # mc "I already did."
-    mc ""
+    mc "Eso he hecho,"
 
 # game/game_script_act1.rpy:2898
 translate spanish game_script_act1_b42b0040:
 
     # mc "And I already regret it."
-    mc ""
+    mc "y de eso me estoy arrepintiendo."
 
 # game/game_script_act1.rpy:2902
 translate spanish game_script_act1_533b7352:
 
     # n "No, no. I'm not having any of that."
-    n ""
+    n "No, no. Ni de coña voy a permitirlo."
 
 # game/game_script_act1.rpy:2905
 translate spanish game_script_act1_77ebde84:
 
     # n "In order for this to work, we both need to trust to each other."
-    n ""
+    n "Si queremos que esto salga adelante, tenemos que confiar el uno en el otro."
 
 # game/game_script_act1.rpy:2907
 translate spanish game_script_act1_45ea7821:
 
     # n "It's not just a one-way street. Understand?"
-    n ""
+    n "Esto no es trabajo de una sola persona, ¿eh?"
 
 # game/game_script_act1.rpy:2909
 translate spanish game_script_act1_b1e30465:
 
     # n "I was open to you about my dad, you need to be open with me about whatever issues {i}you{/i} have."
-    n ""
+    n "Me abrí a ti y te conté lo de mi padre. Ahora es tu turno de hacer lo mismo si te ocurre algo."
 
 # game/game_script_act1.rpy:2911
 translate spanish game_script_act1_892bfeeb:
 
     # mc "Yeah.{w} Thanks."
-    mc ""
+    mc "Ya,{w} gracias."
 
 # game/game_script_act1.rpy:2912
 translate spanish game_script_act1_59e52def:
 
     # "Even in this nice moment, I'm dragged back into reality."
-    ""
+    "A pesar de estar muy a gusto con esta conversación, mi mente me arrastra a la realidad."
 
 # game/game_script_act1.rpy:2920
 translate spanish game_script_act1_fc896afd:
 
     # mc "But..."
-    mc ""
+    mc "Aunque...,"
 
 # game/game_script_act1.rpy:2923
 translate spanish game_script_act1_7c92ed02:
 
     # mc "My main concern right now is getting you out of that house."
-    mc ""
+    mc "ahora mismo me preocupa más sacarte de esa casa."
 
 # game/game_script_act1.rpy:2927
 translate spanish game_script_act1_d5236ef3:
 
     # n "Hey, we'll talk about that later."
-    n ""
+    n "Ya hablaremos de eso después."
 
 # game/game_script_act1.rpy:2931
 translate spanish game_script_act1_cb507334:
 
     # n "Right now..."
-    n ""
+    n "Y ahora...,"
 
 # game/game_script_act1.rpy:2934
 translate spanish game_script_act1_596a0207:
 
     # "She points at the manga I've been holding for the past while, my grip showing with more creases on the front page."
-    ""
+    "Me señala al tomo que he estado sujetando un buen rato, en el que veo que mi agarre ha arrugado un poco las páginas."
 
 # game/game_script_act1.rpy:2936
 translate spanish game_script_act1_0a9e015b:
 
     # n "Manga?"
-    n ""
+    n "¿quieres leer un poco del manga?"
 
 # game/game_script_act1.rpy:2938
 translate spanish game_script_act1_cf1adef2_1:
@@ -152,7 +152,7 @@ translate spanish game_script_act1_94a75864:
 translate spanish game_script_act1_365ccb98:
 
     # mc "...I think so, yeah."
-    mc ""
+    mc "Creo que sí."
 
 # game/game_script_act1.rpy:2950
 translate spanish game_script_act1_5c6dbbca:
@@ -176,7 +176,7 @@ translate spanish game_script_act1_219c1c4e:
 translate spanish game_script_act1_4e79388f:
 
     # "We must’ve only gotten through four or five pages..."
-    "Apenas hemos avanzado cinco páginas..."
+    "Apenas hemos avanzado cuatro o cinco páginas..."
 
 # game/game_script_act1.rpy:2962
 translate spanish game_script_act1_4859d9c4:
@@ -200,7 +200,7 @@ translate spanish game_script_act1_7e97ab4f:
 translate spanish game_script_act1_c11a8303:
 
     # "But I shake the feeling off as Natsuki taps my shoulder."
-    ""
+    "Pero esa sensación desaparece en cuanto Natsuki me toca el hombro."
 
 # game/game_script_act1.rpy:2971
 translate spanish game_script_act1_9f30234c:
@@ -272,7 +272,7 @@ translate spanish game_script_act1_3f18a4eb_1:
 translate spanish game_script_act1_13b512b3:
 
     # n "...leave a few minutes ago."
-    n "haberme ido hace ya unos minutos."
+    n "haberme ido hace ya un rato."
 
 # game/game_script_act1.rpy:2996
 translate spanish game_script_act1_996d6e17:
@@ -302,13 +302,13 @@ translate spanish game_script_act1_aa8c9433:
 translate spanish game_script_act1_df5fa28f:
 
     # "She nervously looks away."
-    ""
+    "Aparta la mirada nerviosamente."
 
 # game/game_script_act1.rpy:3005
 translate spanish game_script_act1_cc8a5590:
 
     # mc "Hey. You’ll be okay."
-    mc ""
+    mc "Oye, te irá bien."
 
 # game/game_script_act1.rpy:3007
 translate spanish game_script_act1_40276d1a:
@@ -332,43 +332,43 @@ translate spanish game_script_act1_0adf4c2a:
 translate spanish game_script_act1_16393953:
 
     # "I stare down into the black abyss of my half-open bag."
-    ""
+    "Me quedo embobado mirando la mochila medio abierta."
 
 # game/game_script_act1.rpy:3013
 translate spanish game_script_act1_6d6da3ea:
 
     # "My vision starts going fuzzy."
-    ""
+    "Me siento mareado."
 
 # game/game_script_act1.rpy:3017
 translate spanish game_script_act1_5596d704:
 
     # "A sinking feeling squeezes my lungs."
-    "Siento que mis pulmones se están hundiendo en algo."
+    "Que mis pulmones se están hundiendo en algo."
 
 # game/game_script_act1.rpy:3018
 translate spanish game_script_act1_dafaa820:
 
     # "My hand finds the desk corner and grips it for dear life."
-    ""
+    "Por inercia, mis manos buscan el escritorio para agarrarse a él con todas las fuerzas disponibles."
 
 # game/game_script_act1.rpy:3019
 translate spanish game_script_act1_36707738:
 
     # "I stave it off with a mental mantra."
-    "Lo evito pensando en algo tranquilo."
+    "Trato de evitar ponerme peor pensando en algo tranquilo."
 
 # game/game_script_act1.rpy:3020
 translate spanish game_script_act1_806657e6:
 
     # "Everything will be okay. It’ll be okay soon."
-    "Todo va sobre ruedas, todo va a mejorar pronto."
+    "Todo va sobre ruedas, todo irá mejor."
 
 # game/game_script_act1.rpy:3021
 translate spanish game_script_act1_806657e6_1:
 
     # "Everything will be okay. It’ll be okay soon."
-    "Todo va sobre ruedas, todo va a mejorar pronto."
+    "Todo va sobre ruedas, todo irá mejor."
 
 # game/game_script_act1.rpy:3022
 translate spanish game_script_act1_97abb99a:
@@ -392,25 +392,25 @@ translate spanish game_script_act1_fb2e5377:
 translate spanish game_script_act1_05e0b4b5:
 
     # "Yuri's not the type to start conversations, especially with me."
-    ""
+    "No es muy de Yuri hablar de primeras, y menos conmigo."
 
 # game/game_script_act1.rpy:3034
 translate spanish game_script_act1_b7d8a09a:
 
     # "So seeing her taking the initiative here is a bit odd, but I don't question it for now."
-    ""
+    "Verla dar el primer paso es un poco desconcertante, pero lo dejo pasar."
 
 # game/game_script_act1.rpy:3036
 translate spanish game_script_act1_4953fb64:
 
     # y "I-I didn’t mean to startle you..."
-    y ""
+    y "N-No quería asustarte..."
 
 # game/game_script_act1.rpy:3040
 translate spanish game_script_act1_b093c769:
 
     # mc "Oh, don't worry. You didn't."
-    mc ""
+    mc "No te preocupes, no me has asustado."
 
 # game/game_script_act1.rpy:3041
 translate spanish game_script_act1_4553c6f6:
@@ -434,25 +434,25 @@ translate spanish game_script_act1_2e69a2a4:
 translate spanish game_script_act1_bc5a98b7:
 
     # y turned uniform rup mh e1b "Well...I was just wondering if..."
-    y turned uniform rup mh e1b ""
+    y turned uniform rup mh e1b "Es que me preguntaba si...,"
 
 # game/game_script_act1.rpy:3045
 translate spanish game_script_act1_2e79a279:
 
     # y shy n3 e2 b2 m4 "If you would...{done}l-like to walk home together?"
-    y shy n3 e2 b2 m4 ""
+    y shy n3 e2 b2 m4 "si querías{done} c-caminar conmigo a casa."
 
 # game/game_script_act1.rpy:3047
 translate spanish game_script_act1_6168a2d2:
 
     # y "If you would...{fast}l-like to walk home together?"
-    y ""
+    y "si querías{fast} c-caminar conmigo a casa."
 
 # game/game_script_act1.rpy:3049
 translate spanish game_script_act1_9ed134ce:
 
     # "Oh..."
-    ""
+    "Vaya..."
 
 # game/game_script_act1.rpy:3052
 translate spanish game_script_act1_66ca16f5:

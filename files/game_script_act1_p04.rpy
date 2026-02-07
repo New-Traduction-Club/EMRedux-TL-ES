@@ -1994,4 +1994,4 @@ translate spanish game_script_act1_f0ffd7a8:
 translate spanish game_script_act1_022fbab3:
 
     # mc "I don’t think a day’s gone by where I haven’t had some kind of anxious breakdown."
-    mc "No ha pasado ni un solo día en el que haya tenido una crisis de ansiedad o algo parecido."
+    mc "No ha pasado ni un solo día en el que no haya tenido una crisis de ansiedad o algo parecido."

@@ -458,31 +458,31 @@ translate spanish game_script_act1_9ed134ce:
 translate spanish game_script_act1_66ca16f5:
 
     # y e2 m4 "I just noticed how Sayori and you walk home a lot, and was wondering if you’d want to since..."
-    y e2 m4 ""
+    y e2 m4 "Me he dado cuenta de que Sayori y tú lo hacéis mucho y me he preguntado si querías por...,"
 
 # game/game_script_act1.rpy:3053
 translate spanish game_script_act1_84396a05:
 
     # y e1 "Y-you know..."
-    y e1 ""
+    y e1 "y-ya sabes..."
 
 # game/game_script_act1.rpy:3056
 translate spanish game_script_act1_fa50b741:
 
     # "Even if it's odd coming from her, I actually appreciate the sentiment right about now."
-    ""
+    "Aunque sea desconcertante, aprecio el detalle."
 
 # game/game_script_act1.rpy:3057
 translate spanish game_script_act1_6cf21de3:
 
     # "I don’t really want to walk home alone. Not right now."
-    ""
+    "Y más ahora, que no me apetece ir solo a casa."
 
 # game/game_script_act1.rpy:3060
 translate spanish game_script_act1_902528db:
 
     # mc "Sure. That’d be nice, actually."
-    mc ""
+    mc "Claro, ¿por qué no?"
 
 # game/game_script_act1.rpy:3083
 translate spanish game_script_act1_9c1b67f5:
@@ -494,13 +494,13 @@ translate spanish game_script_act1_9c1b67f5:
 translate spanish game_script_act1_df6ab6fb:
 
     # y turned uniform lup mb e1b b1b "Oh...great! Let me pick up my things..."
-    y turned uniform lup mb e1b b1b ""
+    y turned uniform lup mb e1b b1b "Pues... ¡genial! Deja que recoja mis cosas..."
 
 # game/game_script_act1.rpy:3088
 translate spanish game_script_act1_760e5b47:
 
     # "She grabs her black bag and heads towards the door."
-    ""
+    "Coge su bolso de color negro y se dirige a la puerta."
 
 # game/game_script_act1.rpy:3089
 translate spanish game_script_act1_c04f8aa3:
@@ -518,91 +518,91 @@ translate spanish game_script_act1_eec13dbc:
 translate spanish game_script_act1_bd0a06fc:
 
     # "We head towards the school doors."
-    "Nos dirigimos a la puerta de entrada del instituto."
+    "Nos dirigimos al portón de entrada del instituto."
 
 # game/game_script_act1.rpy:3097
 translate spanish game_script_act1_cb70afb1_1:
 
     # mc "So..."
-    mc "Entonces...,"
+    mc "Así que..."
 
 # game/game_script_act1.rpy:3098
 translate spanish game_script_act1_50bf101f:
 
     # "An uncomfortable silence."
-    ""
+    "Silencio incómodo."
 
 # game/game_script_act1.rpy:3099
 translate spanish game_script_act1_2b5fc3cb:
 
     # mc "Sorry, I don’t really know what to talk about."
-    mc ""
+    mc "Perdona, no sé de qué podemos hablar ahora."
 
 # game/game_script_act1.rpy:3100
 translate spanish game_script_act1_b909522c:
 
     # y rup n2 mg "M-maybe we should discuss earlier...?"
-    y rup n2 mg ""
+    y rup n2 mg "¿Q-Quieres hablar de lo de antes...?"
 
 # game/game_script_act1.rpy:3102
 translate spanish game_script_act1_399a9769:
 
     # "Great, that's about the {i}last{/i} thing I want to bring up."
-    ""
+    "Guay, es lo último de lo que quiero hablar."
 
 # game/game_script_act1.rpy:3105
 translate spanish game_script_act1_7867a3b6:
 
     # mc "...I'd rather not."
-    mc ""
+    mc "Mejor que no."
 
 # game/game_script_act1.rpy:3106
 translate spanish game_script_act1_81278b31:
 
     # y mh "Too soon?"
-    y mh ""
+    y mh "¿Muy pronto?"
 
 # game/game_script_act1.rpy:3108
 translate spanish game_script_act1_cf1adef2_2:
 
     # mc "Yeah."
-    mc "Claro."
+    mc "Obviamente."
 
 # game/game_script_act1.rpy:3111
 translate spanish game_script_act1_80ecec6d:
 
     # y rdown mg b2b "I'm sorry."
-    y rdown mg b2b ""
+    y rdown mg b2b "Lo siento mucho."
 
 # game/game_script_act1.rpy:3113
 translate spanish game_script_act1_11494957:
 
     # mc "No, no. It's fine."
-    mc ""
+    mc "Tranquila."
 
 # game/game_script_act1.rpy:3114
 translate spanish game_script_act1_8bfa6395:
 
     # mc "I just don't want to talk about it right now."
-    mc ""
+    mc "Lo que pasa es que no me apetece hablar de ello ahora mismo."
 
 # game/game_script_act1.rpy:3116
 translate spanish game_script_act1_ad5d5f55:
 
     # y n1 lup e4a mh "That's understandable."
-    y n1 lup e4a mh ""
+    y n1 lup e4a mh "Es comprensible."
 
 # game/game_script_act1.rpy:3117
 translate spanish game_script_act1_aed5face:
 
     # y e1b "I was...{done}just concerned as to how Sayori is feeling."
-    y e1b ""
+    y e1b "Me preocupaba...{done} de cómo está Sayori."
 
 # game/game_script_act1.rpy:3118
 translate spanish game_script_act1_16247290:
 
     # y rup e4a mg "I was...{fast}just concerned as to how Sayori is feeling."
-    y rup e4a mg ""
+    y rup e4a mg "Me preocupaba...{fast} de cómo está Sayori."
 
 # game/game_script_act1.rpy:3120
 translate spanish game_script_act1_5d7e895e:

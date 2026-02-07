@@ -608,7 +608,7 @@ translate spanish game_script_act1_16247290:
 translate spanish game_script_act1_5d7e895e:
 
     # mc "Oh, I think she's doing better now that it's out there."
-    mc ""
+    mc "Ah, pues creo que está mucho mejor ahora que está aquí."
 
 # game/game_script_act1.rpy:3122
 translate spanish game_script_act1_7b0a03ee:

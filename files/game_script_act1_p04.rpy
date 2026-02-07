@@ -1742,7 +1742,7 @@ translate spanish game_script_act1_964692e9:
 translate spanish game_script_act1_1c344d10:
 
     # "After a few seconds, she's able to respond properly."
-    "Unos segundos después, consigue responderle fomo es debido."
+    "Unos segundos después, consigue responderle como es debido."
 
 # game/game_script_act1.rpy:2758
 translate spanish game_script_act1_48d8b6ad:

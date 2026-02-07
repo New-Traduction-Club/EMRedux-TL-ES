@@ -614,7 +614,7 @@ translate spanish game_script_act1_5d7e895e:
 translate spanish game_script_act1_7b0a03ee:
 
     # y "Mhm."
-    y ""
+    y "Sí."
 
 # game/game_script_act1.rpy:3124
 translate spanish game_script_act1_53e00530:

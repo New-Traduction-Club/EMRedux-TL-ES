@@ -1466,7 +1466,7 @@ translate spanish game_script_act1_964a80af:
 translate spanish game_script_act1_b190f356:
 
     # m "Can we talk?"
-    m "¿podemos hablar?"
+    m "¿podemos hablar fuera?"
 
 # game/game_script_act1.rpy:2628
 translate spanish game_script_act1_2b3f0c5e:

@@ -1502,7 +1502,7 @@ translate spanish game_script_act1_eb7bd89f:
 translate spanish game_script_act1_37fa50eb:
 
     # s "I think it’d be easier to just address it now."
-    s "Creo que sería más sencillo si lo habláramos ahora."
+    s "Creo que sería más sencillo si lo habláramos aquí."
 
 # game/game_script_act1.rpy:2641
 translate spanish game_script_act1_d87c5bd0:

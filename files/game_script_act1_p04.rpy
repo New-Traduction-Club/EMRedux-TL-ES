@@ -1880,7 +1880,7 @@ translate spanish game_script_act1_fc8d5db7:
 translate spanish game_script_act1_6c78c3f9:
 
     # "I just hope things can be made right."
-    ""
+    "Solo espero que todo esto se solucione."
 
 # game/game_script_act1.rpy:2817
 translate spanish game_script_act1_d752c093:
@@ -1892,25 +1892,25 @@ translate spanish game_script_act1_d752c093:
 translate spanish game_script_act1_12e5d29a:
 
     # "I carefully withdraw the Parfait Girls volume from my bag."
-    ""
+    "Saco de mi mochila el volumen de Parfait Girls con sumo cuidado."
 
 # game/game_script_act1.rpy:2823
 translate spanish game_script_act1_e2d9bd71:
 
     # n "So..."
-    n ""
+    n "Esto...,"
 
 # game/game_script_act1.rpy:2824
 translate spanish game_script_act1_19e54bdc:
 
     # n "Where were we last?"
-    n ""
+    n "¿por qué pagina lo dejamos?"
 
 # game/game_script_act1.rpy:2833
 translate spanish game_script_act1_12838ed0:
 
     # mc "Jesus--"
-    mc ""
+    mc "Joder, Natsuki,"
 
 # game/game_script_act1.rpy:2834
 translate spanish game_script_act1_ce1f31f4:

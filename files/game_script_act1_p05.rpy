@@ -1094,151 +1094,151 @@ translate spanish game_script_act1_c4a7365b:
 translate spanish game_script_act1_94004a03:
 
     # "Oh."
-    "Espera."
+    "Ah, bueno."
 
 # game/game_script_act1.rpy:3263
 translate spanish game_script_act1_ebec935a:
 
     # "Well, shit."
-    ""
+    "No, espera. Mierda."
 
 # game/game_script_act1.rpy:3264
 translate spanish game_script_act1_00b4e4da:
 
     # y shy n4 m4 e2 b2 "I..."
-    y shy n4 m4 e2 b2 ""
+    y shy n4 m4 e2 b2 "No..."
 
 # game/game_script_act1.rpy:3266
 translate spanish game_script_act1_89f360a4:
 
     # y e5 b3 "Please don't be angry...!"
-    y e5 b3 ""
+    y e5 b3 "¡No te enfades, por favor...!"
 
 # game/game_script_act1.rpy:3270
 translate spanish game_script_act1_4b071053:
 
     # mc "No, no."
-    mc ""
+    mc "No, no."
 
 # game/game_script_act1.rpy:3272
 translate spanish game_script_act1_95d9859b:
 
     # mc "Yuri, you're fine. Don't worry about it."
-    mc ""
+    mc "Yuri, no pasa nada, no te preocupes."
 
 # game/game_script_act1.rpy:3273
 translate spanish game_script_act1_76cf6c75:
 
     # "I sigh, rubbing my forehead."
-    ""
+    "Suspiro mientras me acaricio la frente."
 
 # game/game_script_act1.rpy:3274
 translate spanish game_script_act1_1381620d:
 
     # "{i}She just had to make me say it...{/i}"
-    ""
+    "Tenía que hacerme decirlo..."
 
 # game/game_script_act1.rpy:3275
 translate spanish game_script_act1_ecaadbf3:
 
     # "I tell her more of the truth, my voice taking a defeated tone."
-    ""
+    "Le sigo diciendo la verdad, aunque ahora con un tono de voz más derrotado."
 
 # game/game_script_act1.rpy:3277
 translate spanish game_script_act1_16b2a439:
 
     # mc "Yeah, we saw each other Tuesday. She didn't want to come inside the clubroom."
-    mc ""
+    mc "Sí, estuvimos juntos el martes. Natsuki no quería entrar al club."
 
 # game/game_script_act1.rpy:3278
 translate spanish game_script_act1_94767a95:
 
     # y turned n1 mg e1d b1f "Why not?"
-    y turned n1 mg e1d b1f ""
+    y turned n1 mg e1d b1f "¿Por qué no?"
 
 # game/game_script_act1.rpy:3280
 translate spanish game_script_act1_972949f2:
 
     # mc "I guess she felt guilty. Thought you and Monika would be mad at her."
-    mc ""
+    mc "Se sentía... culpable. Pensaba que Monika y tú ibais a tomarla con ella."
 
 # game/game_script_act1.rpy:3281
 translate spanish game_script_act1_97f882d7:
 
     # "And back to the partial truths."
-    ""
+    "Y volvemos con las verdades a medias."
 
 # game/game_script_act1.rpy:3282
 translate spanish game_script_act1_19f7ca2d:
 
     # y mg e1b b2a "Monika, maybe a little, but..."
-    y mg e1b b2a ""
+    y mg e1b b2a "Puede que Monika un poco, pero...,"
 
 # game/game_script_act1.rpy:3283
 translate spanish game_script_act1_750e6410:
 
     # y e1a b1b "I was just glad she was okay."
-    y e1a b1b ""
+    y e1a b1b "a mí me aliviaba saber que estaba bien."
 
 # game/game_script_act1.rpy:3284
 translate spanish game_script_act1_fa45d152:
 
     # y lup e4a b1a "I made sure Monika didn't know. I think she would've chased Natsuki down the halls in worry."
-    y lup e4a b1a ""
+    y lup e4a b1a "Me aseguré de que Monika no lo supiera porque la hubiese perseguido por los pasillos preocupada."
 
 # game/game_script_act1.rpy:3286
 translate spanish game_script_act1_d1658584:
 
     # mc "Aha, yeah, probably."
-    mc ""
+    mc "Sí, probablemente."
 
 # game/game_script_act1.rpy:3287
 translate spanish game_script_act1_5fde06ab:
 
     # mc "I was able to calm her down eventually, though."
-    mc ""
+    mc "Aunque, de todos modos, pude tranquilizarla."
 
 # game/game_script_act1.rpy:3288
 translate spanish game_script_act1_3baaaab5:
 
     # y mg e1a b1f "Huh?"
-    y mg e1a b1f ""
+    y mg e1a b1f "¿Eh?"
 
 # game/game_script_act1.rpy:3289
 translate spanish game_script_act1_fc8457ba:
 
     # y ldown "Why wouldn't she be calm?"
-    y ldown ""
+    y ldown "¿Por qué no estaría relajada?"
 
 # game/game_script_act1.rpy:3290
 translate spanish game_script_act1_775cb528:
 
     # y mh e1d "Did the stress from us potentially being mad at her really get to her that much?"
-    y mh e1d ""
+    y mh e1d "¿Es que el saber que ambas estábamos enfadadas con ella le ha afectado hasta ese punto?"
 
 # game/game_script_act1.rpy:3292
 translate spanish game_script_act1_c14c584c:
 
     # mc "Well..."
-    mc ""
+    mc "Pues...,"
 
 # game/game_script_act1.rpy:3293
 translate spanish game_script_act1_3e48c69c:
 
     # "Excuse time.{w} Again."
-    ""
+    "Toca excusarse...{w} otra vez."
 
 # game/game_script_act1.rpy:3294
 translate spanish game_script_act1_f6e13445:
 
     # mc "Yes and no."
-    mc ""
+    mc "sí y no."
 
 # game/game_script_act1.rpy:3296
 translate spanish game_script_act1_ac510dd8:
 
     # y mg b1f "What do you mean?"
-    y mg b1f ""
+    y mg b1f "¿A qué te refieres?"
 
 # game/game_script_act1.rpy:3298
 translate spanish game_script_act1_b0d9eb39:

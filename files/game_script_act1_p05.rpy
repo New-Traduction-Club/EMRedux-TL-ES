@@ -608,7 +608,7 @@ translate spanish game_script_act1_16247290:
 translate spanish game_script_act1_5d7e895e:
 
     # mc "Oh, I think she's doing better now that it's out there."
-    mc "Ah, pues creo que está mucho mejor ahora que está aquí."
+    mc "Ah, pues creo que está mucho mejor ahora que está por aquí rondando."
 
 # game/game_script_act1.rpy:3122
 translate spanish game_script_act1_7b0a03ee:
@@ -620,25 +620,25 @@ translate spanish game_script_act1_7b0a03ee:
 translate spanish game_script_act1_53e00530:
 
     # "I sigh as she seems to drift back into another one of her daydreams, the both of us continuing our walk in silence."
-    ""
+    "Suspiro al darme cuenta de que se ha vuelto a quedar en Babia, así que la caminata que me espera será silenciosa."
 
 # game/game_script_act1.rpy:3132
 translate spanish game_script_act1_73ee1973:
 
     # "As we exit the school, my eyes rest on the fountain."
-    ""
+    "Tal y como salimos del instituto, me quedo mirando la fuente."
 
 # game/game_script_act1.rpy:3133
 translate spanish game_script_act1_8fb9ec3b:
 
     # "Memories of yesterday come crawling back, and the weight of my task ahead looms."
-    ""
+    "Los recuerdos de ayer vuelven arrastrándose y el peso de la promesa se tira sobre mí."
 
 # game/game_script_act1.rpy:3134
 translate spanish game_script_act1_10f494b7:
 
     # "If I could only just let it out..."
-    ""
+    "Si tan solo pudiera decirlo..."
 
 # game/game_script_act1.rpy:3135
 translate spanish game_script_act1_6a20a80d:
@@ -650,103 +650,103 @@ translate spanish game_script_act1_6a20a80d:
 translate spanish game_script_act1_206e7252:
 
     # "No, Natsuki wants this kept quiet."
-    ""
+    "No puedo hacerlo, Natsuki quiere que esto se mantenga en secreto...,"
 
 # game/game_script_act1.rpy:3137
 translate spanish game_script_act1_de91005e:
 
     # "And there's no way I could ever explain all this to Yuri."
-    ""
+    "y no hay manera posible de explicarle esto a Yuri."
 
 # game/game_script_act1.rpy:3138
 translate spanish game_script_act1_bf576d38:
 
     # "I've no idea how she'd respond, anyway."
-    ""
+    "Tampoco sé qué me diría si lo hiciese."
 
 # game/game_script_act1.rpy:3139
 translate spanish game_script_act1_a06ce951:
 
     # "I don't really know how she'd respond to much at all."
-    ""
+    "En realidad, no tengo ni idea de qué respondería en respecto a cualquier cosa."
 
 # game/game_script_act1.rpy:3140
 translate spanish game_script_act1_a84a2aa2:
 
     # "It's only just now I realise just how little I know about her."
-    ""
+    "Ahí es cuando me doy cuenta de lo poco que conozco de ella."
 
 # game/game_script_act1.rpy:3141
 translate spanish game_script_act1_d2e535d6:
 
     # "That even with all this time to socialise, we've barely talked."
-    ""
+    "Pero es que llevamos un rato caminando juntos y apenas hemos mediado palabra."
 
 # game/game_script_act1.rpy:3142
 translate spanish game_script_act1_85be1977:
 
     # "And she's looking at me with concern, so I should just say something already."
-    ""
+    "Sin contar el hecho de que me mira preocupada, así que tengo que decir algo."
 
 # game/game_script_act1.rpy:3144
 translate spanish game_script_act1_918aa6e0:
 
     # mc "You're a very mysterious person, you know."
-    mc ""
+    mc "Me resultas una persona bastante misteriosa, ¿sabes?"
 
 # game/game_script_act1.rpy:3145
 translate spanish game_script_act1_10c2cbfe:
 
     # y mh b1f "Eh?"
-    y mh b1f ""
+    y mh b1f "¿Qué?"
 
 # game/game_script_act1.rpy:3146
 translate spanish game_script_act1_6fc4e9c2:
 
     # y rdown e1b b2b mg "Oh..."
-    y rdown e1b b2b mg ""
+    y rdown e1b b2b mg "Ah..."
 
 # game/game_script_act1.rpy:3147
 translate spanish game_script_act1_ecfc110c:
 
     # y lup "Do you think that's a bad thing...?"
-    y lup ""
+    y lup "¿Es que es malo...?"
 
 # game/game_script_act1.rpy:3149
 translate spanish game_script_act1_c568d062:
 
     # mc "I mean...not really."
-    mc ""
+    mc "Pues... creo que no."
 
 # game/game_script_act1.rpy:3151
 translate spanish game_script_act1_d2aac771:
 
     # mc "I just don’t really know what you like beyond horror, novels and tea."
-    mc ""
+    mc "En plan, no te conozco más allá de los libros de terror y el té."
 
 # game/game_script_act1.rpy:3152
 translate spanish game_script_act1_0f3c44b5:
 
     # mc "I suppose that’s purely my fault for not reaching out to you."
-    mc ""
+    mc "Supongo que es culpa mía por no haber hablado más contigo."
 
 # game/game_script_act1.rpy:3153
 translate spanish game_script_act1_6224da85:
 
     # y mg b1c "Well, not really."
-    y mg b1c ""
+    y mg b1c "No te creas."
 
 # game/game_script_act1.rpy:3154
 translate spanish game_script_act1_e1f50143:
 
     # y n1 rup e4a "I like to keep myself fairly secluded. That includes my personal life and any hobbies I take part in."
-    y n1 rup e4a ""
+    y n1 rup e4a "Me gusta aislarme, y eso incluye mi vida personal y mis pasatiempos."
 
 # game/game_script_act1.rpy:3155
 translate spanish game_script_act1_5d9f23af:
 
     # y e1c "Even my friends like Sayori don't know much about me out of school, and that is deliberate."
-    y e1c ""
+    y e1c "Incluso amigas como Sayori tienen poco conocimiento de mi 'yo' fuera de clase y es totalmente intencionado."
 
 # game/game_script_act1.rpy:3157
 translate spanish game_script_act1_67aaa788:
@@ -758,31 +758,31 @@ translate spanish game_script_act1_67aaa788:
 translate spanish game_script_act1_0e87bdaf:
 
     # "Sayori and Yuri have been talking to each other for ages."
-    ""
+    "Si estas dos llevan hablándose años..."
 
 # game/game_script_act1.rpy:3159
 translate spanish game_script_act1_6696a7a0:
 
     # "Last I heard from Sayori, they even tried becoming pen pals."
-    ""
+    "De lo último que me dijo Sayori, incluso intentaron hacerse amigas por carta,"
 
 # game/game_script_act1.rpy:3161
 translate spanish game_script_act1_c3ec95ce:
 
     # "Although I don't think that worked out too well, considering hardly anyone knows where Yuri lives and all."
-    ""
+    "aunque de poco serviría en su día porque casi nadie sabe dónde vive Yuri."
 
 # game/game_script_act1.rpy:3162
 translate spanish game_script_act1_f4cd2ace:
 
     # "But still, the fact they've been this close and Yuri is still so secretive..."
-    ""
+    "Pero aún así, me pone los pelos de punta que lleven tantos años relacionándose y ella siga siendo tan reservada..."
 
 # game/game_script_act1.rpy:3170
 translate spanish game_script_act1_aa841983:
 
     # "Before I know it, I'm now the one being pulled out of a daydream as Yuri speaks up."
-    ""
+    "Antes de darme cuenta, el que se ha embobado soy yo mientras Yuri habla."
 
 # game/game_script_act1.rpy:3171
 translate spanish game_script_act1_2109937a:

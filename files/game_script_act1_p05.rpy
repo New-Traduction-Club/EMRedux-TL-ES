@@ -788,25 +788,25 @@ translate spanish game_script_act1_aa841983:
 translate spanish game_script_act1_2109937a:
 
     # y mg "I just feel safer being alone...{done}if that makes any sense?"
-    y mg ""
+    y mg "Me hace sentirme mucho más segura estar sola,{done} ¿me explico?"
 
 # game/game_script_act1.rpy:3172
 translate spanish game_script_act1_bbad7c4f:
 
     # y b1f "I just feel safer being alone...{fast}if that makes any sense?"
-    y b1f ""
+    y b1f "Me hace sentirme mucho más segura estar sola,{fast} ¿me explico?"
 
 # game/game_script_act1.rpy:3174
 translate spanish game_script_act1_6e1385de:
 
     # "I chuckle at the irony of the statement."
-    ""
+    "Suelto una carcajada por la ironía de su conclusión."
 
 # game/game_script_act1.rpy:3176
 translate spanish game_script_act1_6088a7bd:
 
     # mc "Yet you're the one who invited me on a walk."
-    mc ""
+    mc "Pues has sido tú la que me ha pedido de ir juntos a casa."
 
 # game/game_script_act1.rpy:3179
 translate spanish game_script_act1_32835f9e:

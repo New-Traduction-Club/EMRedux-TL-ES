@@ -848,19 +848,19 @@ translate spanish game_script_act1_bf1daca0:
 translate spanish game_script_act1_fead4424:
 
     # mc "No, it's fine."
-    mc ""
+    mc "No, tranquila."
 
 # game/game_script_act1.rpy:3187
 translate spanish game_script_act1_5d11d014:
 
     # y n1 e1b mg "I just feel like I can let my guard down more when you are around."
-    y n1 e1b mg ""
+    y n1 e1b mg "Es que siento que puedo bajar la guardia si estoy a tu lado,"
 
 # game/game_script_act1.rpy:3188
 translate spanish game_script_act1_86dab45e:
 
     # y lup mb "I like that."
-    y lup mb ""
+    y lup mb "y eso me gusta."
 
 # game/game_script_act1.rpy:3192
 translate spanish game_script_act1_5dc0d783:
@@ -872,223 +872,223 @@ translate spanish game_script_act1_5dc0d783:
 translate spanish game_script_act1_451c2dfb:
 
     # y n2 mg e1c "I'm sorry, I must sound crazy."
-    y n2 mg e1c ""
+    y n2 mg e1c "Perdona, parezco loca diciendo estas cosas."
 
 # game/game_script_act1.rpy:3196
 translate spanish game_script_act1_03060c1b:
 
     # mc "I mean, out of all the things to happen this week?"
-    mc ""
+    mc "Que sepas que, de todo lo que ha pasado esta semana,"
 
 # game/game_script_act1.rpy:3198
 translate spanish game_script_act1_178819b6:
 
     # mc "This is probably the most normal moment I've had."
-    mc ""
+    mc "esto es lo menos 'loco'."
 
 # game/game_script_act1.rpy:3199
 translate spanish game_script_act1_00082275:
 
     # mc "So no."
-    mc ""
+    mc "Así que no, no pareces loca."
 
 # game/game_script_act1.rpy:3201
 translate spanish game_script_act1_446d388e:
 
     # "A pause is felt in the conversation as Yuri sighs again, speaking up in a more optimistic tone."
-    ""
+    "La conversación se detiene por unos instantes mientras Yuri suspira y habla en un tono mucho más amigable."
 
 # game/game_script_act1.rpy:3202
 translate spanish game_script_act1_48fb351c:
 
     # y e1a b1a mb "I'm glad."
-    y e1a b1a mb ""
+    y e1a b1a mb "Me alegro..."
 
 # game/game_script_act1.rpy:3208
 translate spanish game_script_act1_6141cdc6:
 
     # mc "Hey, thanks for the company."
-    mc ""
+    mc "Oye, gracias por acompañarme."
 
 # game/game_script_act1.rpy:3209
 translate spanish game_script_act1_7f0e3955:
 
     # mc "Wouldn't be the same walking home alone again."
-    mc ""
+    mc "Irme a casa solo ya no es lo mismo."
 
 # game/game_script_act1.rpy:3211
 translate spanish game_script_act1_9a667f00:
 
     # mc "Which, speaking of..."
-    mc ""
+    mc "Y ahora que me acuerdo..."
 
 # game/game_script_act1.rpy:3213
 translate spanish game_script_act1_1caf74b9:
 
     # mc "You said Sayori is someone else you're comfortable with?"
-    mc ""
+    mc "¿No me dijiste antes que te sientes cómoda estando con Sayori?"
 
 # game/game_script_act1.rpy:3215
 translate spanish game_script_act1_28c22ae0:
 
     # y shy uniform m4 e2 b2 "Yes."
-    y shy uniform m4 e2 b2 ""
+    y shy uniform m4 e2 b2 "Sí."
 
 # game/game_script_act1.rpy:3216
 translate spanish game_script_act1_e15360ce:
 
     # y b1 "She's been a good friend lately."
-    y b1 ""
+    y b1 "Últimamente ha sido muy buena amiga."
 
 # game/game_script_act1.rpy:3217
 translate spanish game_script_act1_98b17c71:
 
     # y b2 "Very...approachable, I suppose is a good way to put it."
-    y b2 ""
+    y b2 "Ha sido muy... abierta, si es que esa es la palabra que mejor la define."
 
 # game/game_script_act1.rpy:3218
 translate spanish game_script_act1_e0b76c75:
 
     # y "And an apt listener."
-    y ""
+    y "Y sabe escuchar,"
 
 # game/game_script_act1.rpy:3219
 translate spanish game_script_act1_5693e7a3:
 
     # y e1 "...something you two have in common, it looks like."
-    y e1 ""
+    y e1 "cosa que los dos hacéis de maravilla, por lo que veo."
 
 # game/game_script_act1.rpy:3225
 translate spanish game_script_act1_e92cb2cb:
 
     # y n1 m4 b1 "I {i}am{/i} sorry if I ramble on too much..."
-    y n1 m4 b1 ""
+    y n1 m4 b1 "Te pido perdón si me enrollo mucho..."
 
 # game/game_script_act1.rpy:3227
 translate spanish game_script_act1_5a86862f:
 
     # mc "Not at all."
-    mc ""
+    mc "No, para nada."
 
 # game/game_script_act1.rpy:3229
 translate spanish game_script_act1_2c29c1d2:
 
     # mc "And yeah, Sayori is a good friend."
-    mc ""
+    mc "Y sí, Sayori es una muy buena amiga."
 
 # game/game_script_act1.rpy:3230
 translate spanish game_script_act1_7ef9d263:
 
     # mc "Natsuki has been too."
-    mc ""
+    mc "Natsuki también."
 
 # game/game_script_act1.rpy:3231
 translate spanish game_script_act1_71469f61:
 
     # y lup e1b b1d mg "I've noticed the two of you have gotten close lately."
-    y lup e1b b1d mg ""
+    y lup e1b b1d mg "Me he dado cuenta de que estáis muy juntitos."
 
 # game/game_script_act1.rpy:3232
 translate spanish game_script_act1_183fa5d7:
 
     # y mh b1a "I'm sure Monika is glad everyone's getting along."
-    y mh b1a ""
+    y mh b1a "Estoy segura de que Monika está contenta de que todos nos llevemos bien."
 
 # game/game_script_act1.rpy:3233
 translate spanish game_script_act1_27620a06:
 
     # y mk e2b "W-well, most of us..."
-    y mk e2b ""
+    y mk e2b "O b-bueno, casi todos..."
 
 # game/game_script_act1.rpy:3235
 translate spanish game_script_act1_94fb474e:
 
     # mc "Hey, look, I doubt Natsuki hates you."
-    mc ""
+    mc "Oye, dudo mucho de que Natsuki te odie."
 
 # game/game_script_act1.rpy:3237
 translate spanish game_script_act1_16c9c391:
 
     # mc "You're just...{w}very different people. With different hobbies and interests."
-    mc ""
+    mc "Lo que pasa es que sois...{w} sois la noche y el día. Tenéis costumbres e intereses completamente opuestos."
 
 # game/game_script_act1.rpy:3238
 translate spanish game_script_act1_eb867547:
 
     # mc "She's also very open and direct about what she likes, and you keep things..."
-    mc ""
+    mc "Piensa que ella es más directa y abierta con lo que le gusta, y tú, con esas cosas, eres más...,"
 
 # game/game_script_act1.rpy:3239
 translate spanish game_script_act1_4271a4d1:
 
     # y rup mg "Close to the chest."
-    y rup mg ""
+    y rup mg "reservada."
 
 # game/game_script_act1.rpy:3241
 translate spanish game_script_act1_4292e3d1:
 
     # mc "Yeah, that."
-    mc ""
+    mc "Sí, eso."
 
 # game/game_script_act1.rpy:3243
 translate spanish game_script_act1_08a50e85:
 
     # "Yuri sighs."
-    ""
+    "Suspira."
 
 # game/game_script_act1.rpy:3244
 translate spanish game_script_act1_d5c1e3e5:
 
     # y mg e1b "I really do need to reach out to her more, don't I?"
-    y mg e1b ""
+    y mg e1b "Que necesito hablar más con ella, ¿no?"
 
 # game/game_script_act1.rpy:3245
 translate spanish game_script_act1_5a67feb1:
 
     # y "When I saw her on T--{w=0.1}{nw}"
-    y ""
+    y "Cuando la vi el mart{w=0.1}{nw}"
 
 # game/game_script_act1.rpy:3251
 translate spanish game_script_act1_5c10d29e:
 
     # "Yuri stops with a mild squeak."
-    ""
+    "Yuri se detiene mientras suelta un chillido."
 
 # game/game_script_act1.rpy:3253
 translate spanish game_script_act1_7e8327b3:
 
     # "Did she..."
-    ""
+    "¿Acaba de...?"
 
 # game/game_script_act1.rpy:3254
 translate spanish game_script_act1_11455b53:
 
     # mc "What?"
-    mc ""
+    mc "¿Qué?"
 
 # game/game_script_act1.rpy:3255
 translate spanish game_script_act1_d7cf4026:
 
     # y e2b mk "{size=10}N-nothing.{/size}"
-    y e2b mk ""
+    y e2b mk "{size=10}N-Nada...{/size}"
 
 # game/game_script_act1.rpy:3257
 translate spanish game_script_act1_6fbf8b5e:
 
     # mc "Did you see us on Tuesday?"
-    mc ""
+    mc "¿Nos viste juntos el martes?"
 
 # game/game_script_act1.rpy:3259
 translate spanish game_script_act1_312a241f:
 
     # y e2c "Uuu..."
-    y e2c ""
+    y e2c "Uuuh..."
 
 # game/game_script_act1.rpy:3260
 translate spanish game_script_act1_c4a7365b:
 
     # y lup ml e2a "I-I didn't know it was both of you...!"
-    y lup ml e2a ""
+    y lup ml e2a "¡E-Es que no sabía que estábais los dos...!"
 
 # game/game_script_act1.rpy:3262
 translate spanish game_script_act1_94004a03:

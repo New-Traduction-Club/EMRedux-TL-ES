@@ -746,7 +746,7 @@ translate spanish game_script_act1_e1f50143:
 translate spanish game_script_act1_5d9f23af:
 
     # y e1c "Even my friends like Sayori don't know much about me out of school, and that is deliberate."
-    y e1c "Incluso amigas como Sayori tienen poco conocimiento de mi 'yo' fuera de clase y es totalmente intencionado."
+    y e1c "Incluso amigas como Sayori tienen poco conocimiento de mi 'yo' fuera de clase, y es totalmente intencionado."
 
 # game/game_script_act1.rpy:3157
 translate spanish game_script_act1_67aaa788:
@@ -776,7 +776,7 @@ translate spanish game_script_act1_c3ec95ce:
 translate spanish game_script_act1_f4cd2ace:
 
     # "But still, the fact they've been this close and Yuri is still so secretive..."
-    "Pero aún así, me pone los pelos de punta que lleven tantos años relacionándose y ella siga siendo tan reservada..."
+    "Pero, aún así, me pone los pelos de punta que lleven tantos años relacionándose y ella siga siendo tan reservada..."
 
 # game/game_script_act1.rpy:3170
 translate spanish game_script_act1_aa841983:

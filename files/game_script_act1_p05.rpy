@@ -938,19 +938,19 @@ translate spanish game_script_act1_28c22ae0:
 translate spanish game_script_act1_e15360ce:
 
     # y b1 "She's been a good friend lately."
-    y b1 "Últimamente ha sido muy buena amiga."
+    y b1 "Ha sido muy buena amiga."
 
 # game/game_script_act1.rpy:3217
 translate spanish game_script_act1_98b17c71:
 
     # y b2 "Very...approachable, I suppose is a good way to put it."
-    y b2 "Ha sido muy... abierta, si es que esa es la palabra que mejor la define."
+    y b2 "Y muy... abierta, si es que esa es la palabra que mejor la define."
 
 # game/game_script_act1.rpy:3218
 translate spanish game_script_act1_e0b76c75:
 
     # y "And an apt listener."
-    y "Y sabe escuchar,"
+    y "También sabe escuchar,"
 
 # game/game_script_act1.rpy:3219
 translate spanish game_script_act1_5693e7a3:

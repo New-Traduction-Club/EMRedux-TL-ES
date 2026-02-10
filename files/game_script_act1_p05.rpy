@@ -812,37 +812,37 @@ translate spanish game_script_act1_6088a7bd:
 translate spanish game_script_act1_32835f9e:
 
     # y n3 lup rup mk e1b b2b "Uuu..."
-    y n3 lup rup mk e1b b2b ""
+    y n3 lup rup mk e1b b2b "Uuuh..."
 
 # game/game_script_act1.rpy:3180
 translate spanish game_script_act1_a50f4561:
 
     # y ldown mh b1b "Well, you're different.{w} Kind of like Sayori."
-    y ldown mh b1b ""
+    y ldown mh b1b "Es que eres distinto,{w} como Sayori."
 
 # game/game_script_act1.rpy:3181
 translate spanish game_script_act1_5c5f07ef:
 
     # y mg e4a b2b "I don't know."
-    y mg e4a b2b ""
+    y mg e4a b2b "No sé."
 
 # game/game_script_act1.rpy:3182
 translate spanish game_script_act1_a26a87c8:
 
     # y e1b "I just feel more...{done}comfortable around you?"
-    y e1b ""
+    y e1b "Me siento más...{done} más cómoda al lado tuya."
 
 # game/game_script_act1.rpy:3183
 translate spanish game_script_act1_22a5faf1:
 
     # y b1f mh "I just feel more...{fast}comfortable around you?"
-    y b1f mh ""
+    y b1f mh "Me siento más...{fast} más cómoda al lado tuya."
 
 # game/game_script_act1.rpy:3184
 translate spanish game_script_act1_bf1daca0:
 
     # y mg e4a b1b "It's weird. I'm sorry for bringing it up."
-    y mg e4a b1b ""
+    y mg e4a b1b "Estoy siendo una rarita, perdona por decírtelo."
 
 # game/game_script_act1.rpy:3186
 translate spanish game_script_act1_fead4424:

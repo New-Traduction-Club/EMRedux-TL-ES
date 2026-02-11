@@ -1520,55 +1520,55 @@ translate spanish game_script_act1_ed0dd478:
 translate spanish game_script_act1_656f53e3:
 
     # "I breathe out in relief, everything going according to the shoddy plan I have."
-    ""
+    "Respiro de alivio, ya que el pésimo plan que tengo va viento en popa."
 
 # game/game_script_act1.rpy:3375
 translate spanish game_script_act1_5fca967b:
 
     # "She indicates towards a smaller street on our immediate left."
-    ""
+    "Me señala una pequeña calle a nuestra izquierda."
 
 # game/game_script_act1.rpy:3376
 translate spanish game_script_act1_a04c0066:
 
     # y mb e1a "Here."
-    y mb e1a ""
+    y mb e1a "Aquí es."
 
 # game/game_script_act1.rpy:3378
 translate spanish game_script_act1_ddfe2ac1:
 
     # "We turn, heading away from the crowded streets of downtown."
-    ""
+    "Giramos, alejándonos de las calles concurridas del centro."
 
 # game/game_script_act1.rpy:3385
 translate spanish game_script_act1_77a66e76:
 
     # "I've seen this neighborhood before, but this is my first time actually walking in it."
-    ""
+    "He visto esta barriada antes, pero nunca he tenido la oportunidad de ir por aquí."
 
 # game/game_script_act1.rpy:3386
 translate spanish game_script_act1_2ebaeb6c:
 
     # "It's kind of like my own. Middle-class housing, mostly. Some food shops and businesses."
-    ""
+    "Se parece a la mía: casas de clase media, supermercados, tiendas de abastos y negocios."
 
 # game/game_script_act1.rpy:3387
 translate spanish game_script_act1_8ec9897f:
 
     # "The scent of sugar and fresh bread from a nearby bakery immediately provides a warm atmosphere."
-    ""
+    "El aroma a azúcar y pan recién hecho proveniente de una panadería cercana genera un ambiente muy relajante."
 
 # game/game_script_act1.rpy:3388
 translate spanish game_script_act1_fa301cc8:
 
     # "Yeah. Good choice."
-    ""
+    "Buena elección."
 
 # game/game_script_act1.rpy:3389
 translate spanish game_script_act1_2dd26eaf:
 
     # "Hold on..."
-    ""
+    "Un momento..."
 
 # game/game_script_act1.rpy:3390
 translate spanish game_script_act1_9e39e426:

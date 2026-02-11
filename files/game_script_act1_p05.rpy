@@ -1370,49 +1370,49 @@ translate spanish game_script_act1_0d7b462f:
 translate spanish game_script_act1_e413f5f9:
 
     # "I guess I'm so used to Sayori, who never really finds a lull in the conversation, that Yuri's frequent silence and daydreaming feels really awkward."
-    ""
+    "Supongo que estar acostumbrado a Sayori, que no se calla ni bajo agua, hace que me sienta incómodo cuando Yuri se queda callada o en Babia."
 
 # game/game_script_act1.rpy:3339
 translate spanish game_script_act1_609a0c20:
 
     # "It's just who she is, I guess. I'm sure I could grow to appreciate it."
-    ""
+    "Es su forma de ser, y estoy seguro de poder llegar a acostumbrarme,"
 
 # game/game_script_act1.rpy:3340
 translate spanish game_script_act1_550d4af5:
 
     # "But I'd much rather like to calmly talk to her instead."
-    ""
+    "pero preferiría estar hablando con ella tranquilamente."
 
 # game/game_script_act1.rpy:3341
 translate spanish game_script_act1_76fe0c1e:
 
     # "Even then, I think she somehow finds it easier to talk to me than almost anyone else."
-    ""
+    "Parece que le resulta más sencillo dirigirme la palabra que hacerlo con otra persona."
 
 # game/game_script_act1.rpy:3342
 translate spanish game_script_act1_fa6ae2b1:
 
     # "But I would much rather focus on other things first."
-    "Prefiero centrarme en otras cosas, la verdad."
+    "Pero prefiero centrarme en otras cosas,"
 
 # game/game_script_act1.rpy:3343
 translate spanish game_script_act1_82c70c5d:
 
     # "Like helping Natsuki escape her house without getting caught..."
-    "Ayudar a Natsuki con los planes de escapada sin ser descubiertos, por ejemplo."
+    "como ayudar a Natsuki con los planes de escapada sin ser descubiertos, por ejemplo."
 
 # game/game_script_act1.rpy:3344
 translate spanish game_script_act1_80cecb83:
 
     # "I look ahead and see a large crowd of students mingling outside a local shop."
-    ""
+    "Miro al frente y veo muchos estudiantes reunidos fuera de una tienda."
 
 # game/game_script_act1.rpy:3345
 translate spanish game_script_act1_e888dc4d:
 
     # "Hold on...{w}that gives me an idea."
-    ""
+    "Un momento,{w} se me acaba de ocurrir algo..."
 
 # game/game_script_act1.rpy:3346
 translate spanish game_script_act1_d8562a0b:
@@ -1436,7 +1436,7 @@ translate spanish game_script_act1_71aa0700:
 translate spanish game_script_act1_0bc76bed:
 
     # "Though instead of startling her, she seems unfazed."
-    ""
+    "Esta vez, en lugar de asustarse, se muestra impasible."
 
 # game/game_script_act1.rpy:3352
 translate spanish game_script_act1_384f8d27:
@@ -1448,73 +1448,73 @@ translate spanish game_script_act1_384f8d27:
 translate spanish game_script_act1_082aa5f7:
 
     # mc "Do you mind if we take an alternate route?"
-    mc ""
+    mc "¿Te importa si vamos por una ruta alternativa?"
 
 # game/game_script_act1.rpy:3355
 translate spanish game_script_act1_7e5b9f2f:
 
     # y mg "Uhm..."
-    y mg ""
+    y mg "Eh..."
 
 # game/game_script_act1.rpy:3356
 translate spanish game_script_act1_415c0f28:
 
     # y rup b1f "For what purpose?"
-    y rup b1f ""
+    y rup b1f "¿Para qué?"
 
 # game/game_script_act1.rpy:3357
 translate spanish game_script_act1_5d03bb0f:
 
     # y e1b b1a "The only alternative route is to our left, and--{w=0.1}{nw}"
-    y e1b b1a ""
+    y e1b b1a "La única ruta alternativa es ir por la izquierda y...{w=0.1}{nw}"
 
 # game/game_script_act1.rpy:3359
 translate spanish game_script_act1_d05991f0:
 
     # "Yuri looks in the same direction as I was, at the group of students."
-    ""
+    "Yuri mira a la misma dirección que miraba yo: el grupo de estudiantes."
 
 # game/game_script_act1.rpy:3360
 translate spanish game_script_act1_c4f25209:
 
     # y mg e1b "Oh."
-    y mg e1b ""
+    y mg e1b "Ah."
 
 # game/game_script_act1.rpy:3362
 translate spanish game_script_act1_3a72aaee:
 
     # mc "I just know you don't like crowds too much and well..."
-    mc ""
+    mc "Sé que no te gustan las multitudes y eso..."
 
 # game/game_script_act1.rpy:3364
 translate spanish game_script_act1_89b2c67e:
 
     # mc "I'm not really in the mood right now."
-    mc ""
+    mc "Y no tengo ganas de cruzar por ahí."
 
 # game/game_script_act1.rpy:3366
 translate spanish game_script_act1_dfe445b7:
 
     # "Yuri looks at the crowd again {w=0.15}{nw}{done}and back to me."
-    ""
+    "Yuri mira hacia el grupo{w=0.15}{nw}{done} y después me mira a mí."
 
 # game/game_script_act1.rpy:3368
 translate spanish game_script_act1_57dd8e47:
 
     # "Yuri looks at the crowd again {fast}and back to me."
-    ""
+    "Yuri mira hacia el grupo{fast} y después me mira a mí."
 
 # game/game_script_act1.rpy:3369
 translate spanish game_script_act1_dcb784ee:
 
     # y n3 rup mb e1b b1b "Well, thank you for your consideration."
-    y n3 rup mb e1b b1b ""
+    y n3 rup mb e1b b1b "Pues gracias por el detalle."
 
 # game/game_script_act1.rpy:3370
 translate spanish game_script_act1_ed0dd478:
 
     # y e1d b1a "In that case, we'll go the alternate path."
-    y e1d b1a ""
+    y e1d b1a "En tal caso, iremos por el otro camino."
 
 # game/game_script_act1.rpy:3372
 translate spanish game_script_act1_656f53e3:

@@ -1244,97 +1244,97 @@ translate spanish game_script_act1_ac510dd8:
 translate spanish game_script_act1_b0d9eb39:
 
     # "My eyes shift, my head craning its way down to the ground."
-    ""
+    "Muevo los ojos y mi cabeza apunta al suelo."
 
 # game/game_script_act1.rpy:3299
 translate spanish game_script_act1_fbe25daa:
 
     # "I hate doing this."
-    ""
+    "Odio hacer estas cosas."
 
 # game/game_script_act1.rpy:3300
 translate spanish game_script_act1_8b76d891:
 
     # "But I can't--{w=0.1}{nw}"
-    ""
+    "Pero no pu{w=0.1}{nw}"
 
 # game/game_script_act1.rpy:3301
 translate spanish game_script_act1_55df28ad:
 
     # "No, shut up."
-    ""
+    "No, cállate."
 
 # game/game_script_act1.rpy:3302
 translate spanish game_script_act1_a899a231:
 
     # "Just say something already."
-    ""
+    "Di algo y ya."
 
 # game/game_script_act1.rpy:3304
 translate spanish game_script_act1_82b35d1c:
 
     # mc "One of her family members had a stroke."
-    mc ""
+    mc "Alguien de su familia tuvo un derrame cerebral hace relativamente poco."
 
 # game/game_script_act1.rpy:3306
 translate spanish game_script_act1_99f81145:
 
     # "Seeing Yuri's eyes go wide with shock at my deceit..."
-    ""
+    "Los ojos de Yuri se abren de par en par tras oír mi farsa."
 
 # game/game_script_act1.rpy:3307
 translate spanish game_script_act1_69675a09:
 
     # "I hate this."
-    ""
+    "Odio esto."
 
 # game/game_script_act1.rpy:3308
 translate spanish game_script_act1_d5196f31:
 
     # y "O-oh my..."
-    y ""
+    y "A-Ay, Dios..."
 
 # game/game_script_act1.rpy:3309
 translate spanish game_script_act1_a583d173:
 
     # y e1a b2b mg "I'm so sorry."
-    y e1a b2b mg ""
+    y e1a b2b mg "Lo siento muchísimo."
 
 # game/game_script_act1.rpy:3311
 translate spanish game_script_act1_a75a132d:
 
     # mc "It's fine."
-    mc ""
+    mc "Está bien..."
 
 # game/game_script_act1.rpy:3312
 translate spanish game_script_act1_ed66b09c:
 
     # mc "I think she said that they're doing better now."
-    mc ""
+    mc "Creo que me dijo que ya estaban algo mejor con el tema..."
 
 # game/game_script_act1.rpy:3317
 translate spanish game_script_act1_5181fa82:
 
     # y mg b1b "Natsuki's a good friend...even if we fight."
-    y mg b1b ""
+    y mg b1b "Aunque tengamos muchas peleas, es muy buena amiga...,"
 
 # game/game_script_act1.rpy:3318
 translate spanish game_script_act1_41c35581:
 
     # y b2b "And I wouldn't want her to suffer in silence like this."
-    y b2b ""
+    y b2b "y no quiero verla sufriendo en silencio."
 
 # game/game_script_act1.rpy:3319
 translate spanish game_script_act1_677cb739:
 
     # y ldown mb e1a "You’re a kind person, [player]."
-    y ldown mb e1a ""
+    y ldown mb e1a "Eres un sol, [player]."
 
 # game/game_script_act1.rpy:3320
 translate spanish game_script_act1_31645f6a:
 
     # y e1a b1b mb "...I know that if anyone is able to comfort Natsuki during this, it's you."
-    y e1a b1b mb ""
+    y e1a b1b mb "Sé que, si alguien es capaz de apoyarla en estos momentos, ese eres tú."
 
 # game/game_script_act1.rpy:3322
 translate spanish game_script_act1_69c25b65:
@@ -1346,25 +1346,25 @@ translate spanish game_script_act1_69c25b65:
 translate spanish game_script_act1_beabc7bb:
 
     # "I hope I can..."
-    ""
+    "Pues espero poder hacerlo..."
 
 # game/game_script_act1.rpy:3335
 translate spanish game_script_act1_b444e162:
 
     # "The evening breeze gives me a slight chill as I notice the sun is beginning to set."
-    ""
+    "Como ya va a ponerse el sol, empieza a hacer algo de frío."
 
 # game/game_script_act1.rpy:3336
 translate spanish game_script_act1_14452f93:
 
     # "I look up and admire it, now enjoying the chill more than I just had."
-    ""
+    "Miro hacia arriba para admirarlo y disfrutar de la brisa del atardecer."
 
 # game/game_script_act1.rpy:3337
 translate spanish game_script_act1_0d7b462f:
 
     # "Neither of us muster up any words for quite a while."
-    "Tras esas últimas palabras, estuvimos un rato sin hablar."
+    "Tras esto último, estuvimos un rato sin hablar."
 
 # game/game_script_act1.rpy:3338
 translate spanish game_script_act1_e413f5f9:

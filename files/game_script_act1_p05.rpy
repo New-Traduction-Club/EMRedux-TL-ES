@@ -1778,7 +1778,7 @@ translate spanish game_script_act1_0c06a3fd:
 translate spanish game_script_act1_910403ba:
 
     # mc "Wow, that's a blast from the past, haha."
-    mc "Vaya golpe a la nostalgia que me acaban de dar. Ja, ja, ja."
+    mc "Vaya golpe a la nostalgia que me acabas de dar. Ja, ja, ja."
 
 # game/game_script_act1.rpy:3450
 translate spanish game_script_act1_87a52af1:

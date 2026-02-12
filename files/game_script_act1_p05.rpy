@@ -344,13 +344,13 @@ translate spanish game_script_act1_6d6da3ea:
 translate spanish game_script_act1_5596d704:
 
     # "A sinking feeling squeezes my lungs."
-    "Que mis pulmones se están hundiendo en algo."
+    "Una sensación de ahogamiento estruja mis pulmones."
 
 # game/game_script_act1.rpy:3018
 translate spanish game_script_act1_dafaa820:
 
     # "My hand finds the desk corner and grips it for dear life."
-    "Por inercia, mis manos buscan el escritorio para agarrarse a él con todas las fuerzas disponibles."
+    "Por inercia, mis manos buscan mi escritorio para agarrarse a él con todas las fuerzas."
 
 # game/game_script_act1.rpy:3019
 translate spanish game_script_act1_36707738:

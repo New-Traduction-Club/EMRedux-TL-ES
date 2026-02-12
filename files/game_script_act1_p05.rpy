@@ -1706,235 +1706,235 @@ translate spanish game_script_act1_766fbcc4:
 translate spanish game_script_act1_b09699a9:
 
     # mc "Well, I mean yes."
-    mc ""
+    mc "Que diga, ¡sí, sí!"
 
 # game/game_script_act1.rpy:3427
 translate spanish game_script_act1_c79fa701:
 
     # "I sigh for what feels like the millionth time today."
-    ""
+    "Profiero lo que creo que es el millonésimo suspiro."
 
 # game/game_script_act1.rpy:3428
 translate spanish game_script_act1_1bc635f0:
 
     # "Me and my big mouth..."
-    ""
+    "Soy un bocazas, lo sé."
 
 # game/game_script_act1.rpy:3430
 translate spanish game_script_act1_42251116:
 
     # "Yuri lets a small grin shine through her otherwise neutral expression."
-    ""
+    "Yuri deja entrever una sonrisilla a través de su expresión neutral."
 
 # game/game_script_act1.rpy:3432
 translate spanish game_script_act1_959e67ea:
 
     # mc "You know what I mean."
-    mc ""
+    mc "Ya... sabes a lo que me refiero."
 
 # game/game_script_act1.rpy:3436
 translate spanish game_script_act1_cba3b2d1:
 
     # y mh b1a "Yes. More than you think."
-    y mh b1a ""
+    y mh b1a "Sí, más de lo que crees."
 
 # game/game_script_act1.rpy:3437
 translate spanish game_script_act1_c9de1b55:
 
     # y mb e1b "I always enjoy going the scenic route."
-    y mb e1b ""
+    y mb e1b "Me gusta más ir por la ruta turística."
 
 # game/game_script_act1.rpy:3438
 translate spanish game_script_act1_8a954445:
 
     # y e1a "Especially down here."
-    y e1a ""
+    y e1a "En especial, por aquí abajo."
 
 # game/game_script_act1.rpy:3444
 translate spanish game_script_act1_cfa32b47:
 
     # y rup mh e1d "Oh, by the way."
-    y rup mh e1d ""
+    y rup mh e1d "Ah, por cierto."
 
 # game/game_script_act1.rpy:3445
 translate spanish game_script_act1_60e1e92d:
 
     # y mb e1b "The playground you mentioned is over there, down that other road."
-    y mb e1b ""
+    y mb e1b "Ese parque que mencionaste antes está bajando esa otra calle."
 
 # game/game_script_act1.rpy:3447
 translate spanish game_script_act1_ad232239:
 
     # "I turn my head ever so slightly to see it exactly how I remembered it."
-    ""
+    "Giro la cabeza un poco para verlo tal y como lo recordaba."
 
 # game/game_script_act1.rpy:3448
 translate spanish game_script_act1_0c06a3fd:
 
     # "It's almost as if it was trapped in that moment in time, never aging past the last time I saw it."
-    ""
+    "Es como si estuviera atrapado en aquellos tiempos y no envejeciera nunca."
 
 # game/game_script_act1.rpy:3449
 translate spanish game_script_act1_910403ba:
 
     # mc "Wow, that's a blast from the past, haha."
-    mc ""
+    mc "Vaya golpe a la nostalgia que me acaban de dar. Ja, ja, ja."
 
 # game/game_script_act1.rpy:3450
 translate spanish game_script_act1_87a52af1:
 
     # y e4a mn "Huhu."
-    y e4a mn ""
+    y e4a mn "Ju, ju, ju."
 
 # game/game_script_act1.rpy:3451
 translate spanish game_script_act1_999d3628:
 
     # y rdown e1d mb "I'm glad you're enjoying yourself this much."
-    y rdown e1d mb ""
+    y rdown e1d mb "Me alegro de que lo disfrutes tanto."
 
 # game/game_script_act1.rpy:3453
 translate spanish game_script_act1_bf11bace:
 
     # mc "...Me too."
-    mc ""
+    mc "Y yo..."
 
 # game/game_script_act1.rpy:3460
 translate spanish game_script_act1_c3bbfd3b:
 
     # y lup mg b1f "Come to think of it, how are your walks home usually?"
-    y lup mg b1f ""
+    y lup mg b1f "Ahora que lo pienso, ¿cómo son tus caminatas a casa?"
 
 # game/game_script_act1.rpy:3462
 translate spanish game_script_act1_8114a09f:
 
     # mc "Uh..."
-    mc ""
+    mc "Eh..."
 
 # game/game_script_act1.rpy:3463
 translate spanish game_script_act1_1bf6eecb:
 
     # mc "Well, they're alright."
-    mc ""
+    mc "Pues... normales, supongo."
 
 # game/game_script_act1.rpy:3465
 translate spanish game_script_act1_62b092b5:
 
     # mc "They're made a whole lot better when I'm walking with Sayori."
-    mc ""
+    mc "Mejoran mucho cuando las hago con Sayori,"
 
 # game/game_script_act1.rpy:3466
 translate spanish game_script_act1_244796d9:
 
     # mc "She seems to just lighten up everything wherever she goes."
-    mc ""
+    mc "ya que siempre ilumina el camino por el que va."
 
 # game/game_script_act1.rpy:3467
 translate spanish game_script_act1_6e552f2b:
 
     # mc "I don't know how she does it."
-    mc ""
+    mc "No sé cómo lo hace, pero lo consigue."
 
 # game/game_script_act1.rpy:3469
 translate spanish game_script_act1_ed44580f:
 
     # mc "It just..."
-    mc ""
+    mc "Hace ya tiempo que...,"
 
 # game/game_script_act1.rpy:3470
 translate spanish game_script_act1_27253a0a:
 
     # mc "...it hasn't been the same. For a while."
-    mc ""
+    mc "que no es lo mismo."
 
 # game/game_script_act1.rpy:3471
 translate spanish game_script_act1_70a444bd_1:
 
     # mc "I don't know."
-    mc ""
+    mc "No lo sé."
 
 # game/game_script_act1.rpy:3472
 translate spanish game_script_act1_9a05f912:
 
     # mc "Things are changing so fast."
-    mc ""
+    mc "Las cosas están cambiando muy rápido."
 
 # game/game_script_act1.rpy:3473
 translate spanish game_script_act1_ec5f56eb:
 
     # mc "Sayori and I were close friends."
-    mc ""
+    mc "Sayori y yo éramos mejores amigos."
 
 # game/game_script_act1.rpy:3474
 translate spanish game_script_act1_df0ad732:
 
     # mc "And Natsuki and I got really close too."
-    mc ""
+    mc "He tenido la oportunidad de poder conocer bastante a Natsuki."
 
 # game/game_script_act1.rpy:3476
 translate spanish game_script_act1_c22b9563:
 
     # mc "But now, Sayori is...you know."
-    mc ""
+    mc "Pero ahora Sayori está... ya sabes."
 
 # game/game_script_act1.rpy:3477
 translate spanish game_script_act1_ea851209:
 
     # mc "And Natsuki...has her own problems."
-    mc ""
+    mc "Y Natsuki tiene sus propios problemas."
 
 # game/game_script_act1.rpy:3478
 translate spanish game_script_act1_7f99b39c:
 
     # mc "It's like life slammed on the gas pedal and I'm just along for the ride."
-    mc ""
+    mc "La vida ha decidido pisar el acelerador y me he quedado atrás."
 
 # game/game_script_act1.rpy:3480
 translate spanish game_script_act1_e14378cb:
 
     # mc "Walking home alone used to clear my head."
-    mc ""
+    mc "Irme a casa solo me hacía desconectar,"
 
 # game/game_script_act1.rpy:3481
 translate spanish game_script_act1_ce8c56e2:
 
     # mc "Now from the events of just one week...I don't know."
-    mc ""
+    mc "pero con todo lo que ha pasado en tan solo una semana... ya no lo tengo tan claro."
 
 # game/game_script_act1.rpy:3483
 translate spanish game_script_act1_57320ce6:
 
     # y rup mg e4a "I can understand why you feel overwhelmed."
-    y rup mg e4a ""
+    y rup mg e4a "Creo que puedo comprender la causa de tu agobio."
 
 # game/game_script_act1.rpy:3484
 translate spanish game_script_act1_11e53800:
 
     # y e1b "Life throws a curveball, and you find yourself having to adapt under pressure."
-    y e1b ""
+    y e1b "La vida te da un revés y te ves obligado a adaptarte bajo presión."
 
 # game/game_script_act1.rpy:3485
 translate spanish game_script_act1_ec5cd8a0:
 
     # y e1a "It's a major adjustment to make, having to think on one's feet."
-    y e1a ""
+    y e1a "Supone un cambio enorme tener que sacarse las castañas del fuego en el momento."
 
 # game/game_script_act1.rpy:3486
 translate spanish game_script_act1_c140e94d:
 
     # y e1c "An encroachment upon your comfort zone, and what you deem normal, stable...safe."
-    y e1c ""
+    y e1c "Una invasión a tu zona de confort y lo que consideras normal, estable, seguro..."
 
 # game/game_script_act1.rpy:3487
 translate spanish game_script_act1_c50b094c:
 
     # y e1b b2c "I...recently had that happen to me, with..."
-    y e1b b2c ""
+    y e1b b2c "Es que me... me ha pasado hace poco con..."
 
 # game/game_script_act1.rpy:3489
 translate spanish game_script_act1_13bae317:
 
     # mc "With Sayori?"
-    mc ""
+    mc "¿Con Sayori?"
 
 # game/game_script_act1.rpy:3491
 translate spanish game_script_act1_5c9ff614_1:
@@ -1946,52 +1946,52 @@ translate spanish game_script_act1_5c9ff614_1:
 translate spanish game_script_act1_1e6451ed:
 
     # y mh e1b b1a "She explained everything to me before the club meeting started."
-    y mh e1b b1a ""
+    y mh e1b b1a "Me puso al tanto antes de empezar la reunión del club."
 
 # game/game_script_act1.rpy:3493
 translate spanish game_script_act1_8b88125c:
 
     # y b1b "It...made sense, given what facts I knew, but..."
-    y b1b ""
+    y b1b "Dados los datos que sabía, tenía sentido, pero...,"
 
 # game/game_script_act1.rpy:3495
 translate spanish game_script_act1_75d837d9:
 
     # mc "But it didn't change how you felt?"
-    mc ""
+    mc "pero no cambió cómo te sentías, ¿no?"
 
 # game/game_script_act1.rpy:3496
 translate spanish game_script_act1_04d0461a:
 
     # y ldown mg "No."
-    y ldown mg ""
+    y ldown mg "No."
 
 # game/game_script_act1.rpy:3498
 translate spanish game_script_act1_e5544801:
 
     # mc "I get it."
-    mc ""
+    mc "Lo pillo."
 
 # game/game_script_act1.rpy:3499
 translate spanish game_script_act1_e8d094eb:
 
     # mc "I didn't really know how to react."
-    mc ""
+    mc "No sé qué hacer."
 
 # game/game_script_act1.rpy:3500
 translate spanish game_script_act1_27a4624c:
 
     # mc "With how Natsuki has been feeling as well, it hit me like a one-two punch."
-    mc ""
+    mc "Sabiendo cómo ha estado Natsuki, esto pega tan fuerte como dos puñaladas,"
 
 # game/game_script_act1.rpy:3501
 translate spanish game_script_act1_607eb9b1:
 
     # mc "And I don't know how to deal with it."
-    mc ""
+    mc "y créeme que no sé cómo gestionarlo."
 
 # game/game_script_act1.rpy:3503
 translate spanish game_script_act1_12c8ba5b:
 
     # mc "It's not like anyone gets an instruction manual with life."
-    mc ""
+    mc "No es como si la vida viniera con un puñetero manual de instrucciones."

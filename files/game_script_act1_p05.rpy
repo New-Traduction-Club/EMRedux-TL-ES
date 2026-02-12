@@ -1742,7 +1742,7 @@ translate spanish game_script_act1_cba3b2d1:
 translate spanish game_script_act1_c9de1b55:
 
     # y mb e1b "I always enjoy going the scenic route."
-    y mb e1b "Me gusta más ir por la ruta turística."
+    y mb e1b "Siempre disfruto yendo por la ruta panorámica."
 
 # game/game_script_act1.rpy:3438
 translate spanish game_script_act1_8a954445:

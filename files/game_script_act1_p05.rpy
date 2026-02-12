@@ -518,7 +518,7 @@ translate spanish game_script_act1_eec13dbc:
 translate spanish game_script_act1_bd0a06fc:
 
     # "We head towards the school doors."
-    "Nos dirigimos al portón de entrada del instituto."
+    "Nos dirigimos hacia el portón de entrada del instituto."
 
 # game/game_script_act1.rpy:3097
 translate spanish game_script_act1_cb70afb1_1:
@@ -530,7 +530,7 @@ translate spanish game_script_act1_cb70afb1_1:
 translate spanish game_script_act1_50bf101f:
 
     # "An uncomfortable silence."
-    "Silencio incómodo."
+    "Nos atrapa un silencio incómodo."
 
 # game/game_script_act1.rpy:3099
 translate spanish game_script_act1_2b5fc3cb:
@@ -596,13 +596,13 @@ translate spanish game_script_act1_ad5d5f55:
 translate spanish game_script_act1_aed5face:
 
     # y e1b "I was...{done}just concerned as to how Sayori is feeling."
-    y e1b "Me preocupaba...{done} de cómo está Sayori."
+    y e1b "Me preocupa...{done} el estado de Sayori."
 
 # game/game_script_act1.rpy:3118
 translate spanish game_script_act1_16247290:
 
     # y rup e4a mg "I was...{fast}just concerned as to how Sayori is feeling."
-    y rup e4a mg "Me preocupaba...{fast} de cómo está Sayori."
+    y rup e4a mg "Me preocupa...{fast} el estado de Sayori."
 
 # game/game_script_act1.rpy:3120
 translate spanish game_script_act1_5d7e895e:

@@ -1544,7 +1544,7 @@ translate spanish game_script_act1_ddfe2ac1:
 translate spanish game_script_act1_77a66e76:
 
     # "I've seen this neighborhood before, but this is my first time actually walking in it."
-    "He visto esta barriada antes, pero nunca he tenido la oportunidad de ir por aquí."
+    "He visto esta barriada antes, pero nunca he tenido la oportunidad de caminar por ella."
 
 # game/game_script_act1.rpy:3386
 translate spanish game_script_act1_2ebaeb6c:
@@ -1574,133 +1574,133 @@ translate spanish game_script_act1_2dd26eaf:
 translate spanish game_script_act1_9e39e426:
 
     # "I recognize a faint memory of the street before me."
-    ""
+    "Me viene un vago recuerdo de la calle que tengo delante."
 
 # game/game_script_act1.rpy:3391
 translate spanish game_script_act1_389a7712:
 
     # "And just like that, the memories come flushing back."
-    ""
+    "Al instante, la reconozco."
 
 # game/game_script_act1.rpy:3393
 translate spanish game_script_act1_03b118ec:
 
     # mc "Wait, no way. I remember this!"
-    mc ""
+    mc "Ni de coña, ¡conozco este sitio!"
 
 # game/game_script_act1.rpy:3394
 translate spanish game_script_act1_ab7e8be6:
 
     # mc "My parents used to take me out this way when I was young."
-    mc ""
+    mc "¡Mis padres me traían aquí cuando era un enano!"
 
 # game/game_script_act1.rpy:3395
 translate spanish game_script_act1_ae6247d5:
 
     # mc "There's a playground on the other side here - down the hill, I think - where Sayori and I used to play."
-    mc ""
+    mc "Además, al otro lado hay un parquecito si bajas la colina. Sayori y yo jugábamos mucho ahí, ¿sabes?"
 
 # game/game_script_act1.rpy:3396
 translate spanish game_script_act1_8d62de76:
 
     # mc "You've walked this road every day?"
-    mc ""
+    mc "¿Pasas por aquí todos los días?"
 
 # game/game_script_act1.rpy:3397
 translate spanish game_script_act1_07098ae5:
 
     # y mg e1b b2a "Not every day, but when it's necessary."
-    y mg e1b b2a ""
+    y mg e1b b2a "No todos, pero sí cuando toca."
 
 # game/game_script_act1.rpy:3399
 translate spanish game_script_act1_210ace07:
 
     # mc "It's a good spot. Sayori would love it here."
-    mc ""
+    mc "Pues este sitio es muy bueno, a Sayori le encantaría estar ahora con nosotros."
 
 # game/game_script_act1.rpy:3400
 translate spanish game_script_act1_2228518a:
 
     # y rup mg "She does, in fact. I showed her this spot a long while ago."
-    y rup mg ""
+    y rup mg "De hecho, ya se lo enseñé yo hace un tiempo."
 
 # game/game_script_act1.rpy:3401
 translate spanish game_script_act1_6dd2d663:
 
     # y e1b "Hopefully she remembers."
-    y e1b ""
+    y e1b "Espero que se acuerde..."
 
 # game/game_script_act1.rpy:3406
 translate spanish game_script_act1_5545f5bc:
 
     # "I begin to smile remembering the various things Sayori and I got up to down here."
-    ""
+    "Sonrío, recordando las locuras que hacíamos Sayori y yo en este sitio."
 
 # game/game_script_act1.rpy:3407
 translate spanish game_script_act1_6aa23a60:
 
     # "I remember one day we had gotten into a lot of trouble for staying out too late."
-    ""
+    "Recuerdo que nos metimos en un follón por quedarnos hasta tarde."
 
 # game/game_script_act1.rpy:3408
 translate spanish game_script_act1_7a4f8d5d:
 
     # "...We didn't have a watch."
-    ""
+    "A ver, no teníamos reloj."
 
 # game/game_script_act1.rpy:3410
 translate spanish game_script_act1_2b88a786:
 
     # "I lightly chuckle at the memory."
-    ""
+    "Suelto una carcajada al acordarme."
 
 # game/game_script_act1.rpy:3412
 translate spanish game_script_act1_9d2222d1:
 
     # "...And then get taken out of my fantasy as I hear a giggle come from my left."
-    ""
+    "Al escuchar una risita al lado mía, vuelvo de golpe al plano terrenal."
 
 # game/game_script_act1.rpy:3414
 translate spanish game_script_act1_4d3cde37:
 
     # y mb e1a b2a "I...take it you're enjoying the walk?"
-    y mb e1a b2a ""
+    y mb e1a b2a "Veo que... te está gustando el paseo."
 
 # game/game_script_act1.rpy:3416
 translate spanish game_script_act1_eb53f4ae:
 
     # mc "Yeah, actually."
-    mc ""
+    mc "La verdad es que sí."
 
 # game/game_script_act1.rpy:3418
 translate spanish game_script_act1_0a0c0df2:
 
     # mc "It's much more nice than I thought it was gonna be."
-    mc ""
+    mc "Es mucho mejor de lo que pensaba."
 
 # game/game_script_act1.rpy:3419
 translate spanish game_script_act1_64cc4bcf:
 
     # y mg b1f "Oh?"
-    y mg b1f ""
+    y mg b1f "¿Qué?"
 
 # game/game_script_act1.rpy:3420
 translate spanish game_script_act1_5b825642:
 
     # y rdown e1b b1b "Did you not think it was going to be nice?"
-    y rdown e1b b1b ""
+    y rdown e1b b1b "¿No pensabas que fuera a gustarte?"
 
 # game/game_script_act1.rpy:3422
 translate spanish game_script_act1_8b088956:
 
     # "Oh, god damn it..."
-    ""
+    "Ay, mierda..."
 
 # game/game_script_act1.rpy:3424
 translate spanish game_script_act1_766fbcc4:
 
     # mc "What? No!"
-    mc ""
+    mc "¿Qué? ¡No, no!"
 
 # game/game_script_act1.rpy:3426
 translate spanish game_script_act1_b09699a9:

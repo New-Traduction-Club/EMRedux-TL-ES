@@ -2,7 +2,7 @@
 translate spanish game_script_act1_14fd31ad:
 
     # mc "I just don't know how I can help them."
-    mc ""
+    mc "Es que no sé cómo voy a ayudarlas."
 
 # game/game_script_act1.rpy:3505
 translate spanish game_script_act1_3f741664:

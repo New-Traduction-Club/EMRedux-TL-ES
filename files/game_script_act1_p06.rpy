@@ -176,7 +176,7 @@ translate spanish game_script_act1_87967715:
 translate spanish game_script_act1_dcf2d2ab:
 
     # y e1b "But I'm not particularly adept with that..."
-    y e1b "aunque ya sabes que no soy la más adecuada para ese trabajo..."
+    y e1b "aunque ya sabes que no soy la más adecuada para tranquilizar a alguien..."
 
 # game/game_script_act1.rpy:3549
 translate spanish game_script_act1_6af0ce7b:
@@ -236,7 +236,7 @@ translate spanish game_script_act1_d74b0c48:
 translate spanish game_script_act1_03d806e5:
 
     # mc "Yeah, or I could end up stabbed in a dark alley."
-    mc "Pues sí, o acabaré con cuatro puñaladas en la espalda en un callejón oscuro."
+    mc "Pues sí, o acabaré con cuatro puñaladas en la espalda tirado en un callejón oscuro."
 
 # game/game_script_act1.rpy:3569
 translate spanish game_script_act1_e45ce274:

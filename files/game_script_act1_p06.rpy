@@ -296,49 +296,49 @@ translate spanish game_script_act1_0dfe688c:
 translate spanish game_script_act1_88a7f06d:
 
     # y n1 mg "They just make me..."
-    y n1 mg ""
+    y n1 mg "Me ponen..."
 
 # game/game_script_act1.rpy:3590
 translate spanish game_script_act1_84079e39:
 
     # mc "Anxious?"
-    mc "¿ansiosa?"
+    mc "¿de los nervios?"
 
 # game/game_script_act1.rpy:3592
 translate spanish game_script_act1_bb8b8e08:
 
     # y "Oh,{w=0.3}{nw}{done} um..."
-    y ""
+    y "Ah,{w=0.3}{nw}{done} eh...,"
 
 # game/game_script_act1.rpy:3593
 translate spanish game_script_act1_8650b488:
 
     # y n2 e2a b1b "Oh,{fast} um..."
-    y n2 e2a b1b ""
+    y n2 e2a b1b "Ah,{fast} eh...,"
 
 # game/game_script_act1.rpy:3594
 translate spanish game_script_act1_10ebf456:
 
     # y mb "More or less..."
-    y mb ""
+    y mb "más o menos..."
 
 # game/game_script_act1.rpy:3595
 translate spanish game_script_act1_c30dcb66:
 
     # y rup lup e1d mh "I know you must have had a problem with this as well."
-    y rup lup e1d mh ""
+    y rup lup e1d mh "Sé que tú estarías igual de mal que yo."
 
 # game/game_script_act1.rpy:3597
 translate spanish game_script_act1_0d7be343:
 
     # mc "Well with what's going on, can you blame me?"
-    mc ""
+    mc "¿Es culpa mía? Sabiendo todo lo que está pasando..."
 
 # game/game_script_act1.rpy:3598
 translate spanish game_script_act1_7b383640:
 
     # y e1b mh "No, not at all."
-    y e1b mh ""
+    y e1b mh "No, no. No es culpa tuya."
 
 # game/game_script_act1.rpy:3600
 translate spanish game_script_act1_bd956f92:

@@ -20,7 +20,7 @@ translate spanish game_script_act1_a99bda82:
 translate spanish game_script_act1_14ee7f53:
 
     # y rup mh e4a b1a "It means a 'hands-off' approach."
-    y rup mh e4a b1a "Viene de Francia y se usaba para referirse a la economía. La frase completa es 'Dejen hacer y dejen pasar, el mundo va solo', aunque me refería a que no intervengas en la situación."
+    y rup mh e4a b1a "Viene de Francia y se usaba para referirse a la economía. La frase completa es 'Dejad hacer y dejad pasar, el mundo va solo', aunque me refería a que no intervengas en la situación."
 
 # game/game_script_act1.rpy:3509
 translate spanish game_script_act1_e4856e2b:

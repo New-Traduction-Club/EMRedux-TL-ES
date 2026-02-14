@@ -2,49 +2,49 @@
 translate spanish game_script_act1_14fd31ad:
 
     # mc "I just don't know how I can help them."
-    mc "Es que no sé cómo voy a ayudarlas."
+    mc "Es que no sé cómo puedo ofrecerles mi ayuda."
 
 # game/game_script_act1.rpy:3505
 translate spanish game_script_act1_3f741664:
 
     # y mg e1d b2a "I...think the best you can do is to be supportive, in a {i}laissiez-faire{/i} fashion."
-    y mg e1d b2a ""
+    y mg e1d b2a "Creo que lo mejor es... ayudarlas sin ayudar. Hacerlo a modo 'laissiez-faire'."
 
 # game/game_script_act1.rpy:3507
 translate spanish game_script_act1_a99bda82:
 
     # mc "A {i}what{/i}?"
-    mc ""
+    mc "Un... ¿qué de qué?"
 
 # game/game_script_act1.rpy:3508
 translate spanish game_script_act1_14ee7f53:
 
     # y rup mh e4a b1a "It means a 'hands-off' approach."
-    y rup mh e4a b1a ""
+    y rup mh e4a b1a "Viene de Francia y se usaba para referirse a la economía. La frase completa es 'Dejen hacer y dejen pasar, el mundo va solo', aunque me refería a que no intervengas en la situación."
 
 # game/game_script_act1.rpy:3509
 translate spanish game_script_act1_e4856e2b:
 
     # y e1a "Giving room, but being present."
-    y e1a ""
+    y e1a "Dar espacio estando presente."
 
 # game/game_script_act1.rpy:3510
 translate spanish game_script_act1_a2adfca1:
 
     # y b1f "Does that make sense?"
-    y b1f ""
+    y b1f "¿Me explico?"
 
 # game/game_script_act1.rpy:3512
 translate spanish game_script_act1_08883ea3:
 
     # mc "I...{done}I don't know about that."
-    mc ""
+    mc "No estoy muy...{done} seguro de eso."
 
 # game/game_script_act1.rpy:3514
 translate spanish game_script_act1_5a79916a:
 
     # mc "I...{fast}I don't know about that."
-    mc ""
+    mc "No estoy muy...{fast} seguro de eso."
 
 # game/game_script_act1.rpy:3516
 translate spanish game_script_act1_c65697cf:

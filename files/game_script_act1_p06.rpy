@@ -50,199 +50,199 @@ translate spanish game_script_act1_5a79916a:
 translate spanish game_script_act1_c65697cf:
 
     # mc "I feel like if I'm not around, something bad is going to happen."
-    mc ""
+    mc "Siento que algo malo pasará si no estoy cerca."
 
 # game/game_script_act1.rpy:3517
 translate spanish game_script_act1_79333cca:
 
     # mc "Things just constantly run through my head about what could be happening."
-    mc ""
+    mc "Sobrepienso mucho acerca de lo que podría pasar."
 
 # game/game_script_act1.rpy:3518
 translate spanish game_script_act1_56470c81:
 
     # mc "At least if I'm there, I {i}know{/i} if something's gone wrong, y'know?"
-    mc ""
+    mc "Al menos, mi presencia me hará saber si pasa algo."
 
 # game/game_script_act1.rpy:3519
 translate spanish game_script_act1_6ad81331:
 
     # y mh "I...am not sure if that's a healthy approach, [player]."
-    y mh ""
+    y mh "No estoy muy segura de si esa manera de verlo es muy sana, [player]."
 
 # game/game_script_act1.rpy:3525
 translate spanish game_script_act1_ef74fbb0:
 
     # y mg "But...{done}you said something was wrong with Natsuki?"
-    y mg ""
+    y mg "De todas formas...{done} ¿no habías mencionado antes que pasaba algo con Natsuki?"
 
 # game/game_script_act1.rpy:3526
 translate spanish game_script_act1_ad1ac379:
 
     # y rup e1d b1f "But...{fast}you said something was wrong with Natsuki?"
-    y rup e1d b1f ""
+    y rup e1d b1f "De todas formas...{fast} ¿no habías mencionado antes que pasaba algo con Natsuki?"
 
 # game/game_script_act1.rpy:3528
 translate spanish game_script_act1_7ae5a6ee:
 
     # "...Damn it."
-    ""
+    "Joder."
 
 # game/game_script_act1.rpy:3529
 translate spanish game_script_act1_f82b7758:
 
     # mc "Uh, yeah."
-    mc ""
+    mc "Pues... sí."
 
 # game/game_script_act1.rpy:3531
 translate spanish game_script_act1_30f8f881:
 
     # mc "She asked me to keep it on the down-low, though."
-    mc ""
+    mc "Me pidió que lo mantuviese en secreto."
 
 # game/game_script_act1.rpy:3532
 translate spanish game_script_act1_189468c7:
 
     # y lup mg e1b "I understand."
-    y lup mg e1b ""
+    y lup mg e1b "Entiendo."
 
 # game/game_script_act1.rpy:3533
 translate spanish game_script_act1_352a2643:
 
     # y mh e1a b1b "I was just worried about her when she almost collapsed into her chair back in the club."
-    y mh e1a b1b ""
+    y mh e1a b1b "Es que estaba preocupada por ella, casi se desploma en la silla."
 
 # game/game_script_act1.rpy:3535
 translate spanish game_script_act1_b8de06d3:
 
     # mc "Oh."
-    mc ""
+    mc "Ah."
 
 # game/game_script_act1.rpy:3536
 translate spanish game_script_act1_3bebecd5:
 
     # mc "I think that what Sayori said just really got to her is all."
-    mc ""
+    mc "Puede que lo de Sayori le haya afectado."
 
 # game/game_script_act1.rpy:3537
 translate spanish game_script_act1_9ed6fa0d:
 
     # y mj "Mhm."
-    y mj ""
+    y mj "Ya."
 
 # game/game_script_act1.rpy:3538
 translate spanish game_script_act1_2b1045a2:
 
     # y mg e4a "It did."
-    y mg e4a ""
+    y mg e4a "Puede ser que sí."
 
 # game/game_script_act1.rpy:3541
 translate spanish game_script_act1_3bfc8384:
 
     # mc "Oh yeah, you went to talk to her, right?"
-    mc ""
+    mc "Es cierto, pudiste hablar con ella, ¿no?"
 
 # game/game_script_act1.rpy:3542
 translate spanish game_script_act1_93d633ef:
 
     # y e1d mg "Yes."
-    y e1d mg ""
+    y e1d mg "Sí."
 
 # game/game_script_act1.rpy:3543
 translate spanish game_script_act1_0afafff7:
 
     # y mh e1b b1c "I've seen Natsuki upset many times, but..."
-    y mh e1b b1c ""
+    y mh e1b b1c "He visto a Natsuki enfurruñada más veces de la que puedo contar...,"
 
 # game/game_script_act1.rpy:3544
 translate spanish game_script_act1_ef38ea81:
 
     # y rdown b1d "That was different. She seemed...{done}{i}scared.{/i}"
-    y rdown b1d ""
+    y rdown b1d "pero lo de hoy era distinto. La veía...{done} asustada."
 
 # game/game_script_act1.rpy:3545
 translate spanish game_script_act1_7e72c402:
 
     # y b2a "That was different. She seemed...{fast}{i}scared.{/i}"
-    y b2a ""
+    y b2a "pero lo de hoy era distinto. La veía...{fast} asustada."
 
 # game/game_script_act1.rpy:3546
 translate spanish game_script_act1_87967715:
 
     # y mg e1a b2b "I tried to comfort her."
-    y mg e1a b2b ""
+    y mg e1a b2b "Hice lo que pude para tranquilizarla,"
 
 # game/game_script_act1.rpy:3547
 translate spanish game_script_act1_dcf2d2ab:
 
     # y e1b "But I'm not particularly adept with that..."
-    y e1b ""
+    y e1b "aunque ya sabes que no soy la más adecuada para ese trabajo..."
 
 # game/game_script_act1.rpy:3549
 translate spanish game_script_act1_6af0ce7b:
 
     # mc "Firstly, nonsense. You are a great listener."
-    mc ""
+    mc "En primer lugar, no digas tonterías. Sabes escuchar mejor que nadie."
 
 # game/game_script_act1.rpy:3550
 translate spanish game_script_act1_d716000c:
 
     # mc "Secondly...yeah, she's plenty scared."
-    mc ""
+    mc "En segundo lugar... sí, está muy asustada."
 
 # game/game_script_act1.rpy:3552
 translate spanish game_script_act1_1c6fc136:
 
     # mc "I am too."
-    mc ""
+    mc "Y yo también lo estoy."
 
 # game/game_script_act1.rpy:3554
 translate spanish game_script_act1_dae3b040:
 
     # mc "About a lot of things..."
-    mc ""
+    mc "Asustado de muuuchas cosas..."
 
 # game/game_script_act1.rpy:3561
 translate spanish game_script_act1_887be926:
 
     # "After a moment, she speaks up."
-    ""
+    "Tras un breve silencio, Yuri habla."
 
 # game/game_script_act1.rpy:3562
 translate spanish game_script_act1_867c500a:
 
     # y mg e1d b1c "Here, take a right across the street."
-    y mg e1d b1c ""
+    y mg e1d b1c "Ahora por la derecha, al otro lado del cruce."
 
 # game/game_script_act1.rpy:3564
 translate spanish game_script_act1_9c30ba25:
 
     # mc "Yeah, this is looking familiar now."
-    mc ""
+    mc "Esto me suena un poco más."
 
 # game/game_script_act1.rpy:3565
 translate spanish game_script_act1_cc3e508d:
 
     # y rup mb e4a b2a "You really should explore more, [player]."
-    y rup mb e4a b2a ""
+    y rup mb e4a b2a "Deberías salir un poco más, [player]."
 
 # game/game_script_act1.rpy:3566
 translate spanish game_script_act1_d74b0c48:
 
     # y e1d "You might find shortcuts you never knew existed."
-    y e1d ""
+    y e1d "Puede que encuentres más atajos de los que crees que hay."
 
 # game/game_script_act1.rpy:3568
 translate spanish game_script_act1_03d806e5:
 
     # mc "Yeah, or I could end up stabbed in a dark alley."
-    mc ""
+    mc "Pues sí, o acabaré con cuatro puñaladas en la espalda en un callejón oscuro."
 
 # game/game_script_act1.rpy:3569
 translate spanish game_script_act1_e45ce274:
 
     # y lup n2 ml b1b e2a "I-I didn't mean go exploring downtown!"
-    y lup n2 ml b1b e2a ""
+    y lup n2 ml b1b e2a "¡N-No digas eso! ¡No me refería a explorar el centro!"
 
 # game/game_script_act1.rpy:3571
 translate spanish game_script_act1_4fd2a2cb:

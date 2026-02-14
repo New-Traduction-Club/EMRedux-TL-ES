@@ -248,49 +248,49 @@ translate spanish game_script_act1_e45ce274:
 translate spanish game_script_act1_4fd2a2cb:
 
     # mc "It's just a joke, haha."
-    mc ""
+    mc "Que es broma. Ja, ja, ja."
 
 # game/game_script_act1.rpy:3573
 translate spanish game_script_act1_4db7af8a:
 
     # mc "There's barely any crime here."
-    mc ""
+    mc "Apenas hay delincuencia por aquí."
 
 # game/game_script_act1.rpy:3580
 translate spanish game_script_act1_300d70fc:
 
     # "We turn onto my road."
-    "Giramos en dirección a mi calle."
+    "Giramos en dirección a mi casa."
 
 # game/game_script_act1.rpy:3582
 translate spanish game_script_act1_8a083324:
 
     # y "Thanks for suggesting the alternate route today."
-    y ""
+    y "Gracias por pensar en la ruta alternativa."
 
 # game/game_script_act1.rpy:3584
 translate spanish game_script_act1_1baa2eee:
 
     # mc "Yeah, it's no problem."
-    mc ""
+    mc "No hay problema."
 
 # game/game_script_act1.rpy:3585
 translate spanish game_script_act1_c9521ef5:
 
     # mc "I enjoyed it too."
-    mc ""
+    mc "Además, me lo he pasado muy bien."
 
 # game/game_script_act1.rpy:3586
 translate spanish game_script_act1_a9d85241:
 
     # y rup mb "I think it really cleared my mind."
-    y rup mb ""
+    y rup mb "Creo que el paseo me ha hecho reflexionar,"
 
 # game/game_script_act1.rpy:3587
 translate spanish game_script_act1_0dfe688c:
 
     # y n2 mh e1b b2b "And as you said, I'm really not in the mood for large crowds.{w} Especially right now."
-    y n2 mh e1b b2b ""
+    y n2 mh e1b b2b "y te tomo la palabra: no estoy de humor ahora mismo para multitudes."
 
 # game/game_script_act1.rpy:3588
 translate spanish game_script_act1_88a7f06d:

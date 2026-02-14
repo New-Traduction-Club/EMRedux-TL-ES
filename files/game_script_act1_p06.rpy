@@ -50,19 +50,19 @@ translate spanish game_script_act1_5a79916a:
 translate spanish game_script_act1_c65697cf:
 
     # mc "I feel like if I'm not around, something bad is going to happen."
-    mc "Siento que algo malo pasará si no estoy cerca."
+    mc "Siento que algo malo va a ocurrir si no me pilla cerca,"
 
 # game/game_script_act1.rpy:3517
 translate spanish game_script_act1_79333cca:
 
     # mc "Things just constantly run through my head about what could be happening."
-    mc "Sobrepienso mucho acerca de lo que podría pasar."
+    mc "y es que pienso mucho acerca de lo que pueda pasar."
 
 # game/game_script_act1.rpy:3518
 translate spanish game_script_act1_56470c81:
 
     # mc "At least if I'm there, I {i}know{/i} if something's gone wrong, y'know?"
-    mc "Al menos, mi presencia me hará saber si pasa algo."
+    mc "Por lo menos, estar aquí me mantiene alerta."
 
 # game/game_script_act1.rpy:3519
 translate spanish game_script_act1_6ad81331:

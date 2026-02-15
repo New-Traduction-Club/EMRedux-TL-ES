@@ -422,37 +422,37 @@ translate spanish game_script_act1_6590a13c:
 translate spanish game_script_act1_d7c4969d:
 
     # y mg e2b "Oh..."
-    y mg e2b ""
+    y mg e2b "Ah..."
 
 # game/game_script_act1.rpy:3624
 translate spanish game_script_act1_02831753:
 
     # y mh e2a b2c "I’m so sorry, [player]."
-    y mh e2a b2c ""
+    y mh e2a b2c "Lo siento mucho, [player]."
 
 # game/game_script_act1.rpy:3625
 translate spanish game_script_act1_da60a0db:
 
     # y e2b "She didn't tell me it was you..."
-    y e2b ""
+    y e2b "Lo que no me dijo era que fuiste tú..."
 
 # game/game_script_act1.rpy:3626
 translate spanish game_script_act1_81a0cff7:
 
     # y b2b "That...explains a lot."
-    y b2b ""
+    y b2b "Y esto... aclara muchas cosas."
 
 # game/game_script_act1.rpy:3627
 translate spanish game_script_act1_765d19f1:
 
     # y e1d "Are you doing alright now?"
-    y e1d ""
+    y e1d "¿Va todo bien?"
 
 # game/game_script_act1.rpy:3628
 translate spanish game_script_act1_c3ad7946:
 
     # y b1b "That must have been extremely traumatic."
-    y b1b ""
+    y b1b "Ha debido dejarte mucha mella."
 
 # game/game_script_act1.rpy:3630
 translate spanish game_script_act1_6e8314b1:
@@ -464,13 +464,13 @@ translate spanish game_script_act1_6e8314b1:
 translate spanish game_script_act1_817d9fb6:
 
     # "As I notice my house getting closer, I start to walk a little slower."
-    ""
+    "A medida que me acerco a casa, empiezo a ir más lento."
 
 # game/game_script_act1.rpy:3637
 translate spanish game_script_act1_e8cd09f0:
 
     # "I've got a while yet before I need to go to Nat's, so I might as well try talk to Yuri a little more."
-    ""
+    "Aún queda para ir a casa de Nat, así que quiero aprovechar y hablar con Yuri un poco más."
 
 # game/game_script_act1.rpy:3639
 translate spanish game_script_act1_a596cef2:
@@ -482,187 +482,187 @@ translate spanish game_script_act1_a596cef2:
 translate spanish game_script_act1_118b8121:
 
     # y mg b1a "Ah, I see."
-    y mg b1a ""
+    y mg b1a "Ah, genial."
 
 # game/game_script_act1.rpy:3647
 translate spanish game_script_act1_52dabc3c:
 
     # y mb "Well, this was nice."
-    y mb ""
+    y mb "Pues ha estado bien, ¿no?"
 
 # game/game_script_act1.rpy:3649
 translate spanish game_script_act1_8b7659e4:
 
     # mc "Yeah, it was."
-    mc ""
+    mc "Pues sí."
 
 # game/game_script_act1.rpy:3650
 translate spanish game_script_act1_999a32f3:
 
     # y rup n1 mh e4a b1a "Again, thank you for the alternate route. {done}I quite enjoyed it."
-    y rup n1 mh e4a b1a ""
+    y rup n1 mh e4a b1a "Te vuelvo a dar las gracias por escoger la ruta alterna.{done} He disfrutado mucho del paseo."
 
 # game/game_script_act1.rpy:3651
 translate spanish game_script_act1_7695076e:
 
     # y mb "Again, thank you for the alternate route. {fast}I quite enjoyed it."
-    y mb ""
+    y mb "Te vuelvo a dar las gracias por escoger la ruta alterna.{fast} He disfrutado mucho del paseo."
 
 # game/game_script_act1.rpy:3653
 translate spanish game_script_act1_74fc6761:
 
     # mc "Me too."
-    mc ""
+    mc "Yo también lo he disfrutado."
 
 # game/game_script_act1.rpy:3656
 translate spanish game_script_act1_14719a39:
 
     # "Another awkward pause looms over the conversation."
-    ""
+    "Otra silencio incómodo se cierne sobre la conversación."
 
 # game/game_script_act1.rpy:3657
 translate spanish game_script_act1_fb2abcb4:
 
     # "There's just not much else to say after everything that's happened today."
-    ""
+    "No creo que haya más de lo que charlar tras lo sucedido hoy."
 
 # game/game_script_act1.rpy:3659
 translate spanish game_script_act1_726a5e61:
 
     # y lup mh "Uhm...{w}just to let you know..."
-    y lup mh ""
+    y lup mh "Y, {w}para que lo sepas...,"
 
 # game/game_script_act1.rpy:3660
 translate spanish game_script_act1_d848961f:
 
     # y n4 e1b "I-if you ever want to..."
-    y n4 e1b ""
+    y n4 e1b "si quieres volver a repetir..."
 
 # game/game_script_act1.rpy:3661
 translate spanish game_script_act1_a372ba96:
 
     # y shy n5 m4 "I'm...always {size=-2}able {size=-2}to {size=-2}talk {size=-2}in {size=-2}the {size=-2}club...{/size}"
-    y shy n5 m4 ""
+    y shy n5 m4 "Me tendrás {size=-2} siempre disponible {size=-2}para {size=-2}hablar {size=-2}en {size=-2}el {size=-2}club...{/size}"
 
 # game/game_script_act1.rpy:3664
 translate spanish game_script_act1_f4707b24:
 
     # "Wow, that's actually really kind of her."
-    ""
+    "Vaya, muy amable por su parte."
 
 # game/game_script_act1.rpy:3665
 translate spanish game_script_act1_52168979:
 
     # "And not at all what I'd expect her to ever say."
-    ""
+    "No me esperaba que fuera a decir eso,"
 
 # game/game_script_act1.rpy:3666
 translate spanish game_script_act1_33e00a6d:
 
     # "Mostly because I don't know if she'd even respond to me out of pure anxiety or whatever else she has going on."
-    ""
+    "porque no sé si responde por presión, ansiedad o lo que sea que le pase en ese momento."
 
 # game/game_script_act1.rpy:3667
 translate spanish game_script_act1_aa69468d:
 
     # "But...{w}I do want to encourage her in this."
-    ""
+    "Pero me gustaria...{w} animarla."
 
 # game/game_script_act1.rpy:3668
 translate spanish game_script_act1_d190f190:
 
     # "It's a nice thing to do, and giving her the support to do these things can go a long way."
-    ""
+    "Ha tenido buenas intenciones y darle el apoyo que necesita siempre es beneficioso."
 
 # game/game_script_act1.rpy:3671
 translate spanish game_script_act1_0fb9fde4:
 
     # mc "Thanks, Yuri."
-    mc ""
+    mc "Gracias, Yuri."
 
 # game/game_script_act1.rpy:3672
 translate spanish game_script_act1_33af1cee:
 
     # mc "It means a lot.{w} Really."
-    mc ""
+    mc "Significa mucho, en serio."
 
 # game/game_script_act1.rpy:3676
 translate spanish game_script_act1_d6f3ad17:
 
     # "She awkwardly glances away, but not without smiling."
-    ""
+    "Aparta la mirada con torpeza mientras sonríe."
 
 # game/game_script_act1.rpy:3677
 translate spanish game_script_act1_d065de6f:
 
     # "Good, I hope she knows that I'm at least somewhat approachable."
-    ""
+    "Genial, espero que entienda que soy accesible y puede contar conmigo."
 
 # game/game_script_act1.rpy:3678
 translate spanish game_script_act1_1daf0638:
 
     # y turned mb e1b "Well..."
-    y turned mb e1b ""
+    y turned mb e1b "Pues...,"
 
 # game/game_script_act1.rpy:3679
 translate spanish game_script_act1_28009b30:
 
     # y e1a "Thank you for this."
-    y e1a ""
+    y e1a "gracias por esto."
 
 # game/game_script_act1.rpy:3680
 translate spanish game_script_act1_0a2f63f3:
 
     # y rup e1b b1b "T-today, I mean."
-    y rup e1b b1b ""
+    y rup e1b b1b "Lo de hoy, m-me refiero."
 
 # game/game_script_act1.rpy:3682
 translate spanish game_script_act1_617b5c80:
 
     # "My already-present smile now grows into a grin."
-    ""
+    "Mi ya presente sonrisa se convierte en un gesto facial."
 
 # game/game_script_act1.rpy:3683
 translate spanish game_script_act1_e2722afa:
 
     # mc "Hey, it's nothing."
-    mc ""
+    mc "Oye, no pasa nada."
 
 # game/game_script_act1.rpy:3684
 translate spanish game_script_act1_55239276:
 
     # y mg "It's getting late."
-    y mg ""
+    y mg "Mira, se hace tarde ya."
 
 # game/game_script_act1.rpy:3685
 translate spanish game_script_act1_4e9847ca:
 
     # y lup e1d b1b "My apologies, but I must go now."
-    y lup e1d b1b ""
+    y lup e1d b1b "Me disculpo, tengo que marcharme."
 
 # game/game_script_act1.rpy:3687
 translate spanish game_script_act1_c7688245:
 
     # mc "No, no. You're good."
-    mc ""
+    mc "No pasa nada."
 
 # game/game_script_act1.rpy:3688
 translate spanish game_script_act1_3845467c:
 
     # mc "Have a nice day."
-    mc ""
+    mc "Ten un buen día."
 
 # game/game_script_act1.rpy:3691
 translate spanish game_script_act1_08a50e85_1:
 
     # "Yuri sighs."
-    ""
+    "Yuri suspira."
 
 # game/game_script_act1.rpy:3692
 translate spanish game_script_act1_d187ad9e:
 
     # y mg "You too."
-    y mg ""
+    y mg "Y tú."
 
 # game/game_script_act1.rpy:3694
 translate spanish game_script_act1_abaccc12:

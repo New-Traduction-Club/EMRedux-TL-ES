@@ -332,7 +332,7 @@ translate spanish game_script_act1_c30dcb66:
 translate spanish game_script_act1_0d7be343:
 
     # mc "Well with what's going on, can you blame me?"
-    mc "¿Es culpa mía? Sabiendo todo lo que está pasando..."
+    mc "¿Te crees que es mi culpa? Con todo lo que está pasando, qué menos..."
 
 # game/game_script_act1.rpy:3598
 translate spanish game_script_act1_7b383640:
@@ -344,13 +344,13 @@ translate spanish game_script_act1_7b383640:
 translate spanish game_script_act1_bd956f92:
 
     # "There's a bout of silence between us as I look to the side."
-    ""
+    "Nos invade el silencio mientras miro a un lado."
 
 # game/game_script_act1.rpy:3601
 translate spanish game_script_act1_8b963ff6:
 
     # "I debate filling her in."
-    "Me debato entre meterla de lleno en el asunto y no hacer nada."
+    "Me debato entre ponerla al tanto y no hacer nada."
 
 # game/game_script_act1.rpy:3603
 translate spanish game_script_act1_2485f494_2:
@@ -362,7 +362,7 @@ translate spanish game_script_act1_2485f494_2:
 translate spanish game_script_act1_82a9bf46:
 
     # "She’s been nothing but supportive so far..."
-    ""
+    "Ha sido un buen apoyo moral en todo lo que llevamos hablando..."
 
 # game/game_script_act1.rpy:3606
 translate spanish game_script_act1_a0bbf6ac:
@@ -374,13 +374,13 @@ translate spanish game_script_act1_a0bbf6ac:
 translate spanish game_script_act1_983f2d16:
 
     # mc "I...{done}found Sayori when she..."
-    mc ""
+    mc "Me{done} encontré a Sayori justo cuando iba a..."
 
 # game/game_script_act1.rpy:3612
 translate spanish game_script_act1_8f05e07b:
 
     # mc "I...{fast}found Sayori when she..."
-    mc ""
+    mc "Me{fast} encontré a Sayori justo cuando iba a..."
 
 # game/game_script_act1.rpy:3614
 translate spanish game_script_act1_c8f45d71:
@@ -410,7 +410,7 @@ translate spanish game_script_act1_805ac284:
 translate spanish game_script_act1_73a0a85b:
 
     # mc "It really messed with me."
-    mc "Me ha fastidiado bastante."
+    mc "Me ha jodido bastante."
 
 # game/game_script_act1.rpy:3622
 translate spanish game_script_act1_6590a13c:

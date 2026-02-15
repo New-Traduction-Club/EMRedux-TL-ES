@@ -26,7 +26,7 @@ translate spanish game_script_act1_f760296b:
 translate spanish game_script_act1_75148dd5:
 
     # n "O...okay..."
-    n ""
+    n "Va... vale..."
 
 # game/game_script_act1.rpy:4164
 translate spanish game_script_act1_ef6249c4:
@@ -62,7 +62,7 @@ translate spanish game_script_act1_ba416127:
 translate spanish game_script_act1_5e1f030f_1:
 
     # "She’s safe."
-    "A salvo."
+    "Está a salvo."
 
 # game/game_script_act1.rpy:4171
 translate spanish game_script_act1_935ce67f:
@@ -80,19 +80,19 @@ translate spanish game_script_act1_88db5725:
 translate spanish game_script_act1_b0750c05:
 
     # mc "About half an hour."
-    mc ""
+    mc "Media hora, más o menos."
 
 # game/game_script_act1.rpy:4177
 translate spanish game_script_act1_c3b1b77e:
 
     # n "A-alright..."
-    n ""
+    n "G-Genial..."
 
 # game/game_script_act1.rpy:4185
 translate spanish game_script_act1_d8021527:
 
     # "It actually takes us nearly an hour to get back home."
-    ""
+    "En realidad, es casi una hora lo que tardamos en llegar."
 
 # game/game_script_act1.rpy:4186
 translate spanish game_script_act1_c3e383f8:
@@ -110,7 +110,7 @@ translate spanish game_script_act1_a6d36649:
 translate spanish game_script_act1_f7e690ad:
 
     # "I took Yuri's advice and looked for more out-of-the-way areas."
-    ""
+    "Poniendo el consejo de Yuri en práctica, me centro en buscar atajos."
 
 # game/game_script_act1.rpy:4189
 translate spanish game_script_act1_562d8020:
@@ -146,7 +146,7 @@ translate spanish game_script_act1_33c3158a:
 translate spanish game_script_act1_d9c915f3:
 
     # "Finally, I recognize the familiar view of my house."
-    "Finalmente, consigo reconocer mi casa."
+    "Finalmente, consigo reconocerla."
 
 # game/game_script_act1.rpy:4205
 translate spanish game_script_act1_aeefa1be:
@@ -164,7 +164,7 @@ translate spanish game_script_act1_1e8a961e:
 translate spanish game_script_act1_5e1f030f_2:
 
     # "She’s safe."
-    "A salvo."
+    "Está a salvo."
 
 # game/game_script_act1.rpy:4208
 translate spanish game_script_act1_652ea841:

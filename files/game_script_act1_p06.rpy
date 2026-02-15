@@ -332,7 +332,7 @@ translate spanish game_script_act1_c30dcb66:
 translate spanish game_script_act1_0d7be343:
 
     # mc "Well with what's going on, can you blame me?"
-    mc "¿Te crees que es mi culpa? Con todo lo que está pasando, qué menos..."
+    mc "¿Crees que es mi culpa? Con todo lo que está pasando, qué menos..."
 
 # game/game_script_act1.rpy:3598
 translate spanish game_script_act1_7b383640:
@@ -668,43 +668,43 @@ translate spanish game_script_act1_d187ad9e:
 translate spanish game_script_act1_abaccc12:
 
     # "She looks away, {w=0.3}{nw}{done}takes one last look back at me and then goes into a speed-walk down the road."
-    ""
+    "Se da la vuelta y se aleja, {w=0.3}{nw}{done}mira hacia atrás por última vez en mi dirección y empieza a caminar rápidamente por la carretera."
 
 # game/game_script_act1.rpy:3696
 translate spanish game_script_act1_70855e93:
 
     # "She looks away, {fast}takes one last look back at me and {nw}{done}then goes into a speed-walk down the road."
-    ""
+    "Se da la vuelta y se aleja, {fast}mira hacia atrás por última vez en mi dirección {nw}{done}y empieza a caminar rápidamente por la carretera."
 
 # game/game_script_act1.rpy:3699
 translate spanish game_script_act1_1a9aaa70:
 
     # "She looks away, takes one last look back at me and {fast}then goes into a speed-walk down the road."
-    ""
+    "Se da la vuelta y se aleja, mira hacia atrás por última vez en mi dirección {fast}y empieza a caminar rápidamente por la carretera."
 
 # game/game_script_act1.rpy:3702
 translate spanish game_script_act1_4e2f1804:
 
     # "I hope she doesn't live far..."
-    ""
+    "Espero que no le pille lejos..."
 
 # game/game_script_act1.rpy:3703
 translate spanish game_script_act1_3a58c21a:
 
     # "She is right after all, it {i}is{/i} getting dark."
-    ""
+    "Yuri tiene razón, empieza hacerse tarde."
 
 # game/game_script_act1.rpy:3704
 translate spanish game_script_act1_1b5dabe2:
 
     # "Speaking of getting dark..."
-    "Y hablando del rey de Roma..."
+    "Y hablando de hacerse tarde..."
 
 # game/game_script_act1.rpy:3705
 translate spanish game_script_act1_c923601f:
 
     # "Walking with Yuri was cathartic, avoiding the time I’d otherwise be fretting with mild panic."
-    "Acompañar a Yuri ha sido catárquico. Ha evitado que ese tiempo que he estado con ella los hubiese pasado con agobios y ataques de pánico leves."
+    "Acompañar a Yuri ha sido catártico. Ha evitado que ese tiempo lo hubiese pasado con agobios y ataques de pánico."
 
 # game/game_script_act1.rpy:3706
 translate spanish game_script_act1_a20cefa7_8:
@@ -716,7 +716,7 @@ translate spanish game_script_act1_a20cefa7_8:
 translate spanish game_script_act1_ed2aecd4:
 
     # "But that doesn't change what's about to happen."
-    ""
+    "Pero eso no cambia lo que va a pasar."
 
 # game/game_script_act1.rpy:3708
 translate spanish game_script_act1_4672a12e:
@@ -758,7 +758,7 @@ translate spanish game_script_act1_b4945f8c:
 translate spanish game_script_act1_4c59a11a:
 
     # "Christ, I look like a home invader."
-    "Joder, parezco un asalta casas."
+    "Dios, parezco un asalta casas."
 
 # game/game_script_act1.rpy:3724
 translate spanish game_script_act1_f5db54fb:

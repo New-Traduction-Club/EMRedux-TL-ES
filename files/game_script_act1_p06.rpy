@@ -1412,7 +1412,7 @@ translate spanish game_script_act1_092a0c86:
 translate spanish game_script_act1_e9109b78:
 
     # n "We can’t use the stairs, they creak a ton."
-    n "Si piensas en subir por las escaleras, que ni se te pase por la cabeza, crujen mucho al pisarlas."
+    n "Si piensas en subir por las escaleras, que ni se te pase por la cabeza porque crujen mucho al pisarlas."
 
 # game/game_script_act1.rpy:3891
 translate spanish game_script_act1_015c6589:

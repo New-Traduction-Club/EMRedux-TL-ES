@@ -1694,7 +1694,7 @@ translate spanish game_script_act1_8a8167e2:
 translate spanish game_script_act1_83d6d5d5:
 
     # "She gives me a thumbs-up."
-    ""
+    "Me levanta el pulgar, dándome un visto bueno."
 
 # game/game_script_act1.rpy:3996
 translate spanish game_script_act1_04d91d57:
@@ -1718,7 +1718,7 @@ translate spanish game_script_act1_31c63a0e:
 translate spanish game_script_act1_633fc4ce:
 
     # "I look at Nat, then down to the ground."
-    "Miro a Nat y después al suelo de la calle."
+    "Miro a Nat y después a la calle."
 
 # game/game_script_act1.rpy:4002
 translate spanish game_script_act1_a7a4574a:
@@ -1742,7 +1742,7 @@ translate spanish game_script_act1_94004a03_1:
 translate spanish game_script_act1_6b2ed1a3:
 
     # "Oh Nat, you genius."
-    "¡Ya lo entiendo! ¡Eres muy lista, Nat!"
+    "Dios mío, qué chica más lista."
 
 # game/game_script_act1.rpy:4006
 translate spanish game_script_act1_376acc73:
@@ -1772,7 +1772,7 @@ translate spanish game_script_act1_0a6d6d28:
 translate spanish game_script_act1_493fc1a7:
 
     # "I take a second to aim and...{w}drop it."
-    "Tras un rato apuntando a la almohada...{w} la tiro."
+    "Tras un rato apuntando a la almohada...{w} tiro la maleta."
 
 # game/game_script_act1.rpy:4011
 translate spanish game_script_act1_ccb7a8c2:
@@ -1802,7 +1802,7 @@ translate spanish game_script_act1_122f19c2:
 translate spanish game_script_act1_1c4fa519:
 
     # "I motion Natsuki to go."
-    "Señalo la ventana a Natsuki."
+    "Le hago señas a Natsuki, dándole a entender que es su turno."
 
 # game/game_script_act1.rpy:4030
 translate spanish game_script_act1_0965678c:
@@ -1922,7 +1922,7 @@ translate spanish game_script_act1_c6ec4501:
 translate spanish game_script_act1_77f08ba4:
 
     # "{i}Shitshitsh{/i}{nw}"
-    ""
+    "MIERDAMIERDAMI{nw}"
 
 # game/game_script_act1.rpy:4121
 translate spanish game_script_act1_0f300251:
@@ -1934,7 +1934,7 @@ translate spanish game_script_act1_0f300251:
 translate spanish game_script_act1_815c255e:
 
     # "The green bedsheet rope piles on top of me. Seems like it came loose."
-    ""
+    "La cuerda de la sábana verde empieza a amontonarse encima mía, por lo que ha debido soltarse."
 
 # game/game_script_act1.rpy:4123
 translate spanish game_script_act1_9668d282:
@@ -1952,7 +1952,7 @@ translate spanish game_script_act1_425100e7:
 translate spanish game_script_act1_194a0a21:
 
     # mc "...Yeah, I’m good..."
-    mc ""
+    mc "Sí..., de escándalo..."
 
 # game/game_script_act1.rpy:4132
 translate spanish game_script_act1_fb0d7f3d:

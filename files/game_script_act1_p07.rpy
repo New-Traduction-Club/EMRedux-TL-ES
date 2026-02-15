@@ -1904,25 +1904,25 @@ translate spanish strings:
 
     # game/game_script_act1.rpy:3
     old "Act 1: Airbag"
-    new ""
+    new "Acto 1: Airbag"
 
     # game/game_script_act1.rpy:12
     old "Act 1:\nAirbag"
-    new ""
+    new "Acto 1:\nAirbag"
 
     # game/game_script_act1.rpy:18
     old "Monday\n{size=-6}25th September, 2017"
-    new ""
+    new "Lunes,\n{size=-6} 25 de septiembre de 2017"
 
     # game/game_script_act1.rpy:776
     old "Tuesday\n{size=-6}26th September, 2017"
-    new ""
+    new "Martes,\n{size=-6} 26 de septiembre de 2017."
 
     # game/game_script_act1.rpy:1323
     old "Wednesday\n{size=-6}27th September, 2017"
-    new ""
+    new "Miérfoles,\n{size=-6} 27 de septiembre de 2017."
 
     # game/game_script_act1.rpy:2329
     old "Thursday\n{size=-6}28th September, 2017"
-    new ""
+    new "Jueves,\n{size=-6} 28 de septiembre de 2017."
 

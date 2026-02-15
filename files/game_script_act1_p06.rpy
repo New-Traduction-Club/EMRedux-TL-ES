@@ -896,7 +896,7 @@ translate spanish game_script_act1_5be6f9f7:
 translate spanish game_script_act1_7ad5fabf:
 
     # "Well, considering that my best friend almost killing herself is still 'before the storm'..."
-    "A ver, si que mi mejor amiga casi se matara cuenta como "antes de la tempestad"..."
+    "A ver, si que mi mejor amiga casi se matara cuenta como 'antes de la tempestad'..."
 
 # game/game_script_act1.rpy:3750
 translate spanish game_script_act1_55cd0671:

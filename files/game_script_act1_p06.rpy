@@ -800,13 +800,13 @@ translate spanish game_script_act1_1af90e36:
 translate spanish game_script_act1_eccffbf3:
 
     # "But I cannot let her stay there."
-    "pero ni de coña voy a permitir que pase un día más en esa casa."
+    "pero ni de coña voy a permitir que pase un día más en ese antro."
 
 # game/game_script_act1.rpy:3731
 translate spanish game_script_act1_c50aed6f:
 
     # "All questions of doubt are pushed to the back of my mind."
-    "Todas las preguntas y dudas que van surgiendo son apartadas a lo más profundo de mi mente."
+    "Todas las preguntas y dudas que van surgiendo son alejadas a lo más profundo de mi mente."
 
 # game/game_script_act1.rpy:3732
 translate spanish game_script_act1_6376dff1:
@@ -890,31 +890,31 @@ translate spanish game_script_act1_76211920:
 translate spanish game_script_act1_5be6f9f7:
 
     # "I guess this would be the calm before the storm, wouldn't it?"
-    ""
+    "Supongo que esta es la calma que precede a la tempestad, ¿no?"
 
 # game/game_script_act1.rpy:3749
 translate spanish game_script_act1_7ad5fabf:
 
     # "Well, considering that my best friend almost killing herself is still 'before the storm'..."
-    ""
+    "A ver, si que mi mejor amiga casi se matara cuenta como "antes de la tempestad"..."
 
 # game/game_script_act1.rpy:3750
 translate spanish game_script_act1_55cd0671:
 
     # "...In hindsight, that train of thought doesn't exactly inspire confidence."
-    ""
+    "En retrospectiva, pensar así no me inspira confianza."
 
 # game/game_script_act1.rpy:3751
 translate spanish game_script_act1_c78c743d:
 
     # "That, plus the added worry of whether or not Natsuki's gonna be alright after all this..."
-    ""
+    "Y añade a eso que no sé si Natsuki saldrá bien de esta."
 
 # game/game_script_act1.rpy:3752
 translate spanish game_script_act1_ca58acb9:
 
     # "I shake at the thought."
-    "Trato de espabilarme."
+    "Trato de centrarme."
 
 # game/game_script_act1.rpy:3753
 translate spanish game_script_act1_716c663d:
@@ -926,7 +926,7 @@ translate spanish game_script_act1_716c663d:
 translate spanish game_script_act1_b1069d82:
 
     # "I have to focus on how to get her out of that place."
-    ""
+    "Tengo que sacarla de allí, es lo único que debo pensar."
 
 # game/game_script_act1.rpy:3755
 translate spanish game_script_act1_ec65c5be:
@@ -962,7 +962,7 @@ translate spanish game_script_act1_9bf3a7f8:
 translate spanish game_script_act1_48ed5a47:
 
     # "Well, it’s now or never..."
-    "Es ahora o nunca, ¿no?"
+    "Es ahora o nunca... ¿no?"
 
 # game/game_script_act1.rpy:3769
 translate spanish game_script_act1_1f458b92:
@@ -1082,7 +1082,7 @@ translate spanish game_script_act1_1fa4d985:
 translate spanish game_script_act1_8037e613:
 
     # "Just as I dial out, I feel something pulse right by my foot."
-    "Tan pronto como marco su número y pulso en 'llamar', siento algo en mi pie."
+    "Tan pronto como marco su número y pulso en 'llamar', siento algo en el pie."
 
 # game/game_script_act1.rpy:3797
 translate spanish game_script_act1_5b1ce91c:
@@ -1094,7 +1094,7 @@ translate spanish game_script_act1_5b1ce91c:
 translate spanish game_script_act1_1504787e:
 
     # "Or {i}was{/i}."
-    "O bueno, ERA su teléfono."
+    "Bueno, ERA su teléfono."
 
 # game/game_script_act1.rpy:3799
 translate spanish game_script_act1_e8af5b3b:
@@ -1118,25 +1118,25 @@ translate spanish game_script_act1_8cca26b6:
 translate spanish game_script_act1_c0593a19:
 
     # "But {i}why?{/i}"
-    "¿Por qué?"
+    "¿Por qué haría eso?"
 
 # game/game_script_act1.rpy:3803
 translate spanish game_script_act1_fd066e90:
 
     # "This must be some twisted penance for her attendance at the club today, most likely."
-    "Estoy seguro de que ha sido alguna especie de castigo retorcido por venir hoy al club..."
+    "Estoy seguro de que ha debido ser alguna especie de castigo retorcido por venir hoy al club..."
 
 # game/game_script_act1.rpy:3804
 translate spanish game_script_act1_ca928447:
 
     # "And the broken phone raises yet another issue."
-    "Y el teléfono roto me hace plantearme algo:"
+    "Y el teléfono roto me hace plantearme algo...,"
 
 # game/game_script_act1.rpy:3805
 translate spanish game_script_act1_9946eaf9:
 
     # "How am I supposed to get Natsuki’s attention, without also alerting her father?"
-    "¿Cómo se supone que voy a contactar con ella sin llamar la atención de su padre?"
+    "¿cómo se supone que voy a contactar con ella sin llamar la atención de su padre?"
 
 # game/game_script_act1.rpy:3806
 translate spanish game_script_act1_721b18cc:
@@ -1250,7 +1250,7 @@ translate spanish game_script_act1_21b41651:
 translate spanish game_script_act1_fdc06aaf:
 
     # "Before I even have the chance to think about it, the window swings open...{w}and all my tension melts away."
-    ""
+    "y antes de pensar acerca de quién es... {w}la ventana se abre y mi tensión desaparece."
 
 # game/game_script_act1.rpy:3825
 translate spanish game_script_act1_fbebd22a:
@@ -1292,7 +1292,7 @@ translate spanish game_script_act1_3ae71b64:
 translate spanish game_script_act1_e26a6062:
 
     # n "Oh, really? Because I don’t remember planning for you to chuck shit at my window!"
-    n "Ah, ¿sí? No recordaba que en ese acuerdo hubiesen piedras en mi ventana, ¿sabes?"
+    n "Ah, ¿sí? No recordaba que en ese acuerdo hubiesen piedras impactando en mi ventana, ¿sabes?"
 
 # game/game_script_act1.rpy:3850
 translate spanish game_script_act1_dd974313:
@@ -1322,7 +1322,7 @@ translate spanish game_script_act1_dc0ff26a_1:
 translate spanish game_script_act1_4499ba20:
 
     # n "Whatever. You’re here now."
-    n "En fin, supongo que ya no importa mucho porque ya estás aquí."
+    n "En fin, supongo que ya no importa porque ya estás aquí."
 
 # game/game_script_act1.rpy:3860
 translate spanish game_script_act1_65fee595:

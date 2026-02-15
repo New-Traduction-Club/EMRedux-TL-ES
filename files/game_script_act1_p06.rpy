@@ -1334,7 +1334,7 @@ translate spanish game_script_act1_65fee595:
 translate spanish game_script_act1_49ff154e:
 
     # n "Let's get you up here..."
-    n ""
+    n "Voy a hacerte subir..."
 
 # game/game_script_act1.rpy:3862
 translate spanish game_script_act1_de73387c:
@@ -1352,31 +1352,31 @@ translate spanish game_script_act1_2fe1bf98_2:
 translate spanish game_script_act1_02005fea:
 
     # n "I can't lift it by myself. I need your help."
-    n ""
+    n "No puedo con el peso yo sola, necesito tu ayuda."
 
 # game/game_script_act1.rpy:3869
 translate spanish game_script_act1_085722e2:
 
     # mc "What?!"
-    mc ""
+    mc "¡¿Qué?!"
 
 # game/game_script_act1.rpy:3870
 translate spanish game_script_act1_9ee06e7c:
 
     # n "Shh!"
-    n ""
+    n "¡Shhh!"
 
 # game/game_script_act1.rpy:3871
 translate spanish game_script_act1_aa3031b6:
 
     # n "I had to pack a lot of shit in there, so just get up here and help me!"
-    n ""
+    n "Tengo que guardar un montón de cosas, así que... ¡mueve el culo y ayúdame!"
 
 # game/game_script_act1.rpy:3872
 translate spanish game_script_act1_91905ede:
 
     # mc "How?"
-    mc ""
+    mc "¿Cómo pretendes que te ayude?"
 
 # game/game_script_act1.rpy:3873
 translate spanish game_script_act1_33229008:
@@ -1388,7 +1388,7 @@ translate spanish game_script_act1_33229008:
 translate spanish game_script_act1_e42d993d:
 
     # "Natsuki disappears out of view for two, maybe three agonizing minutes."
-    "Natsuki desaparece de mi vista durante un par o tres agonizantes minutos."
+    "Natsuki desaparece de mi vista durante un par, o quizá tres, agonizantes minutos."
 
 # game/game_script_act1.rpy:3880
 translate spanish game_script_act1_ae4fd58c:
@@ -1406,19 +1406,19 @@ translate spanish game_script_act1_862cb660:
 translate spanish game_script_act1_092a0c86:
 
     # mc "Natsuki, I don’t think I’m gonna be able to--{w=0.3}{nw}"
-    mc ""
+    mc "Natsuki, no creo que pueda...{w=0.3}{nw}"
 
 # game/game_script_act1.rpy:3890
 translate spanish game_script_act1_e9109b78:
 
     # n "We can’t use the stairs, they creak a ton."
-    n "Si piensas en subir por las escaleras, ni se te pase por la cabeza. Crujen mucho al pisarlas."
+    n "Si piensas en subir por las escaleras, que ni se te pase por la cabeza, crujen mucho al pisarlas."
 
 # game/game_script_act1.rpy:3891
 translate spanish game_script_act1_015c6589:
 
     # n "And I haven’t got any better ideas..."
-    n "No tengo más formas de que subas, solo esta."
+    n "Y no tengo más formas de que subas, solo esta."
 
 # game/game_script_act1.rpy:3893
 translate spanish game_script_act1_8ce61eb8_1:
@@ -1448,7 +1448,7 @@ translate spanish game_script_act1_4dcf4ab7_1:
 translate spanish game_script_act1_1c9110e9:
 
     # "I grab hold of the green bedsheets with both hands, before stopping and preparing myself."
-    ""
+    "Cojo las sábanas verdes con ambas manos antes de prepararme."
 
 # game/game_script_act1.rpy:3906
 translate spanish game_script_act1_e468b3df:
@@ -1460,7 +1460,7 @@ translate spanish game_script_act1_e468b3df:
 translate spanish game_script_act1_1b48f6db:
 
     # "None that I see coming."
-    "Y no veo ninguna. Todo permanece a oscuras."
+    "No veo ninguna. Todo permanece a oscuras."
 
 # game/game_script_act1.rpy:3908
 translate spanish game_script_act1_b1b028de:
@@ -1562,7 +1562,7 @@ translate spanish game_script_act1_f34ed511:
 translate spanish game_script_act1_29a00425:
 
     # "I get a good look at Natsuki."
-    "Le echo un vistazo a Natsuki."
+    "Echo un vistazo a Natsuki."
 
 # game/game_script_act1.rpy:3953
 translate spanish game_script_act1_1687cf73_1:
@@ -1628,7 +1628,7 @@ translate spanish game_script_act1_e74a7c35:
 translate spanish game_script_act1_b3acaec5:
 
     # "I try to focus, pushing aside my mental unease and physical pain."
-    ""
+    "Trato de centrarme, dejando de lado la inquietud y el dolor físico."
 
 # game/game_script_act1.rpy:3969
 translate spanish game_script_act1_74d24aa9:
@@ -1646,7 +1646,7 @@ translate spanish game_script_act1_80740bdd:
 translate spanish game_script_act1_86677404:
 
     # "I motion towards Natsuki’s bed, where her suitcase lays open."
-    "Hago un gesto hacia su cama, en la que tiene una maleta abierta."
+    "Hago un gesto hacia su cama, que tiene una maleta abierta encima de la misma."
 
 # game/game_script_act1.rpy:3973
 translate spanish game_script_act1_ca96959a:
@@ -1676,13 +1676,13 @@ translate spanish game_script_act1_6d30ff4e:
 translate spanish game_script_act1_2a4578c5:
 
     # "Just like everything else, broken and tossed aside."
-    ""
+    "Al igual que todo lo que hay en esta habitación: roto y tirado por todos lados."
 
 # game/game_script_act1.rpy:3991
 translate spanish game_script_act1_00ed04ec:
 
     # "I throw it in regardless and start zipping up the suitcase, being as quiet as I can."
-    ""
+    "Echo la chaqueta en la maleta y, siendo lo más silencioso posible, empiezo a cerrar la cremallera."
 
 # game/game_script_act1.rpy:3993
 translate spanish game_script_act1_8a8167e2:

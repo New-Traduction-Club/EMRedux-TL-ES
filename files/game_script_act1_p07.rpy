@@ -896,7 +896,7 @@ translate spanish game_script_act1_4264e85b:
 translate spanish game_script_act1_40638d5c:
 
     # n "Duh."
-    n "Obviamente."
+    n "Pues claro que eres tú."
 
 # game/game_script_act1.rpy:4447
 translate spanish game_script_act1_3a4d9398:

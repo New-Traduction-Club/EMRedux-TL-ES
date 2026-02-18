@@ -1088,7 +1088,7 @@ translate spanish game_script_act1_068ae123:
 translate spanish game_script_act1_029d4015:
 
     # mc "And you have a unique perspective on things. It's why you and I get along."
-    mc ""
+    mc "Tienes una perspectiva única de las cosas y es por eso que nos llevamos tan bien."
 
 # game/game_script_act1.rpy:4496
 translate spanish game_script_act1_106e4e78:

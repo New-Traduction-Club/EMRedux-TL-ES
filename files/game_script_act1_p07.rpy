@@ -554,7 +554,7 @@ translate spanish game_script_act1_06cfc04e:
 translate spanish game_script_act1_2fc76533:
 
     # "Standing there for a moment, we’re both dead silent."
-    "Nos quedamos ahí embobados, en completo silencio, mirando a la nada."
+    "Nos quedamos en completo silencio mirando a la nada.."
 
 # game/game_script_act1.rpy:4337
 translate spanish game_script_act1_53175f7d:
@@ -584,7 +584,7 @@ translate spanish game_script_act1_c3e07e06:
 translate spanish game_script_act1_715bfca9:
 
     # n "It’s been a rough day."
-    n ""
+    n "Ha sido un día muy cargante."
 
 # game/game_script_act1.rpy:4347
 translate spanish game_script_act1_f7c62c6b:
@@ -602,7 +602,7 @@ translate spanish game_script_act1_8a15a937:
 translate spanish game_script_act1_3f3d11db:
 
     # mc "I guess the best thing we can do now is just to get some rest."
-    mc ""
+    mc "Supongo que, ahora mismo, lo que necesitamos es descansar."
 
 # game/game_script_act1.rpy:4351
 translate spanish game_script_act1_fd7d67e5:
@@ -614,7 +614,7 @@ translate spanish game_script_act1_fd7d67e5:
 translate spanish game_script_act1_972372ef:
 
     # "Oh. Oh crap."
-    ""
+    "Ay, mierda, es verdad."
 
 # game/game_script_act1.rpy:4354
 translate spanish game_script_act1_ac34c991:
@@ -644,7 +644,7 @@ translate spanish game_script_act1_65e924bd:
 translate spanish game_script_act1_94f7d9a9:
 
     # "And my worry slowly eases back in."
-    ""
+    "Y mi preocupación se va lentamente."
 
 # game/game_script_act1.rpy:4365
 translate spanish game_script_act1_c3687045:
@@ -758,13 +758,13 @@ translate spanish game_script_act1_b1459aa6:
 translate spanish game_script_act1_d79ebce7:
 
     # mc "Natsuki, you should eat."
-    mc ""
+    mc "Natsuki, no puedes estar sin nada en el estómago."
 
 # game/game_script_act1.rpy:4397
 translate spanish game_script_act1_b3d62be0:
 
     # mc "I mean, you must be at least a {i}little{/i} hungry after all that."
-    mc "Me refiero a que no has tocado la comida. Deberías tener, al menos, un poquito de hambre después de toda la mierda que hemos pasado."
+    mc "Deberías tener, al menos, un poquito de hambre después de toda la mierda que hemos pasado."
 
 # game/game_script_act1.rpy:4399
 translate spanish game_script_act1_75af6fcb:
@@ -794,7 +794,7 @@ translate spanish game_script_act1_45614442:
 translate spanish game_script_act1_e0c17718:
 
     # n "I just...{w}don’t feel like I’m free, [player]."
-    n "Lo que pasa es que...{w} no siento verdadera libertad, [player]."
+    n "Lo que pasa es que...{w} no me siento libre, [player]."
 
 # game/game_script_act1.rpy:4410
 translate spanish game_script_act1_77e28c7e:
@@ -848,7 +848,7 @@ translate spanish game_script_act1_72f3d428:
 translate spanish game_script_act1_97bec1ce:
 
     # "When it comes to how her father treats her, I’m left more confused than angry."
-    ""
+    "Cuando se trata de cómo la trata su padre, me siento más confundido que enfadado realmente."
 
 # game/game_script_act1.rpy:4432
 translate spanish game_script_act1_f73ff358:
@@ -866,37 +866,37 @@ translate spanish game_script_act1_ecbfd9da:
 translate spanish game_script_act1_316ca42c:
 
     # mc "But hey, Parfait Girls is safe."
-    mc ""
+    mc "Oye, al menos... Parfait Girls está sano y salvo."
 
 # game/game_script_act1.rpy:4437
 translate spanish game_script_act1_0efc4e53:
 
     # n cross mh b1b "Yeah, there's that, at least."
-    n cross mh b1b ""
+    n cross mh b1b "Ya, al menos me queda eso."
 
 # game/game_script_act1.rpy:4438
 translate spanish game_script_act1_904cbcc5:
 
     # n mg "That was the first manga I ever bought for myself, you know..."
-    n mg ""
+    n mg "Ese fue el primer manga que me compré con mi dinero, ¿sabes...?"
 
 # game/game_script_act1.rpy:4439
 translate spanish game_script_act1_b1d14e5f:
 
     # n e1a b1a "It was also the first manga I ever got to read with someone else, too."
-    n e1a b1a ""
+    n e1a b1a "Y también es el primer manga que consigo leer con alguien."
 
 # game/game_script_act1.rpy:4442
 translate spanish game_script_act1_4264e85b:
 
     # mc "That'd be me, I take it."
-    mc ""
+    mc "Supongo que soy yo, ¿no?"
 
 # game/game_script_act1.rpy:4445
 translate spanish game_script_act1_40638d5c:
 
     # n "Duh."
-    n ""
+    n "Bah."
 
 # game/game_script_act1.rpy:4447
 translate spanish game_script_act1_3a4d9398:
@@ -908,7 +908,7 @@ translate spanish game_script_act1_3a4d9398:
 translate spanish game_script_act1_0dfd74db:
 
     # n "No one else was ever interested in what I liked."
-    n ""
+    n "Nadie se interesa en mis gustos."
 
 # game/game_script_act1.rpy:4451
 translate spanish game_script_act1_655f0bdf:
@@ -974,7 +974,7 @@ translate spanish game_script_act1_c86c1d0e:
 translate spanish game_script_act1_5f76e0e2:
 
     # n lhip rhip n2 mh e1a "D-don't get me wrong or anything, the club members are nice."
-    n lhip rhip n2 mh e1a ""
+    n lhip rhip n2 mh e1a "N-No me malinterpretes, que las chicas también son buena gente."
 
 # game/game_script_act1.rpy:4462
 translate spanish game_script_act1_3eae8a49:
@@ -986,19 +986,19 @@ translate spanish game_script_act1_3eae8a49:
 translate spanish game_script_act1_13f508da:
 
     # n n4 mh b2b "Not as much as you."
-    n n4 mh b2b ""
+    n n4 mh b2b "No tanto como a ti."
 
 # game/game_script_act1.rpy:4464
 translate spanish game_script_act1_a6450fd7:
 
     # n n1 me "But now I'm thinking..."
-    n n1 me ""
+    n n1 me "Y ahora que lo pienso..."
 
 # game/game_script_act1.rpy:4466
 translate spanish game_script_act1_0d9dade1:
 
     # "Natsuki then starts to mumble, I’m barely able to hear what she says."
-    "Natsuki empieza a murmurar y es casi imposible entender lo que dice."
+    "Natsuki empieza a murmurar algo y es casi imposible entender lo que dice."
 
 # game/game_script_act1.rpy:4468
 translate spanish game_script_act1_a443482e:
@@ -1040,7 +1040,7 @@ translate spanish game_script_act1_8047bbfb:
 translate spanish game_script_act1_4c437ac2:
 
     # mc "You remember why you wrote, uhh, what was it called...Amy Likes Spiders?"
-    mc "¿Recuerdas por qué escribiste...? Ay, ¿Cómo se llamaba? ¿'A Amy le gustan las arañas'?"
+    mc "¿Recuerdas por qué escribiste...? Ay, ¿cómo se llamaba? ¿'A Amy le gustan las arañas'?"
 
 # game/game_script_act1.rpy:4481
 translate spanish game_script_act1_5e0a6b19:
@@ -1058,7 +1058,7 @@ translate spanish game_script_act1_63422668:
 translate spanish game_script_act1_f8acd21e:
 
     # mc "And if I recall correctly, you actually said that {i}those{/i} people were the stupid ones."
-    mc "Y si recuerdo correctamente, dijiste que la gente que lo hacía era estúpida."
+    mc "Y si recuerdo correctamente, dijiste que la gente que lo hacía era idiota."
 
 # game/game_script_act1.rpy:4485
 translate spanish game_script_act1_78aae6be:

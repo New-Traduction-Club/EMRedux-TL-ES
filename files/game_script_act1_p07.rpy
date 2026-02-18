@@ -890,7 +890,7 @@ translate spanish game_script_act1_b1d14e5f:
 translate spanish game_script_act1_4264e85b:
 
     # mc "That'd be me, I take it."
-    mc "Supongo que soy yo, ¿no?"
+    mc "Supongo que ese alguien soy yo, ¿no?"
 
 # game/game_script_act1.rpy:4445
 translate spanish game_script_act1_40638d5c:

@@ -82,7 +82,7 @@ translate spanish game_script_act2_a756b4e3:
 translate spanish game_script_act2_53374e4c:
 
     # "...Guess I have to get up, then."
-    "Que me tengo que levantar ya, ¿no?"
+    "Que me tengo que levantar, ¿no?"
 
 # game/game_script_act2.rpy:43
 translate spanish game_script_act2_83d97a51:

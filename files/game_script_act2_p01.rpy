@@ -52,49 +52,49 @@ translate spanish game_script_act2_a625f868:
 translate spanish game_script_act2_58e7b8b2:
 
     # "I pull the covers off me, turn to get my feet onto the ground, and pinch the bridge of my nose."
-    ""
+    "Tal y como me destapo y me doy la vuelta para poner los pies en el suelo, me pellizco el puente de la nariz."
 
 # game/game_script_act2.rpy:38
 translate spanish game_script_act2_3146a028:
 
     # "{i}Ugh...{/i}"
-    ""
+    "Dios..."
 
 # game/game_script_act2.rpy:39
 translate spanish game_script_act2_0d438ff9:
 
     # "My head feels like it’s about to explode."
-    ""
+    "Mi cabeza está a punto de reventar."
 
 # game/game_script_act2.rpy:40
 translate spanish game_script_act2_6f04cef5:
 
     # "I’ll probably have to take some painkillers or something."
-    ""
+    "Creo que me tomaré algún analgésico..."
 
 # game/game_script_act2.rpy:41
 translate spanish game_script_act2_a756b4e3:
 
     # "And I’m in desperate need of some water."
-    ""
+    "Ahora que lo pienso... necesito agua a la de ya."
 
 # game/game_script_act2.rpy:42
 translate spanish game_script_act2_53374e4c:
 
     # "...Guess I have to get up, then."
-    ""
+    "Que me tengo que levantar ya, ¿no?"
 
 # game/game_script_act2.rpy:43
 translate spanish game_script_act2_83d97a51:
 
     # "I slowly stand up from where I was sitting and head to open the bedroom door."
-    ""
+    "Poco a poco me levanto y abro la puerta de la habitación."
 
 # game/game_script_act2.rpy:44
 translate spanish game_script_act2_96ea81ac:
 
     # "I stop for a moment, noticing my clothes from the night before lying in front of me."
-    ""
+    "Al notar que piso algo, miro abajo y veo la ropa de la noche anterior tirada en el suelo."
 
 # game/game_script_act2.rpy:45
 translate spanish game_script_act2_cd62b8bb:

@@ -1478,7 +1478,7 @@ translate spanish game_script_act1_2e69a2a4_1:
 translate spanish game_script_act1_f2777a18:
 
     # n "T-This is gonna sound really stupid, but...{w}would it be okay if I hold it?"
-    n "Es que s-sé que va a sonar estúpido, pero...{w} ¿te importaría que fuera yo quien sujete el tomo?"
+    n "Es que s-sé que va a sonar estúpido, pero...{w} ¿te importaría que fuera yo quien lo sujete?"
 
 # game/game_script_act1.rpy:4625
 translate spanish game_script_act1_994d0e33:
@@ -1508,7 +1508,7 @@ translate spanish game_script_act1_5bdd6312:
 translate spanish game_script_act1_e798bd70:
 
     # "She takes the manga from my lending hand and holds it close to her chest."
-    "Coge el tomo de mi mano extendida y lo coloca en su pecho."
+    "Lo coge de mi mano y lo coloca en su pecho."
 
 # game/game_script_act1.rpy:4638
 translate spanish game_script_act1_2a8d9940:

@@ -1028,7 +1028,7 @@ translate spanish game_script_act1_1bdf3e91:
 translate spanish game_script_act1_7f757ec0:
 
     # n rhip me e1a "Y-Yeah?"
-    n rhip me e1a "¿S-Sí?"
+    n rhip me e1a "¿Q-Qué?"
 
 # game/game_script_act1.rpy:4479
 translate spanish game_script_act1_8047bbfb:

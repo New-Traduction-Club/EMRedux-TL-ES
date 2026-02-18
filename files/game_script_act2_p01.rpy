@@ -100,217 +100,217 @@ translate spanish game_script_act2_96ea81ac:
 translate spanish game_script_act2_cd62b8bb:
 
     # "I reach down and pick them up."
-    ""
+    "Me agacho para recogerla."
 
 # game/game_script_act2.rpy:46
 translate spanish game_script_act2_17076b99:
 
     # "Might as well bring these down for the wash..."
-    ""
+    "Creo que debería echarlas a lavar..."
 
 # game/game_script_act2.rpy:48
 translate spanish game_script_act2_cdf082ea:
 
     # "As soon as I exit the room, my stomach growls like a wild animal."
-    ""
+    "Salgo de la habitación y empieza a rugirme el estómago como un león...,"
 
 # game/game_script_act2.rpy:49
 translate spanish game_script_act2_6c2c7abf:
 
     # "...Probably because the last thing I ate was a bag of crisps..."
-    ""
+    "y el motivo de ello es que anoche comí patatas fritas únicamente."
 
 # game/game_script_act2.rpy:50
 translate spanish game_script_act2_f5d06c02:
 
     # "We {i}really{/i} need to get some groceries today."
-    ""
+    "Necesitamos ir al súper sin falta."
 
 # game/game_script_act2.rpy:51
 translate spanish game_script_act2_e6be5737:
 
     # "My legs quiver as I attempt to walk down the stairs."
-    ""
+    "Me tiemblan las piernas al intentar bajar las escaleras."
 
 # game/game_script_act2.rpy:55
 translate spanish game_script_act2_a653f859:
 
     # "As I reach the bottom, a certain pink-haired girl catches my eye, laying on one of the living room couches."
-    ""
+    "Al bajar todos los peldaños, mis ojos se dirigen a una chica de pelo rosado echada en uno de los sofás de la sala de estar."
 
 # game/game_script_act2.rpy:60
 translate spanish game_script_act2_f09b05fa:
 
     # n mh "Hey."
-    n mh ""
+    n mh "Ey."
 
 # game/game_script_act2.rpy:62
 translate spanish game_script_act2_1a78a7a8:
 
     # mc "Hi."
-    mc ""
+    mc "Hola."
 
 # game/game_script_act2.rpy:65
 translate spanish game_script_act2_93d83983:
 
     # "Her bruise, despite being glaringly noticeable, has healed somewhat. Though not by much."
-    ""
+    "A pesar de ser visible, su moratón parece haber sanado un poco."
 
 # game/game_script_act2.rpy:66
 translate spanish game_script_act2_5980c9a9:
 
     # "As for herself, she looks like she’s trying not to nod off to sleep."
-    ""
+    "En cuanto a ella, parece que trata de no quedarse dormida."
 
 # game/game_script_act2.rpy:68
 translate spanish game_script_act2_ef8075c4:
 
     # n e1a mb "Whatcha got there?"
-    n e1a mb ""
+    n e1a mb "¿Qué tienes ahí?"
 
 # game/game_script_act2.rpy:70
 translate spanish game_script_act2_d49b86a3:
 
     # mc "Some clothes for the washing machine."
-    mc ""
+    mc "Ropa para lavar."
 
 # game/game_script_act2.rpy:71
 translate spanish game_script_act2_8ee46fa1:
 
     # mc "You got anything that needs to go in too?"
-    mc ""
+    mc "¿Tienes ropa para lavar?"
 
 # game/game_script_act2.rpy:73
 translate spanish game_script_act2_dfbb4412:
 
     # n e1b mb "I might have some, yeah..."
-    n e1b mb ""
+    n e1b mb "Pues puede que tenga algo, sí..."
 
 # game/game_script_act2.rpy:74
 translate spanish game_script_act2_f37757c6:
 
     # n e1a "I’ll grab them in a bit."
-    n e1a ""
+    n e1a "Ahora voy por ella."
 
 # game/game_script_act2.rpy:76
 translate spanish game_script_act2_a8daba0a:
 
     # mc "Cool."
-    mc ""
+    mc "Guay."
 
 # game/game_script_act2.rpy:77
 translate spanish game_script_act2_78309cf8:
 
     # mc "So...you came down here?"
-    mc ""
+    mc "Y... ¿cómo es que has bajado?"
 
 # game/game_script_act2.rpy:79
 translate spanish game_script_act2_a10be1ba:
 
     # mc "Is there something up with the spare room, or...?"
-    mc ""
+    mc "¿Hay algún problema con la habitación de invitados?"
 
 # game/game_script_act2.rpy:85
 translate spanish game_script_act2_4a9af93c:
 
     # "Natsuki yawns, stretching her arms past her head momentarily."
-    ""
+    "Natsuki bosteza y se estira, llevando sus brazos por detrás de la cabeza."
 
 # game/game_script_act2.rpy:88
 translate spanish game_script_act2_5a80af39:
 
     # n b1a e1c zz1 mh "No, no..."
-    n b1a e1c zz1 mh ""
+    n b1a e1c zz1 mh "No, no..."
 
 # game/game_script_act2.rpy:89
 translate spanish game_script_act2_9234e188:
 
     # n zz1 e1a ldown "I was hoping to see if there was something I could put on the TV."
-    n zz1 e1a ldown ""
+    n zz1 e1a ldown "Esperaba poder ver algo en la tele..."
 
 # game/game_script_act2.rpy:90
 translate spanish game_script_act2_63c7a67d:
 
     # n e1b mg "Some background noise."
-    n e1b mg ""
+    n e1b mg "Ya sabes, tener algo puesto de fondo."
 
 # game/game_script_act2.rpy:91
 translate spanish game_script_act2_855a8f76:
 
     # n rdown e4a zz3 b1d "But there’s never anything good on..."
-    n rdown e4a zz3 b1d ""
+    n rdown e4a zz3 b1d "La cosa es que no hay nada bueno...,"
 
 # game/game_script_act2.rpy:92
 translate spanish game_script_act2_20899a50:
 
     # n zz1 e1c "And, well, I just kinda stuck around."
-    n zz1 e1c ""
+    n zz1 e1c "y me acabé quedando aquí."
 
 # game/game_script_act2.rpy:94
 translate spanish game_script_act2_ffdef6f8:
 
     # mc "Because you’d already started melting into the couch?"
-    mc ""
+    mc "¿Es que ya has empezado a fusionarte con el sofá?"
 
 # game/game_script_act2.rpy:96
 translate spanish game_script_act2_1f849433:
 
     # n b1a e1b mb "Heh...yeah."
-    n b1a e1b mb ""
+    n b1a e1b mb "Je..., pues puede que sí."
 
 # game/game_script_act2.rpy:97
 translate spanish game_script_act2_155548e8:
 
     # n zz2 e4b mb "Maybe a {i}little{/i} bit..."
-    n zz2 e4b mb ""
+    n zz2 e4b mb "Un poquito..."
 
 # game/game_script_act2.rpy:99
 translate spanish game_script_act2_a53aebda:
 
     # "She sluggishly outstretches her arms once more."
-    ""
+    "Se vuelve a estirar lentamente."
 
 # game/game_script_act2.rpy:101
 translate spanish game_script_act2_7ccf7a89:
 
     # n e1a mh b1d "Before you ask, no, I haven’t slept."
-    n e1a mh b1d ""
+    n e1a mh b1d "Antes de que me preguntes, no. No he dormido nada."
 
 # game/game_script_act2.rpy:102
 translate spanish game_script_act2_4d19f477:
 
     # n e1c mh "Well, I got a {i}bit{/i}...{w}like, half an hour."
-    n e1c mh ""
+    n e1c mh "Bueno, algo he dormido. Como...{w} una hora o así."
 
 # game/game_script_act2.rpy:103
 translate spanish game_script_act2_ea3616d2:
 
     # n e1a rhip "But that’s hardly..."
-    n e1a rhip ""
+    n e1a rhip "Pero eso no es nada..."
 
 # game/game_script_act2.rpy:105
 translate spanish game_script_act2_e4c2cc9b:
 
     # mc "Do...{w}do you wanna talk about it?"
-    mc ""
+    mc "¿Quieres...{w} quieres hablarlo?"
 
 # game/game_script_act2.rpy:108
 translate spanish game_script_act2_9ba7b937:
 
     # n lhip zz1 e1a mg "No need."
-    n lhip zz1 e1a mg ""
+    n lhip zz1 e1a mg "Ni de coña."
 
 # game/game_script_act2.rpy:109
 translate spanish game_script_act2_b0ebdf9e:
 
     # n b1c "I think you can already guess."
-    n b1c ""
+    n b1c "Eres capaz de imaginártelo."
 
 # game/game_script_act2.rpy:112
 translate spanish game_script_act2_69c25b65:
 
     # mc "Yeah..."
-    mc ""
+    mc "Ah, ya..."
 
 # game/game_script_act2.rpy:114
 translate spanish game_script_act2_e2ea2b87:

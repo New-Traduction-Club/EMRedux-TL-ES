@@ -4,49 +4,49 @@
 translate spanish game_script_act2_2f6e9cc3:
 
     # mc "AGH!"
-    mc ""
+    mc "¡AH!"
 
 # game/game_script_act2.rpy:29
 translate spanish game_script_act2_26aa6c42:
 
     # mc "...Eh?"
-    mc ""
+    mc "¿Eh?"
 
 # game/game_script_act2.rpy:31
 translate spanish game_script_act2_94004a03:
 
     # "Oh."
-    ""
+    "Ah."
 
 # game/game_script_act2.rpy:32
 translate spanish game_script_act2_5646bf56:
 
     # "It wasn’t real."
-    ""
+    "No era real."
 
 # game/game_script_act2.rpy:33
 translate spanish game_script_act2_3ee454b6:
 
     # "It wasn’t real, [player]."
-    ""
+    "No era real, [player]."
 
 # game/game_script_act2.rpy:34
 translate spanish game_script_act2_93a6f331:
 
     # "Pull yourself together."
-    ""
+    "Tranquilo."
 
 # game/game_script_act2.rpy:35
 translate spanish game_script_act2_c57d0fe0:
 
     # "Calm."
-    ""
+    "Relájate."
 
 # game/game_script_act2.rpy:36
 translate spanish game_script_act2_a625f868:
 
     # "Calm..."
-    ""
+    "Relájate..."
 
 # game/game_script_act2.rpy:37
 translate spanish game_script_act2_58e7b8b2:

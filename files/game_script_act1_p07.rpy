@@ -1094,7 +1094,7 @@ translate spanish game_script_act1_029d4015:
 translate spanish game_script_act1_106e4e78:
 
     # "An awkward silence permeates the room."
-    "Un silencio incómodo inunda la sala."
+    "Un silencio incómodo se apodera de nosotros."
 
 # game/game_script_act1.rpy:4497
 translate spanish game_script_act1_9950bbf2:
@@ -1118,7 +1118,7 @@ translate spanish game_script_act1_10c9d275:
 translate spanish game_script_act1_97628d99:
 
     # n "Hah."
-    n ""
+    n "Je."
 
 # game/game_script_act1.rpy:4505
 translate spanish game_script_act1_51ab0b9c:
@@ -1136,7 +1136,7 @@ translate spanish game_script_act1_3a4d9398_1:
 translate spanish game_script_act1_70011cb0:
 
     # mc "E-eh?"
-    mc ""
+    mc "¿E-Eh?"
 
 # game/game_script_act1.rpy:4512
 translate spanish game_script_act1_ed740fd0:
@@ -1172,7 +1172,7 @@ translate spanish game_script_act1_6944e50f:
 translate spanish game_script_act1_8d923450:
 
     # mc "Hey, speaking of Parfait Girls..."
-    mc ""
+    mc "Oye, y hablando de Parfait Girls..."
 
 # game/game_script_act1.rpy:4525
 translate spanish game_script_act1_12f9f4b0_1:
@@ -1184,19 +1184,19 @@ translate spanish game_script_act1_12f9f4b0_1:
 translate spanish game_script_act1_3c37aced:
 
     # mc "Well, it's safe upstairs. I went ahead and put it in the spare room earlier."
-    mc ""
+    mc "Pues que ya está a salvo en la planta de arriba. Lo puse en la habitación de invitados antes."
 
 # game/game_script_act1.rpy:4529
 translate spanish game_script_act1_85692b7b:
 
     # n mg "So I saw."
-    n mg ""
+    n mg "Lo vi."
 
 # game/game_script_act1.rpy:4531
 translate spanish game_script_act1_05ce4853:
 
     # mc "Up for continuing where we left off?"
-    mc ""
+    mc "¿Te hace leer un rato y continuar donde lo dejamos?"
 
 # game/game_script_act1.rpy:4534
 translate spanish game_script_act1_dc088225:
@@ -1220,7 +1220,7 @@ translate spanish game_script_act1_2279eb32:
 translate spanish game_script_act1_311d4e06:
 
     # n lhip n1 b1c "I’ll just finish this before we do."
-    n lhip n1 b1c "Termino de comer y nos ponemos a leer."
+    n lhip n1 b1c "Termino de comer y nos ponemos."
 
 # game/game_script_act1.rpy:4542
 translate spanish game_script_act1_b320c05c:
@@ -1250,7 +1250,7 @@ translate spanish game_script_act1_d56e5212:
 translate spanish game_script_act1_5a72ae9e:
 
     # "I walk to one of the cupboards where there should {i}hopefully{/i} be some snacks available."
-    "Voy hacia uno de los armarios donde 'espero' que haya algo que picotear mientras leemos."
+    "Voy hacia uno de los armarios donde 'espero' que haya algo para picotear mientras leemos."
 
 # game/game_script_act1.rpy:4553
 translate spanish game_script_act1_a20cefa7_11:
@@ -1262,7 +1262,7 @@ translate spanish game_script_act1_a20cefa7_11:
 translate spanish game_script_act1_009f461e:
 
     # "Crisps. Bingo."
-    "Patatas fritas. Genial."
+    "Patatas fritas. Bingo."
 
 # game/game_script_act1.rpy:4555
 translate spanish game_script_act1_2681aa6e:
@@ -1274,7 +1274,7 @@ translate spanish game_script_act1_2681aa6e:
 translate spanish game_script_act1_d1fbe850:
 
     # "Natsuki takes a seat at the table and grabs the spoon."
-    ""
+    "Natsuki se sienta en la mesa y coge la cuchara."
 
 # game/game_script_act1.rpy:4559
 translate spanish game_script_act1_a39f69b5:
@@ -1406,7 +1406,7 @@ translate spanish game_script_act1_24d3fba3:
 translate spanish game_script_act1_657295f2:
 
     # mc "Wanna hop in and find out for yourself?"
-    mc "¿Quieres venir... y lo descubres por ti misma?"
+    mc "¿Quieres venir... y descubres esa comodidad por ti misma?"
 
 # game/game_script_act1.rpy:4600
 translate spanish game_script_act1_ef380d26:
@@ -1424,7 +1424,7 @@ translate spanish game_script_act1_96830d41:
 translate spanish game_script_act1_66ea2bf4:
 
     # n "Hah. You bet!"
-    n ""
+    n "Je, ¡hazme hueco!"
 
 # game/game_script_act1.rpy:4607
 translate spanish game_script_act1_e11a1ebf:
@@ -1514,7 +1514,7 @@ translate spanish game_script_act1_e798bd70:
 translate spanish game_script_act1_2a8d9940:
 
     # n "Wait...{w}do you {i}actually{/i} like it...?"
-    n ""
+    n "Espera...{w} ¿te gusta de verdad...?"
 
 # game/game_script_act1.rpy:4640
 translate spanish game_script_act1_7a6d41cc:
@@ -1526,7 +1526,7 @@ translate spanish game_script_act1_7a6d41cc:
 translate spanish game_script_act1_76ed5b24:
 
     # mc "Why else do you think I offered to keep the collection here?"
-    mc ""
+    mc "¿Por qué te crees que te he propuesto quedarme con la colección?"
 
 # game/game_script_act1.rpy:4644
 translate spanish game_script_act1_925966b6:
@@ -1538,7 +1538,7 @@ translate spanish game_script_act1_925966b6:
 translate spanish game_script_act1_a7e90961:
 
     # n "I thought you were just trying to be nice, or something."
-    n ""
+    n "Creí que intentabas ser amable conmigo."
 
 # game/game_script_act1.rpy:4647
 translate spanish game_script_act1_85b87e0d:
@@ -1550,31 +1550,31 @@ translate spanish game_script_act1_85b87e0d:
 translate spanish game_script_act1_87dd66a3:
 
     # n "I-I dunno, it’s not like I can read your mind, dummy."
-    n "A s-saber qué, tampoco es que pueda leerte la mente, idiota."
+    n "P-Pues no lo sé. Tampoco es que pueda leerte la mente, idiota."
 
 # game/game_script_act1.rpy:4651
 translate spanish game_script_act1_277d770d:
 
     # "She giggles a little bit."
-    ""
+    "Se ríe un poco."
 
 # game/game_script_act1.rpy:4652
 translate spanish game_script_act1_3dc6d2b5:
 
     # "It's good to hear her laugh."
-    ""
+    "Me alivia escucharla reír."
 
 # game/game_script_act1.rpy:4654
 translate spanish game_script_act1_1ee4eb17:
 
     # "But just as soon as it happens, her smile disappears."
-    ""
+    "Aunque... tan pronto como se ríe, su sonrisa se desvanece."
 
 # game/game_script_act1.rpy:4655
 translate spanish game_script_act1_503becfa:
 
     # "She speaks up once more."
-    ""
+    "Vuelve a hablar."
 
 # game/game_script_act1.rpy:4658
 translate spanish game_script_act1_21dd6d0b:
@@ -1610,7 +1610,7 @@ translate spanish game_script_act1_1acd4be9:
 translate spanish game_script_act1_df586498:
 
     # mc "Natsuki, there’s {i}nothing{/i} to be sorry about."
-    mc ""
+    mc "Natsuki, no tienes que pedir perdón por nada."
 
 # game/game_script_act1.rpy:4667
 translate spanish game_script_act1_d300c528:
@@ -1634,19 +1634,19 @@ translate spanish game_script_act1_f2c2083b:
 translate spanish game_script_act1_3e2150aa:
 
     # n "You’re probably one of the nicest people I’ve ever met, and I’ve just treated you like crap."
-    n "Eres, probablemente, una de las personas más buenas que he conocido... y a la que he tratado como una mierda absoluta."
+    n "Eres, probablemente, una de las personas más buenas que he conocido... y a la que he tratado como la mierda más absoluta."
 
 # game/game_script_act1.rpy:4674
 translate spanish game_script_act1_308276d4:
 
     # n "And this might sound {i}incredibly{/i} stupid..."
-    n ""
+    n "Y puede que esto suene muy cursi...,"
 
 # game/game_script_act1.rpy:4675
 translate spanish game_script_act1_4515b076:
 
     # n e1b z1 "But even though I’ve only known you for about a week...{w}you’re probably one of the best friends I’ve ever had."
-    n e1b z1 ""
+    n e1b z1 "pero sabiendo que te conozco desde hace apenas una semana,{w} eres uno de los mejores amigos que he tenido nunca."
 
 # game/game_script_act1.rpy:4677
 translate spanish game_script_act1_4f0a4ae2:
@@ -1664,13 +1664,13 @@ translate spanish game_script_act1_b14a8dca:
 translate spanish game_script_act1_fef32af3:
 
     # n "Again."
-    n ""
+    n "Otra vez."
 
 # game/game_script_act1.rpy:4683
 translate spanish game_script_act1_22db3388:
 
     # "I wrap my arms around her, returning her hug."
-    ""
+    "La envuelvo con mis brazos, devolviéndole el gesto."
 
 # game/game_script_act1.rpy:4685
 translate spanish game_script_act1_14415342:
@@ -1688,13 +1688,13 @@ translate spanish game_script_act1_66c888ba:
 translate spanish game_script_act1_dc4c98ed:
 
     # n "S-sorry about that."
-    n ""
+    n "P-Perdona."
 
 # game/game_script_act1.rpy:4690
 translate spanish game_script_act1_c1d3628b:
 
     # n "I just needed to get that off my chest, I guess."
-    n "Necesitaba hablarlo contigo y liberarlo de mis interiores..., creo."
+    n "Necesitaba hablarlo contigo y sacarlo de dentro mía... creo."
 
 # game/game_script_act1.rpy:4692
 translate spanish game_script_act1_948b82a5:
@@ -1724,19 +1724,19 @@ translate spanish game_script_act1_7088a8c0:
 translate spanish game_script_act1_e85af0a2:
 
     # n "S-so...{w}I guess we should actually {i}read{/i} Parfait Girls now..."
-    n ""
+    n "C-Creo que es momento de empezar a leer Parfait Girls, ¿no?"
 
 # game/game_script_act1.rpy:4702
 translate spanish game_script_act1_fce3b2f7:
 
     # mc "Yeah, I’d like that."
-    mc "Claro, me encantaría."
+    mc "Claro, nada me gustaría más."
 
 # game/game_script_act1.rpy:4705
 translate spanish game_script_act1_d6e7fdde:
 
     # "Natsuki retrieves the second volume, and eagerly opens it to the first page."
-    ""
+    "Natsuki coge el segundo tomo y lo abre con energía."
 
 # game/game_script_act1.rpy:4706
 translate spanish game_script_act1_c1fafe0c:
@@ -1754,13 +1754,13 @@ translate spanish game_script_act1_77b3df17:
 translate spanish game_script_act1_a49c8773:
 
     # "It’s been just over an hour, and I'm already knackered."
-    ""
+    "Ha pasado casi una hora y ya estoy hecho polvo."
 
 # game/game_script_act1.rpy:4714
 translate spanish game_script_act1_efe8b316:
 
     # "I set the second volume down and turn to Natsuki."
-    ""
+    "Cierro el segundo tomo y miro a Natsuki."
 
 # game/game_script_act1.rpy:4716
 translate spanish game_script_act1_db347bc2:
@@ -1790,19 +1790,19 @@ translate spanish game_script_act1_b4acb98c:
 translate spanish game_script_act1_710ce554:
 
     # mc "Hey, do you want me to set up the room so that it should be more comfortable?"
-    mc ""
+    mc "¿Quieres que te deje la habitación un poco más adecentada?"
 
 # game/game_script_act1.rpy:4729
 translate spanish game_script_act1_50d2a5d6:
 
     # n "Nah, I think I’ve got it from here."
-    n "Qué va, creo que puedo encargarme de hacerlo."
+    n "Qué va, creo que puedo hacerlo yo."
 
 # game/game_script_act1.rpy:4731
 translate spanish game_script_act1_38954e45:
 
     # n "Plus, you’re bound to mess {i}something{/i} up."
-    n ""
+    n "Además, como te pongas a limpiar aquí... la lías."
 
 # game/game_script_act1.rpy:4733
 translate spanish game_script_act1_eb7a8b0e:
@@ -1820,7 +1820,7 @@ translate spanish game_script_act1_011d96ac:
 translate spanish game_script_act1_5da8c559:
 
     # n "Haha~."
-    n ""
+    n "Ja, ja..."
 
 # game/game_script_act1.rpy:4740
 translate spanish game_script_act1_4ea07acd:
@@ -1832,25 +1832,25 @@ translate spanish game_script_act1_4ea07acd:
 translate spanish game_script_act1_3c54e987:
 
     # mc "Whatever you say, Nat."
-    mc ""
+    mc "Lo que tú digas, Nat."
 
 # game/game_script_act1.rpy:4743
 translate spanish game_script_act1_110a4eee:
 
     # mc "Anyway, I guess this is goodnight, then?"
-    mc ""
+    mc "Entonces... ¿buenas noches?"
 
 # game/game_script_act1.rpy:4745
 translate spanish game_script_act1_ffbb1b37:
 
     # n "Yeah, see ya tomorrow [player]."
-    n ""
+    n "Sí, buenas noches. Nos vemos mañana, [player]."
 
 # game/game_script_act1.rpy:4747
 translate spanish game_script_act1_339a683a:
 
     # mc "You too, rest well."
-    mc ""
+    mc "Igualmente, descansa."
 
 # game/game_script_act1.rpy:4751
 translate spanish game_script_act1_000ff129:
@@ -1880,7 +1880,7 @@ translate spanish game_script_act1_45e09158:
 translate spanish game_script_act1_e5e735d7:
 
     # "I hope that no one will notice our absence tomorrow."
-    "Y solo espero que nadie nos eche en falta mañana."
+    "Y rezo porque nadie nos eche en falta mañana."
 
 # game/game_script_act1.rpy:4760
 translate spanish game_script_act1_3a4f1933:
@@ -1892,7 +1892,7 @@ translate spanish game_script_act1_3a4f1933:
 translate spanish game_script_act1_edcc4226:
 
     # "I hope she can finally live a happy life free from abuse."
-    "Espero que, de ahora en adelante, viva una vida llena de felicidad y sin abusos de por medio."
+    "Solo quiero que, de ahora en adelante, viva una vida llena de felicidad y sin abusos de por medio."
 
 # game/game_script_act1.rpy:4762
 translate spanish game_script_act1_0f964022:

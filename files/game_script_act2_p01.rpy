@@ -88,7 +88,7 @@ translate spanish game_script_act2_53374e4c:
 translate spanish game_script_act2_83d97a51:
 
     # "I slowly stand up from where I was sitting and head to open the bedroom door."
-    "Poco a poco me levanto y abro la puerta de la habitación."
+    "Poco a poco lo voy haciendo y abro la puerta de la habitación."
 
 # game/game_script_act2.rpy:44
 translate spanish game_script_act2_96ea81ac:

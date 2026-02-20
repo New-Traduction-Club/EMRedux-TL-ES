@@ -106,7 +106,7 @@ translate spanish game_script_act2_cd62b8bb:
 translate spanish game_script_act2_17076b99:
 
     # "Might as well bring these down for the wash..."
-    "Creo que debería echarlas a lavar..."
+    "Creo que debería echarla a lavar..."
 
 # game/game_script_act2.rpy:48
 translate spanish game_script_act2_cdf082ea:

@@ -658,25 +658,25 @@ translate spanish game_script_act2_3ee4d2f2:
 translate spanish game_script_act2_382beae3:
 
     # n e1b b1b mh "I called him a...{w=0.5}{nw}"
-    n e1b b1b mh "y le dije que era un pedazo de...{w=0.5}{nw}"
+    n e1b b1b mh "y le dije que era un pedazo de...{w=0.5} {nw}"
 
 # game/game_script_act2.rpy:230
 translate spanish game_script_act2_98f7b5e3:
 
     # extend "{size=-12}I probably shouldn't repeat it{/size}...{w=0.5}{nw}"
-    extend "{size=-12}No creo que sea bonito repetirlo{/size}...{w=0.5}{nw}"
+    extend "{size=-12}no creo que sea bonito repetirlo{/size}...{w=0.5} {nw}"
 
 # game/game_script_act2.rpy:232
 translate spanish game_script_act2_96a62b05:
 
     # extend "and he threw the remote at me."
-    extend "Y en fin, me tiró el mando a la cara."
+    extend "y en fin, me tiró el mando a la cara."
 
 # game/game_script_act2.rpy:234
 translate spanish game_script_act2_bc640719:
 
     # n turned vang ce mh zz3 "Hit me square in the eye."
-    n turned vang ce mh zz3 "Me dio en todo el ojo."
+    n turned vang ce mh zz3 "Me dio de pleno en todo el ojo."
 
 # game/game_script_act2.rpy:235
 translate spanish game_script_act2_6f66d5b1:

@@ -598,13 +598,13 @@ translate spanish game_script_act2_f96116d6:
 translate spanish game_script_act2_4d23e545:
 
     # "Before I get the chance to respond,{w=0.6} {nw}"
-    "Antes de poder abrir la boca,{w=0.6}{nw}"
+    "Antes de poder abrir la boca,{w=0.6} {nw}"
 
 # game/game_script_act2.rpy:208
 translate spanish game_script_act2_fef27999:
 
     # extend "Natsuki seemingly makes up her mind, sighing."
-    extend "Natsuki consigue arreglárselas, profiriendo un largo suspiro."
+    extend "Natsuki consigue aclararse. Profiere un largo suspiro y habla."
 
 # game/game_script_act2.rpy:210
 translate spanish game_script_act2_167ff87a:

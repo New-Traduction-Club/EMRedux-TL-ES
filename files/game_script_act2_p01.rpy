@@ -688,7 +688,7 @@ translate spanish game_script_act2_6f66d5b1:
 translate spanish game_script_act2_0aa389c6:
 
     # n me e2b "He just...freaked out, I guess."
-    n me e2b "Supongo que... que la ha tomado conmigo, creo.."
+    n me e2b "Supongo que... que la ha tomado conmigo, creo."
 
 # game/game_script_act2.rpy:238
 translate spanish game_script_act2_5e2f3b13:

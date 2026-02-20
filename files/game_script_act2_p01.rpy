@@ -1396,421 +1396,421 @@ translate spanish game_script_act2_2159e488:
 translate spanish game_script_act2_1f94ca44:
 
     # mc "But afterwards, I spent {i}days{/i} not going outside because I knew she was waiting for me."
-    mc ""
+    mc "Tras eso, estuve días encerrado en casa porque sabía que Sayori me estaba esperando."
 
 # game/game_script_act2.rpy:474
 translate spanish game_script_act2_e3591dda:
 
     # mc "I don't think a single day went by in that period of time where she didn't try to visit us."
-    mc ""
+    mc "Durante ese período de tiempo, no pasó un solo día en el que no intentara visitarnos."
 
 # game/game_script_act2.rpy:475
 translate spanish game_script_act2_1653f6d2:
 
     # mc "It definitely didn't help that she lived so close."
-    mc ""
+    mc "No ayudaba mucho que viviese justo al lado."
 
 # game/game_script_act2.rpy:476
 translate spanish game_script_act2_aa4c2ff0:
 
     # mc "So yeah, she pretty much held me hostage into becoming her friend."
-    mc ""
+    mc "Y no miente, fui casi casi obligado a ser su amigo."
 
 # game/game_script_act2.rpy:477
 translate spanish game_script_act2_a85fe09f:
 
     # mc "I guess nothing's really changed after all."
-    mc ""
+    mc "Se ve que hay cosas que nunca cambian."
 
 # game/game_script_act2.rpy:479
 translate spanish game_script_act2_cdfe6a75:
 
     # n cross mb e1b "Hehe, I guess so."
-    n cross mb e1b ""
+    n cross mb e1b "Je, je. Se ve que no."
 
 # game/game_script_act2.rpy:480
 translate spanish game_script_act2_2044db09:
 
     # n mc e1a "That must've been a nightmare!"
-    n mc e1a ""
+    n mc e1a "¡Vaya pesadilla!"
 
 # game/game_script_act2.rpy:482
 translate spanish game_script_act2_666ea12b:
 
     # "I cover my face with my hands to try and hide the embarrassment."
-    ""
+    "Me tapo la cara con las manos para esconder la vergüenza que siento."
 
 # game/game_script_act2.rpy:483
 translate spanish game_script_act2_bff42c4f:
 
     # mc "Tell me about it."
-    mc ""
+    mc "No hace falta que me lo jures."
 
 # game/game_script_act2.rpy:485
 translate spanish game_script_act2_29e53924:
 
     # mc "Oh, there was also this time she tricked me into getting a scary movie to watch while her parents were asleep."
-    mc ""
+    mc "Ah, y hubo una vez en la que me engañó para ver una peli de miedo mientras sus padres estaban dormidos."
 
 # game/game_script_act2.rpy:486
 translate spanish game_script_act2_6aae918d:
 
     # mc "She told me it was a comedy."
-    mc ""
+    mc "Me dijo que era una comedia."
 
 # game/game_script_act2.rpy:487
 translate spanish game_script_act2_7bcd2195:
 
     # mc "Safe to say, I didn't sleep that night."
-    mc ""
+    mc "No hace falta decirlo, pero esa noche no pegué ojo."
 
 # game/game_script_act2.rpy:489
 translate spanish game_script_act2_c2129c44:
 
     # n turned lhip mc e1b b1c "Damn, I never imagined Sayori to be the kind of person to do that."
-    n turned lhip mc e1b b1c ""
+    n turned lhip mc e1b b1c "Jolín, no me esperaba eso viniendo de Sayori."
 
 # game/game_script_act2.rpy:491
 translate spanish game_script_act2_2db2b4ef:
 
     # mc "Trust me, she's more cunning than she looks."
-    mc ""
+    mc "Sabe más de lo que crees, en serio."
 
 # game/game_script_act2.rpy:493
 translate spanish game_script_act2_8b39b1d3:
 
     # n rhip mh "Hey, by the way--{w=0.3}{nw}"
-    n rhip mh ""
+    n rhip mh "Por cier...{w=0.3}{nw}"
 
 # game/game_script_act2.rpy:495
 translate spanish game_script_act2_276826d8:
 
     # mc "Oh, wait, this one's better."
-    mc ""
+    mc "Espera, espera, que esta es buena."
 
 # game/game_script_act2.rpy:497
 translate spanish game_script_act2_64af182a:
 
     # mc "In our old school, there was this big science fair they held every year."
-    mc ""
+    mc "En nuestro antiguo colegio había una gran feria de ciencias que se celebraba cada año."
 
 # game/game_script_act2.rpy:498
 translate spanish game_script_act2_8decfc93:
 
     # mc "And this wasn't your ordinary science fair, either. It had a ton of really cool prizes, but the one everyone wanted was this really big electric racetrack."
-    mc ""
+    mc "No era la típica feria científica, ya que tenía premios. La cosa es que todo el mundo quería esa enorme pista de Scalextric."
 
 # game/game_script_act2.rpy:499
 translate spanish game_script_act2_8ff491c0:
 
     # mc "But out of all the kids, I think I wanted it more than anyone."
-    mc ""
+    mc "De todos los niños, yo era el que más babeaba por tenerla."
 
 # game/game_script_act2.rpy:500
 translate spanish game_script_act2_fc81931a:
 
     # mc "Thing is though, you have to get 1st place to win it."
-    mc ""
+    mc "Era complicado porque necesitabas el primer puesto."
 
 # game/game_script_act2.rpy:502
 translate spanish game_script_act2_076d8134:
 
     # mc "So I tried harder and harder every year until eventually, I got second place."
-    mc ""
+    mc "Cada año intentaba quedar el primero hasta que, en uno de esos, quedé segundo."
 
 # game/game_script_act2.rpy:504
 translate spanish game_script_act2_59c08e36:
 
     # mc "The next year, I was determined to get it."
-    mc ""
+    mc "Me dije que al siguiente año conseguía esa primera posición."
 
 # game/game_script_act2.rpy:505
 translate spanish game_script_act2_e3399c22:
 
     # mc "But I saw that Sayori was having a lot of trouble with it, and eventually she asked me if I could help her."
-    mc ""
+    mc "Vi que Sayori lo tenía complicado con el proyecto y acabó recurriendo a mí para que la ayudase."
 
 # game/game_script_act2.rpy:506
 translate spanish game_script_act2_b51cadce:
 
     # mc "Truth be told, I felt kinda bad about seeing her like that, so I dropped everything and helped her out."
-    mc ""
+    mc "Me sentía muy mal al verla así, no te voy a mentir, y lo dejé todo para ayudarla."
 
 # game/game_script_act2.rpy:507
 translate spanish game_script_act2_d57f7fd7:
 
     # mc "We agreed that I wasn't gonna do all the work for her, and that she had to put in most of the effort. However, I promised I would always be there for when she needs it."
-    mc ""
+    mc "Quedamos en que no haría todo el trabajo y que ella tenía que poner un gran porcentaje de su esfuerzo. Aún así, le dije que estaba ahí para lo que necesitase."
 
 # game/game_script_act2.rpy:508
 translate spanish game_script_act2_3568b85a:
 
     # mc "So we worked on the project every day after school for weeks."
-    mc ""
+    mc "Cada día, trabajamos en ese proyecto al terminar las clases y así pasaron semanas."
 
 # game/game_script_act2.rpy:509
 translate spanish game_script_act2_cd019d91:
 
     # mc "But I was always there in case she ever asked for help."
-    mc ""
+    mc "Ella me tenía en caso de que necesitase ayuda."
 
 # game/game_script_act2.rpy:510
 translate spanish game_script_act2_ca62c119:
 
     # mc "By the time the science fair was right around the corner, she had finished an elaborate project on how air pollution affects the planet."
-    mc ""
+    mc "Para cuando empezó la feria, Sayori tenía lista una maqueta de cómo el aire contaminado afecta al globo terráqueo."
 
 # game/game_script_act2.rpy:511
 translate spanish game_script_act2_927c3924:
 
     # mc "She ended up getting third place."
-    mc ""
+    mc "Consiguió quedar tercera."
 
 # game/game_script_act2.rpy:512
 translate spanish game_script_act2_ff1e7c28:
 
     # mc "And I think you've guessed by now, but no. I didn't get past the researching stage for my project."
-    mc ""
+    mc "Como habrás adivinado, yo no traje nadq."
 
 # game/game_script_act2.rpy:513
 translate spanish game_script_act2_3d15100c:
 
     # mc "Honestly, I don't care."
-    mc ""
+    mc "Y no me importa, si te soy sincero."
 
 # game/game_script_act2.rpy:514
 translate spanish game_script_act2_60693fa1:
 
     # mc "I was really proud of her.{w} So were her parents."
-    mc ""
+    mc "Estaba muy orgulloso de Sayori, al igual que sus padres."
 
 # game/game_script_act2.rpy:515
 translate spanish game_script_act2_d441314a:
 
     # mc "Haha..."
-    mc ""
+    mc "Ja, ja..."
 
 # game/game_script_act2.rpy:516
 translate spanish game_script_act2_ac71ce96:
 
     # mc "She felt so bad about how I didn't get to do my own project that she still sometimes apologises for it today."
-    mc ""
+    mc "A día de hoy, se sigue disculpando de vez en cuando porque no pude hacer mi proyecto en su día."
 
 # game/game_script_act2.rpy:517
 translate spanish game_script_act2_52b21b90:
 
     # mc "And while, yeah, I only did it for the racetrack set up until that point, I think helping out Sayori really woke me up to the fact I really like learning about that stuff."
-    mc ""
+    mc "Aunque mi meta era el Scalextric, al ayudar a Sayori acabé cogiéndole el gusto a esas cosas."
 
 # game/game_script_act2.rpy:518
 translate spanish game_script_act2_9b993c89:
 
     # mc "Hell, sciences are pretty much the only subjects I still somewhat enjoy doing."
-    mc ""
+    mc "Joder, si las ciencias son de las pocas asignaturas que disfruto..."
 
 # game/game_script_act2.rpy:519
 translate spanish game_script_act2_2e39ae06:
 
     # mc "And I pretty much owe it all to her."
-    mc ""
+    mc "Casi casi se lo debo a ella, ¿sabes?"
 
 # game/game_script_act2.rpy:520
 translate spanish game_script_act2_69c25b65_2:
 
     # mc "Yeah..."
-    mc ""
+    mc "Pues sí..."
 
 # game/game_script_act2.rpy:521
 translate spanish game_script_act2_04e03133:
 
     # mc "That was a pretty good day."
-    mc ""
+    mc "Fue un día increíble."
 
 # game/game_script_act2.rpy:522
 translate spanish game_script_act2_aaed8d36:
 
     # "My face immediately goes red."
-    ""
+    "Me enrojezco al instante."
 
 # game/game_script_act2.rpy:523
 translate spanish game_script_act2_4e01e5cb:
 
     # "I only just now realise how much I've been talking non-stop."
-    ""
+    "Acabo de darme cuenta de todo lo que he hablado sin parar ni un instante."
 
 # game/game_script_act2.rpy:525
 translate spanish game_script_act2_57d042d7:
 
     # n turned rhip mh "Wow."
-    n turned rhip mh ""
+    n turned rhip mh "Guau."
 
 # game/game_script_act2.rpy:526
 translate spanish game_script_act2_71f11d70:
 
     # n "That was one hell of a story."
-    n ""
+    n "Pedazo historia acabas de contar."
 
 # game/game_script_act2.rpy:528
 translate spanish game_script_act2_6fbe9cf9:
 
     # mc "Uh...{w}yeah."
-    mc ""
+    mc "Eh...{w} sí."
 
 # game/game_script_act2.rpy:529
 translate spanish game_script_act2_cc8fedbc:
 
     # mc "Sorry about that."
-    mc ""
+    mc "Perdona."
 
 # game/game_script_act2.rpy:530
 translate spanish game_script_act2_732f617d:
 
     # mc "I got a little carried away."
-    mc ""
+    mc "Me he dejado llevar."
 
 # game/game_script_act2.rpy:532
 translate spanish game_script_act2_4aa29f05:
 
     # n mc e4a b1d zz3 "Oh, don't worry, you're not as bad as Yuri."
-    n mc e4a b1d zz3 ""
+    n mc e4a b1d zz3 "No te preocupes, no llegas al punto de ser como Yuri."
 
 # game/game_script_act2.rpy:533
 translate spanish game_script_act2_ee600e8f:
 
     # n e1a zz1 "At least you can make the things you talk about interesting."
-    n e1a zz1 ""
+    n e1a zz1 "Por lo menos... consigues despertar interés en lo que cuentas."
 
 # game/game_script_act2.rpy:535
 translate spanish game_script_act2_71c964cf:
 
     # "I laugh at that remark."
-    ""
+    "Me río por el comentario."
 
 # game/game_script_act2.rpy:536
 translate spanish game_script_act2_29310efc:
 
     # mc "Whatever you say."
-    mc ""
+    mc "Lo que tú digas."
 
 # game/game_script_act2.rpy:542
 translate spanish game_script_act2_de226aa6:
 
     # n mg "That does sound nice though."
-    n mg ""
+    n mg "De todas formas, suena guay."
 
 # game/game_script_act2.rpy:544
 translate spanish game_script_act2_fb2e5377:
 
     # mc "Eh?"
-    mc ""
+    mc "¿Eh?"
 
 # game/game_script_act2.rpy:546
 translate spanish game_script_act2_c1e59246:
 
     # n e1a mh "You know...having that strong of a friendship with someone."
-    n e1a mh ""
+    n e1a mh "Digo que suena guay que tengas una amistad tan fuerte con alguien."
 
 # game/game_script_act2.rpy:548
 translate spanish game_script_act2_1a39a01f:
 
     # mc "I mean, yeah, but..."
-    mc ""
+    mc "Sí, ya, pero..."
 
 # game/game_script_act2.rpy:549
 translate spanish game_script_act2_064c5a96:
 
     # mc "Why are you saying it like that?"
-    mc ""
+    mc "¿por qué lo dices de esa forma?"
 
 # game/game_script_act2.rpy:552
 translate spanish game_script_act2_43169c15:
 
     # n rdown b1b e1c "I’ve uh..."
-    n rdown b1b e1c ""
+    n rdown b1b e1c "Es que..."
 
 # game/game_script_act2.rpy:556
 translate spanish game_script_act2_6c6af1e8:
 
     # "She fidgets in her seat a little."
-    ""
+    "Se mueve un poco, nerviosa."
 
 # game/game_script_act2.rpy:559
 translate spanish game_script_act2_5f64eb98:
 
     # n b2b mb "I never had many friends growing up."
-    n b2b mb ""
+    n b2b mb "No he tenido muchos amigos al crecer."
 
 # game/game_script_act2.rpy:560
 translate spanish game_script_act2_992f4549:
 
     # n "Dad was...Dad."
-    n ""
+    n "Mi padre era... mi padre."
 
 # game/game_script_act2.rpy:561
 translate spanish game_script_act2_2023baed:
 
     # n e1a "The club is the closest thing to a group of friends that I’ve had in years."
-    n e1a ""
+    n e1a "Lo más cercano a eso... es el club."
 
 # game/game_script_act2.rpy:562
 translate spanish game_script_act2_e602112e:
 
     # n b1a e1b "Even then...{w=0.9} {nw}"
-    n b1a e1b ""
+    n b1a e1b "Hasta tuve que...{w=0.9} {nw}"
 
 # game/game_script_act2.rpy:564
 translate spanish game_script_act2_d6a49700:
 
     # extend "I had to bullshit him a little to go to Monika’s house."
-    extend ""
+    extend "tuve que mentirle para ir a casa de Monika."
 
 # game/game_script_act2.rpy:565
 translate spanish game_script_act2_71a1ce3e:
 
     # n "She had a party there a month or so back."
-    n ""
+    n "Montó una fiestecilla hace un mes."
 
 # game/game_script_act2.rpy:566
 translate spanish game_script_act2_86614f30:
 
     # n "Said it was some club assignment."
-    n ""
+    n "Tuve que decirle que eran cosas del club."
 
 # game/game_script_act2.rpy:567
 translate spanish game_script_act2_e1b94150:
 
     # n rdown turned worr om ce "Looking back, I’m surprised he bought it..."
-    n rdown turned worr om ce ""
+    n rdown turned worr om ce "Echando la vista atrás, me sorprende que se lo haya tragado..."
 
 # game/game_script_act2.rpy:568
 translate spanish game_script_act2_970b6324:
 
     # n turned neut b3a e4a "I just..."
-    n turned neut b3a e4a ""
+    n turned neut b3a e4a "Quería...,"
 
 # game/game_script_act2.rpy:570
 translate spanish game_script_act2_4d32cd77:
 
     # extend "wanted friends, you know?"
-    extend ""
+    extend "quería amigos, ¿sabes?"
 
 # game/game_script_act2.rpy:573
 translate spanish game_script_act2_b6cd7e91:
 
     # "I put my arm around her shoulder."
-    ""
+    "Le pongo mi brazo alrededor de su hombro."
 
 # game/game_script_act2.rpy:576
 translate spanish game_script_act2_9ba0d79c:
 
     # n b2a mh "But, in a way..."
-    n b2a mh ""
+    n b2a mh "En cierto modo...,"
 
 # game/game_script_act2.rpy:577
 translate spanish game_script_act2_cfd7e8aa:
 
     # n e1a mb zz1 "You’re my best friend."
-    n e1a mb zz1 ""
+    n e1a mb zz1 "eres mi mejor amigo."
 
 # game/game_script_act2.rpy:578
 translate spanish game_script_act2_574b8569:

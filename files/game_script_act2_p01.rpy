@@ -1570,7 +1570,7 @@ translate spanish game_script_act2_927c3924:
 translate spanish game_script_act2_ff1e7c28:
 
     # mc "And I think you've guessed by now, but no. I didn't get past the researching stage for my project."
-    mc "Como habrás adivinado, yo no traje nadq."
+    mc "Como habrás adivinado, yo no traje nada."
 
 # game/game_script_act2.rpy:513
 translate spanish game_script_act2_3d15100c:

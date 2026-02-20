@@ -706,7 +706,7 @@ translate spanish game_script_act2_6e4eb43e:
 translate spanish game_script_act2_10c4df8a:
 
     # n dist om oe zz1 "Until the dust settles, I guess."
-    n dist om oe zz1 "hasta que se pase este percal, digo yo."
+    n dist om oe zz1 "o hasta que se pase este percal, digo yo."
 
 # game/game_script_act2.rpy:243
 translate spanish game_script_act2_08deead0:

@@ -1786,7 +1786,7 @@ translate spanish game_script_act2_e1b94150:
 translate spanish game_script_act2_970b6324:
 
     # n turned neut b3a e4a "I just..."
-    n turned neut b3a e4a "Quería...,"
+    n turned neut b3a e4a "Quería..., "
 
 # game/game_script_act2.rpy:570
 translate spanish game_script_act2_4d32cd77:

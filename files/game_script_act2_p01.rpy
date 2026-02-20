@@ -1180,217 +1180,217 @@ translate spanish game_script_act2_76afbe9c:
 translate spanish game_script_act2_f39ee896:
 
     # n e2b mg b1b "You actually..."
-    n e2b mg b1b ""
+    n e2b mg b1b "Eres..."
 
 # game/game_script_act2.rpy:413
 translate spanish game_script_act2_f923f8b8:
 
     # n e4a zz3 me "..."
-    n e4a zz3 me ""
+    n e4a zz3 me "..."
 
 # game/game_script_act2.rpy:414
 translate spanish game_script_act2_43935a77:
 
     # n cross n2 mh b1a "Ugh. Nevermind."
-    n cross n2 mh b1a ""
+    n cross n2 mh b1a "Agh, déjalo."
 
 # game/game_script_act2.rpy:417
 translate spanish game_script_act2_9dcbd687:
 
     # "An awkward silence falls between us."
-    ""
+    "Nos cierne un silencio incómodo."
 
 # game/game_script_act2.rpy:418
 translate spanish game_script_act2_075b03e0:
 
     # "Neither of us know how to continue the conversation."
-    ""
+    "No sabemos cómo seguir con la conversación."
 
 # game/game_script_act2.rpy:420
 translate spanish game_script_act2_9581978b:
 
     # "Natsuki averts her gaze, taking a seat back on the couch."
-    ""
+    "Natsuki aparta la mirada y se sienta en el sofá."
 
 # game/game_script_act2.rpy:421
 translate spanish game_script_act2_81704e78:
 
     # "Unsure of what to do with myself, I consider sitting myself down next to her."
-    ""
+    "Sin saber qué hacer, hago lo mismo."
 
 # game/game_script_act2.rpy:422
 translate spanish game_script_act2_3b98984f:
 
     # "Another minute of uncomfortable silence follows."
-    ""
+    "Tras eso, pasa un minuto entero en el que seguimos igual."
 
 # game/game_script_act2.rpy:426
 translate spanish game_script_act2_c954810b:
 
     # n e1b b2b mh "I already regret lying."
-    n e1b b2b mh ""
+    n e1b b2b mh "Ya me estoy arrepintiendo de haberle mentido."
 
 # game/game_script_act2.rpy:428
 translate spanish game_script_act2_b7ac2a33:
 
     # mc "You did what you thought was right."
-    mc ""
+    mc "Has hecho lo que creías correcto."
 
 # game/game_script_act2.rpy:429
 translate spanish game_script_act2_24b6d7ef:
 
     # mc "I’m sure Sayori would understand."
-    mc ""
+    mc "Seguro que lo entiende."
 
 # game/game_script_act2.rpy:430
 translate spanish game_script_act2_9e5c9403:
 
     # mc "Out of anyone...I think she’d know at least a little of how it feels."
-    mc ""
+    mc "Te aseguro que es la que más sabe cómo debes sentirte."
 
 # game/game_script_act2.rpy:431
 translate spanish game_script_act2_d7fc373f:
 
     # mc "Having a secret that you can’t tell anyone about, no matter how much it hurts you."
-    mc ""
+    mc "Sayori también tuvo un secreto que no podía decirle a nadie sin importar lo mucho que le doliese."
 
 # game/game_script_act2.rpy:433
 translate spanish game_script_act2_b99ce96f:
 
     # n e1b b2b mh rhip "I guess..."
-    n e1b b2b mh rhip ""
+    n e1b b2b mh rhip "Supongo..."
 
 # game/game_script_act2.rpy:434
 translate spanish game_script_act2_a40225a0:
 
     # n e1a "You sure she won’t tell anyone?"
-    n e1a ""
+    n e1a "¿Estás seguro de que mantendrá la boca cerrada?"
 
 # game/game_script_act2.rpy:437
 translate spanish game_script_act2_bdd8c46c:
 
     # mc "Well, we’ve been friends since we were little kids."
-    mc ""
+    mc "Llevamos siendo amigos desde que somos enanos."
 
 # game/game_script_act2.rpy:438
 translate spanish game_script_act2_092d5182:
 
     # mc "You know how she can be sometimes, but I like to think she's smarter than she lets on."
-    mc ""
+    mc "Sabes más que de sobra cómo es, pero me gusta pensar que es más lista de lo que deja ver."
 
 # game/game_script_act2.rpy:439
 translate spanish game_script_act2_33184e39:
 
     # mc "Safe to say..."
-    mc ""
+    mc "Estoy al cien por cien seguro de que...,"
 
 # game/game_script_act2.rpy:440
 translate spanish game_script_act2_b19a2bd5:
 
     # mc "I'd trust her with my life."
-    mc ""
+    mc "le confiaría mi vida."
 
 # game/game_script_act2.rpy:442
 translate spanish game_script_act2_2cbaa52a:
 
     # n cross worr om b1a "Yeah, with how much she talked about you at the club I figured you'd known each other for a while."
-    n cross worr om b1a ""
+    n cross worr om b1a "Sabiendo lo mucho que hablabais en el club, supuse que ya os conocíais de mucho antes."
 
 # game/game_script_act2.rpy:444
 translate spanish game_script_act2_c965a4a9:
 
     # mc "I mean, she {i}does{/i} live just next door."
-    mc ""
+    mc "Es que vive al lado mía."
 
 # game/game_script_act2.rpy:445
 translate spanish game_script_act2_ef175a15:
 
     # mc "That's how we first met, when I moved in."
-    mc ""
+    mc "Cuando me mudé, fue la primera persona que vi."
 
 # game/game_script_act2.rpy:447
 translate spanish game_script_act2_67a23ee7:
 
     # n turned mb b1c "Oh yeah, she mentioned that once."
-    n turned mb b1c ""
+    n turned mb b1c "Ah, sí, eso lo mencionó una vez."
 
 # game/game_script_act2.rpy:449
 translate spanish game_script_act2_cc54eaa9:
 
     # "I chuckle a bit, shaking my head."
-    ""
+    "Suelto una carcajada, negando con la cabeza."
 
 # game/game_script_act2.rpy:450
 translate spanish game_script_act2_19a970f8:
 
     # mc "Should've known."
-    mc ""
+    mc "Debí haberlo sabido."
 
 # game/game_script_act2.rpy:452
 translate spanish game_script_act2_caf57fd1:
 
     # n cross mc e1b b1a "She was talking about how when you first moved here, you were scared of her."
-    n cross mc e1b b1a ""
+    n cross mc e1b b1a "Dijo que te mudaste aquí y te asustaste al verla."
 
 # game/game_script_act2.rpy:453
 translate spanish game_script_act2_0612df3d:
 
     # n turned rhip e1d "And eventually she managed to coerce you into becoming her friend."
-    n turned rhip e1d ""
+    n turned rhip e1d "También comentó que prácticamente te obligó a ser su amigo."
 
 # game/game_script_act2.rpy:455
 translate spanish game_script_act2_96bb4431:
 
     # "Natsuki seems to try and hold in a laugh."
-    ""
+    "Veo a Natsuki aguantarse la risa."
 
 # game/game_script_act2.rpy:456
 translate spanish game_script_act2_ed431a4d:
 
     # "Although whether it's at the fact that I was scared of Sayori of all people, or at the look on my face, remains to be seen."
-    ""
+    "Aunque aún está por verse si era miedo de verdad o que pensó que tenía miedo por la expresión de mi cara."
 
 # game/game_script_act2.rpy:458
 translate spanish game_script_act2_cc9648f5:
 
     # mc "Did she happen to tell you {i}why{/i} I was scared?"
-    mc ""
+    mc "¿Llegó a decirte el por qué de ese miedo?"
 
 # game/game_script_act2.rpy:460
 translate spanish game_script_act2_ea23ff3d:
 
     # n "I dunno."
-    n ""
+    n "Ni idea."
 
 # game/game_script_act2.rpy:462
 translate spanish game_script_act2_dd148d71:
 
     # extend " I can't remember everything she said."
-    extend ""
+    extend "Es que no me acuerdo de todo lo que contó."
 
 # game/game_script_act2.rpy:464
 translate spanish game_script_act2_5046b7a4:
 
     # mc "Okay then, I'll tell you."
-    mc ""
+    mc "Te lo cuento yo."
 
 # game/game_script_act2.rpy:465
 translate spanish game_script_act2_df0d8365:
 
     # mc "When we arrived at our new home, just as I looked out the car window to see it for the first time, I see her face damn near pressed up against the window."
-    mc ""
+    mc "Resulta que yo llegué aquí y, al mirar por la ventana para ver la nueva casa, me encuentro su cara plasmada en el cristal."
 
 # game/game_script_act2.rpy:471
 translate spanish game_script_act2_ebadcc02:
 
     # mc "It gave me quite the scare as you'd imagine."
-    mc ""
+    mc "Como comprenderás, me asustó mucho."
 
 # game/game_script_act2.rpy:472
 translate spanish game_script_act2_2159e488:
 
     # mc "I'd like to think it gave both our parents a shock as well."
-    mc ""
+    mc "De hecho, me gustaría pensar que a nuestros padres también les asustó."
 
 # game/game_script_act2.rpy:473
 translate spanish game_script_act2_1f94ca44:

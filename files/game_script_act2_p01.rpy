@@ -1738,7 +1738,7 @@ translate spanish game_script_act2_6c6af1e8:
 translate spanish game_script_act2_5f64eb98:
 
     # n b2b mb "I never had many friends growing up."
-    n b2b mb "No he tenido muchos amigos al crecer."
+    n b2b mb "No he tenido muchos amigos mientras crecía."
 
 # game/game_script_act2.rpy:560
 translate spanish game_script_act2_992f4549:

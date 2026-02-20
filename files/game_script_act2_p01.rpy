@@ -706,7 +706,7 @@ translate spanish game_script_act2_6e4eb43e:
 translate spanish game_script_act2_10c4df8a:
 
     # n dist om oe zz1 "Until the dust settles, I guess."
-    n dist om oe zz1 "hasta que se le pase el cabreo, digo yo."
+    n dist om oe zz1 "hasta que se pase este percal, digo yo."
 
 # game/game_script_act2.rpy:243
 translate spanish game_script_act2_08deead0:
@@ -892,7 +892,7 @@ translate spanish game_script_act2_e53f2b96:
 translate spanish game_script_act2_face7a24:
 
     # s turned om oe lup "I’m sorry that I, uh...I just walked right in..."
-    s turned om oe lup "Lo siento mucho, es que... eh, acabo de llegar... "
+    s turned om oe lup "Siento haber... eh, haber entrado sin más."
 
 # game/game_script_act2.rpy:323
 translate spanish game_script_act2_b6a9170b:
@@ -904,277 +904,277 @@ translate spanish game_script_act2_b6a9170b:
 translate spanish game_script_act2_f1be7e0f:
 
     # n rhip turned nerv ce mg zz3 "Anyone would want an explanation, seeing me like {i}this{/i}."
-    n rhip turned nerv ce mg zz3 ""
+    n rhip turned nerv ce mg zz3 "Creo que cualquiera querría saber qué me ocurre si me ve así."
 
 # game/game_script_act2.rpy:325
 translate spanish game_script_act2_08df230e:
 
     # n "It’s why I’m avoiding school today."
-    n ""
+    n "Por eso he faltado a clases."
 
 # game/game_script_act2.rpy:326
 translate spanish game_script_act2_ac944330:
 
     # n turned dist om ce "Last thing I want is for the others to worry."
-    n turned dist om ce ""
+    n turned dist om ce "Lo último que quiero es preocupar a nadie más..."
 
 # game/game_script_act2.rpy:329
 translate spanish game_script_act2_49bdc24d:
 
     # s turned worr om oe "Yeah, I guess that makes sense..."
-    s turned worr om oe ""
+    s turned worr om oe "Sí, tiene sentido."
 
 # game/game_script_act2.rpy:334
 translate spanish game_script_act2_1432f575:
 
     # "Sayori’s voice trails off as her dejected eyes look to me."
-    ""
+    "Sayori deja de hablar mientras sus decaídos ojos me miran."
 
 # game/game_script_act2.rpy:335
 translate spanish game_script_act2_38182d0a:
 
     # "It’s obvious she feels helpless to do anything for Natsuki."
-    ""
+    "Es obvio que se siente incapaz de ayudar a Natsuki."
 
 # game/game_script_act2.rpy:336
 translate spanish game_script_act2_a8cc163f:
 
     # "I step in to try and give her some peace of mind."
-    ""
+    "Me meto en la conversación para darle algo de paz mental."
 
 # game/game_script_act2.rpy:339
 translate spanish game_script_act2_31c7b599:
 
     # mc "Natsuki is safe, and right now, that’s all that matters."
-    mc ""
+    mc "Está salvo ahora mismo y eso es lo que importa."
 
 # game/game_script_act2.rpy:340
 translate spanish game_script_act2_a8580ddb:
 
     # mc "If anything happens, you’ll be the first to know."
-    mc ""
+    mc "Si pasa algo, serás la primera en saberlo."
 
 # game/game_script_act2.rpy:342
 translate spanish game_script_act2_a12b7186:
 
     # "Sayori’s expression softens as some of her worry dissipates."
-    ""
+    "La expresión de Sayori se va suavizando a medida que parte de su preocupación desaparece."
 
 # game/game_script_act2.rpy:345
 translate spanish game_script_act2_f9ec2f97:
 
     # s turned sad om oe rup "Promise?"
-    s turned sad om oe rup ""
+    s turned sad om oe rup "¿Me lo prometes?"
 
 # game/game_script_act2.rpy:347
 translate spanish game_script_act2_1b01dfca:
 
     # mc "I promise. We won’t keep you in the dark."
-    mc ""
+    mc "Te lo prometo, no te vamos a dejar de lado."
 
 # game/game_script_act2.rpy:349
 translate spanish game_script_act2_6d98e0b6:
 
     # "A sigh of relief escapes her."
-    ""
+    "Un suspiro de alivio sale de su boca."
 
 # game/game_script_act2.rpy:351
 translate spanish game_script_act2_92fad519:
 
     # mc "But again...no-one else can know about this."
-    mc ""
+    mc "Aunque te repito que nada de esto debe salir de aquí."
 
 # game/game_script_act2.rpy:353
 translate spanish game_script_act2_78245026:
 
     # s e1a b1c mb "I know, [player]. I won’t tell a soul."
-    s e1a b1c mb ""
+    s e1a b1c mb "Lo sé, [player]. No se lo diré a nadie."
 
 # game/game_script_act2.rpy:355
 translate spanish game_script_act2_bc90e5dc:
 
     # mc "Thank you, Sayori. That means a lot."
-    mc ""
+    mc "Gracias, Sayori. Significa mucho para nosotros."
 
 # game/game_script_act2.rpy:357
 translate spanish game_script_act2_63a461d7:
 
     # s "If you guys ever need anything, I’m always ready to help."
-    s ""
+    s "Si necesitáis algo, contad conmigo."
 
 # game/game_script_act2.rpy:359
 translate spanish game_script_act2_fa3b15d0:
 
     # "For a brief moment, she flashes a sincere smile before turning back towards the door."
-    ""
+    "Brevemente, sonríe con sinceridad antes de darse la vuelta e ir hacia la puerta de entrada."
 
 # game/game_script_act2.rpy:362
 translate spanish game_script_act2_4e1d44fe:
 
     # s turned b1c nerv e2c mk lup "I’m really sorry, but I have to get to school."
-    s turned b1c nerv e2c mk lup ""
+    s turned b1c nerv e2c mk lup "Me tenéis que disculpar, pero tengo que ir a clase."
 
 # game/game_script_act2.rpy:363
 translate spanish game_script_act2_21e9543a:
 
     # s turned e2a mg "I, uh, missed my first lesson, sooo..."
-    s turned e2a mg ""
+    s turned e2a mg "Ya me he perdido la primera hora, así queee..."
 
 # game/game_script_act2.rpy:366
 translate spanish game_script_act2_a25833b4:
 
     # n turned neut om oe rhip "Oh yeah, of course."
-    n turned neut om oe rhip ""
+    n turned neut om oe rhip "Ah, claro. Sin problema."
 
 # game/game_script_act2.rpy:369
 translate spanish game_script_act2_9988126c:
 
     # s turned nerv om oe "Well...{w=0.8}uhhh...{w=0.8} {nw}"
-    s turned nerv om oe ""
+    s turned nerv om oe "Pues...,{w=0.8} eh...,{w=0.8} {nw}"
 
 # game/game_script_act2.rpy:371
 translate spanish game_script_act2_19654db1:
 
     # extend "I'll see you guys later?"
-    extend ""
+    extend "¿os veo después?"
 
 # game/game_script_act2.rpy:373
 translate spanish game_script_act2_36dbdf7d:
 
     # mc "Alright, Sayori."
-    mc ""
+    mc "Claro, Sayori."
 
 # game/game_script_act2.rpy:374
 translate spanish game_script_act2_1212df99:
 
     # mc "See you later."
-    mc ""
+    mc "Nos vemos después."
 
 # game/game_script_act2.rpy:383
 translate spanish game_script_act2_2cee590c:
 
     # "Sayori dashes out the front door, closing it gently on the way out."
-    ""
+    "Sayori corre hacia la puerta de entrada, cerrándola con cuidado al salir."
 
 # game/game_script_act2.rpy:386
 translate spanish game_script_act2_3aa42c3b:
 
     # mc "Natsuki..."
-    mc ""
+    mc "Natsuki..."
 
 # game/game_script_act2.rpy:387
 translate spanish game_script_act2_b3ae8984:
 
     # mc "Uhm..."
-    mc ""
+    mc "Eh..."
 
 # game/game_script_act2.rpy:388
 translate spanish game_script_act2_857e4e3b:
 
     # mc "What exactly was that?"
-    mc ""
+    mc "¿Me dices lo que sea que era eso?"
 
 # game/game_script_act2.rpy:389
 translate spanish game_script_act2_8a748087:
 
     # n mg "What do you mean, what was that?"
-    n mg ""
+    n mg "¿A qué te refieres con 'lo que sea que era eso'?"
 
 # game/game_script_act2.rpy:391
 translate spanish game_script_act2_fdd4b727:
 
     # mc "The..."
-    mc ""
+    mc "Lo de que...,"
 
 # game/game_script_act2.rpy:393
 translate spanish game_script_act2_e1d17cfe:
 
     # mc "You said he only hurt you once."
-    mc ""
+    mc "lo de que solo te pegó una vez."
 
 # game/game_script_act2.rpy:395
 translate spanish game_script_act2_14e207e3:
 
     # n "Obviously, I wasn't gonna tell her the whole story."
-    n ""
+    n "Estaba más que claro que no le iba a contar todo."
 
 # game/game_script_act2.rpy:396
 translate spanish game_script_act2_1c7cb2e8:
 
     # n mg e2b b1a "And I didn't exactly have the time to come up with a better excuse."
-    n mg e2b b1a ""
+    n mg e2b b1a "Y no es que haya tenido todo el tiempo del mundo para pensar en la excusa ideal."
 
 # game/game_script_act2.rpy:397
 translate spanish game_script_act2_0d839079:
 
     # n e2a b1e mi "On that note, why the hell did she just walk in?"
-    n e2a b1e mi ""
+    n e2a b1e mi "Y otra cosa, ¿por qué coño ha entrado sin más?"
 
 # game/game_script_act2.rpy:399
 translate spanish game_script_act2_d179c81c:
 
     # mc "It's a neighbour thing."
-    mc ""
+    mc "Cosas de vecinos."
 
 # game/game_script_act2.rpy:400
 translate spanish game_script_act2_53e14b9c:
 
     # mc "I should've warned you about it."
-    mc ""
+    mc "Debería haberte avisado de que esto podía pasar."
 
 # game/game_script_act2.rpy:401
 translate spanish game_script_act2_dc0ff26a:
 
     # mc "Sorry."
-    mc ""
+    mc "Lo siento."
 
 # game/game_script_act2.rpy:403
 translate spanish game_script_act2_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/game_script_act2.rpy:404
 translate spanish game_script_act2_dece750d:
 
     # n mg "It's fine, I guess."
-    n mg ""
+    n mg "Está bien, supongo yo."
 
 # game/game_script_act2.rpy:406
 translate spanish game_script_act2_f9863dd5:
 
     # mc "Why {i}didn't{/i} you just tell her the whole story?"
-    mc ""
+    mc "¿Por qué no le has contado todo?"
 
 # game/game_script_act2.rpy:407
 translate spanish game_script_act2_fccb5680:
 
     # n turned e1a b2b zz1 mg rhip "The same reason I've never told anyone else."
-    n turned e1a b2b zz1 mg rhip ""
+    n turned e1a b2b zz1 mg rhip "Por la misma razón por la cual nadie más lo sabe."
 
 # game/game_script_act2.rpy:408
 translate spanish game_script_act2_804bd878:
 
     # n me "Don't get me wrong, [player], I love them..."
-    n me ""
+    n me "No me malinterpretes, [player], las aprecio mucho...,"
 
 # game/game_script_act2.rpy:409
 translate spanish game_script_act2_11998050:
 
     # n b1a mh "But I don't trust them not to see me as some frail, abused, sad little girl."
-    n b1a mh ""
+    n b1a mh "pero no confío en ellas para no pensar que me van a ver como la pobre, frágil y abusada chiquilla."
 
 # game/game_script_act2.rpy:410
 translate spanish game_script_act2_96ad45ce:
 
     # mc "So why--{nw}"
-    mc ""
+    mc "¿Por qué me...{nw}"
 
 # game/game_script_act2.rpy:411
 translate spanish game_script_act2_76afbe9c:
 
     # n n3 e2a b1d mi "You're different, [player]."
-    n n3 e2a b1d mi ""
+    n n3 e2a b1d mi "Porque eres diferente, [player]."
 
 # game/game_script_act2.rpy:412
 translate spanish game_script_act2_f39ee896:

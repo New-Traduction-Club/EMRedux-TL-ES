@@ -1360,7 +1360,7 @@ translate spanish game_script_act2_cc9648f5:
 translate spanish game_script_act2_ea23ff3d:
 
     # n "I dunno."
-    n "Ni idea."
+    n "Ni idea. "
 
 # game/game_script_act2.rpy:462
 translate spanish game_script_act2_dd148d71:

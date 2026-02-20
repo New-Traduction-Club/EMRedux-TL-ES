@@ -1786,19 +1786,19 @@ translate spanish game_script_act2_e1b94150:
 translate spanish game_script_act2_970b6324:
 
     # n turned neut b3a e4a "I just..."
-    n turned neut b3a e4a "Quería..., "
+    n turned neut b3a e4a "Quería..."
 
 # game/game_script_act2.rpy:570
 translate spanish game_script_act2_4d32cd77:
 
     # extend "wanted friends, you know?"
-    extend "quería amigos, ¿sabes?"
+    extend " hacer amigos, ¿sabes?"
 
 # game/game_script_act2.rpy:573
 translate spanish game_script_act2_b6cd7e91:
 
     # "I put my arm around her shoulder."
-    "Le pongo mi brazo alrededor de su hombro."
+    "Pongo mi brazo alrededor de su hombro."
 
 # game/game_script_act2.rpy:576
 translate spanish game_script_act2_9ba0d79c:
@@ -1816,19 +1816,19 @@ translate spanish game_script_act2_cfd7e8aa:
 translate spanish game_script_act2_574b8569:
 
     # n e4a ma zz3 "..."
-    n e4a ma zz3 ""
+    n e4a ma zz3 "..."
 
 # game/game_script_act2.rpy:582
 translate spanish game_script_act2_918a5efa:
 
     # n e1a b1c mc zz1 "You’re still a dumbass, though."
-    n e1a b1c mc zz1 ""
+    n e1a b1c mc zz1 "Aunque sigues siendo un idiota."
 
 # game/game_script_act2.rpy:584
 translate spanish game_script_act2_699878f6:
 
     # mc "Hey!"
-    mc ""
+    mc "¡Oye!"
 
 # game/game_script_act2.rpy:586
 translate spanish game_script_act2_729e6e93:

@@ -1636,7 +1636,7 @@ translate spanish game_script_act2_aaed8d36:
 translate spanish game_script_act2_4e01e5cb:
 
     # "I only just now realise how much I've been talking non-stop."
-    "Acabo de darme cuenta de todo lo que he hablado sin parar ni un instante."
+    "Acabo de darme cuenta de todo lo que he hablado sin parar."
 
 # game/game_script_act2.rpy:525
 translate spanish game_script_act2_57d042d7:

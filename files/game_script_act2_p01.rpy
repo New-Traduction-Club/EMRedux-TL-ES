@@ -1948,7 +1948,7 @@ translate spanish game_script_act2_7b0bb752:
 translate spanish game_script_act2_49539cc6:
 
     # extend "I haven’t seen this in years!"
-    extend "¡hace años que no lo veo!"
+    extend "¡hace años que no la veo!"
 
 # game/game_script_act2.rpy:628
 translate spanish game_script_act2_05500ff6:

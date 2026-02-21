@@ -218,3 +218,7 @@ translate spanish strings:
     old "Skipping"
     new "Saltando"
 
+    # game/screens.rpy:513
+    old "Please enter your name"
+    new "¿Cómo te llamas?"
+

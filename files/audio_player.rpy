@@ -30,3 +30,15 @@ translate spanish strings:
     old "Empty."
     new ""
 
+    # game/audio_player.rpy:347
+    old "%s has been added to the playlist."
+    new ""
+
+    # game/audio_player.rpy:741
+    old "Right Click: Add to Playlist"
+    new ""
+
+    # game/audio_player.rpy:745
+    old "[[ LOCKED ]"
+    new ""
+

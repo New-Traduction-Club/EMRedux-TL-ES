@@ -2300,21 +2300,21 @@ translate spanish strings:
 
     # game/game_script_act2.rpy:13
     old "Act 2:\nAll I Need"
-    new ""
+    new "Acto 2:\nAll I Need"
 
     # game/game_script_act2.rpy:19
     old "Friday\n{size=-6}29th September, 2017"
-    new ""
+    new "Viernes,\n{size=-6}29 de septiembre de 2017"
 
     # game/game_script_act2.rpy:1593
     old "Saturday\n{size=-6}30th September, 2017"
-    new ""
+    new "Sábado,\n{size=-6}30 de septiembre de 2017"
 
     # game/game_script_act2.rpy:3331
     old "Sunday\n{size=-6}1st October, 2017"
-    new ""
+    new "Domingo,\n{size=-6}1 de octubre de 2017"
 
     # game/game_script_act2.rpy:5227
     old "Monday\n{size=-6}2nd October, 2017"
-    new ""
+    new "Lunes,\n{size=-6}2 de octubre de 2017"
 

@@ -1834,166 +1834,166 @@ translate spanish game_script_act2_699878f6:
 translate spanish game_script_act2_729e6e93:
 
     # "Natsuki smirks and giggles."
-    ""
+    "Natsuki sonríe y empieza a reírse."
 
 # game/game_script_act2.rpy:589
 translate spanish game_script_act2_c7ff0d3c:
 
     # n rdown e1a zz1 mc "Toss me the remote."
-    n rdown e1a zz1 mc ""
+    n rdown e1a zz1 mc "Pásame el mando."
 
 # game/game_script_act2.rpy:590
 translate spanish game_script_act2_a19ba691:
 
     # n mb "Hopefully there’s something watchable on."
-    n mb ""
+    n mb "Espero que haya algo soportable..."
 
 # game/game_script_act2.rpy:592
 translate spanish game_script_act2_a6379e4d:
 
     # mc "I take it you’re not hungry?"
-    mc ""
+    mc "Supongo que no tienes hambre."
 
 # game/game_script_act2.rpy:594
 translate spanish game_script_act2_0e493581:
 
     # "She shakes her head."
-    ""
+    "Niega con la cabeza."
 
 # game/game_script_act2.rpy:597
 translate spanish game_script_act2_320ceb1c:
 
     # n mb "I’m good for now."
-    n mb ""
+    n mb "Voy bien por ahora."
 
 # game/game_script_act2.rpy:598
 translate spanish game_script_act2_92b6018a:
 
     # n mc "I’ll help you cook a nice dinner tonight, how’s that?"
-    n mc ""
+    n mc "Para compensar, esta noche te ayudo a cocinar algo rico, ¿vale?"
 
 # game/game_script_act2.rpy:601
 translate spanish game_script_act2_38c757a4:
 
     # "Natsuki turns on the TV and starts flipping through channels."
-    ""
+    "Natsuki enciende la tele y empieza a pasar canales."
 
 # game/game_script_act2.rpy:603
 translate spanish game_script_act2_fa6230f7:
 
     # mc "Fine by me."
-    mc ""
+    mc "Por mí, vale."
 
 # game/game_script_act2.rpy:604
 translate spanish game_script_act2_c22c5138:
 
     # mc "My cooking’s...not the greatest.."
-    mc ""
+    mc "No es que sea un chef de primera..."
 
 # game/game_script_act2.rpy:605
 translate spanish game_script_act2_561441f1:
 
     # mc "Nor my baking...{w=0.8} {nw}"
-    mc ""
+    mc "Y si hablamos del horno...{w=0.8} {nw}"
 
 # game/game_script_act2.rpy:607
 translate spanish game_script_act2_cc5258cd:
 
     # extend "remember those cupcakes?"
-    extend ""
+    extend "te acordarás de los cupcakes, ¿no?"
 
 # game/game_script_act2.rpy:609
 translate spanish game_script_act2_7b6124f3:
 
     # n ldown turned doub om oe b1d "Good God, yeah."
-    n ldown turned doub om oe b1d ""
+    n ldown turned doub om oe b1d "Por Dios, y tanto que me acuerdo."
 
 # game/game_script_act2.rpy:610
 translate spanish game_script_act2_74b82d6b:
 
     # n lhip "You definitely need practice."
-    n lhip ""
+    n lhip "Necesitas practicar."
 
 # game/game_script_act2.rpy:611
 translate spanish game_script_act2_d65abe5c:
 
     # n turned anno om oe "But you’ll get plenty of it."
-    n turned anno om oe ""
+    n turned anno om oe "Pero necesitas mucha práctica."
 
 # game/game_script_act2.rpy:612
 translate spanish game_script_act2_cb198a79:
 
     # n "We’ll just need the ingredi-...{w=0.6}{nw}"
-    n ""
+    n "Necesitaremos los ingr...{w=0.6}{nw}"
 
 # game/game_script_act2.rpy:617
 translate spanish game_script_act2_bde53e56:
 
     # "Natsuki stops abruptly, gazing at the TV screen."
-    ""
+    "Natsuki para en seco y se queda mirando la tele."
 
 # game/game_script_act2.rpy:619
 translate spanish game_script_act2_f50820eb:
 
     # "Her eyes suddenly light up."
-    ""
+    "Sus ojos se iluminan de repente."
 
 # game/game_script_act2.rpy:622
 translate spanish game_script_act2_7b0bb752:
 
     # n turned lsur om oe b1c "Oh wow...{w=0.6}{nw}"
-    n turned lsur om oe b1c ""
+    n turned lsur om oe b1c "Hala...{w=0.6} {nw}"
 
 # game/game_script_act2.rpy:626
 translate spanish game_script_act2_49539cc6:
 
     # extend "I haven’t seen this in years!"
-    extend ""
+    extend "¡hace años que no lo veo!"
 
 # game/game_script_act2.rpy:628
 translate spanish game_script_act2_05500ff6:
 
     # mc "Huh?"
-    mc ""
+    mc "¿Eh?"
 
 # game/game_script_act2.rpy:631
 translate spanish game_script_act2_40937d5d:
 
     # "I glance over at the TV to see what’s caught her attention."
-    ""
+    "Miro yo también para ver lo que le llama tanto la atención."
 
 # game/game_script_act2.rpy:632
 translate spanish game_script_act2_baed1613:
 
     # "Vibrantly colored fish swim throughout a large tank filled with coral, as two teenagers longingly gaze at each other from both sides."
-    ""
+    "Peces de colores muy vivos nadando en un acuario gigante lleno de coral y dos adolescentes mirándose con deseo,"
 
 # game/game_script_act2.rpy:633
 translate spanish game_script_act2_f081d036:
 
     # "All accompanied by a mushy love song."
-    ""
+    "mientras uns melodía romántica acompaña la escena."
 
 # game/game_script_act2.rpy:635
 translate spanish game_script_act2_9da85706:
 
     # mc "What, the movie?"
-    mc ""
+    mc "El qué, ¿esa peli?"
 
 # game/game_script_act2.rpy:637
 translate spanish game_script_act2_e9a4f29c:
 
     # n mb "Yeah."
-    n mb ""
+    n mb "Sí."
 
 # game/game_script_act2.rpy:638
 translate spanish game_script_act2_716f7ac5:
 
     # n rdown e1b "I use to love it to death when I was a kid. I watched it all the time..."
-    n rdown e1b ""
+    n rdown e1b "Me encantaba verla todo el tiempo cuando era peque."
 
 # game/game_script_act2.rpy:639
 translate spanish game_script_act2_b523902b:
 
     # n b1b e4b zz2 "Like, I must’ve seen it {i}at least{/i} twice a week."
-    n b1b e4b zz2 ""
+    n b1b e4b zz2 "En plan, hablamos de verla dos veces en semana por lo menos."

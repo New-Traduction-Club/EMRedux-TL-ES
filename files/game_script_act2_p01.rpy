@@ -1918,7 +1918,7 @@ translate spanish game_script_act2_74b82d6b:
 translate spanish game_script_act2_d65abe5c:
 
     # n turned anno om oe "But you’ll get plenty of it."
-    n turned anno om oe "Pero necesitas mucha práctica."
+    n turned anno om oe "Pero practicar mucho."
 
 # game/game_script_act2.rpy:612
 translate spanish game_script_act2_cb198a79:
@@ -1972,7 +1972,7 @@ translate spanish game_script_act2_baed1613:
 translate spanish game_script_act2_f081d036:
 
     # "All accompanied by a mushy love song."
-    "mientras uns melodía romántica acompaña la escena."
+    "mientras una melodía romántica acompaña la escena."
 
 # game/game_script_act2.rpy:635
 translate spanish game_script_act2_9da85706:

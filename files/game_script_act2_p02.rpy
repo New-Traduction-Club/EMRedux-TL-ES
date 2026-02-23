@@ -3,7 +3,7 @@
 translate spanish game_script_act2_7d3454f2:
 
     # "Turning back to the TV, we watch on as the scene drags out, for over a minute."
-    "De vuelta a la tele, vemos como la escena se alarga un minuto entero."
+    "De vuelta a la tele, vemos como la escena se alarga un interminable minuto."
 
 # game/game_script_act2.rpy:642
 translate spanish game_script_act2_4127853e:
@@ -15,61 +15,61 @@ translate spanish game_script_act2_4127853e:
 translate spanish game_script_act2_371ea2e4:
 
     # mc "...{i}This?{/i}"
-    mc "¿En serio?"
+    mc "¿Vas en serio?"
 
 # game/game_script_act2.rpy:646
 translate spanish game_script_act2_65ef1e9e:
 
     # "Try as I might, I can't help but let out a groan."
-    ""
+    "Aunque me esfuerce por no hacerlo, mi cuerpo cede y bostezo."
 
 # game/game_script_act2.rpy:649
 translate spanish game_script_act2_bf737ec4:
 
     # n turned doub om oe b1d zz1 "Hey, don’t give me that!"
-    n turned doub om oe b1d zz1 ""
+    n turned doub om oe b1d zz1 "¡Vamos, no me vengas con esas!"
 
 # game/game_script_act2.rpy:650
 translate spanish game_script_act2_0064f7d1:
 
     # n turned nerv om e2b rhip "It might be a little...{w=0.5}{i}cheesy.{/i}"
-    n turned nerv om e2b rhip ""
+    n turned nerv om e2b rhip "Puede que sea un poco...{w=0.5} cursi,"
 
 # game/game_script_act2.rpy:651
 translate spanish game_script_act2_70c44d1d:
 
     # n turned nerv om oe b1b "But, that doesn't mean it's bad!"
-    n turned nerv om oe b1b ""
+    n turned nerv om oe b1b "¡aunque no por ello es mala!"
 
 # game/game_script_act2.rpy:652
 translate spanish game_script_act2_8f6001b6:
 
     # n lhip turned anno om oe b1d "I bet you like some goofy, over-the-top things yourself!"
-    n lhip turned anno om oe b1d ""
+    n lhip turned anno om oe b1d "¡Seguro que tus gustos no varían mucho de esto!"
 
 # game/game_script_act2.rpy:653
 translate spanish game_script_act2_cb347ef0:
 
     # n turned doub om oe b1a "Shall we go through your anime collection?"
-    n turned doub om oe b1a ""
+    n turned doub om oe b1a "¿Me enseñas tu colección de anime?"
 
 # game/game_script_act2.rpy:655
 translate spanish game_script_act2_92c5433a:
 
     # mc "That’s not..."
-    mc ""
+    mc "No vayas por..."
 
 # game/game_script_act2.rpy:657
 translate spanish game_script_act2_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/game_script_act2.rpy:658
 translate spanish game_script_act2_8881d028:
 
     # mc "Okay, fair point."
-    mc ""
+    mc "Tú ganas."
 
 # game/game_script_act2.rpy:660
 translate spanish game_script_act2_ac864431:

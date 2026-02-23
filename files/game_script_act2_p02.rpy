@@ -3,19 +3,19 @@
 translate spanish game_script_act2_7d3454f2:
 
     # "Turning back to the TV, we watch on as the scene drags out, for over a minute."
-    ""
+    "De vuelta a la tele, vemos como la escena se alarga un minuto entero."
 
 # game/game_script_act2.rpy:642
 translate spanish game_script_act2_4127853e:
 
     # "Endless jump-cuts panning to each side, switching focus from the teens to the fish and back, shots from inside the fish tank..."
-    ""
+    "Planos intercalables de los peces, los adolescentes, de los peces de nuevo..."
 
 # game/game_script_act2.rpy:644
 translate spanish game_script_act2_371ea2e4:
 
     # mc "...{i}This?{/i}"
-    mc ""
+    mc "¿En serio?"
 
 # game/game_script_act2.rpy:646
 translate spanish game_script_act2_65ef1e9e:

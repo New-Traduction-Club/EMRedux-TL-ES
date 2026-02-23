@@ -57,7 +57,7 @@ translate spanish game_script_act2_cb347ef0:
 translate spanish game_script_act2_92c5433a:
 
     # mc "That’s not..."
-    mc "No vayas por..."
+    mc "No me..."
 
 # game/game_script_act2.rpy:657
 translate spanish game_script_act2_2b35b6fe:
@@ -69,181 +69,181 @@ translate spanish game_script_act2_2b35b6fe:
 translate spanish game_script_act2_8881d028:
 
     # mc "Okay, fair point."
-    mc "Tú ganas."
+    mc "Vale, tú ganas."
 
 # game/game_script_act2.rpy:660
 translate spanish game_script_act2_ac864431:
 
     # n rdown e1a b1b mg "Come on, give it a chance."
-    n rdown e1a b1b mg ""
+    n rdown e1a b1b mg "Venga, dale una oportunidad."
 
 # game/game_script_act2.rpy:662
 translate spanish game_script_act2_167814cd:
 
     # mc "Alright, alright."
-    mc ""
+    mc "Que sí, que sí."
 
 # game/game_script_act2.rpy:663
 translate spanish game_script_act2_aa2fd97f:
 
     # mc "I might as well..."
-    mc ""
+    mc "Lo que también puedo hacer es..."
 
 # game/game_script_act2.rpy:667
 translate spanish game_script_act2_c8ef027a:
 
     # "I take a seat beside her on the couch."
-    ""
+    "sentarme a su lado en el sofá."
 
 # game/game_script_act2.rpy:679
 translate spanish game_script_act2_40f7ee74:
 
     # n "See?"
-    n ""
+    n "¿Ves?"
 
 # game/game_script_act2.rpy:680
 translate spanish game_script_act2_f19dc232:
 
     # n b1c mc "I told you!"
-    n b1c mc ""
+    n b1c mc "¡Te lo dije!"
 
 # game/game_script_act2.rpy:682
 translate spanish game_script_act2_312c6d6d:
 
     # "As the closing credits play, I get up from the couch and stretch."
-    ""
+    "Mientras pasan los créditos finales, me levanto del sofá y empiezo a estirarme."
 
 # game/game_script_act2.rpy:683
 translate spanish game_script_act2_c60e05e8:
 
     # "Peering over at the nearest clock, I notice that a little over two hours have passed."
-    ""
+    "Miro la hora y veo que ya han pasado 2 y pico."
 
 # game/game_script_act2.rpy:685
 translate spanish game_script_act2_61c6c2db:
 
     # mc "Wow, have we really been watching this crap for {i}that long{/i}?!"
-    mc ""
+    mc "¿Cómo puede ser que llevemos tanto tiempo viendo esta mierda de película?"
 
 # game/game_script_act2.rpy:687
 translate spanish game_script_act2_de413bad:
 
     # n rdown lhip e1c b1a mi "Oh shut up, you were enjoying it!"
-    n rdown lhip e1c b1a mi ""
+    n rdown lhip e1c b1a mi "¡Cállate, que te la estabas gozando!"
 
 # game/game_script_act2.rpy:688
 translate spanish game_script_act2_5eb3b02f:
 
     # n e1a "I could see it in your eyes!"
-    n e1a ""
+    n e1a "¡Se te veía en la cara!"
 
 # game/game_script_act2.rpy:690
 translate spanish game_script_act2_a3bb0e1d:
 
     # mc "Oh? Seems like you were more interested in looking my way than watching the film you love {i}sooo{/i} much."
-    mc ""
+    mc "Ah, ¿sí? Me parece que estabas poniendo los ojos más en mí que en esa peli que taaanto te gustaba."
 
 # game/game_script_act2.rpy:694
 translate spanish game_script_act2_cd414042:
 
     # "Embarrassed, Natsuki averts her gaze as her face glows bright red."
-    ""
+    "Avergonzada, Natsuki aparta la mirada mientras su cara se pone roja."
 
 # game/game_script_act2.rpy:697
 translate spanish game_script_act2_0c2efc42:
 
     # n b1e e2a ldown ml "I didn’t mean it {i}that{/i} way..."
-    n b1e e2a ldown ml ""
+    n b1e e2a ldown ml "No lo decía por 'eso'."
 
 # game/game_script_act2.rpy:698
 translate spanish game_script_act2_ee8dc17c:
 
     # n e2b mh "I-{w=0.2}I...{w=0.8}{nw}"
-    n e2b mh ""
+    n e2b mh "E-Estaba...{w=0.8} {nw}"
 
 # game/game_script_act2.rpy:700
 translate spanish game_script_act2_3d7c0e63:
 
     # extend "was just gauging your reaction to the film.{w=0.6} God."
-    extend ""
+    extend "atenta a cómo te lo pasabas viendo la peli,{w=0.6} jolín."
 
 # game/game_script_act2.rpy:702
 translate spanish game_script_act2_46ed9256:
 
     # mc "Mhm. I {i}completely{/i} believe you."
-    mc ""
+    mc "Sí, sí. Me parece un argumento muuuy creíble."
 
 # game/game_script_act2.rpy:704
 translate spanish game_script_act2_22ae2a9e:
 
     # n rdown turned anno om oe b1d n1 zz1 "Whatever. My point stands."
-    n rdown turned anno om oe b1d n1 zz1 ""
+    n rdown turned anno om oe b1d n1 zz1 "Me da igual, lo mantengo igualmente."
 
 # game/game_script_act2.rpy:705
 translate spanish game_script_act2_4fef85db:
 
     # n mh "You liked it."
-    n mh ""
+    n mh "Te ha gustado."
 
 # game/game_script_act2.rpy:707
 translate spanish game_script_act2_6ed07a3a:
 
     # mc "Okay, okay, I {i}may{/i} have underestimated it."
-    mc ""
+    mc "Vale, vale, puede que la haya infravalorado."
 
 # game/game_script_act2.rpy:708
 translate spanish game_script_act2_3333e780:
 
     # mc "It’s certainly got personality..."
-    mc ""
+    mc "Tiene su cosilla...,"
 
 # game/game_script_act2.rpy:709
 translate spanish game_script_act2_6ed5e29d:
 
     # mc "But it’s still probably one of the cheesiest things I’ve ever seen."
-    mc ""
+    mc "pero no quita que haya sido de las cosas más cursis que haya visto nunca."
 
 # game/game_script_act2.rpy:710
 translate spanish game_script_act2_bb53233e:
 
     # mc "I mean, the acting was so hammy, it was hard to take it seriously."
-    mc ""
+    mc "No puedes tomarte en serio una actuación tan exagerada."
 
 # game/game_script_act2.rpy:712
 translate spanish game_script_act2_c44128e9:
 
     # n turned pout om oe b1b "But that’s what makes it so fun!"
-    n turned pout om oe b1b ""
+    n turned pout om oe b1b "¡Eso lo hace guay!"
 
 # game/game_script_act2.rpy:713
 translate spanish game_script_act2_b5cbc82f:
 
     # n turned worr om oe b1c "Like, yeah, okay, it’s a tragedy at heart."
-    n turned worr om oe b1c ""
+    n turned worr om oe b1c "En plan, es una tragedia, sí."
 
 # game/game_script_act2.rpy:714
 translate spanish game_script_act2_e473d837:
 
     # n mb b1a "But the over-the-top acting is what separates the campy scenes from the, well, tragic ones."
-    n mb b1a ""
+    n mb b1a "Pero actuar de forma exagerada hace que puedas diferenciar las escenas de la película."
 
 # game/game_script_act2.rpy:715
 translate spanish game_script_act2_6ea5066e:
 
     # n b1c mc e1a "Like that house party!"
-    n b1c mc e1a ""
+    n b1c mc e1a "Como, por ejemplo, ¡la fiesta en la casa!"
 
 # game/game_script_act2.rpy:717
 translate spanish game_script_act2_56faee66:
 
     # mc "I had no idea what was going on throughout most of that scene."
-    mc ""
+    mc "En la cual no tenía ni pajolera de lo que estaba pasando durante toda la escena."
 
 # game/game_script_act2.rpy:718
 translate spanish game_script_act2_1a41ed7c:
 
     # mc "It felt so disconnected from the rest of the film."
-    mc ""
+    mc "Se ha sentido muy fuera de tono con el resto de la peli."
 
 # game/game_script_act2.rpy:720
 translate spanish game_script_act2_103a35f3:

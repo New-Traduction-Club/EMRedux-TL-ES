@@ -87,7 +87,7 @@ translate spanish game_script_act2_167814cd:
 translate spanish game_script_act2_aa2fd97f:
 
     # mc "I might as well..."
-    mc "Lo que también puedo hacer es..."
+    mc "Lo que también puedo hacer es...,"
 
 # game/game_script_act2.rpy:667
 translate spanish game_script_act2_c8ef027a:
@@ -117,7 +117,7 @@ translate spanish game_script_act2_312c6d6d:
 translate spanish game_script_act2_c60e05e8:
 
     # "Peering over at the nearest clock, I notice that a little over two hours have passed."
-    "Miro la hora y veo que ya han pasado 2 y pico."
+    "Miro la hora y veo que ya han pasado dos y pico."
 
 # game/game_script_act2.rpy:685
 translate spanish game_script_act2_61c6c2db:

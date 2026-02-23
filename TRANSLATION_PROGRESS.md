@@ -1,5 +1,5 @@
 # Progreso de traducción
 
-**2565 de 11021 líneas traducidas**
+**2582 de 11021 líneas traducidas**
 
-**Progreso:** 23.27%
+**Progreso:** 23.43%

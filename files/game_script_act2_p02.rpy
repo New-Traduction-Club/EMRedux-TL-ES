@@ -549,55 +549,55 @@ translate spanish game_script_act2_31b7c429:
 translate spanish game_script_act2_3622eb73:
 
     # "I rush upstairs, into the spare room."
-    ""
+    "Subo las escaleras corriendo y abro la puerta de la habitación de invitados."
 
 # game/game_script_act2.rpy:810
 translate spanish game_script_act2_c3725f91:
 
     # "I head over to the cupboards opposite the couch."
-    ""
+    "Voy a los armarios situados frente al sofá."
 
 # game/game_script_act2.rpy:811
 translate spanish game_script_act2_ec31cfa1:
 
     # "My eyes dart around, looking for where the sunglasses could be, finally landing on the shoe-box on the top of the cupboard."
-    ""
+    "Busco rápidamente dónde pueden estar las gafas hasta que doy con una caja de zapatos encima de dicho armario."
 
 # game/game_script_act2.rpy:812
 translate spanish game_script_act2_45d36c07:
 
     # "Taking off the lid, I scour through the years worth of junk in the box."
-    ""
+    "Al abrirla, descubro toda la basura acumulada durante años."
 
 # game/game_script_act2.rpy:813
 translate spanish game_script_act2_8f0be774:
 
     # "Old action figures with stiff joints, broken CDs, video game cartridges from before my time..."
-    ""
+    "Figuritas de acción con extremidades rígidas, CD's rotos, cartuchos de juegos de antes de yo nacer..."
 
 # game/game_script_act2.rpy:814
 translate spanish game_script_act2_e687bcd8:
 
     # "Finally, at the bottom of the box, I find what I’m looking for."
-    ""
+    "Y por fin, tras buscar y buscar, encuentro al fondo de la caja lo que quería."
 
 # game/game_script_act2.rpy:815
 translate spanish game_script_act2_da2318f6:
 
     # "Sayori’s old sunglasses, She must’ve left these here years ago."
-    ""
+    "Las viejas gafas de Sayori, que debieron dejarse aquí desde hace mucho tiempo."
 
 # game/game_script_act2.rpy:816
 translate spanish game_script_act2_82ea4055:
 
     # "They’re a little...flashy."
-    ""
+    "Puede qje sean un poco... llamativas."
 
 # game/game_script_act2.rpy:817
 translate spanish game_script_act2_258f0c3d:
 
     # "It’s worth a shot, though."
-    ""
+    "Vale la pena intentarlo."
 
 # game/game_script_act2.rpy:821
 translate spanish game_script_act2_83424c36:

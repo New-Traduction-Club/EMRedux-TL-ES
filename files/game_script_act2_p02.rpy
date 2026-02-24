@@ -603,265 +603,265 @@ translate spanish game_script_act2_258f0c3d:
 translate spanish game_script_act2_83424c36:
 
     # "As I make my way back downstairs, Natsuki’s waiting for me at the bottom of the stairs."
-    ""
+    "Mientras bajo las escaleras, veo a Natsuki esperándome justo abajo."
 
 # game/game_script_act2.rpy:823
 translate spanish game_script_act2_539d314b:
 
     # n "Any luck?"
-    n ""
+    n "¿Ha habido suerte?"
 
 # game/game_script_act2.rpy:825
 translate spanish game_script_act2_59dba1fa:
 
     # mc "Actually, yeah."
-    mc ""
+    mc "Pues sí."
 
 # game/game_script_act2.rpy:826
 translate spanish game_script_act2_03f34182:
 
     # mc "{i}Something{/i} tells me they’re not your style though."
-    mc ""
+    mc "Me da en la nariz que no las llevarías de normal, pero bueno."
 
 # game/game_script_act2.rpy:828
 translate spanish game_script_act2_7446247a:
 
     # n rhip e4a b2b mc zz3 "Oh, they can’t be {i}that{/i} bad."
-    n rhip e4a b2b mc zz3 ""
+    n rhip e4a b2b mc zz3 "No seas tan exagerado."
 
 # game/game_script_act2.rpy:830
 translate spanish game_script_act2_17a2a630:
 
     # "I hand them over to her."
-    ""
+    "Se las doy."
 
 # game/game_script_act2.rpy:838
 translate spanish game_script_act2_5c3dd5b9:
 
     # n mq rdown "...you’re kidding."
-    n mq rdown ""
+    n mq rdown "Estás de coña."
 
 # game/game_script_act2.rpy:840
 translate spanish game_script_act2_001c639a:
 
     # mc "Come on, just try them on!"
-    mc ""
+    mc "¡Ponte las gafas y verás!"
 
 # game/game_script_act2.rpy:842
 translate spanish game_script_act2_c4eca54f:
 
     # n e1b b1d mg "Fiiiine."
-    n e1b b1d mg ""
+    n e1b b1d mg "Que vaaale."
 
 # game/game_script_act2.rpy:849
 translate spanish game_script_act2_4ba9d796:
 
     # "Natsuki lets out an exaggerated sigh, before putting the sunglasses on."
-    ""
+    "Profiere un exagerado suspiro antes de ponerse las gafas."
 
 # game/game_script_act2.rpy:854
 translate spanish game_script_act2_9af3b136:
 
     # n ".{w=0.5}{nw}"
-    n ""
+    n ".{w=0.5}{nw}"
 
 # game/game_script_act2.rpy:856
 translate spanish game_script_act2_44eacda6:
 
     # extend ".{w=0.5}{nw}"
-    extend ""
+    extend ".{w=0.5}{nw}"
 
 # game/game_script_act2.rpy:858
 translate spanish game_script_act2_b9b155fe:
 
     # extend "."
-    extend ""
+    extend "."
 
 # game/game_script_act2.rpy:861
 translate spanish game_script_act2_71003681:
 
     # "I try to keep a straight face, but can’t help letting out a bit of a chuckle."
-    ""
+    "Intento mantenerme serio, pero no puedo evitar soltar una carcajada."
 
 # game/game_script_act2.rpy:864
 translate spanish game_script_act2_c0cb9f27:
 
     # n mi "Yeah, there is no way in hell I’m wearing these."
-    n mi ""
+    n mi "Ni de coña pienso llevar esto."
 
 # game/game_script_act2.rpy:866
 translate spanish game_script_act2_dc295065:
 
     # mc "But they’re {i}soooo{/i} cute!"
-    mc ""
+    mc "¡Si son muuuy monas!"
 
 # game/game_script_act2.rpy:868
 translate spanish game_script_act2_a01dd58c:
 
     # n mh "Oh, shut up."
-    n mh ""
+    n mh "Cállate, anda."
 
 # game/game_script_act2.rpy:870
 translate spanish game_script_act2_4386fd67:
 
     # mc "Hey, at least they do the job."
-    mc ""
+    mc "Por lo menos cumplen su cometido."
 
 # game/game_script_act2.rpy:872
 translate spanish game_script_act2_10ee62d4:
 
     # n lhip e4a b3b zz3 mi "I don't care, it's not worth going outside looking like some 70’s rockstar."
-    n lhip e4a b3b zz3 mi ""
+    n lhip e4a b3b zz3 mi "Me la suda, no pienso salir a la calle como si fuera una rockstar setentera."
 
 # game/game_script_act2.rpy:875
 translate spanish game_script_act2_c143020b:
 
     # "She tosses the sunglasses aside, thankfully landing on the couch."
-    ""
+    "Tira las gafas y aterrizan, por suerte, en el sofá."
 
 # game/game_script_act2.rpy:877
 translate spanish game_script_act2_507188d9:
 
     # mc "Hey, watch it! The shades aren’t mine."
-    mc ""
+    mc "¡Cuidado con ellas! Que no son mías, ¿sabes?"
 
 # game/game_script_act2.rpy:879
 translate spanish game_script_act2_f03ab6ac:
 
     # n rdown e1a b1f mh zz1 "Whose are they?"
-    n rdown e1a b1f mh zz1 ""
+    n rdown e1a b1f mh zz1 "¿De quién son?"
 
 # game/game_script_act2.rpy:881
 translate spanish game_script_act2_375a1163:
 
     # mc "Oh, they’re Sayori’s."
-    mc ""
+    mc "De Sayori."
 
 # game/game_script_act2.rpy:882
 translate spanish game_script_act2_6a84d6a9:
 
     # mc "They’re from years ago though."
-    mc ""
+    mc "De hace unos años."
 
 # game/game_script_act2.rpy:884
 translate spanish game_script_act2_f7a31b66:
 
     # n e1b ldown rhip mb "Right. Now you mention it, I definitely get that impression."
-    n e1b ldown rhip mb ""
+    n e1b ldown rhip mb "Ah, ya decía yo. Me daba la impresión de que fueran de ellas."
 
 # game/game_script_act2.rpy:886
 translate spanish game_script_act2_d6092f84:
 
     # mc "So, I take it you’re not coming with?"
-    mc ""
+    mc "Entonces... ¿no te vienes?"
 
 # game/game_script_act2.rpy:888
 translate spanish game_script_act2_8bd51438:
 
     # n b2b e1b mb "Yeaaah...I’ll pass."
-    n b2b e1b mb ""
+    n b2b e1b mb "Pueees... paso."
 
 # game/game_script_act2.rpy:889
 translate spanish game_script_act2_8cb2c8d8:
 
     # n e1a b1c mb zz1 "Hey."
-    n e1a b1c mb zz1 ""
+    n e1a b1c mb zz1 "Ey."
 
 # game/game_script_act2.rpy:890
 translate spanish game_script_act2_9f254f34:
 
     # n zz2 mc e4b b1c rhip "I’ll keep your seat warm."
-    n zz2 mc e4b b1c rhip ""
+    n zz2 mc e4b b1c rhip "Tu sitio estará calentito cuando vuelvas."
 
 # game/game_script_act2.rpy:892
 translate spanish game_script_act2_8742c68c:
 
     # "I let out a chuckle."
-    ""
+    "Me río."
 
 # game/game_script_act2.rpy:894
 translate spanish game_script_act2_b4ca9a0b:
 
     # mc "Anything you want?"
-    mc ""
+    mc "¿Quieres algo del súper?"
 
 # game/game_script_act2.rpy:897
 translate spanish game_script_act2_867952a7:
 
     # n zz1 e1a b1c mh "Well, since you asked,{w=0.8} {nw}"
-    n zz1 e1a b1c mh ""
+    n zz1 e1a b1c mh "Ahora que lo dices,{w=0.8} {nw}"
 
 # game/game_script_act2.rpy:899
 translate spanish game_script_act2_d404be44:
 
     # extend "I do have a sweet tooth."
-    extend ""
+    extend "soy una golosa."
 
 # game/game_script_act2.rpy:900
 translate spanish game_script_act2_9b8ab026:
 
     # n b1c "Maybe some chocolate..?"
-    n b1c ""
+    n b1c "¿Algo de chocolate?"
 
 # game/game_script_act2.rpy:901
 translate spanish game_script_act2_51dd859d:
 
     # n e1b b1b "Don’t sweat it if you can’t though."
-    n e1b b1b ""
+    n e1b b1b "Si no te llega, no hace falta que lo compres."
 
 # game/game_script_act2.rpy:903
 translate spanish game_script_act2_f0c54518:
 
     # mc "Gotcha."
-    mc ""
+    mc "Me lo apunto."
 
 # game/game_script_act2.rpy:904
 translate spanish game_script_act2_cb70afb1:
 
     # mc "So..."
-    mc ""
+    mc "Entonces..."
 
 # game/game_script_act2.rpy:906
 translate spanish game_script_act2_3e72d693:
 
     # n e1a b1c mg "Hang on."
-    n e1a b1c mg ""
+    n e1a b1c mg "A ver, espera."
 
 # game/game_script_act2.rpy:910
 translate spanish game_script_act2_596b2294:
 
     # "Nat rips off a square of kitchen roll."
-    ""
+    "Nat arranca un trozo de servilleta."
 
 # game/game_script_act2.rpy:913
 translate spanish game_script_act2_50136920:
 
     # n b1c mh "Hey [player], you got a marker?"
-    n b1c mh ""
+    n b1c mh "[player], ¿tienes algo para escribir?"
 
 # game/game_script_act2.rpy:915
 translate spanish game_script_act2_f6fa1363:
 
     # mc "Um, yeah, sure."
-    mc ""
+    mc "Te diría que sí..."
 
 # game/game_script_act2.rpy:917
 translate spanish game_script_act2_51933c47:
 
     # "I look around the dining table to find a marker lying across some crumpled up paper."
-    ""
+    "Miro encima de la mesa del comedor por si hay algún boli y encuentro uno entre muchos papeles arrugados."
 
 # game/game_script_act2.rpy:918
 translate spanish game_script_act2_81ae9807:
 
     # "Oh, great."
-    ""
+    "Ah, mierda."
 
 # game/game_script_act2.rpy:919
 translate spanish game_script_act2_166fff76:
 
     # "I never finished that poem for the club."
-    ""
+    "Un poema para el club que no llegué a acabar."
 
 # game/game_script_act2.rpy:920
 translate spanish game_script_act2_a3ed2b01:

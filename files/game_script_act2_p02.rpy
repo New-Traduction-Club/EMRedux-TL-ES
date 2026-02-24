@@ -585,13 +585,13 @@ translate spanish game_script_act2_e687bcd8:
 translate spanish game_script_act2_da2318f6:
 
     # "Sayori’s old sunglasses, She must’ve left these here years ago."
-    "Las viejas gafas de Sayori, que debieron dejarse aquí desde hace mucho tiempo."
+    "Las viejas gafas de Sayori, que las debió perder... porque llevan aquí mucho tiempo."
 
 # game/game_script_act2.rpy:816
 translate spanish game_script_act2_82ea4055:
 
     # "They’re a little...flashy."
-    "Puede qje sean un poco... llamativas."
+    "Me da que son un poco... llamativas."
 
 # game/game_script_act2.rpy:817
 translate spanish game_script_act2_258f0c3d:

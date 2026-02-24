@@ -249,301 +249,301 @@ translate spanish game_script_act2_1a41ed7c:
 translate spanish game_script_act2_103a35f3:
 
     # n rdown e1b b2b n2 mb "Well, I couldn’t tell you what half the scenes even mean, but they still mean something to me, y’know?"
-    n rdown e1b b2b n2 mb ""
+    n rdown e1b b2b n2 mb "Vamos a ver, no podría decirte qué quieren decir las escenas pero significan mucho para mí, ¿sabes?"
 
 # game/game_script_act2.rpy:722
 translate spanish game_script_act2_802ee458:
 
     # mc "And I don’t wanna take that away from you."
-    mc ""
+    mc "No seré yo el que te las quite, tranquila."
 
 # game/game_script_act2.rpy:723
 translate spanish game_script_act2_a2e2bdf7:
 
     # mc "It’s just not for me, I guess."
-    mc ""
+    mc "Simplemente no son lo mío."
 
 # game/game_script_act2.rpy:725
 translate spanish game_script_act2_c4096666:
 
     # n e1a mh "Yeah, I guess not."
-    n e1a mh ""
+    n e1a mh "Imagino que no."
 
 # game/game_script_act2.rpy:727
 translate spanish game_script_act2_377b5e5a:
 
     # "We both fall silent for a moment, not too sure where to go from here."
-    ""
+    "Nos quedamos en silencio sin saber por dónde tirar para seguir hablando."
 
 # game/game_script_act2.rpy:728
 translate spanish game_script_act2_16728fa7:
 
     # "Trying to look for something, anything to distract from the odd tension in the room, my eyes are drawn to the kitchen door."
-    ""
+    "Tratando de buscar algo con lo que aliviar la tensión, mis ojos se dirigen a la puerta de la cocina."
 
 # game/game_script_act2.rpy:731
 translate spanish game_script_act2_ac52e851:
 
     # mc "Hey, uh, you feeling hungry yet?"
-    mc ""
+    mc "¿Aún sin hambre?"
 
 # game/game_script_act2.rpy:732
 translate spanish game_script_act2_5431091d:
 
     # mc "I sure do."
-    mc ""
+    mc "Yo me comería una vaca ahora mismo."
 
 # game/game_script_act2.rpy:734
 translate spanish game_script_act2_2168f548:
 
     # n mh "Actually...yeah."
-    n mh ""
+    n mh "Creo que tengo algo, sí."
 
 # game/game_script_act2.rpy:736
 translate spanish game_script_act2_29a19df9:
 
     # mc "Bacon sandwich sound good?"
-    mc ""
+    mc "¿Sándwich con bacon?"
 
 # game/game_script_act2.rpy:738
 translate spanish game_script_act2_162d2602:
 
     # n mb "Sounds good."
-    n mb ""
+    n mb "Claro que sí."
 
 # game/game_script_act2.rpy:740
 translate spanish game_script_act2_f8e5d875:
 
     # "I nod, heading into the kitchen."
-    ""
+    "Asiento y me dirijo a la cocina."
 
 # game/game_script_act2.rpy:743
 translate spanish game_script_act2_6db96b81:
 
     # "I turn towards the refrigerator, and yank it open. "
-    ""
+    "Abro la nevera."
 
 # game/game_script_act2.rpy:744
 translate spanish game_script_act2_f44f139d:
 
     # "However, there's no bacon in sight."
-    ""
+    "Mierda, no veo bacon."
 
 # game/game_script_act2.rpy:745
 translate spanish game_script_act2_e3363ed2:
 
     # "In fact, there's hardly anything here..."
-    ""
+    "Y no solo bacon, es que esto está casi vacío."
 
 # game/game_script_act2.rpy:747
 translate spanish game_script_act2_a95b21b2:
 
     # mc "Crap."
-    mc ""
+    mc "Joder."
 
 # game/game_script_act2.rpy:749
 translate spanish game_script_act2_6033ecc7:
 
     # "Thinking about it, we’re low on nearly everything at the moment."
-    ""
+    "Pensándolo bien, falta casi de todo tanto fuera como dentro de la nevera."
 
 # game/game_script_act2.rpy:750
 translate spanish game_script_act2_0904f265:
 
     # "Which actually makes now the perfect time to get groceries..."
-    ""
+    "La excusa perfecta para ir al súper a comprar."
 
 # game/game_script_act2.rpy:752
 translate spanish game_script_act2_eff4d126:
 
     # mc "Hey, Natsuki?"
-    mc ""
+    mc "¿Natsuki?"
 
 # game/game_script_act2.rpy:754
 translate spanish game_script_act2_1eede5aa:
 
     # "She makes her way into the kitchen."
-    ""
+    "Viene a la cocina."
 
 # game/game_script_act2.rpy:757
 translate spanish game_script_act2_28e26a36:
 
     # n lhip mh "What’s up?"
-    n lhip mh ""
+    n lhip mh "¿Qué pasa?"
 
 # game/game_script_act2.rpy:759
 translate spanish game_script_act2_fdd13323:
 
     # mc "There’s no bacon here."
-    mc ""
+    mc "No hay bacon."
 
 # game/game_script_act2.rpy:760
 translate spanish game_script_act2_f5b31ac1:
 
     # mc "In fact, we’re running pretty low on groceries in general."
-    mc ""
+    mc "De hecho, no es solo bacon lo que falta. Estamos muy mal de alimentos en casa."
 
 # game/game_script_act2.rpy:761
 translate spanish game_script_act2_e2171fdd:
 
     # mc "I’ve got some bread, maybe a few slices of turkey or something..."
-    mc ""
+    mc "Puede que algo de pan y un poco de chóped sí tenga..."
 
 # game/game_script_act2.rpy:762
 translate spanish game_script_act2_4092c6b5:
 
     # mc "Unless...you want some oats?"
-    mc ""
+    mc "O mejor querrías... ¿avena?"
 
 # game/game_script_act2.rpy:764
 translate spanish game_script_act2_5716d60a:
 
     # "Natsuki’s face twists in disgust."
-    ""
+    "Natsuki niega con cara de repulsión."
 
 # game/game_script_act2.rpy:767
 translate spanish game_script_act2_bad8ac71:
 
     # n mi "Gross."
-    n mi ""
+    n mi "Qué asco."
 
 # game/game_script_act2.rpy:769
 translate spanish game_script_act2_327dd25a:
 
     # mc "Thought so."
-    mc ""
+    mc "Lo que pensaba."
 
 # game/game_script_act2.rpy:770
 translate spanish game_script_act2_8df662ad:
 
     # mc "Means that I’m gonna have to head to the store sometime this afternoon."
-    mc ""
+    mc "Pues tendré que acercarme en algún momento de esta tarde al súper a comprar."
 
 # game/game_script_act2.rpy:771
 translate spanish game_script_act2_a5686a60:
 
     # mc "In fact, I should probably just get it out of the way now."
-    mc ""
+    mc "De hecho, lo mejor sería acercarme ya."
 
 # game/game_script_act2.rpy:772
 translate spanish game_script_act2_d6b9d7e3:
 
     # mc "You wanna come with?"
-    mc ""
+    mc "¿Quieres venirte?"
 
 # game/game_script_act2.rpy:774
 translate spanish game_script_act2_27e86025:
 
     # n turned flus cm oe b1b "Uh..."
-    n turned flus cm oe b1b ""
+    n turned flus cm oe b1b "Eh..."
 
 # game/game_script_act2.rpy:776
 translate spanish game_script_act2_f073ac69:
 
     # "Natsuki gestures to her face."
-    ""
+    "Me señala su cara."
 
 # game/game_script_act2.rpy:778
 translate spanish game_script_act2_bf532425:
 
     # mc "Oh...{w=0.8}right."
-    mc ""
+    mc "Ah...{w=0.8} sí, vale."
 
 # game/game_script_act2.rpy:779
 translate spanish game_script_act2_dc0ff26a_1:
 
     # mc "Sorry."
-    mc ""
+    mc "Perdona."
 
 # game/game_script_act2.rpy:780
 translate spanish game_script_act2_6c47422a:
 
     # mc "So you’ll be fine here?"
-    mc ""
+    mc "¿Te las apañarás sola?"
 
 # game/game_script_act2.rpy:782
 translate spanish game_script_act2_58691064:
 
     # n e1a mb "Yeah."
-    n e1a mb ""
+    n e1a mb "Claro."
 
 # game/game_script_act2.rpy:783
 translate spanish game_script_act2_7b67f7b4:
 
     # n rhip turned nerv om ce b1b zz3 "Promise I won’t burn down the place..."
-    n rhip turned nerv om ce b1b zz3 ""
+    n rhip turned nerv om ce b1b zz3 "Te prometo no quemar la casa."
 
 # game/game_script_act2.rpy:785
 translate spanish game_script_act2_5d974a0c:
 
     # n e1b b1a mh zz1 "...Unless..."
-    n e1b b1a mh zz1 ""
+    n e1b b1a mh zz1 "O mira...,"
 
 # game/game_script_act2.rpy:786
 translate spanish game_script_act2_db11cf34:
 
     # n e1a ldown "You wouldn’t have any sunglasses, would you?"
-    n e1a ldown ""
+    n e1a ldown "¿te sobran gafas de sol por ahí?"
 
 # game/game_script_act2.rpy:787
 translate spanish game_script_act2_d341969a:
 
     # n "Sounds stupid, but it should do the trick."
-    n ""
+    n "Sé que suena estúpido, pero daría el pego."
 
 # game/game_script_act2.rpy:789
 translate spanish game_script_act2_3dbd9c98:
 
     # mc "I don’t think so..."
-    mc ""
+    mc "No creo...,"
 
 # game/game_script_act2.rpy:790
 translate spanish game_script_act2_2034c056:
 
     # mc "Maybe."
-    mc ""
+    mc "o puede que sí."
 
 # game/game_script_act2.rpy:792
 translate spanish game_script_act2_cf766591:
 
     # n e1b b1f mg "Well, I wouldn’t mind coming with{w=0.2} {nw}"
-    n e1b b1f mg ""
+    n e1b b1f mg "A ver, no me importaría ir contigo si...{w=0.2} {nw}"
 
 # game/game_script_act2.rpy:794
 translate spanish game_script_act2_9fd0635a:
 
     # extend "if I could cover up my eye."
-    extend ""
+    extend "no se me viera el ojo morado."
 
 # game/game_script_act2.rpy:796
 translate spanish game_script_act2_ad31c709:
 
     # mc "I could go and take a look."
-    mc ""
+    mc "Podría ir a echar un vistazo."
 
 # game/game_script_act2.rpy:798
 translate spanish game_script_act2_11bedf1c:
 
     # "Hmm..."
-    ""
+    "Mmm..."
 
 # game/game_script_act2.rpy:799
 translate spanish game_script_act2_a89e6929:
 
     # "I know where I can find some sunglasses."
-    ""
+    "Sé dónde pueden haber gafas."
 
 # game/game_script_act2.rpy:801
 translate spanish game_script_act2_8d5fe7a2:
 
     # mc "Actually..."
-    mc ""
+    mc "En realidad...,"
 
 # game/game_script_act2.rpy:803
 translate spanish game_script_act2_31b7c429:
 
     # mc "Give me a minute."
-    mc ""
+    mc "espera un momento."
 
 # game/game_script_act2.rpy:806
 translate spanish game_script_act2_3622eb73:

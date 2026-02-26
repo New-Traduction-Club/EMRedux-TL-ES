@@ -639,19 +639,19 @@ translate spanish game_script_act2_17a2a630:
 translate spanish game_script_act2_5c3dd5b9:
 
     # n mq rdown "...you’re kidding."
-    n mq rdown "Estás de coña."
+    n mq rdown "Estás de coña, ¿no?"
 
 # game/game_script_act2.rpy:840
 translate spanish game_script_act2_001c639a:
 
     # mc "Come on, just try them on!"
-    mc "¡Ponte las gafas y verás!"
+    mc "¡Ponte primero las gafas!"
 
 # game/game_script_act2.rpy:842
 translate spanish game_script_act2_c4eca54f:
 
     # n e1b b1d mg "Fiiiine."
-    n e1b b1d mg "Que vaaale."
+    n e1b b1d mg "Vaaale."
 
 # game/game_script_act2.rpy:849
 translate spanish game_script_act2_4ba9d796:

@@ -867,49 +867,49 @@ translate spanish game_script_act2_166fff76:
 translate spanish game_script_act2_a3ed2b01:
 
     # "But given the events of last night, I can hardly be blamed for forgetting..."
-    ""
+    "Dados los eventos de anoche, como que no puedo culparme de haberlo olvidado..."
 
 # game/game_script_act2.rpy:921
 translate spanish game_script_act2_d786e503:
 
     # "Regardless, I grab the marker, toss the paper in the trash and hand it to Natsuki."
-    ""
+    "De todas maneras, cojo el boli, se lo doy a Natsuki y tiro el papel a la basura."
 
 # game/game_script_act2.rpy:927
 translate spanish game_script_act2_65959c7e:
 
     # "Marker in hand, she starts scribbling away at the weak tissue paper, somehow avoiding any major tears."
-    ""
+    "Bolígrafo en mano, empieza a escribir en la servilleta evitando romperla."
 
 # game/game_script_act2.rpy:929
 translate spanish game_script_act2_6f71ec4a:
 
     # "She hands it over to me, and I fold it, stuffing it into my back pocket."
-    ""
+    "Me la da y la doblo, guardándola en mi bolsillo."
 
 # game/game_script_act2.rpy:931
 translate spanish game_script_act2_1fa8c813:
 
     # n mb "Now you won’t forget."
-    n mb ""
+    n mb "Así, no te olvidas de nada."
 
 # game/game_script_act2.rpy:933
 translate spanish game_script_act2_a64e8bc0:
 
     # mc "Thanks."
-    mc ""
+    mc "Muchas gracias."
 
 # game/game_script_act2.rpy:934
 translate spanish game_script_act2_00c31e10:
 
     # mc "I won’t be long. The store’s not too far."
-    mc ""
+    mc "Como el súper no pilla lejos, no creo tardar mucho."
 
 # game/game_script_act2.rpy:936
 translate spanish game_script_act2_02ce66c5:
 
     # n rhip zz3 b3b e4a mc "I’ll manage the {i}terrifying{/i} 'home alone' experience."
-    n rhip zz3 b3b e4a mc ""
+    n rhip zz3 b3b e4a mc "Tranquilo, me las apañaré sufriendo la terrible experiencia de estar 'sola en casa'."
 
 # game/game_script_act2.rpy:938
 translate spanish game_script_act2_c2e6f021:

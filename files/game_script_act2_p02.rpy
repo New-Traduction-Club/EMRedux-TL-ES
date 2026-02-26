@@ -915,169 +915,169 @@ translate spanish game_script_act2_02ce66c5:
 translate spanish game_script_act2_c2e6f021:
 
     # mc "Alright, I’ll be back soon."
-    mc ""
+    mc "Genial, volveré en un rato."
 
 # game/game_script_act2.rpy:943
 translate spanish game_script_act2_d765c463:
 
     # "I give Natsuki a wave goodbye as I head out the door."
-    ""
+    "Me despido de Natsuki con la mano mientras voy a la puerta de entrada."
 
 # game/game_script_act2.rpy:963
 translate spanish game_script_act2_0d21391f:
 
     # "I make my way down to the shopping district."
-    ""
+    "Me dirijo a la zona comercial."
 
 # game/game_script_act2.rpy:964
 translate spanish game_script_act2_2867f7a2:
 
     # "As I pass by, I notice an autumn leaf fluttering along the sidewalk."
-    ""
+    "Al pasar, veo una hoja de otoño revoloteando por la acera."
 
 # game/game_script_act2.rpy:965
 translate spanish game_script_act2_2b3ad92f:
 
     # "Is it fall already?"
-    ""
+    "¿Es que lo es ya?"
 
 # game/game_script_act2.rpy:966
 translate spanish game_script_act2_ea3b2ea9:
 
     # "No wonder there’s such a chill..."
-    ""
+    "Con razón ya empezaba a hacer rasca..."
 
 # game/game_script_act2.rpy:967
 translate spanish game_script_act2_a5847886:
 
     # "With the store now in view, I quicken my pace."
-    ""
+    "Con el supermercado en el punto de mira, aligero el paso."
 
 # game/game_script_act2.rpy:971
 translate spanish game_script_act2_35268e4f:
 
     # "As I make my way inside, I’m engulfed in the warm aroma of the indoor heater."
-    ""
+    "Al entrar, me envuelve el cálido aroma de la calefacción interior."
 
 # game/game_script_act2.rpy:972
 translate spanish game_script_act2_b48f6cf5:
 
     # "I take a basket from the rack, and pull out the piece of tissue paper with the shopping list."
-    ""
+    "Cojo una cesta del estante y saco el trozo de servilleta."
 
 # game/game_script_act2.rpy:976
 translate spanish game_script_act2_6ac70ed1:
 
     # "She should’ve really given me some quantities, because I don’t know how much of these I should get."
-    ""
+    "Debería haberme especificado cantidades exactas, porque ahora no sé cuánto va a necesitar."
 
 # game/game_script_act2.rpy:977
 translate spanish game_script_act2_72e147bc:
 
     # "I have a limited budget, so that should give me a solid limit on how much I can get."
-    ""
+    "Tengo un presupuesto muy limitado, así que no puedo excederme."
 
 # game/game_script_act2.rpy:978
 translate spanish game_script_act2_1d545579:
 
     # "I scour the aisles for each item on the list, and crossing them off the list as I do so."
-    ""
+    "Tal y como consigo un producto, lo tacho de la lista."
 
 # game/game_script_act2.rpy:979
 translate spanish game_script_act2_f33f6c01:
 
     # "Bacon..."
-    ""
+    "Bacon..."
 
 # game/game_script_act2.rpy:981
 translate spanish game_script_act2_cde58531:
 
     # "Sugar..."
-    ""
+    "Azúcar..."
 
 # game/game_script_act2.rpy:983
 translate spanish game_script_act2_e0ca1f06:
 
     # "Whipped cream..."
-    ""
+    "Nata montada..."
 
 # game/game_script_act2.rpy:985
 translate spanish game_script_act2_0a44c278:
 
     # "Eggs, flour..."
-    ""
+    "Huevos, harina..."
 
 # game/game_script_act2.rpy:986
 translate spanish game_script_act2_09b9cf6d:
 
     # "You know, I should get some stuff for dinner tonight."
-    ""
+    "¿Sabes? Debería cogerme algo para cenar esta noche."
 
 # game/game_script_act2.rpy:987
 translate spanish game_script_act2_fcfa900d:
 
     # "I could go for some grilled fish and rice."
-    ""
+    "Pillaré el pescado a la parrilla con arroz."
 
 # game/game_script_act2.rpy:988
 translate spanish game_script_act2_4aac9184:
 
     # "Now the chocolate bar."
-    ""
+    "Solo falta la tableta de chocolate."
 
 # game/game_script_act2.rpy:989
 translate spanish game_script_act2_d3b6239c:
 
     # "Fortunately, the snack aisle is just opposite the self-checkout tills."
-    ""
+    "Afortunadamente, el pasillo de los snacks está por detrás de las cajas de autopago."
 
 # game/game_script_act2.rpy:990
 translate spanish game_script_act2_92b0ef47:
 
     # "I skim through the mountain of snacks, unsure of what would be to Natsuki’s taste, until..."
-    ""
+    "Tras estar un rato mirando qué snack le pega más a Natsuki..."
 
 # game/game_script_act2.rpy:999
 translate spanish game_script_act2_9bd2e71c:
 
     # m b1f mg "Oh,{w=0.6} [player]?{w=0.9} {nw}"
-    m b1f mg ""
+    m b1f mg "Anda...{w=0.6} ¿[player]?{w=0.9} {nw}"
 
 # game/game_script_act2.rpy:1001
 translate spanish game_script_act2_eb8a6d3e:
 
     # extend "Fancy seeing you here."
-    extend ""
+    extend "Me alegra verte por aquí."
 
 # game/game_script_act2.rpy:1003
 translate spanish game_script_act2_cec305a5:
 
     # "Monika?"
-    ""
+    "¿Monika?"
 
 # game/game_script_act2.rpy:1004
 translate spanish game_script_act2_e9eb8473:
 
     # "What’s she doing here?"
-    ""
+    "¿Qué hace aquí?"
 
 # game/game_script_act2.rpy:1006
 translate spanish game_script_act2_f1367616:
 
     # mc "{cps=20}Hiiii...{/cps}Monika. {w=0.6}What’s going on?"
-    mc ""
+    mc "{cps=20}Holaaa...{/cps} Monika.  {w=0.6}¿Qué pasa?"
 
 # game/game_script_act2.rpy:1008
 translate spanish game_script_act2_895b832a:
 
     # m mb "Oh, nothing."
-    m mb ""
+    m mb "Ah, no pasa nada."
 
 # game/game_script_act2.rpy:1009
 translate spanish game_script_act2_301c55dc:
 
     # m e4b "Just getting some snacks for the club."
-    m e4b ""
+    m e4b "He venido a comprar algo de picar para el club."
 
 # game/game_script_act2.rpy:1010
 translate spanish game_script_act2_e0c56ab9:

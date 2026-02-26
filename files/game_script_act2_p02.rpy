@@ -639,7 +639,7 @@ translate spanish game_script_act2_17a2a630:
 translate spanish game_script_act2_5c3dd5b9:
 
     # n mq rdown "...you’re kidding."
-    n mq rdown "Estás de coña, ¿no?"
+    n mq rdown "Estarás de coña, ¿no?"
 
 # game/game_script_act2.rpy:840
 translate spanish game_script_act2_001c639a:
@@ -687,13 +687,13 @@ translate spanish game_script_act2_71003681:
 translate spanish game_script_act2_c0cb9f27:
 
     # n mi "Yeah, there is no way in hell I’m wearing these."
-    n mi "Ni de coña pienso llevar esto."
+    n mi "Ni muerta pienso llevar esto."
 
 # game/game_script_act2.rpy:866
 translate spanish game_script_act2_dc295065:
 
     # mc "But they’re {i}soooo{/i} cute!"
-    mc "¡Si son muuuy monas!"
+    mc "¡Si son monísimaaas!"
 
 # game/game_script_act2.rpy:868
 translate spanish game_script_act2_a01dd58c:
@@ -705,7 +705,7 @@ translate spanish game_script_act2_a01dd58c:
 translate spanish game_script_act2_4386fd67:
 
     # mc "Hey, at least they do the job."
-    mc "Por lo menos cumplen su cometido."
+    mc "Por lo menos cumplen con su cometido."
 
 # game/game_script_act2.rpy:872
 translate spanish game_script_act2_10ee62d4:
@@ -723,7 +723,7 @@ translate spanish game_script_act2_c143020b:
 translate spanish game_script_act2_507188d9:
 
     # mc "Hey, watch it! The shades aren’t mine."
-    mc "¡Cuidado con ellas! Que no son mías, ¿sabes?"
+    mc "¡Eh, cuidado! Que no son mías, ¿sabes?"
 
 # game/game_script_act2.rpy:879
 translate spanish game_script_act2_f03ab6ac:
@@ -801,7 +801,7 @@ translate spanish game_script_act2_d404be44:
 translate spanish game_script_act2_9b8ab026:
 
     # n b1c "Maybe some chocolate..?"
-    n b1c "¿Algo de chocolate?"
+    n b1c "¿Me traes algo con chocolate?"
 
 # game/game_script_act2.rpy:901
 translate spanish game_script_act2_51dd859d:

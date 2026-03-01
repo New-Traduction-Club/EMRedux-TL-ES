@@ -1557,13 +1557,13 @@ translate spanish game_script_act2_0d308525:
 translate spanish game_script_act2_769af9c6:
 
     # m "It could encourage some cooperation...{w=0.8}{nw}"
-    m "Puede que consiga reforzar la cooperatividad{w=0.8} {nw}"
+    m "Quizá consiga reforzar la cooperatividad{w=0.8} {nw}"
 
 # game/game_script_act2.rpy:1168
 translate spanish game_script_act2_07a21d3e:
 
     # extend "maybe they could develop their writing styles with each other?"
-    extend "y hacer que refuercen la escritura ayudándose unos a otros."
+    extend "y hacer que, en consecuencia, refuercen la escritura ayudándose unos a otros."
 
 # game/game_script_act2.rpy:1169
 translate spanish game_script_act2_bbab5103:

@@ -1125,7 +1125,7 @@ translate spanish game_script_act2_1245a566:
 translate spanish game_script_act2_bd90947f:
 
     # mc "Don’t worry about it. I haven’t been to school today either,{w=0.8} {nw}"
-    mc "No te preocupes. Hoy ni siquiera he ido a clase, {w=0.8} {nw}"
+    mc "No te preocupes. Hoy ni siquiera he ido a clase,{w=0.8} {nw}"
 
 # game/game_script_act2.rpy:1032
 translate spanish game_script_act2_02b3ff6c:

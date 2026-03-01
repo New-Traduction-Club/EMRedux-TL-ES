@@ -1017,7 +1017,7 @@ translate spanish game_script_act2_09b9cf6d:
 translate spanish game_script_act2_fcfa900d:
 
     # "I could go for some grilled fish and rice."
-    "Pillaré el pescado a la parrilla con arroz."
+    "Podría hacerme algo de pescado a la plancha con un poco de arroz..."
 
 # game/game_script_act2.rpy:988
 translate spanish game_script_act2_4aac9184:

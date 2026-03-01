@@ -1527,13 +1527,13 @@ translate spanish game_script_act2_11797d6e:
 translate spanish game_script_act2_cae83a33:
 
     # m rdown lpoint "They’ll still be fresh by then."
-    m rdown lpoint "Se mantendrán en buen estado...,"
+    m rdown lpoint "Se mantendrán en buen estado."
 
 # game/game_script_act2.rpy:1161
 translate spanish game_script_act2_a3b1a71e:
 
     # mc "I guess."
-    mc "digo yo."
+    mc "Supongo."
 
 # game/game_script_act2.rpy:1162
 translate spanish game_script_act2_12fc7e7d:

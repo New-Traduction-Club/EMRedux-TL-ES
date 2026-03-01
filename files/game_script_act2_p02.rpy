@@ -1089,7 +1089,7 @@ translate spanish game_script_act2_e0c56ab9:
 translate spanish game_script_act2_b220dba9:
 
     # extend "You don’t exactly look ready for the club."
-    extend "Porque no tienr pinta de que vayas a asistir hoy."
+    extend "Porque no tiene pinta de que vayas a asistir hoy."
 
 # game/game_script_act2.rpy:1015
 translate spanish game_script_act2_45edf277:

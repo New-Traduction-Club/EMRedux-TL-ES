@@ -1335,7 +1335,7 @@ translate spanish game_script_act2_7e2cd6fe:
 translate spanish game_script_act2_ce413dc2:
 
     # m rhip e1b "I’m just...concerned is all. We’re barely a club without you, so you being away is..."
-    m rhip e1b "Solo estoy... preocupada. Apenas somos un club sin ti, así que tu ausencia es como si..."
+    m rhip e1b "Solo estoy... preocupada. Apenas somos un club sin ti, así que tu ausencia es muy..."
 
 # game/game_script_act2.rpy:1103
 translate spanish game_script_act2_bb22c4ae:
@@ -1371,7 +1371,7 @@ translate spanish game_script_act2_dac16979:
 translate spanish game_script_act2_b2c22111:
 
     # "I gesture towards the snacks again."
-    "Señalo de nuevo hacia los aperitivos."
+    "Señalo de nuevo hacia las chuches."
 
 # game/game_script_act2.rpy:1116
 translate spanish game_script_act2_88bfb0e1:

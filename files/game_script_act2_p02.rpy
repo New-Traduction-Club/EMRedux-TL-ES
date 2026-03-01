@@ -1449,7 +1449,7 @@ translate spanish game_script_act2_a4b9f2b9:
 translate spanish game_script_act2_104db9d9:
 
     # m mh "Um...{w=0.5}isn’t this a bit too sugary?"
-    m mh "Una cosa...{w=0.5} ¿no tiene demasiado azúcar? "
+    m mh "Una cosa...{w=0.5} ¿no tiene demasiado azúcar?"
 
 # game/game_script_act2.rpy:1138
 translate spanish game_script_act2_f7b1f83f:

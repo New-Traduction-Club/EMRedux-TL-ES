@@ -1029,7 +1029,7 @@ translate spanish game_script_act2_4aac9184:
 translate spanish game_script_act2_d3b6239c:
 
     # "Fortunately, the snack aisle is just opposite the self-checkout tills."
-    "Afortunadamente, el pasillo de los snacks está por detrás de las cajas de autopago."
+    "Afortunadamente, el pasillo de los aperitivos está por detrás de las cajas de autopago."
 
 # game/game_script_act2.rpy:990
 translate spanish game_script_act2_92b0ef47:

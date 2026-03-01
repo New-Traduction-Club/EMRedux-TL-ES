@@ -1137,7 +1137,7 @@ translate spanish game_script_act2_02b3ff6c:
 translate spanish game_script_act2_53ac0def:
 
     # m mi "Oh?{w=0.8} {nw}"
-    m mi "¿Cómo? {w=0.8} {nw}"
+    m mi "¿Cómo?{w=0.8} {nw}"
 
 # game/game_script_act2.rpy:1036
 translate spanish game_script_act2_064db7dc:

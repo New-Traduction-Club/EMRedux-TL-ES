@@ -1455,7 +1455,7 @@ translate spanish game_script_act2_104db9d9:
 translate spanish game_script_act2_f7b1f83f:
 
     # mc "That’s...the point. This {i}is{/i} Sayori we’re talking about, after all."
-    mc "Es la cosa. Te recuerdo que hablamos de Sayori."
+    mc "A eso queremos llegar. Te recuerdo que hablamos de Sayori."
 
 # game/game_script_act2.rpy:1140
 translate spanish game_script_act2_bb4f33fc:

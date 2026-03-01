@@ -1035,7 +1035,7 @@ translate spanish game_script_act2_d3b6239c:
 translate spanish game_script_act2_92b0ef47:
 
     # "I skim through the mountain of snacks, unsure of what would be to Natsuki’s taste, until..."
-    "Tras estar un rato mirando qué snack le pega más a Natsuki..."
+    "Tras estar un rato mirando qué le podría gustar más a Natsuki..."
 
 # game/game_script_act2.rpy:999
 translate spanish game_script_act2_9bd2e71c:

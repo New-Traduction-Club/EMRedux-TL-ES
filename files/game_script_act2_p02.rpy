@@ -927,13 +927,13 @@ translate spanish game_script_act2_d765c463:
 translate spanish game_script_act2_0d21391f:
 
     # "I make my way down to the shopping district."
-    "Me dirijo a la zona comercial."
+    "Me dirijo a la zona comercial de la ciudad."
 
 # game/game_script_act2.rpy:964
 translate spanish game_script_act2_2867f7a2:
 
     # "As I pass by, I notice an autumn leaf fluttering along the sidewalk."
-    "Al pasar, veo una hoja de otoño revoloteando por la acera."
+    "Al pasar, veo una hoja marrón, típica del otoño, revoloteando por la acera."
 
 # game/game_script_act2.rpy:965
 translate spanish game_script_act2_2b3ad92f:

@@ -1119,7 +1119,7 @@ translate spanish game_script_act2_2161187d:
 translate spanish game_script_act2_1245a566:
 
     # m e4b mb b1b n2 "Sorry, aha...{w=0.9} Maybe it's a sign that I need a break..."
-    m e4b mb b1b n2 "Y puede que... {w=0.9} que necesite un descanso. Lo siento mucho. Ja, ja."
+    m e4b mb b1b n2 "Y puede que... {w=0.9}que necesite un descanso. Lo siento mucho. Ja, ja."
 
 # game/game_script_act2.rpy:1030
 translate spanish game_script_act2_bd90947f:

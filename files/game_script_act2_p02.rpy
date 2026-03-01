@@ -1275,7 +1275,7 @@ translate spanish game_script_act2_8fe9ea13:
 translate spanish game_script_act2_1ed89260:
 
     # "Without another word, she awkwardly goes back to snack-hunting."
-    "Sin mediar ni una sola palabra, vuelve a la caza de dulces."
+    "Sin mediar ni una sola palabra más, vuelve a la caza de dulces."
 
 # game/game_script_act2.rpy:1084
 translate spanish game_script_act2_5804faaf:

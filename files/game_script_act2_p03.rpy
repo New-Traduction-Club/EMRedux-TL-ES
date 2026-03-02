@@ -51,7 +51,7 @@ translate spanish game_script_act2_9c23fe76:
 translate spanish game_script_act2_934eaeeb:
 
     # n "If you {i}really{/i} wanna know though..."
-    n "Aunque si te interesa saberlo...,"
+    n "Aunque, si te interesa saberlo...,"
 
 # game/game_script_act2.rpy:1313
 translate spanish game_script_act2_f90c382c:
@@ -63,7 +63,7 @@ translate spanish game_script_act2_f90c382c:
 translate spanish game_script_act2_39894637:
 
     # mc "Duly noted."
-    mc "Lo sé para la próxima."
+    mc "Pues me lo apunto para la próxima."
 
 # game/game_script_act2.rpy:1316
 translate spanish game_script_act2_edbc0816:

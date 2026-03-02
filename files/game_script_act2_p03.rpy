@@ -1221,7 +1221,7 @@ translate spanish game_script_act2_fe5be12c:
 translate spanish game_script_act2_42b896f8:
 
     # "So..."
-    "Entonces..."
+    "Pues..."
 
 # game/game_script_act2.rpy:1743
 translate spanish game_script_act2_0e3e7341:
@@ -1329,7 +1329,7 @@ translate spanish game_script_act2_7a32b849:
 translate spanish game_script_act2_c63f3a72:
 
     # n mf "Though...hmm...{w}"
-    n mf "Aunqueee... {w}"
+    n mf "Aunqueee...{w} "
 
 # game/game_script_act2.rpy:1774
 translate spanish game_script_act2_d8f7302e:

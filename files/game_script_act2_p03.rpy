@@ -9,7 +9,7 @@ translate spanish game_script_act2_456b13c4:
 translate spanish game_script_act2_e88b0113:
 
     # mc "Hey, I was planning on making some {i}actual{/i} food first, y’know."
-    mc "Quería hacer algo de comida normal y corriente antes, ¿eh?"
+    mc "¡Oye! Que quería hacer algo de comida normal y corriente antes, ¿eh?"
 
 # game/game_script_act2.rpy:1300
 translate spanish game_script_act2_d830ba2c:

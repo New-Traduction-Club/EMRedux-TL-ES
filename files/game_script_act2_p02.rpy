@@ -1707,145 +1707,145 @@ translate spanish game_script_act2_eb4e24ae:
 translate spanish game_script_act2_194c4369:
 
     # "She turns away and walks down the other side of the street, heading towards school."
-    ""
+    "Se da la vuelta y empieza a caminar en dirección al instituto."
 
 # game/game_script_act2.rpy:1216
 translate spanish game_script_act2_9329bfe4:
 
     # "I start my way home, walking at a brisk pace."
-    ""
+    "Yo, sin embargo, donde voy es a mi casa y a paso ligero."
 
 # game/game_script_act2.rpy:1217
 translate spanish game_script_act2_4f9a4c2f:
 
     # "Monika hid it well, but I could feel her disappointment."
-    ""
+    "Monika sabe ocultarlo muy bien, pero se veía a leguas su decepción."
 
 # game/game_script_act2.rpy:1218
 translate spanish game_script_act2_3d91a5e9:
 
     # "And when Natsuki doesn’t show up either..."
-    ""
+    "Cuando toque ir al club y Natsuki no se presente..."
 
 # game/game_script_act2.rpy:1219
 translate spanish game_script_act2_3f739ce1:
 
     # "I sigh."
-    ""
+    "Profiero un suspiro."
 
 # game/game_script_act2.rpy:1221
 translate spanish game_script_act2_8b001353:
 
     # "Why is nothing going the way I thought it would?"
-    ""
+    "¿Por qué nada va como yo creía que tendría que ir?"
 
 # game/game_script_act2.rpy:1222
 translate spanish game_script_act2_35c66676:
 
     # "The first time I talked to Monika, she looked like she had everything together."
-    ""
+    "La primera vez que hablé con Monika, parecía tenerlo todo bajo control."
 
 # game/game_script_act2.rpy:1223
 translate spanish game_script_act2_9ddc0acd:
 
     # "But now, she looks like she hasn’t slept in days..."
-    ""
+    "Y ahora... no parece haber dormido en días."
 
 # game/game_script_act2.rpy:1224
 translate spanish game_script_act2_192f4c89:
 
     # "Sayori’s depressed. Even if I could see the future, I wouldn’t have believed it."
-    ""
+    "Sayori tiene depresión y ni con mil ojos mirando al futuro podría haberme dado cuenta."
 
 # game/game_script_act2.rpy:1225
 translate spanish game_script_act2_c2bc539d:
 
     # "I mean, Natsuki is living in my house, for God’s sake!"
-    ""
+    "¡Y tengo a Natsuki viviendo en mi casa, por el amor de Dios!"
 
 # game/game_script_act2.rpy:1226
 translate spanish game_script_act2_086b5e22:
 
     # "And me..."
-    ""
+    "De mientras, yo..."
 
 # game/game_script_act2.rpy:1227
 translate spanish game_script_act2_efccfaf5:
 
     # "I..."
-    ""
+    "'Yo' qué."
 
 # game/game_script_act2.rpy:1230
 translate spanish game_script_act2_239f15cc:
 
     # "If I’d known the stress and anxiety that being involved in the Literature Club would cause..."
-    ""
+    "Si hubiese sabido de antemano lo que sería unirse al club de literatura,"
 
 # game/game_script_act2.rpy:1231
 translate spanish game_script_act2_f0ea2d19:
 
     # "I probably wouldn’t have joined in the first place."
-    ""
+    "no estaríamos en esta situación, para empezar."
 
 # game/game_script_act2.rpy:1232
 translate spanish game_script_act2_0d004d95:
 
     # "I mean, who would?"
-    ""
+    "En plan, ¿quién lo hubiese sabido?"
 
 # game/game_script_act2.rpy:1233
 translate spanish game_script_act2_a7056915:
 
     # "It was all cute girls and fun poems at first."
-    ""
+    "Eran chicas guapas y poemas divertidos cuando empecé."
 
 # game/game_script_act2.rpy:1234
 translate spanish game_script_act2_f7a9f0ad:
 
     # "Now, it feels like I haven’t seen words on paper in years."
-    ""
+    "Y ahora... siento que llevo años sin ver uno."
 
 # game/game_script_act2.rpy:1235
 translate spanish game_script_act2_bf0874e3:
 
     # "But..."
-    ""
+    "Pero,"
 
 # game/game_script_act2.rpy:1236
 translate spanish game_script_act2_08168040:
 
     # "Regardless of how I feel about the whole ordeal, I’m not leaving anytime soon."
-    ""
+    "independientemente de cómo me siento con todo esto, no me voy a echar atrás."
 
 # game/game_script_act2.rpy:1237
 translate spanish game_script_act2_56f8e68c:
 
     # "If I hadn’t joined the club, Natsuki would still be stuck with her abusive dad..."
-    ""
+    "Si no me hubiese unido al club, Natsuki seguiría en las mismas...,"
 
 # game/game_script_act2.rpy:1238
 translate spanish game_script_act2_32d8e32f:
 
     # "With nobody to help her..."
-    ""
+    "sin nadie que la ayude."
 
 # game/game_script_act2.rpy:1240
 translate spanish game_script_act2_44ffbee5:
 
     # "And Sayori."
-    ""
+    "Y Sayori..."
 
 # game/game_script_act2.rpy:1241
 translate spanish game_script_act2_df2abf78:
 
     # "She’d be..."
-    ""
+    "Sayori estaría..."
 
 # game/game_script_act2.rpy:1243
 translate spanish game_script_act2_b486c0d6:
 
     # "I feel my chest tighten as my heartbeat accelerates."
-    ""
+    "Siento que me aprieta el pecho y que se me acelera el corazón."
 
 # game/game_script_act2.rpy:1244
 translate spanish game_script_act2_3b9bb9f8:

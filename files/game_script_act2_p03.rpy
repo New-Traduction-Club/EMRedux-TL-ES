@@ -615,7 +615,7 @@ translate spanish game_script_act2_fbcd6690:
 translate spanish game_script_act2_5fb0be36:
 
     # n "I’ll get to that soon enough."
-    n "Lo pillaré en un rato."
+    n "Ya lo pillaré."
 
 # game/game_script_act2.rpy:1504
 translate spanish game_script_act2_d850f66d:

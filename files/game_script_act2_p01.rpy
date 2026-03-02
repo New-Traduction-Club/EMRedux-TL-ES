@@ -70,7 +70,7 @@ translate spanish game_script_act2_0d438ff9:
 translate spanish game_script_act2_6f04cef5:
 
     # "I’ll probably have to take some painkillers or something."
-    "Creo que me tomaré algún analgésico..."
+    "Creo que me tomaré alguna pastilla para el dolor..."
 
 # game/game_script_act2.rpy:41
 translate spanish game_script_act2_a756b4e3:
@@ -112,7 +112,7 @@ translate spanish game_script_act2_17076b99:
 translate spanish game_script_act2_cdf082ea:
 
     # "As soon as I exit the room, my stomach growls like a wild animal."
-    "Salgo de la habitación y empieza a rugirme el estómago como un león...,"
+    "Salgo de la habitación y me empieza a rugir el estómago como un león...,"
 
 # game/game_script_act2.rpy:49
 translate spanish game_script_act2_6c2c7abf:

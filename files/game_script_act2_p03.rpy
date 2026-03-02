@@ -831,295 +831,295 @@ translate spanish game_script_act2_06c8dd24:
 translate spanish game_script_act2_2c7bf5dd:
 
     # mc "...G’night, Nat."
-    mc ""
+    mc "Igualmente, Nat..."
 
 # game/game_script_act2.rpy:1575
 translate spanish game_script_act2_530a93c3:
 
     # "She climbs the stairs, slowly leaving my line of sight."
-    ""
+    "Sube las escaleras, desapareciendo poco a poco de mi campo de visión."
 
 # game/game_script_act2.rpy:1576
 translate spanish game_script_act2_62e48439:
 
     # "Hm. I wonder what that was all about."
-    ""
+    "Mmm... ¿a qué habrá venido eso?"
 
 # game/game_script_act2.rpy:1577
 translate spanish game_script_act2_9bb20616:
 
     # "Anyway, I should probably get to that poem before I call it a night."
-    ""
+    "Bueno, creo que debería ponerme ya con el poema antes de dar por finalizado el día."
 
 # game/game_script_act2.rpy:1578
 translate spanish game_script_act2_138028a8:
 
     # "I start heading upstairs myself."
-    ""
+    "Subo las escaleras."
 
 # game/game_script_act2.rpy:1580
 translate spanish game_script_act2_69fa4de1:
 
     # "As I reach the hall, I catch one last glimpse of Natsuki, closing the door to the spare room."
-    ""
+    "Tal y como llego a la planta de arriba, veo por un instante a Natsuki cerrando la puerta de la habitación de invitados."
 
 # game/game_script_act2.rpy:1582
 translate spanish game_script_act2_126c5c1d:
 
     # "Entering my bedroom, I take a seat at my desk, pick up a pen, and begin tapping at the paper as I get lost in my own thoughts."
-    ""
+    "Ya en mi cuarto, me siento en el escritorio, cojo un boli y empiezo a darle golpes al papel perdiéndome en un tren de pensamientos sin fin..."
 
 # game/game_script_act2.rpy:1603
 translate spanish game_script_act2_7ef1c8d2:
 
     # "I’m rudely awakened by the irritating yap of my alarm, even though it’s a Saturday."
-    ""
+    "Pese a ser sábado, la alarma me despierta con arrogancia."
 
 # game/game_script_act2.rpy:1604
 translate spanish game_script_act2_d2adab8d:
 
     # "I haphazardly swipe at it, in an effort to turn it off."
-    ""
+    "Arrastro mi mano al azar buscando apagarla."
 
 # game/game_script_act2.rpy:1605
 translate spanish game_script_act2_be556ad6:
 
     # "In my dazed trance, all I manage to do is {nw}"
-    ""
+    "En mi estado actual de recién despertado, lo único que he conseguido es {nw}"
 
 # game/game_script_act2.rpy:1607
 translate spanish game_script_act2_6f376877:
 
     # extend "knock everything off my nightstand, including the alarm."
-    extend ""
+    extend "tirarlo todo de la mesita de noche, incluyendo la alarma."
 
 # game/game_script_act2.rpy:1611
 translate spanish game_script_act2_090c4ddc:
 
     # "Still beeping, I force myself out of bed to shut it off once and for all."
-    ""
+    "Alarma que sigue sonando y que me obliga a levantarme para apagarla de una vez por todas."
 
 # game/game_script_act2.rpy:1613
 translate spanish game_script_act2_91848108:
 
     # "Since I’m already up, I opt to start my day earlier than expected and head downstairs."
-    ""
+    "Como ya he hecho lo más difícil, decido empezar el día más temprano de lo normal y bajo las escaleras."
 
 # game/game_script_act2.rpy:1617
 translate spanish game_script_act2_73d287d6:
 
     # "I trudge into the living room and sink into the couch."
-    ""
+    "Voy al salón y me siento en el sofá."
 
 # game/game_script_act2.rpy:1618
 translate spanish game_script_act2_e706918b:
 
     # "As the cushiony softness takes me in, I soon find myself feeling at ease with the calm, tranquil silence washing over me."
-    ""
+    "A medida que la mullida suavidad me atrapa, comienzo a apreciar el silencio y la calma aún más..."
 
 # game/game_script_act2.rpy:1619
 translate spanish game_script_act2_97ae9a1d:
 
     # "For now, I’m left only with my thoughts and the beautiful morning sunshine coming through the window."
-    ""
+    "Por ahora, solo estoy con mis pensamientos y el agradable sol mañanero entrando por la ventana."
 
 # game/game_script_act2.rpy:1620
 translate spanish game_script_act2_e539cf12:
 
     # "Considering the events of the past few days, this is exactly what I need."
-    ""
+    "Considerando la de cosas que han pasado estos días, esto es lo que necesitaba."
 
 # game/game_script_act2.rpy:1621
 translate spanish game_script_act2_8a785044:
 
     # "I can finally relax and think clearly for once."
-    ""
+    "Por fin puedo relajarme y pensar con claridad."
 
 # game/game_script_act2.rpy:1622
 translate spanish game_script_act2_136e5589:
 
     # "No panic, no stress, no..."
-    ""
+    "Sin pánico, sin estrés, sin..."
 
 # game/game_script_act2.rpy:1623
 translate spanish game_script_act2_0cf37a08:
 
     # "My trail of thought drifts off as the creaking of floorboards upstairs yanks me from my peace."
-    ""
+    "Mi tren de pensamientos descarrila tal y como escucho el crujido de las escaleras."
 
 # game/game_script_act2.rpy:1624
 translate spanish game_script_act2_2152317e:
 
     # "Looks like Natsuki’s awake as well."
-    ""
+    "Parece que Natsuki ya se ha levantado."
 
 # game/game_script_act2.rpy:1625
 translate spanish game_script_act2_16ec42ad:
 
     # "I turn to face her as she groggily walks down the steps."
-    ""
+    "Bajando aturdida, me giro para mirarla."
 
 # game/game_script_act2.rpy:1629
 translate spanish game_script_act2_2474b401:
 
     # mc "Mornin’, Nat."
-    mc ""
+    mc "Buenos días, Nat."
 
 # game/game_script_act2.rpy:1649
 translate spanish game_script_act2_f001cb7e:
 
     # "She rubs her eyes and lets out a yawn."
-    ""
+    "Se frota los ojos y bosteza."
 
 # game/game_script_act2.rpy:1652
 translate spanish game_script_act2_d03083d3:
 
     # n mg "Hey, [player]."
-    n mg ""
+    n mg "Ey, [player]."
 
 # game/game_script_act2.rpy:1653
 translate spanish game_script_act2_99fe25fd:
 
     # n rhip b1c "What’re you doing up so early?"
-    n rhip b1c ""
+    n rhip b1c "¿Qué haces levantado tan temprano?"
 
 # game/game_script_act2.rpy:1656
 translate spanish game_script_act2_53b9f6bb:
 
     # "I glance over at the clock and see it’s only eight in the morning."
-    ""
+    "Miro el reloj y veo que son las ocho de la mañana."
 
 # game/game_script_act2.rpy:1658
 translate spanish game_script_act2_d7695455:
 
     # mc "It’s not {i}that{/i} early, you know."
-    mc ""
+    mc "Tampoco es taaan temprano."
 
 # game/game_script_act2.rpy:1659
 translate spanish game_script_act2_6970511d:
 
     # n mb "It is for you."
-    n mb ""
+    n mb "Para ti no lo será."
 
 # game/game_script_act2.rpy:1661
 translate spanish game_script_act2_699878f6_1:
 
     # mc "Hey!"
-    mc ""
+    mc "¡Oye!"
 
 # game/game_script_act2.rpy:1664
 translate spanish game_script_act2_c8f702b6:
 
     # "She shrugs her shoulders as a smile creeps onto her face."
-    ""
+    "Se encoge de hombros mientras sonríe."
 
 # game/game_script_act2.rpy:1667
 translate spanish game_script_act2_037f7952:
 
     # n mb "I don’t know, you just seem like the type to sleep through half of your Saturday."
-    n mb ""
+    n mb "No sé, pareces el típico que se pega durmiendo hasta mediodía."
 
 # game/game_script_act2.rpy:1668
 translate spanish game_script_act2_1deabf12:
 
     # n lhip b1f mn "Am I wrong?"
-    n lhip b1f mn ""
+    n lhip b1f mn "¿Me equivoco?"
 
 # game/game_script_act2.rpy:1670
 translate spanish game_script_act2_514d035f:
 
     # mc "Well...{w}not really, no."
-    mc ""
+    mc "La verdad es que...{w} no."
 
 # game/game_script_act2.rpy:1672
 translate spanish game_script_act2_462f0901:
 
     # n e4b zz2 b2a mc "Heh, figures."
-    n e4b zz2 b2a mc ""
+    n e4b zz2 b2a mc "Ja, ja. Me lo imaginaba."
 
 # game/game_script_act2.rpy:1675
 translate spanish game_script_act2_8f23cc04:
 
     # "Wait, figures?"
-    ""
+    "¿Que se lo imaginaba?"
 
 # game/game_script_act2.rpy:1678
 translate spanish game_script_act2_80947162:
 
     # n ldown e1a b1c mg zz1 "Welp. I’m hungry."
-    n ldown e1a b1c mg zz1 ""
+    n ldown e1a b1c mg zz1 "Pues nada, tengo hambre."
 
 # game/game_script_act2.rpy:1680
 translate spanish game_script_act2_18c95697:
 
     # n "I’m gonna go make something."
-    n ""
+    n "Voy a hacerme algo de desayunar."
 
 # game/game_script_act2.rpy:1684
 translate spanish game_script_act2_1e40401f:
 
     # "Natsuki stomps her way to the kitchen."
-    ""
+    "Natsuki se dirige a la cocina dando pisotones."
 
 # game/game_script_act2.rpy:1685
 translate spanish game_script_act2_a9145880:
 
     # "Leaving the comfort of the couch, I reluctantly follow her."
-    ""
+    "Levantándome del mullido y reconfortante sofá, la sigo."
 
 # game/game_script_act2.rpy:1691
 translate spanish game_script_act2_da8bf562:
 
     # n "You got bacon and eggs yesterday, right?"
-    n ""
+    n "¿Compraste ayer huevos y bacon?"
 
 # game/game_script_act2.rpy:1693
 translate spanish game_script_act2_7c927b78:
 
     # mc "Yes?"
-    mc ""
+    mc "¿Puede?"
 
 # game/game_script_act2.rpy:1696
 translate spanish game_script_act2_04697035:
 
     # "Natsuki quickly grabs the apron slung over the oven handle and puts it on."
-    ""
+    "Natsuki coge el delantal colgado del asa del horno y se lo pone."
 
 # game/game_script_act2.rpy:1700
 translate spanish game_script_act2_ccfd7216:
 
     # n lhip mc "Then, let’s make some bacon and eggs!"
-    n lhip mc ""
+    n lhip mc "¡Pues hagamos huevos con bacon!"
 
 # game/game_script_act2.rpy:1703
 translate spanish game_script_act2_8a55804c:
 
     # "I take a good look at her."
-    ""
+    "Miro a Natsuki con detenimiento."
 
 # game/game_script_act2.rpy:1704
 translate spanish game_script_act2_c0439150:
 
     # "Natsuki in an apron..."
-    ""
+    "Ahora que la veo en delantal..."
 
 # game/game_script_act2.rpy:1706
 translate spanish game_script_act2_61fae46f:
 
     # "Crap."
-    ""
+    "Joder."
 
 # game/game_script_act2.rpy:1707
 translate spanish game_script_act2_4dcabfec:
 
     # "She {i}does{/i} pull it off."
-    ""
+    "Le pega más que a mí."
 
 # game/game_script_act2.rpy:1710
 translate spanish game_script_act2_ce74327a:
 
     # n "Hey, stop ogling and start helping."
-    n ""
+    n "¡Espabila, no te quedes embobado y ayúdame!"
 
 # game/game_script_act2.rpy:1712
 translate spanish game_script_act2_9e87d0f4:

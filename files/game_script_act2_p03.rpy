@@ -651,37 +651,37 @@ translate spanish game_script_act2_38b93cde:
 translate spanish game_script_act2_775340e7:
 
     # mc "Y’know, Monika still wants us to write our poems!"
-    mc ""
+    mc "¡Monika me dijo que sigamos escribiendo poemas!"
 
 # game/game_script_act2.rpy:1513
 translate spanish game_script_act2_75897d24:
 
     # n "So?!"
-    n ""
+    n "¡¿Y?!"
 
 # game/game_script_act2.rpy:1514
 translate spanish game_script_act2_7da0849c:
 
     # mc "So, we should sit down and do that at some point!"
-    mc ""
+    mc "¡Que nos tendremos que poner a ello en cualquier momento!"
 
 # game/game_script_act2.rpy:1515
 translate spanish game_script_act2_2e5d88b8:
 
     # n "I’ll do you one better!"
-    n ""
+    n "¡El mío será mejor que el tuyo!"
 
 # game/game_script_act2.rpy:1517
 translate spanish game_script_act2_b51a4820:
 
     # "She appears in the doorway empty-handed."
-    ""
+    "Aparece en el pasillo sin nada en las manos."
 
 # game/game_script_act2.rpy:1522
 translate spanish game_script_act2_c9d186b9:
 
     # n "How about we do our poems separately, then we save them for the club?"
-    n ""
+    n "¿Te hace escribir los poemas por separado y dejarlos reservados para el club?"
 
 # game/game_script_act2.rpy:1524
 translate spanish game_script_act2_9c4cc070:

@@ -112,13 +112,13 @@ translate spanish game_script_act2_17076b99:
 translate spanish game_script_act2_cdf082ea:
 
     # "As soon as I exit the room, my stomach growls like a wild animal."
-    "Salgo de la habitación y me empieza a rugir el estómago como un león...,"
+    "Salgo de la habitación y empieza a rugirme el estómago como un león...,"
 
 # game/game_script_act2.rpy:49
 translate spanish game_script_act2_6c2c7abf:
 
     # "...Probably because the last thing I ate was a bag of crisps..."
-    "y el motivo de ello es que anoche comí patatas fritas únicamente."
+    "y el motivo de ello es que anoche comí patatas fritas... y ya."
 
 # game/game_script_act2.rpy:50
 translate spanish game_script_act2_f5d06c02:

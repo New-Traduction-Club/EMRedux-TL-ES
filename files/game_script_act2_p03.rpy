@@ -1419,79 +1419,79 @@ translate spanish game_script_act2_2b35b6fe_1:
 translate spanish game_script_act2_97c9fb35:
 
     # "I could hear a pin drop from across the kitchen."
-    ""
+    "Puedo oír el vuelo de una mosca desde cualquier parte de la casa."
 
 # game/game_script_act2.rpy:1803
 translate spanish game_script_act2_b0fab49b:
 
     # "Quick to salvage the silence, I pipe up."
-    ""
+    "Apresurándome para aprovechar el silencio, hablo."
 
 # game/game_script_act2.rpy:1805
 translate spanish game_script_act2_87dd94c8:
 
     # mc "Well, y’know...{w}I just...{w}enjoy your enthusiasm for it..."
-    mc ""
+    mc "Y-Ya sabes,{w} disfruto del...{w} de tu entusiasmo..."
 
 # game/game_script_act2.rpy:1806
 translate spanish game_script_act2_ab521462:
 
     # n e1a b1d mb "Uh huh, sure."
-    n e1a b1d mb ""
+    n e1a b1d mb "Ya, claro."
 
 # game/game_script_act2.rpy:1808
 translate spanish game_script_act2_61122dd5:
 
     # mc "Hey, all I'm saying is that it's cute how invested you get in the story."
-    mc ""
+    mc "Oye, solo digo que me parece adorable lo puesta que estás en el manga."
 
 # game/game_script_act2.rpy:1811
 translate spanish game_script_act2_b106c1ab:
 
     # "Natsuki grabs an egg and cracks it on the rim of the bowl, dropping the yolk perfectly inside."
-    ""
+    "Natsuki coge un huevo y lo casca en el borde del cuenco, dejando caer la yema perfectamente."
 
 # game/game_script_act2.rpy:1813
 translate spanish game_script_act2_d112bec7:
 
     # n awkw mb "You see that egg, [player]?"
-    n awkw mb ""
+    n awkw mb "¿Ves el huevo, [player]?"
 
 # game/game_script_act2.rpy:1815
 translate spanish game_script_act2_eb06e95b:
 
     # mc "Yeah...?"
-    mc ""
+    mc "¿Sí...?"
 
 # game/game_script_act2.rpy:1817
 translate spanish game_script_act2_843b7fb6:
 
     # n rhip e4a b3a zz3 mc "That’s gonna be your skull after I’m done with you."
-    n rhip e4a b3a zz3 mc ""
+    n rhip e4a b3a zz3 mc "Pues será tu calavera después de acabar contigo."
 
 # game/game_script_act2.rpy:1819
 translate spanish game_script_act2_c90677f0:
 
     # mc "Oh wow, I’m {i}sooooooo scaaarrreeed{/i}."
-    mc ""
+    mc "Ay, nooo, estoy súper asustado, no lo hagaaas."
 
 # game/game_script_act2.rpy:1821
 translate spanish game_script_act2_6a14a5fc:
 
     # n e1a b1d mn zz1 "You should be."
-    n e1a b1d mn zz1 ""
+    n e1a b1d mn zz1 "Asústate, asústate."
 
 # game/game_script_act2.rpy:1824
 translate spanish game_script_act2_20836bb0:
 
     # "I pay no attention to Natsuki’s empty threats."
-    ""
+    "Paso de las amenazas vacías de Natsuki."
 
 # game/game_script_act2.rpy:1826
 translate spanish game_script_act2_72b26656:
 
     # "The bacon starts to buckle and curl."
-    ""
+    "El bacon empieza a doblarse y a enroscarse."
 
 # game/game_script_act2.rpy:1827
 translate spanish game_script_act2_0bf33c3c:

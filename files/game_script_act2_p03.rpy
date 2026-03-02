@@ -147,7 +147,7 @@ translate spanish game_script_act2_a7338961:
 translate spanish game_script_act2_139220b5:
 
     # n e1a mc zz1 "This is art."
-    n e1a mc zz1 "tremenda obra de arte."
+    n e1a mc zz1 "menuda obra de arte estoy presenciando."
 
 # game/game_script_act2.rpy:1353
 translate spanish game_script_act2_63aca5da:
@@ -159,403 +159,403 @@ translate spanish game_script_act2_63aca5da:
 translate spanish game_script_act2_74a27ec5:
 
     # n turned casual2 laug om oe zz1 "Well, yeah!"
-    n turned casual2 laug om oe zz1 ""
+    n turned casual2 laug om oe zz1 "¡Lo sé, lo sé!"
 
 # game/game_script_act2.rpy:1357
 translate spanish game_script_act2_6aeb65c3:
 
     # n mb "At least I can pull it off."
-    n mb ""
+    n mb "¡Pero al menos a mí me queda bien!"
 
 # game/game_script_act2.rpy:1359
 translate spanish game_script_act2_62fa9484:
 
     # mc "Sure, sure."
-    mc ""
+    mc "Que sí, lo que tú digas."
 
 # game/game_script_act2.rpy:1361
 translate spanish game_script_act2_0b6ba99c:
 
     # n lhip b1c mb "Well, I’m gonna go find us something fun to watch."
-    n lhip b1c mb ""
+    n lhip b1c mb "Bueno, voy a ver si echan algo guay por la tele."
 
 # game/game_script_act2.rpy:1362
 translate spanish game_script_act2_efb66c86:
 
     # n mc "You work your {i}magic{/i}, okay?"
-    n mc ""
+    n mc "Tú haz tu 'magia', ¿vale?"
 
 # game/game_script_act2.rpy:1364
 translate spanish game_script_act2_37aaed28:
 
     # mc "Uh-huh."
-    mc ""
+    mc "Sí."
 
 # game/game_script_act2.rpy:1368
 translate spanish game_script_act2_41e42c11:
 
     # "Natsuki chuckles as she heads back into the living room."
-    ""
+    "Natsuki se dirige al salón mientras se ríe."
 
 # game/game_script_act2.rpy:1369
 translate spanish game_script_act2_c97fb263:
 
     # "Alright, cooking skills, don’t fail me now..."
-    ""
+    "Vamos allá. Habilidades culinarias, no me falléis ahora..."
 
 # game/game_script_act2.rpy:1379
 translate spanish game_script_act2_6a083000:
 
     # "...Well, it’s not the worst thing I’ve ever made."
-    ""
+    "A ver... no es, ni de lejos, lo peor que he parido."
 
 # game/game_script_act2.rpy:1380
 translate spanish game_script_act2_9151e937:
 
     # "But it’s certainly not my proudest meal."
-    ""
+    "Aunque no es de mis mejores platos "
 
 # game/game_script_act2.rpy:1381
 translate spanish game_script_act2_d8d6ac19:
 
     # "I hope it’s serviceable."
-    ""
+    "Espero que sea presentable."
 
 # game/game_script_act2.rpy:1382
 translate spanish game_script_act2_fa2be441:
 
     # "I take a plate in each hand and bring them both into the living room."
-    ""
+    "Cojo un plato en cada mano y los llevo al salón."
 
 # game/game_script_act2.rpy:1387
 translate spanish game_script_act2_1b9ce087:
 
     # "Natsuki, having heard the noise,{nw} "
-    ""
+    "Al escuchar el ruido,{nw} "
 
 # game/game_script_act2.rpy:1389
 translate spanish game_script_act2_8464194f:
 
     # extend "rushes up and snatches her plate out of my hand,{nw} "
-    extend ""
+    extend "Natsuki me arrebata su plato de la mano{nw} "
 
 # game/game_script_act2.rpy:1391
 translate spanish game_script_act2_83c49cb1:
 
     # extend "before returning to her seat."
-    extend ""
+    extend "y vuelve a su sitio en un abrir y cerrar de ojos."
 
 # game/game_script_act2.rpy:1394
 translate spanish game_script_act2_c276a40c:
 
     # "I join her, resting my meal on my lap."
-    ""
+    "Me siento a su lado dejando el plato en mi regazo."
 
 # game/game_script_act2.rpy:1395
 translate spanish game_script_act2_e2978835:
 
     # "She picks up her fork and knife and gets ready to eat."
-    ""
+    "Natsuki coge su cuchillo y su tenedor y empieza a comer."
 
 # game/game_script_act2.rpy:1396
 translate spanish game_script_act2_84134c86:
 
     # "I start digging into my own plate."
-    ""
+    "Hago lo mismo con el mío."
 
 # game/game_script_act2.rpy:1397
 translate spanish game_script_act2_504c824a:
 
     # "It’s not exactly the best meal I’ve eaten, but it works."
-    ""
+    "No es lo mejor que he comido, pero bueno..."
 
 # game/game_script_act2.rpy:1398
 translate spanish game_script_act2_6c3588d4:
 
     # "I take a glance at Natsuki, curious as to how she’s liking it."
-    ""
+    "Echo un vistazo a Natsuki, que parece disfrutar."
 
 # game/game_script_act2.rpy:1400
 translate spanish game_script_act2_19bb2cdb:
 
     # "She’s tearing through it at an Olympic pace."
-    ""
+    "Está arrasando en tiempo récord."
 
 # game/game_script_act2.rpy:1401
 translate spanish game_script_act2_66e4dcd0:
 
     # "I don’t know what I expected, but I guess 'edible' is more than enough for me."
-    ""
+    "No sé qué esperaba de esto, pero 'comestible' es lo único que necesito ahora mismo."
 
 # game/game_script_act2.rpy:1404
 translate spanish game_script_act2_093af2fb:
 
     # mc "Nat, take a breather, jeez."
-    mc ""
+    mc "Dios mío, Nat, respira un poco."
 
 # game/game_script_act2.rpy:1406
 translate spanish game_script_act2_25460215:
 
     # n mf "Mmh, this ish shum good grub."
-    n mf ""
+    n mf "Mmm, esh que eshtá de muerte."
 
 # game/game_script_act2.rpy:1407
 translate spanish game_script_act2_ffe7253b:
 
     # n e4b zz2 "I migh’ve jusht undereshtimated yoor coohing."
-    n e4b zz2 ""
+    n e4b zz2 "Pude que te jaya juzjado mall en la jocina."
 
 # game/game_script_act2.rpy:1410
 translate spanish game_script_act2_c8189061:
 
     # "She continues eating as she speaks."
-    ""
+    "Mientras habla, sigue comiendo."
 
 # game/game_script_act2.rpy:1413
 translate spanish game_script_act2_116fc040:
 
     # mc "I didn’t catch any of that."
-    mc ""
+    mc "No he entendido nada."
 
 # game/game_script_act2.rpy:1415
 translate spanish game_script_act2_efcd81d5:
 
     # "She pauses for a second, before finally swallowing her food."
-    ""
+    "Para de hablar y traga."
 
 # game/game_script_act2.rpy:1418
 translate spanish game_script_act2_390c4ef4:
 
     # n rhip e1a b1c mg zz1 "What I was trying to say is..."
-    n rhip e1a b1c mg zz1 ""
+    n rhip e1a b1c mg zz1 "Lo que te decía era que...,"
 
 # game/game_script_act2.rpy:1419
 translate spanish game_script_act2_42c996e6:
 
     # n mb "This is pretty good."
-    n mb ""
+    n mb "está muy bueno."
 
 # game/game_script_act2.rpy:1421
 translate spanish game_script_act2_e7010307:
 
     # mc "It’s not my best, but I appreciate it."
-    mc ""
+    mc "No es lo mejor de lo que soy capaz, pero me alegro de que te guste."
 
 # game/game_script_act2.rpy:1423
 translate spanish game_script_act2_8b097861:
 
     # n b1f mg "This isn’t your best?"
-    n b1f mg ""
+    n b1f mg "¿Que no es lo mejor?"
 
 # game/game_script_act2.rpy:1425
 translate spanish game_script_act2_fce2b387:
 
     # mc "I can whip up some mean instant noodles."
-    mc ""
+    mc "Ya te digo. Soy capaz de preparar unos fideos instantáneos súper buenos."
 
 # game/game_script_act2.rpy:1427
 translate spanish game_script_act2_bf711104:
 
     # n lhip e4a b3b mc zz3 "{i}And suddenly, I have no regrets coming here.{/i}"
-    n lhip e4a b3b mc zz3 ""
+    n lhip e4a b3b mc zz3 "Fíjate, no me arrepiento de haber venido aquí."
 
 # game/game_script_act2.rpy:1431
 translate spanish game_script_act2_9b6aa37d:
 
     # "Regrets?"
-    ""
+    "¿Que no se arrepiente?"
 
 # game/game_script_act2.rpy:1433
 translate spanish game_script_act2_c0ea507e:
 
     # "It was just a joke, [player]."
-    ""
+    "Era un comentario jocoso, [player]."
 
 # game/game_script_act2.rpy:1434
 translate spanish game_script_act2_d9bcb196:
 
     # "I shouldn’t be getting too worked up about it."
-    ""
+    "No debería preocuparme por eso."
 
 # game/game_script_act2.rpy:1437
 translate spanish game_script_act2_745c2381:
 
     # mc "That’s a relief."
-    mc ""
+    mc "Me alegra que lo digas."
 
 # game/game_script_act2.rpy:1438
 translate spanish game_script_act2_ac92fd9c:
 
     # mc "Oh, by the way..."
-    mc ""
+    mc "Ah, por cierto...,"
 
 # game/game_script_act2.rpy:1439
 translate spanish game_script_act2_052aca8d:
 
     # mc "Probably best you didn’t come to the store with me."
-    mc ""
+    mc "has hecho bien en no venir conmigo al supermercado."
 
 # game/game_script_act2.rpy:1441
 translate spanish game_script_act2_928cdc47:
 
     # n b1f mg "Yeah? How come?"
-    n b1f mg ""
+    n b1f mg "¿Sí? ¿Y eso?"
 
 # game/game_script_act2.rpy:1443
 translate spanish game_script_act2_fb592590:
 
     # mc "I ran into Monika. She was stocking up on snacks for this {nw}"
-    mc ""
+    mc "Me di de bruces con Monika. Estaba... comprando chucherías y cosas así para una especie de {nw}"
 
 # game/game_script_act2.rpy:1445
 translate spanish game_script_act2_aeedb009:
 
     # extend "'surprise party' for Sayori."
-    extend ""
+    extend "'fiesta sorpresa' para Sayori."
 
 # game/game_script_act2.rpy:1446
 translate spanish game_script_act2_4c27d581:
 
     # mc "It was supposed to be today, but when I told her I was gonna be a no-show, she moved it to Monday."
-    mc ""
+    mc "Iba a ser hoy, pero le dije que no iba a asistir al club y lo ha pospuesto para el lunes."
 
 # game/game_script_act2.rpy:1449
 translate spanish game_script_act2_e2797978:
 
     # "Natsuki stops eating for a moment."
-    ""
+    "Natsuki deja de comer."
 
 # game/game_script_act2.rpy:1452
 translate spanish game_script_act2_51f84703:
 
     # n mh "Huh..."
-    n mh ""
+    n mh "Eh..."
 
 # game/game_script_act2.rpy:1453
 translate spanish game_script_act2_0fbeda4c:
 
     # n e1c "Something about that rubs me the wrong way."
-    n e1c ""
+    n e1c "Algo me dice que esto no va a acabar bien."
 
 # game/game_script_act2.rpy:1455
 translate spanish game_script_act2_f49fff8f:
 
     # mc "Yeah?"
-    mc ""
+    mc "¿Por?"
 
 # game/game_script_act2.rpy:1457
 translate spanish game_script_act2_b4e3e3fc:
 
     # n curi e1c om "Listen, I don’t know Sayori as well as you, but..."
-    n curi e1c om ""
+    n curi e1c om "Mira, no conozco a Sayori tanto como tú, pero...,"
 
 # game/game_script_act2.rpy:1458
 translate spanish game_script_act2_4e6160fe:
 
     # n cm "Just...{w=1.0}{nw}"
-    n cm ""
+    n cm "es que...{w=1.0} {nw}"
 
 # game/game_script_act2.rpy:1460
 translate spanish game_script_act2_bce49edd:
 
     # extend "look, imagine if everyone knew about my 'situation'..."
-    extend ""
+    extend "imagina por un momento que todo el mundo supiese mi... 'situación'."
 
 # game/game_script_act2.rpy:1461
 translate spanish game_script_act2_175e9ec5:
 
     # n ldown "And they decided to throw me a surprise party telling me everything will be okay..."
-    n ldown ""
+    n ldown "Imagina que deciden hacerme una fiesta sorpresa diciéndome que todo va a ir bien,"
 
 # game/game_script_act2.rpy:1462
 translate spanish game_script_act2_aa441563:
 
     # n b1d "...when they don’t really know jack shit about what I’m going through."
-    n b1d ""
+    n b1d "cuando no tienen ni puta idea de lo que estoy sufriendo."
 
 # game/game_script_act2.rpy:1463
 translate spanish game_script_act2_3b127038:
 
     # n b2a me "Honestly? I’d be kind of pissed."
-    n b2a me ""
+    n b2a me "¿Quieres que te sea sincera? Me enfadaría mucho."
 
 # game/game_script_act2.rpy:1464
 translate spanish game_script_act2_40ff6d6e:
 
     # n e1c mg "It just seems really patronizing to me."
-    n e1c mg ""
+    n e1c mg "Me parece muy condescendiente, ¿sabes?"
 
 # game/game_script_act2.rpy:1465
 translate spanish game_script_act2_104aaa96:
 
     # n rdown e1a b1c "But, I don’t know. I’m not Sayori. Maybe she {i}would{/i} like it."
-    n rdown e1a b1c ""
+    n rdown e1a b1c "La cosa es que no soy Sayori y quizás a ella le guste."
 
 # game/game_script_act2.rpy:1467
 translate spanish game_script_act2_8187104f:
 
     # mc "I hadn’t thought of it like that."
-    mc ""
+    mc "No lo había pensado de esa manera..."
 
 # game/game_script_act2.rpy:1469
 translate spanish game_script_act2_c32fa186:
 
     # n mg "Just my two cents."
-    n mg ""
+    n mg "Es solo mi opinión."
 
 # game/game_script_act2.rpy:1470
 translate spanish game_script_act2_672b1ea8:
 
     # n lhip "Maybe you could bring it up with Monika?"
-    n lhip ""
+    n lhip "¿Te ves capaz de comentárselo a Monika?"
 
 # game/game_script_act2.rpy:1472
 translate spanish game_script_act2_5f02ba02:
 
     # mc "I don’t know. Monika seemed kind of...{w=0.5}out of it today?"
-    mc ""
+    mc "Pues no lo sé, hoy estaba muy...{w=0.5} poco 'Monika'."
 
 # game/game_script_act2.rpy:1474
 translate spanish game_script_act2_8aad4956:
 
     # mc "She’s stressed out, that’s for sure."
-    mc ""
+    mc "Lo que es seguro es que está estresada."
 
 # game/game_script_act2.rpy:1475
 translate spanish game_script_act2_5cca703d:
 
     # mc "After all the stuff with Sayori, the festival falling apart, people missing the club..."
-    mc ""
+    mc "Tras lo ocurrido con Sayori, el festival, las ausencias del club...,"
 
 # game/game_script_act2.rpy:1477
 translate spanish game_script_act2_3f4dd29e:
 
     # mc "She might just need something to go right, y’know?"
-    mc ""
+    mc "puede que necesite que algo vaya por el buen camino, ¿sabes?"
 
 # game/game_script_act2.rpy:1478
 translate spanish game_script_act2_8c4f71eb:
 
     # mc "And like you said, Sayori’s not like you."
-    mc ""
+    mc "Como bien has dicho, Sayori no es como tú."
 
 # game/game_script_act2.rpy:1479
 translate spanish game_script_act2_b55fd277:
 
     # mc "Maybe she {i}will{/i} appreciate it."
-    mc ""
+    mc "Puede que le guste."
 
 # game/game_script_act2.rpy:1481
 translate spanish game_script_act2_9162ac13:
 
     # n b1c mg "We can only hope."
-    n b1c mg ""
+    n b1c mg "Nos queda esperar al lunes."
 
 # game/game_script_act2.rpy:1483
 translate spanish game_script_act2_cf1adef2:
 
     # mc "Yeah."
-    mc ""
+    mc "Ya."
 
 # game/game_script_act2.rpy:1486
 translate spanish game_script_act2_5c452860:

@@ -33,127 +33,127 @@ translate spanish game_script_act2_3e1f64d6:
 translate spanish game_script_act2_fd79b340:
 
     # n "Hey, I’ll take anything at this point."
-    n ""
+    n "Tranquilo, ya me da igual."
 
 # game/game_script_act2.rpy:1308
 translate spanish game_script_act2_8cee530e:
 
     # n -b1a "Thanks."
-    n -b1a ""
+    n -b1a "Gracias."
 
 # game/game_script_act2.rpy:1310
 translate spanish game_script_act2_9c23fe76:
 
     # mc "No worries, Natsuki."
-    mc ""
+    mc "No te preocupes, Natsuki."
 
 # game/game_script_act2.rpy:1312
 translate spanish game_script_act2_934eaeeb:
 
     # n "If you {i}really{/i} wanna know though..."
-    n ""
+    n "Aunque si te interesa saberlo...,"
 
 # game/game_script_act2.rpy:1313
 translate spanish game_script_act2_f90c382c:
 
     # n ce zz2 happ "White chocolate rules over all."
-    n ce zz2 happ ""
+    n ce zz2 happ "el chocolate blanco gana por goleada."
 
 # game/game_script_act2.rpy:1315
 translate spanish game_script_act2_39894637:
 
     # mc "Duly noted."
-    mc ""
+    mc "Lo sé para la próxima."
 
 # game/game_script_act2.rpy:1316
 translate spanish game_script_act2_edbc0816:
 
     # mc "Well then, if you don’t mind me, I’ll go ahead and cook us up some dinner."
-    mc ""
+    mc "Pues nada, si no te importa... voy a hacer algo de cenar."
 
 # game/game_script_act2.rpy:1319
 translate spanish game_script_act2_75fa6d9c:
 
     # n "Hey, wait, I’ll come and help."
-    n ""
+    n "Un momento. Voy contigo y te ayudo."
 
 # game/game_script_act2.rpy:1321
 translate spanish game_script_act2_9534c04f:
 
     # mc "No, stay put. I’ll handle it."
-    mc ""
+    mc "Quédate tranquila, me encargo yo."
 
 # game/game_script_act2.rpy:1323
 translate spanish game_script_act2_ef7ae527:
 
     # n sedu e1d om lhip "Um, you sure about that?"
-    n sedu e1d om lhip ""
+    n sedu e1d om lhip "¿Estás seguro...?"
 
 # game/game_script_act2.rpy:1325
 translate spanish game_script_act2_fed3a405:
 
     # mc "Just because I can’t bake doesn’t mean I can’t cook."
-    mc ""
+    mc "No saber hornear no me hace mal cocinero."
 
 # game/game_script_act2.rpy:1326
 translate spanish game_script_act2_93c2bb8a:
 
     # mc "I mean, I’d be pretty screwed if I {i}didn’t{/i} know, living alone and all."
-    mc ""
+    mc "En plan, ya me jodería no saber cocinar viviendo aquí solo."
 
 # game/game_script_act2.rpy:1328
 translate spanish game_script_act2_b25ae16d:
 
     # n e1a b1c mg "Fair enough. Just don’t burn the house down, okay?"
-    n e1a b1c mg ""
+    n e1a b1c mg "Me parece bien. Trata de no incendiar la casa, ¿vale?"
 
 # game/game_script_act2.rpy:1329
 translate spanish game_script_act2_3a7604f8:
 
     # n rdown e1a mc "I {i}did{/i} just move in, after all."
-    n rdown e1a mc ""
+    n rdown e1a mc "Que me acabo de mudar."
 
 # game/game_script_act2.rpy:1331
 translate spanish game_script_act2_adb0d1cd:
 
     # mc "Har har, very funny. If you smell smoke, you know what it is."
-    mc ""
+    mc "Ja, ja. Muy graciosa. Si huele a quemado, ya sabes lo que es."
 
 # game/game_script_act2.rpy:1333
 translate spanish game_script_act2_72280072:
 
     # "I grab the apron slung over the oven door’s handle, and tie it around my waist."
-    ""
+    "Cojo el delantal colgado de la manecilla de la puerta del horno y lo anudo alrededor de mi cintura"
 
 # game/game_script_act2.rpy:1336
 translate spanish game_script_act2_8414bbd4:
 
     # n ldown rhip e4a mn zz3 b3a "{cps=20}...{/cps}"
-    n ldown rhip e4a mn zz3 b3a ""
+    n ldown rhip e4a mn zz3 b3a "{cps=20}...{/cps}"
 
 # game/game_script_act2.rpy:1349
 translate spanish game_script_act2_9d12fde3:
 
     # n lhip e1d b1c mb zz1 "{i}That is amazing.{/i}"
-    n lhip e1d b1c mb zz1 ""
+    n lhip e1d b1c mb zz1 "Esto es asombroso."
 
 # game/game_script_act2.rpy:1350
 translate spanish game_script_act2_a7338961:
 
     # n e4b zz2 "I wish I had my phone with me, ‘cause this..."
-    n e4b zz2 ""
+    n e4b zz2 "Qué pena que no tenga mi teléfono aquí, porque...,"
 
 # game/game_script_act2.rpy:1351
 translate spanish game_script_act2_139220b5:
 
     # n e1a mc zz1 "This is art."
-    n e1a mc zz1 ""
+    n e1a mc zz1 "tremenda obra de arte."
 
 # game/game_script_act2.rpy:1353
 translate spanish game_script_act2_63aca5da:
 
     # mc "Hey, either I wear it or you do."
-    mc ""
+    mc "Escúchame, o me lo pongo yo... o te lo pones tú."
 
 # game/game_script_act2.rpy:1356
 translate spanish game_script_act2_74a27ec5:

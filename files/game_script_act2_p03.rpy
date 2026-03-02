@@ -687,79 +687,79 @@ translate spanish game_script_act2_c9d186b9:
 translate spanish game_script_act2_9c4cc070:
 
     # mc "That could be exciting."
-    mc ""
+    mc "Me parece genial."
 
 # game/game_script_act2.rpy:1526
 translate spanish game_script_act2_5ea8b48d:
 
     # n mb "Plus, it means you don’t get to read all the trashed drafts of it."
-    n mb ""
+    n mb "Así no tendrás que leer los borradores de cada uno de ellos."
 
 # game/game_script_act2.rpy:1528
 translate spanish game_script_act2_be2f7d7a:
 
     # mc "But that’s the fun part!"
-    mc ""
+    mc "¡Eso es lo divertido!"
 
 # game/game_script_act2.rpy:1530
 translate spanish game_script_act2_a51dae75:
 
     # n e1d b1a mb "Suuure it is."
-    n e1d b1a mb ""
+    n e1d b1a mb "Claaaro que sí."
 
 # game/game_script_act2.rpy:1531
 translate spanish game_script_act2_d8d6dc53:
 
     # n rdown e1a b1c mg "Did Monika specify a theme?"
-    n rdown e1a b1c mg ""
+    n rdown e1a b1c mg "¿Monika te dijo algún tema específico para escribirlos?"
 
 # game/game_script_act2.rpy:1533
 translate spanish game_script_act2_caf673c8:
 
     # mc "She did, but it relied on everyone in the club co-operating."
-    mc ""
+    mc "Pues sí, pero dependía de cómo el club cooperaba entre sí."
 
 # game/game_script_act2.rpy:1534
 translate spanish game_script_act2_574dc0aa:
 
     # mc "And since we weren’t there..."
-    mc ""
+    mc "Y como no estamos en el club..."
 
 # game/game_script_act2.rpy:1536
 translate spanish game_script_act2_a4f436b9:
 
     # n lhip e1b b2a mf "Hmm..."
-    n lhip e1b b2a mf ""
+    n lhip e1b b2a mf "Mmm..."
 
 # game/game_script_act2.rpy:1539
 translate spanish game_script_act2_e382e0da:
 
     # "We go quiet for a moment, silently brainstorming."
-    ""
+    "Se hace el silencio mientras llevamos a cabo nuestra lluvia de ideas mental."
 
 # game/game_script_act2.rpy:1540
 translate spanish game_script_act2_ef7ed9de:
 
     # "Before long though, I break the silence."
-    ""
+    "Al poco rato, rompo dicho silencio."
 
 # game/game_script_act2.rpy:1543
 translate spanish game_script_act2_6d387003:
 
     # mc "Honestly, I might just try and make a start on mine now."
-    mc ""
+    mc "¿Sabes qué? Debería empezar a escribir el mío."
 
 # game/game_script_act2.rpy:1545
 translate spanish game_script_act2_1b2362f7:
 
     # n mg "Eh, you do that.{w} {nw}"
-    n mg ""
+    n mg "Pues hazlo entonces,{w} {nw}"
 
 # game/game_script_act2.rpy:1547
 translate spanish game_script_act2_d0abdd2e:
 
     # extend "I think I’m gonna hit the hay."
-    extend ""
+    extend "yo me iré a sobar."
 
 # game/game_script_act2.rpy:1548
 translate spanish game_script_act2_e7879c1e:

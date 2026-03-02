@@ -1851,148 +1851,148 @@ translate spanish game_script_act2_b486c0d6:
 translate spanish game_script_act2_3b9bb9f8:
 
     # "I struggle to maintain my breath, so I hold myself against a wall to regain my composure and keep myself from collapsing."
-    ""
+    "Me cuesta mantener la respiración, así que me apoyo contra una pared para recuperar la compostura y no caerme."
 
 # game/game_script_act2.rpy:1245
 translate spanish game_script_act2_5743af44:
 
     # "However, that does little to stop my mind and heart from racing."
-    ""
+    "Hacerlo tampoco ha evitado que deje de sentirme así."
 
 # game/game_script_act2.rpy:1246
 translate spanish game_script_act2_3a7e3e1a:
 
     # "...Would she?"
-    ""
+    "¿Lo estaría...?"
 
 # game/game_script_act2.rpy:1247
 translate spanish game_script_act2_2180f7d5:
 
     # "Don’t know."
-    ""
+    "A saber."
 
 # game/game_script_act2.rpy:1248
 translate spanish game_script_act2_9f840884:
 
     # "Doesn’t matter."
-    ""
+    "Da igual."
 
 # game/game_script_act2.rpy:1249
 translate spanish game_script_act2_6f082499:
 
     # "Didn’t happen."
-    ""
+    "No ha ocurrido."
 
 # game/game_script_act2.rpy:1250
 translate spanish game_script_act2_95797750:
 
     # "I’m here now."
-    ""
+    "Estoy aquí."
 
 # game/game_script_act2.rpy:1251
 translate spanish game_script_act2_f6ab00b9:
 
     # "And I need to keep myself together."
-    ""
+    "Y necesito mantenerme firme."
 
 # game/game_script_act2.rpy:1254
 translate spanish game_script_act2_594225dc:
 
     # "If only to help Natsuki..."
-    ""
+    "Aunque solo sea para ayudar a Natsuki...,"
 
 # game/game_script_act2.rpy:1255
 translate spanish game_script_act2_eceba185:
 
     # "And be there for the club."
-    ""
+    "y estar ahí para el club."
 
 # game/game_script_act2.rpy:1256
 translate spanish game_script_act2_84369719:
 
     # "The club..."
-    ""
+    "El club..."
 
 # game/game_script_act2.rpy:1257
 translate spanish game_script_act2_1f5c740a:
 
     # "It’s funny, really."
-    ""
+    "Suena a coña...,"
 
 # game/game_script_act2.rpy:1258
 translate spanish game_script_act2_8ec65fe6:
 
     # "I joined a Literature Club, but I still haven’t read a single real book."
-    ""
+    "pero me he unido a un club de literatura y no he tocado ni un solo libro de verdad."
 
 # game/game_script_act2.rpy:1259
 translate spanish game_script_act2_f07ce6f2:
 
     # "Ironic, in a way."
-    ""
+    "Es... un tanto irónico."
 
 # game/game_script_act2.rpy:1260
 translate spanish game_script_act2_776caccc:
 
     # "I’m sure Natsuki would disagree."
-    ""
+    "Aunque Natsuki no estaría de acuerdo con mi afirmación."
 
 # game/game_script_act2.rpy:1263
 translate spanish game_script_act2_67924283:
 
     # "I lift the bags to my not-so-injured arm and start walking again."
-    ""
+    "Paso las bolsas al brazo que no tengo mal y vuelvo a caminar."
 
 # game/game_script_act2.rpy:1264
 translate spanish game_script_act2_158bad58:
 
     # "I need to hurry."
-    ""
+    "Tengo que darme prisa."
 
 # game/game_script_act2.rpy:1272
 translate spanish game_script_act2_277f71af:
 
     # "Still reeling from the encounter with Monika, I reach my street, with the groceries in tow."
-    ""
+    "Todavía pensando en la charla con Monika, consigo llegar a mi calle con las bolsas a cuestas."
 
 # game/game_script_act2.rpy:1273
 translate spanish game_script_act2_0307af32:
 
     # "The bags themselves aren’t hefty, but I feel like my arm is going to give out."
-    ""
+    "En sí no pesan, pero siento que voy a ceder en cualquier momento."
 
 # game/game_script_act2.rpy:1274
 translate spanish game_script_act2_397a5c43:
 
     # "This is what I get for not sleeping well, or eating well for that matter."
-    ""
+    "Esto es lo que pasa cuando no duermes, o comes, en este caso, como es debido."
 
 # game/game_script_act2.rpy:1275
 translate spanish game_script_act2_937d47c2:
 
     # "To be honest, I’m not doing anything well at this point."
-    ""
+    "En realidad, no estoy haciendo nada bien."
 
 # game/game_script_act2.rpy:1279
 translate spanish game_script_act2_b7ac7358:
 
     # "I walk up to the front door and shove it open with my good shoulder."
-    ""
+    "Me acerco a la puerta de entrada y la empujo con el hombro que tengo en buen estado."
 
 # game/game_script_act2.rpy:1289
 translate spanish game_script_act2_3799b531:
 
     # "Hauling the bags over into the kitchen, I lift them up before setting them down on the counter."
-    ""
+    "Llevo las bolsas a la cocina y las levanto para dejarlas en la encimera."
 
 # game/game_script_act2.rpy:1290
 translate spanish game_script_act2_35d5f75a:
 
     # "One of them slouches over to the side, the carton of cupcakes I bought for Natsuki sliding out in plain view."
-    ""
+    "Una de ellas se dobla por el peso y la caja de cupcakes de Natsuki cae a la mesa."
 
 # game/game_script_act2.rpy:1291
 translate spanish game_script_act2_ea89056f:
 
     # "Almost immediately, Natsuki’s arm reaches around me and snatches it away."
-    ""
+    "Casi al instante, el brazo de Natsuki me rodea y la coge."

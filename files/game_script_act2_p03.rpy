@@ -9,25 +9,25 @@ translate spanish game_script_act2_456b13c4:
 translate spanish game_script_act2_e88b0113:
 
     # mc "Hey, I was planning on making some {i}actual{/i} food first, y’know."
-    mc ""
+    mc "Quería hacer algo de comida normal y corriente antes, ¿eh?"
 
 # game/game_script_act2.rpy:1300
 translate spanish game_script_act2_d830ba2c:
 
     # n b1f e1a mb zz1 rhip "A little appetizer wouldn’t hurt."
-    n b1f e1a mb zz1 rhip ""
+    n b1f e1a mb zz1 rhip "A un pequeño entrante nunca se le dice que no."
 
 # game/game_script_act2.rpy:1302
 translate spanish game_script_act2_37d0a2a2:
 
     # "She shrugs her shoulders."
-    ""
+    "Se encoge de hombros."
 
 # game/game_script_act2.rpy:1304
 translate spanish game_script_act2_3e1f64d6:
 
     # mc "Well, I didn’t know what kind of chocolate you preferred, so I just got some cupcakes instead."
-    mc ""
+    mc "Vale, pero como no sabía qué chocolate te gustaba más, fui a por los cupcakes."
 
 # game/game_script_act2.rpy:1307
 translate spanish game_script_act2_fd79b340:

@@ -1125,295 +1125,295 @@ translate spanish game_script_act2_ce74327a:
 translate spanish game_script_act2_9e87d0f4:
 
     # mc "That’s not--!"
-    mc ""
+    mc "¡No estaba...!"
 
 # game/game_script_act2.rpy:1713
 translate spanish game_script_act2_e444fc67:
 
     # mc "I am not..!"
-    mc ""
+    mc "¡No...!"
 
 # game/game_script_act2.rpy:1715
 translate spanish game_script_act2_57aa7193:
 
     # mc "Ugh, nevermind."
-    mc ""
+    mc "¿Sabes qué? Déjalo."
 
 # game/game_script_act2.rpy:1716
 translate spanish game_script_act2_c22fe017:
 
     # mc "What do you need me to do?"
-    mc ""
+    mc "¿Qué necesitas que haga?"
 
 # game/game_script_act2.rpy:1718
 translate spanish game_script_act2_2d196793:
 
     # n rhip b1c mg "How good are you with making bacon?"
-    n rhip b1c mg ""
+    n rhip b1c mg "¿Se te da bien hacer bacon?"
 
 # game/game_script_act2.rpy:1720
 translate spanish game_script_act2_aeffb80b:
 
     # mc "As good as I can be, I guess."
-    mc ""
+    mc "Pues no se me da mal, digo yo."
 
 # game/game_script_act2.rpy:1722
 translate spanish game_script_act2_76b88a8a:
 
     # n b1a mi "Stop being so wishy-washy!"
-    n b1a mi ""
+    n b1a mi "¡No seas tan lerdo!"
 
 # game/game_script_act2.rpy:1723
 translate spanish game_script_act2_93cdb566:
 
     # n ldown mg "You’ve got to have pride in the things you’re good at!"
-    n ldown mg ""
+    n ldown mg "¡Tienes que estar orgulloso de todo lo que hagas mientras se te dé bien!"
 
 # game/game_script_act2.rpy:1725
 translate spanish game_script_act2_5bfccffc:
 
     # mc "I don’t exactly take pride in my cooking, Nat."
-    mc ""
+    mc "No me enorgullece mi cocina exactamente, Nat."
 
 # game/game_script_act2.rpy:1727
 translate spanish game_script_act2_ab61f5d7:
 
     # n mh b2a "Don’t sell yourself short, [player]."
-    n mh b2a ""
+    n mh b2a "No te infravalores, [player]."
 
 # game/game_script_act2.rpy:1728
 translate spanish game_script_act2_66df265d:
 
     # n rdown mb "Even I gotta admit, dinner last night was {i}pretty{/i} good."
-    n rdown mb ""
+    n rdown mb "Incluso he de admitir que la cena de anoche estaba muy buena."
 
 # game/game_script_act2.rpy:1730
 translate spanish game_script_act2_cf276fa1:
 
     # mc "I’m happy you liked it."
-    mc ""
+    mc "Me alegro de que te haya gustado."
 
 # game/game_script_act2.rpy:1732
 translate spanish game_script_act2_60e88b0a:
 
     # n rhip lhip e4a b3a mo zz3 "You should be! The Natsuki seal of approval is a rare artifact sought out by many."
-    n rhip lhip e4a b3a mo zz3 ""
+    n rhip lhip e4a b3a mo zz3 "¡Y tanto que te tienes que alegrar! Muchos lo buscan y pocos lo encuentran, y hablo del 'Sello de aprobación de Natsuki'."
 
 # game/game_script_act2.rpy:1734
 translate spanish game_script_act2_db450a23:
 
     # mc "I bet."
-    mc ""
+    mc "Seguro que sí."
 
 # game/game_script_act2.rpy:1736
 translate spanish game_script_act2_99c489cc:
 
     # n rdown e1a b1a mb zz1 "Alright, I gave you enough positive reinforcement. Now go make some bacon."
-    n rdown e1a b1a mb zz1 ""
+    n rdown e1a b1a mb zz1 "Vale, ya he sido bastante pelota contigo. Ahora, al lío, que el bacon no se hace solo."
 
 # game/game_script_act2.rpy:1738
 translate spanish game_script_act2_fe5be12c:
 
     # mc "Yeah, yeah."
-    mc ""
+    mc "Que sí, que sí."
 
 # game/game_script_act2.rpy:1742
 translate spanish game_script_act2_42b896f8:
 
     # "So..."
-    ""
+    "Entonces..."
 
 # game/game_script_act2.rpy:1743
 translate spanish game_script_act2_0e3e7341:
 
     # "I take out two large plates from the washing rack by the sink."
-    ""
+    "Saco dos platos grandes del escurreplatos."
 
 # game/game_script_act2.rpy:1744
 translate spanish game_script_act2_4c7cb39b:
 
     # "I grab the bacon strips and lay them out on the cold pan."
-    ""
+    "Cojo las tiras de bacon y las pongo en la sartén fría."
 
 # game/game_script_act2.rpy:1745
 translate spanish game_script_act2_be2477fb:
 
     # "I make sure to keep them somewhat close together."
-    ""
+    "Trato de mantenerlas juntitas."
 
 # game/game_script_act2.rpy:1746
 translate spanish game_script_act2_bd0247d0:
 
     # "I slowly turn up the heat."
-    ""
+    "Enciendo el fuego poco a poco..."
 
 # game/game_script_act2.rpy:1747
 translate spanish game_script_act2_1dc755fe:
 
     # "Now, it’s time to wait till they start to sizzle."
-    ""
+    "Ahora solo queda esperar a que empiecen a chisporrotear."
 
 # game/game_script_act2.rpy:1750
 translate spanish game_script_act2_9f3c7716:
 
     # n "Um, [player], you forgot these."
-    n ""
+    n "[player], se te olvidan."
 
 # game/game_script_act2.rpy:1752
 translate spanish game_script_act2_f5aeb938:
 
     # mc "Huh? What did I forget?"
-    mc ""
+    mc "¿Qué se me olvida?"
 
 # game/game_script_act2.rpy:1754
 translate spanish game_script_act2_d929e4e6:
 
     # "She throws a pair of tongs my way."
-    ""
+    "Me tira unas pinzas."
 
 # game/game_script_act2.rpy:1756
 translate spanish game_script_act2_40dac9f1:
 
     # "Of course! Tongs!"
-    ""
+    "¡Ah, claro! Ya decía yo."
 
 # game/game_script_act2.rpy:1757
 translate spanish game_script_act2_088ca684:
 
     # "How did I forget that?"
-    ""
+    "¿Cómo me he podido olvidar de las pinzas?"
 
 # game/game_script_act2.rpy:1760
 translate spanish game_script_act2_1c4d94a7:
 
     # n e1a b1c mh "How d'you like your eggs?"
-    n e1a b1c mh ""
+    n e1a b1c mh "¿Cómo te gustan los huevos?"
 
 # game/game_script_act2.rpy:1762
 translate spanish game_script_act2_4df01c1f:
 
     # mc "I like them scrambled."
-    mc ""
+    mc "Revueltos."
 
 # game/game_script_act2.rpy:1764
 translate spanish game_script_act2_e63877a2:
 
     # n e1a mb "Good choice.{w=0.6} {nw}"
-    n e1a mb ""
+    n e1a mb "Buena elección.{w=0.6} {nw}"
 
 # game/game_script_act2.rpy:1766
 translate spanish game_script_act2_8bdef173:
 
     # extend "Nice to know I’m not living with a complete idiot."
-    extend ""
+    extend "Bueno es saber que no vivo con un idiota integral."
 
 # game/game_script_act2.rpy:1768
 translate spanish game_script_act2_58801045:
 
     # mc "What’s the wrong answer?"
-    mc ""
+    mc "¿Qué debo responder para equivocarme?"
 
 # game/game_script_act2.rpy:1770
 translate spanish game_script_act2_9612ecb2:
 
     # n ldown rhip mg "Poached."
-    n ldown rhip mg ""
+    n ldown rhip mg "Escalfados."
 
 # game/game_script_act2.rpy:1771
 translate spanish game_script_act2_7a32b849:
 
     # n e1c mh "Still good, but by far the worst as far as eggs go."
-    n e1c mh ""
+    n e1c mh "Están igual de buenos, pero es, de lejos, de las peores maneras de hacerlos."
 
 # game/game_script_act2.rpy:1772
 translate spanish game_script_act2_c63f3a72:
 
     # n mf "Though...hmm...{w}"
-    n mf ""
+    n mf "Aunqueee... {w}"
 
 # game/game_script_act2.rpy:1774
 translate spanish game_script_act2_d8f7302e:
 
     # extend "yeah, you’re still an idiot."
-    extend ""
+    extend "síp, sigues siendo idiota."
 
 # game/game_script_act2.rpy:1776
 translate spanish game_script_act2_adbd4352:
 
     # mc "I just can’t catch a break, can I?"
-    mc ""
+    mc "Que no me escapo de una, ¿no?"
 
 # game/game_script_act2.rpy:1778
 translate spanish game_script_act2_c59d213a:
 
     # n mb lhip "I can’t let you get soft on me."
-    n mb lhip ""
+    n mb lhip "No puedo permitir que te ablandes conmigo."
 
 # game/game_script_act2.rpy:1780
 translate spanish game_script_act2_2a87d9b1:
 
     # mc "Oh, soft? Says the girl who has an entire {nw}"
-    mc ""
+    mc "¿Ablandarme? Habla la que tiene una {nw}"
 
 # game/game_script_act2.rpy:1782
 translate spanish game_script_act2_c8551ea7:
 
     # extend "Parfait Girls box set."
-    extend ""
+    extend "colección entera de Parfait Girls."
 
 # game/game_script_act2.rpy:1783
 translate spanish game_script_act2_c434de7b:
 
     # n mi b1d e1a "Parfait Girls is amazing!"
-    n mi b1d e1a ""
+    n mi b1d e1a "¡Y es lo mejorcito que hay!"
 
 # game/game_script_act2.rpy:1784
 translate spanish game_script_act2_3c8666b6:
 
     # n rhip e1b mh "Hell, even {i}you{/i} like the series!"
-    n rhip e1b mh ""
+    n rhip e1b mh "Vamos, ¡si hasta a ti te ha gustado!"
 
 # game/game_script_act2.rpy:1786
 translate spanish game_script_act2_eb485b37:
 
     # mc "Suuure, but do I have an entire box set, though?"
-    mc ""
+    mc "Claaaro, pero... ¿tengo yo la colección entera?"
 
 # game/game_script_act2.rpy:1788
 translate spanish game_script_act2_86b678e6:
 
     # n b1c mi "Not like you'd want one in the first place!"
-    n b1c mi ""
+    n b1c mi "¡Tampoco es que la quisieses!"
 
 # game/game_script_act2.rpy:1790
 translate spanish game_script_act2_607a923c:
 
     # mc "Well, yes and no."
-    mc ""
+    mc "Pues sí y no."
 
 # game/game_script_act2.rpy:1792
 translate spanish game_script_act2_d6cbbc09:
 
     # n b1c e1a mi "And what does that mean?"
-    n b1c e1a mi ""
+    n b1c e1a mi "¿Qué quieres decir con eso?"
 
 # game/game_script_act2.rpy:1794
 translate spanish game_script_act2_871e3f30:
 
     # mc "I wouldn't want one of my own, {w}'cause I couldn't imagine reading it without you."
-    mc ""
+    mc "Pues que no quiero tenerla{w} porque no me imagino leyéndola sin ti."
 
 # game/game_script_act2.rpy:1796
 translate spanish game_script_act2_67f321d5:
 
     # n rdown blaw e2b b2a mf "..."
-    n rdown blaw e2b b2a mf ""
+    n rdown blaw e2b b2a mf "..."
 
 # game/game_script_act2.rpy:1798
 translate spanish game_script_act2_2b35b6fe_1:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/game_script_act2.rpy:1801
 translate spanish game_script_act2_97c9fb35:

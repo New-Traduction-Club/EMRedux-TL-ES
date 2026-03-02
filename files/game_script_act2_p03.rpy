@@ -765,67 +765,67 @@ translate spanish game_script_act2_d0abdd2e:
 translate spanish game_script_act2_e7879c1e:
 
     # n e1a mc "Thanks for the dinner, [player]. It was pretty good, as far as I was expecting from you."
-    n e1a mc ""
+    n e1a mc "Gracias por la cena, [player]. Estaba de rechupete y no esperaba menos de ti."
 
 # game/game_script_act2.rpy:1551
 translate spanish game_script_act2_862d8b0c:
 
     # "Finishing my food, I place the plate down on the nearby coffee table."
-    ""
+    "Acabando la mía, dejo el plato en la mesa."
 
 # game/game_script_act2.rpy:1553
 translate spanish game_script_act2_b2aac994:
 
     # mc "Well, if you’re going to live in my house,{w=0.3} {nw}"
-    mc ""
+    mc "Si vas a vivir en mi casa...{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:1555
 translate spanish game_script_act2_c3295c2c:
 
     # extend "it’s not like I’m gonna leave you unfed."
-    extend ""
+    extend "no es como si fuera a dejar que te mueras de hambre, ¿sabes?"
 
 # game/game_script_act2.rpy:1557
 translate spanish game_script_act2_942bcd89:
 
     # "I stand up, gearing up to go write my poem."
-    ""
+    "Me levanto, preparándome para escribir el poema."
 
 # game/game_script_act2.rpy:1558
 translate spanish game_script_act2_2b091298:
 
     # "Out of nowhere,{w=0.3} {nw}"
-    ""
+    "De la nada,{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:1560
 translate spanish game_script_act2_cf9952f1:
 
     # extend "I feel Natsuki’s tight embrace."
-    extend ""
+    extend "siento que Natsuki me abraza con fuerza."
 
 # game/game_script_act2.rpy:1562
 translate spanish game_script_act2_2485f494:
 
     # mc "I..."
-    mc ""
+    mc "Eh..."
 
 # game/game_script_act2.rpy:1564
 translate spanish game_script_act2_14be0dc9:
 
     # "I return the gesture."
-    ""
+    "Le devuelvo el abrazo."
 
 # game/game_script_act2.rpy:1566
 translate spanish game_script_act2_86e16033:
 
     # "After a few seconds, she slowly pulls herself away."
-    ""
+    "Tras unos segundos, se aparta lentamente."
 
 # game/game_script_act2.rpy:1569
 translate spanish game_script_act2_06c8dd24:
 
     # n "Goodnight, [player]."
-    n ""
+    n "Buenas noches, [player]."
 
 # game/game_script_act2.rpy:1571
 translate spanish game_script_act2_2c7bf5dd:

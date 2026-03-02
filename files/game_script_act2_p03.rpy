@@ -213,7 +213,7 @@ translate spanish game_script_act2_6a083000:
 translate spanish game_script_act2_9151e937:
 
     # "But it’s certainly not my proudest meal."
-    "Aunque no es de mis mejores platos "
+    "Aunque no es de mis mejores platos."
 
 # game/game_script_act2.rpy:1381
 translate spanish game_script_act2_d8d6ac19:

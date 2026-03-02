@@ -3,7 +3,7 @@
 translate spanish game_script_act2_456b13c4:
 
     # n "Yoink."
-    n ""
+    n "¡Para mí!"
 
 # game/game_script_act2.rpy:1298
 translate spanish game_script_act2_e88b0113:

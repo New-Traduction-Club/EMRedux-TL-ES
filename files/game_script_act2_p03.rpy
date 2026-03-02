@@ -681,7 +681,7 @@ translate spanish game_script_act2_b51a4820:
 translate spanish game_script_act2_c9d186b9:
 
     # n "How about we do our poems separately, then we save them for the club?"
-    n "¿Te hace escribir los poemas por separado y dejarlos reservados para el club?"
+    n "¿Te hace escribir los poemas por separado y dejarlos guardados para el club?"
 
 # game/game_script_act2.rpy:1524
 translate spanish game_script_act2_9c4cc070:

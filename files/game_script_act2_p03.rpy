@@ -561,91 +561,91 @@ translate spanish game_script_act2_cf1adef2:
 translate spanish game_script_act2_5c452860:
 
     # "Having demolished her meal, Natsuki moves her plate off her lap and onto the coffee table."
-    ""
+    "Habiendo devorado el contenido de su plato, Natsuki lo pone en la mesa."
 
 # game/game_script_act2.rpy:1487
 translate spanish game_script_act2_f9367c72:
 
     # "Meanwhile, I’m only halfway done."
-    ""
+    "Por mi parte... voy por la mitad."
 
 # game/game_script_act2.rpy:1490
 translate spanish game_script_act2_50dede57:
 
     # n mg "So..."
-    n mg ""
+    n mg "Te vas..."
 
 # game/game_script_act2.rpy:1492
 translate spanish game_script_act2_f49fff8f_1:
 
     # mc "Yeah?"
-    mc ""
+    mc "¿Qué?"
 
 # game/game_script_act2.rpy:1494
 translate spanish game_script_act2_60aef8f8:
 
     # n rhip lhip e1a b1f mn "Are you gonna finish that?"
-    n rhip lhip e1a b1f mn ""
+    n rhip lhip e1a b1f mn "¿Te vas a terminar eso?"
 
 # game/game_script_act2.rpy:1496
 translate spanish game_script_act2_526768be:
 
     # mc "Actually, yes I am."
-    mc ""
+    mc "Pues sí, eso haré."
 
 # game/game_script_act2.rpy:1497
 translate spanish game_script_act2_ef8b41b4:
 
     # mc "If you’re still hungry, you've got that chocolate in the kitchen."
-    mc ""
+    mc "Si tienes hambre, aún tienes el chocolate en las bolsas de la compra."
 
 # game/game_script_act2.rpy:1499
 translate spanish game_script_act2_4f8ca56e:
 
     # n rdown b1c mb "Nah, nah, I was just messing with you."
-    n rdown b1c mb ""
+    n rdown b1c mb "No, no, tranquilo. Estaba de coña."
 
 # game/game_script_act2.rpy:1500
 translate spanish game_script_act2_fbcd6690:
 
     # n mc "Thanks for reminding me about the choccy, though."
-    n mc ""
+    n mc "Gracias por recordarme lo del chocolate."
 
 # game/game_script_act2.rpy:1501
 translate spanish game_script_act2_5fb0be36:
 
     # n "I’ll get to that soon enough."
-    n ""
+    n "Lo pillaré en un rato."
 
 # game/game_script_act2.rpy:1504
 translate spanish game_script_act2_d850f66d:
 
     # "Natsuki stands up, grabbing her dish and {nw}"
-    ""
+    "Natsuki se levanta, coge su plato y... {nw}"
 
 # game/game_script_act2.rpy:1507
 translate spanish game_script_act2_37114629:
 
     # extend "disappearing into the kitchen with it."
-    extend ""
+    extend "desaparece en la cocina con él."
 
 # game/game_script_act2.rpy:1508
 translate spanish game_script_act2_2b5ec6af:
 
     # "I call out to her."
-    ""
+    "La llamo."
 
 # game/game_script_act2.rpy:1510
 translate spanish game_script_act2_1c39b17b:
 
     # mc "Hey, Nat?!"
-    mc ""
+    mc "¿Nat?"
 
 # game/game_script_act2.rpy:1511
 translate spanish game_script_act2_38b93cde:
 
     # n "Yeah?!"
-    n ""
+    n "¡¿Sí?!"
 
 # game/game_script_act2.rpy:1512
 translate spanish game_script_act2_775340e7:

@@ -1803,19 +1803,19 @@ translate spanish game_script_act2_31de5441:
 translate spanish game_script_act2_f692aedc:
 
     # n mg b1c "Well, if you're gonna season it, it should be {i}before{/i} you fry it up..."
-    n mg b1c "Es que el aliño se hace antes de la fritura..."
+    n mg b1c "Es que eso se hace antes de la fritura..."
 
 # game/game_script_act2.rpy:1921
 translate spanish game_script_act2_2d593ffc:
 
     # n mb b2a "I always liked a sriarcha and sesame marinade, "
-    n mb b2a "Yo siempre aliño con sriarcha y sésamo. "
+    n mb b2a "Yo siempre aliño con sriarcha y sésamo, "
 
 # game/game_script_act2.rpy:1923
 translate spanish game_script_act2_092ae8ff:
 
     # extend "back when I used to..."
-    extend "Te hablo de cuando yo..."
+    extend "cuando solía..."
 
 # game/game_script_act2.rpy:1925
 translate spanish game_script_act2_e595c109:

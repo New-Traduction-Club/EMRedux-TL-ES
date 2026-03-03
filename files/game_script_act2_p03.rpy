@@ -1731,31 +1731,31 @@ translate spanish game_script_act2_a32fc7d2:
 translate spanish game_script_act2_1e151c42:
 
     # "I open the cabinets and take out two mugs, one pink and one red."
-    "Cojo dos tazas"
+    "Cojo dos tazas de colores rosa y roja."
 
 # game/game_script_act2.rpy:1902
 translate spanish game_script_act2_b47a46cb:
 
     # "{i}I don’t need to ask where the bright pink mug with cat ears came from...{/i}"
-    ""
+    "No creo que deba preguntar de dónde ha salido esta taza rosa con orejitas de gato..."
 
 # game/game_script_act2.rpy:1903
 translate spanish game_script_act2_023fc470:
 
     # "Natsuki’s preparing what seems to be the most fluffy serving of scrambled eggs I’ve ever laid my eyes on."
-    ""
+    "Natsuki está haciendo lo que parece la ración de huevos revueltos más esponjosa de la historia."
 
 # game/game_script_act2.rpy:1904
 translate spanish game_script_act2_c34d9602:
 
     # "She places the plates of eggs on the table as I continue to tend to our drinks."
-    ""
+    "Pone los platos con los huevos en la mesa mientras sigo encargándome de las bebidas."
 
 # game/game_script_act2.rpy:1907
 translate spanish game_script_act2_a18bba67:
 
     # n "Hey, [player], c’mere. I want to teach you something."
-    n ""
+    n "[player], ven pa' aquí. Quiero que veas algo."
 
 # game/game_script_act2.rpy:1908
 translate spanish game_script_act2_b9eb94ae:

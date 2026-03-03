@@ -1809,7 +1809,7 @@ translate spanish game_script_act2_f692aedc:
 translate spanish game_script_act2_2d593ffc:
 
     # n mb b2a "I always liked a sriarcha and sesame marinade, "
-    n mb b2a "Yo siempre los aliño con sriarcha y sésamo. "
+    n mb b2a "Yo siempre aliño con sriarcha y sésamo. "
 
 # game/game_script_act2.rpy:1923
 translate spanish game_script_act2_092ae8ff:

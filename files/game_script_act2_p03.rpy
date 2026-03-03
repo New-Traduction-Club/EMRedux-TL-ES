@@ -1869,49 +1869,49 @@ translate spanish game_script_act2_1eda30f3:
 translate spanish game_script_act2_7baf4ad6:
 
     # "With a pinch of each of the powders, she starts distributing them among the strips."
-    ""
+    "Con una pizca de cada uno de los polvos, los distribuye a lo largo y ancho de las tiras."
 
 # game/game_script_act2.rpy:1939
 translate spanish game_script_act2_4080fcb1:
 
     # "From where I’m standing, it looks like some kind of evolved witchcraft."
-    ""
+    "Desde mi posición, parece brujería de verdad."
 
 # game/game_script_act2.rpy:1940
 translate spanish game_script_act2_d4b777fc:
 
     # "I hope she’s not trying to poison me."
-    ""
+    "Espero que no intente envenenarme."
 
 # game/game_script_act2.rpy:1942
 translate spanish game_script_act2_2414bf20:
 
     # "Guess that’s the difference between my cooking and hers."
-    ""
+    "Supongo que es ahí donde se ve lo bueno de su cocina y lo... lo que sea la mía."
 
 # game/game_script_act2.rpy:1943
 translate spanish game_script_act2_c30a8214:
 
     # "She does it for the art, I do it to survive."
-    ""
+    "Ella lo hace por amor al arte{w} y yo lo hago por amor a la supervivencia."
 
 # game/game_script_act2.rpy:1945
 translate spanish game_script_act2_5685273b:
 
     # "Well, I do it to {i}try{/i} to survive at least."
-    ""
+    "O bueno, para intentar sobrevivir."
 
 # game/game_script_act2.rpy:1946
 translate spanish game_script_act2_45cd7acf:
 
     # "She slowly steps away from the dishes."
-    ""
+    "Natsuki retrocede lentamente."
 
 # game/game_script_act2.rpy:1949
 translate spanish game_script_act2_85ead061:
 
     # n "It’s ready."
-    n ""
+    n "Listo."
 
 # game/game_script_act2.rpy:1951
 translate spanish game_script_act2_aa389913:

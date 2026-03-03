@@ -1833,7 +1833,7 @@ translate spanish game_script_act2_ab5f99ea:
 translate spanish game_script_act2_521fd92c:
 
     # mc "Season away, then, master chef."
-    mc "Haga su magia aliñada, máster chef."
+    mc "Haga usted su aliñada magia, máster chef."
 
 # game/game_script_act2.rpy:1932
 translate spanish game_script_act2_efd5d794:

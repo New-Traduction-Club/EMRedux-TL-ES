@@ -1521,7 +1521,7 @@ translate spanish game_script_act2_f7703d24:
 translate spanish game_script_act2_5d4e50c5:
 
     # extend "but guess what I found instead?"
-    extend "y... ¿sabes lo que encontré?"
+    extend "y... ¿te digo lo que me encontré?"
 
 # game/game_script_act2.rpy:1837
 translate spanish game_script_act2_7ec94265:
@@ -1533,7 +1533,7 @@ translate spanish game_script_act2_7ec94265:
 translate spanish game_script_act2_913c1522:
 
     # n ldown rhip b1e mb "Three whole stacks of that crappy shonen manga, what was it called again?"
-    n ldown rhip b1e mb "Tres montones enormes de ese manga shonen de mierda. Ay, ¿cómo se llamaba...?"
+    n ldown rhip b1e mb "Tres montones enormes de ese manga shonen de mierda. Ay, ¿cómo se llamaba?"
 
 # game/game_script_act2.rpy:1842
 translate spanish game_script_act2_6f86c253:

@@ -1761,109 +1761,109 @@ translate spanish game_script_act2_a18bba67:
 translate spanish game_script_act2_b9eb94ae:
 
     # n mc "You see these wonderful, crispy looking bacon strips?"
-    n mc ""
+    n mc "¿Ves estas maravillosas, crujientes y sabrosas tiras de bacon?"
 
 # game/game_script_act2.rpy:1910
 translate spanish game_script_act2_156900fc:
 
     # mc "That’s a lot more positivity than I was expecting."
-    mc ""
+    mc "Son más adjetivos positivos de los que me imaginaba, ¿eh?"
 
 # game/game_script_act2.rpy:1912
 translate spanish game_script_act2_31ced691:
 
     # n e1a b1c mg zz1 "They’re missing something."
-    n e1a b1c mg zz1 ""
+    n e1a b1c mg zz1 "Pues les falta algo."
 
 # game/game_script_act2.rpy:1914
 translate spanish game_script_act2_3482c708:
 
     # mc "And what would that be?"
-    mc ""
+    mc "¿Qué les falta?"
 
 # game/game_script_act2.rpy:1916
 translate spanish game_script_act2_4cb79156:
 
     # n e4a mb zz3 "Seasoning. That’s how you bring a dish together."
-    n e4a mb zz3 ""
+    n e4a mb zz3 "Les falta algo de aliño. Así es como se prepara realmente un plato."
 
 # game/game_script_act2.rpy:1917
 translate spanish game_script_act2_db749655:
 
     # n rhip e1a zz1 "Proper seasoning."
-    n rhip e1a zz1 ""
+    n rhip e1a zz1 "Se prepara aliñándolo adecuadamente."
 
 # game/game_script_act2.rpy:1919
 translate spanish game_script_act2_31de5441:
 
     # mc "Huh, I didn't know you're even supposed to season bacon."
-    mc ""
+    mc "Ah, pues... no sabía que el bacon también se aliñaba."
 
 # game/game_script_act2.rpy:1920
 translate spanish game_script_act2_f692aedc:
 
     # n mg b1c "Well, if you're gonna season it, it should be {i}before{/i} you fry it up..."
-    n mg b1c ""
+    n mg b1c "Es que el aliño se hace antes de la fritura..."
 
 # game/game_script_act2.rpy:1921
 translate spanish game_script_act2_2d593ffc:
 
     # n mb b2a "I always liked a sriarcha and sesame marinade, "
-    n mb b2a ""
+    n mb b2a "Yo siempre los aliño con sriarcha y una marinada de sésamo..., "
 
 # game/game_script_act2.rpy:1923
 translate spanish game_script_act2_092ae8ff:
 
     # extend "back when I used to..."
-    extend ""
+    extend "hablando de cuando yo..."
 
 # game/game_script_act2.rpy:1925
 translate spanish game_script_act2_e595c109:
 
     # "She's silent for a moment, before pepping back up."
-    ""
+    "Se hace el silencio por un momento hasta que vuelve a hablar."
 
 # game/game_script_act2.rpy:1927
 translate spanish game_script_act2_ab5f99ea:
 
     # n "But hey, live and learn. Some fresh ground black pepper and garlic salt will do for now."
-    n ""
+    n "En fin, 'live and learn'. Con algo de pimienta negra recién molida y sal de ajo va que chuta."
 
 # game/game_script_act2.rpy:1929
 translate spanish game_script_act2_521fd92c:
 
     # mc "Season away, then, master chef."
-    mc ""
+    mc "Haga su magia aliñada, máster chef."
 
 # game/game_script_act2.rpy:1932
 translate spanish game_script_act2_efd5d794:
 
     # "She starts looking through the cabinets, eventually taking out two containers of multi-coloured powder."
-    ""
+    "Natsuki abre los armarios y saca de ellos dos botes de polvo multicolor."
 
 # game/game_script_act2.rpy:1933
 translate spanish game_script_act2_6cbfaeb1:
 
     # "I don’t know what they are, I don’t know what they do and I have no idea where they came from."
-    ""
+    "No tengo ni pajolera de lo que son, de lo que hacen y de dondequiera que hayan venido."
 
 # game/game_script_act2.rpy:1934
 translate spanish game_script_act2_d22517da:
 
     # "Have they always been there?"
-    ""
+    "¿Los he tenido ahí guardados desde siempre?"
 
 # game/game_script_act2.rpy:1935
 translate spanish game_script_act2_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script_act2.rpy:1936
 translate spanish game_script_act2_1eda30f3:
 
     # "I really need to keep a better track of what I have."
-    ""
+    "Me hace falta tener un mejor control de lo que guardo por casa."
 
 # game/game_script_act2.rpy:1938
 translate spanish game_script_act2_7baf4ad6:

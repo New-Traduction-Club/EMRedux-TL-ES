@@ -1605,7 +1605,7 @@ translate spanish game_script_act2_328508dc:
 translate spanish game_script_act2_9b8c0a86:
 
     # "She turns her attention back to the eggs."
-    "Vuelve a mirar a los huevos."
+    "Vuelve a mirar los huevos."
 
 # game/game_script_act2.rpy:1867
 translate spanish game_script_act2_0738d3c4:

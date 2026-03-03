@@ -1443,7 +1443,7 @@ translate spanish game_script_act2_ab521462:
 translate spanish game_script_act2_61122dd5:
 
     # mc "Hey, all I'm saying is that it's cute how invested you get in the story."
-    mc "Oye, solo digo que me parece adorable lo puesta que estás en el manga."
+    mc "Oye, solo digo que me parece adorable lo puesta que estás en la historia."
 
 # game/game_script_act2.rpy:1811
 translate spanish game_script_act2_b106c1ab:

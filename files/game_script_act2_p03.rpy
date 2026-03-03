@@ -1455,7 +1455,7 @@ translate spanish game_script_act2_b106c1ab:
 translate spanish game_script_act2_d112bec7:
 
     # n awkw mb "You see that egg, [player]?"
-    n awkw mb "¿Ves el huevo, [player]?"
+    n awkw mb "¿Ves ese pobre y apenado huevo, [player]?"
 
 # game/game_script_act2.rpy:1815
 translate spanish game_script_act2_eb06e95b:
@@ -1467,19 +1467,19 @@ translate spanish game_script_act2_eb06e95b:
 translate spanish game_script_act2_843b7fb6:
 
     # n rhip e4a b3a zz3 mc "That’s gonna be your skull after I’m done with you."
-    n rhip e4a b3a zz3 mc "Pues será tu calavera después de acabar contigo."
+    n rhip e4a b3a zz3 mc "Pues piensa que será tu calavera después de que acabe contigo."
 
 # game/game_script_act2.rpy:1819
 translate spanish game_script_act2_c90677f0:
 
     # mc "Oh wow, I’m {i}sooooooo scaaarrreeed{/i}."
-    mc "Ay, nooo, estoy súper asustado, no lo hagaaas."
+    mc "Aaay, nooo, estoy súper asustadooo, no lo hagaaas."
 
 # game/game_script_act2.rpy:1821
 translate spanish game_script_act2_6a14a5fc:
 
     # n e1a b1d mn zz1 "You should be."
-    n e1a b1d mn zz1 "Asústate, asústate."
+    n e1a b1d mn zz1 "Asústate, asústate..."
 
 # game/game_script_act2.rpy:1824
 translate spanish game_script_act2_20836bb0:
@@ -1497,241 +1497,241 @@ translate spanish game_script_act2_72b26656:
 translate spanish game_script_act2_0bf33c3c:
 
     # "Grabbing the tongs, I drag and turn the strips, trying to get them as crispy as possible."
-    ""
+    "Cojo las pinzas y levanto las tiras de bacon para ir haciéndolas por todos los lados, intentando que queden lo más crujientes posible."
 
 # game/game_script_act2.rpy:1829
 translate spanish game_script_act2_79f079b1:
 
     # "I’m a bit tense as the fat splatters around, ready to burn me if I’m not careful."
-    ""
+    "Tengo miedo porque la grasa salpica mucho y me puede quemar si me pilla desprevenido."
 
 # game/game_script_act2.rpy:1830
 translate spanish game_script_act2_5ff4f7b3:
 
     # "I should be fine, as long as I keep my distance."
-    ""
+    "Mientras mantenga las distancias, no habrán problemas."
 
 # game/game_script_act2.rpy:1833
 translate spanish game_script_act2_f7703d24:
 
     # n "You know, I was looking for paper to write my poem on last night, {nw}"
-    n ""
+    n "¿Sabes? Anoche me puse a buscar papel para escribir mi poema, {nw}"
 
 # game/game_script_act2.rpy:1835
 translate spanish game_script_act2_5d4e50c5:
 
     # extend "but guess what I found instead?"
-    extend ""
+    extend "y... ¿sabes lo que encontré?"
 
 # game/game_script_act2.rpy:1837
 translate spanish game_script_act2_7ec94265:
 
     # mc "Oh please, enlighten me."
-    mc ""
+    mc "Ilumíname, por favor."
 
 # game/game_script_act2.rpy:1839
 translate spanish game_script_act2_913c1522:
 
     # n ldown rhip b1e mb "Three whole stacks of that crappy shonen manga, what was it called again?"
-    n ldown rhip b1e mb ""
+    n ldown rhip b1e mb "Tres montones enormes de ese manga shonen de mierda. Ay, ¿cómo se llamaba...?"
 
 # game/game_script_act2.rpy:1842
 translate spanish game_script_act2_6f86c253:
 
     # "Is this her sweet revenge?"
-    ""
+    "¿Es que trata de vengarse de mí?"
 
 # game/game_script_act2.rpy:1845
 translate spanish game_script_act2_32e6fcc4:
 
     # mc "That manga is great! People only hate on it because it’s popular!"
-    mc ""
+    mc "¡El manga es muy bueno, pero la gente lo odia por ser popular!"
 
 # game/game_script_act2.rpy:1846
 translate spanish game_script_act2_e0e89957:
 
     # n lhip mc "Or maybe, just {i}maybe{/i}...{w}you just have really bad taste."
-    n lhip mc ""
+    n lhip mc "O tal vez, y solo tal vez...{w} tienes el gusto en el culo."
 
 # game/game_script_act2.rpy:1848
 translate spanish game_script_act2_4bd894fa:
 
     # mc "Come on, it’s really not as bad as people--{nw}"
-    mc ""
+    mc "¡Venga ya! No es tan malo como lo pinta la gen...{nw}"
 
 # game/game_script_act2.rpy:1850
 translate spanish game_script_act2_18e611b9:
 
     # mc "Oww!"
-    mc ""
+    mc "¡Ay!"
 
 # game/game_script_act2.rpy:1852
 translate spanish game_script_act2_99dae3da:
 
     # "Out of nowhere, I feel a burning sensation on my arm."
-    ""
+    "De la nada, siento que me quema el brazo."
 
 # game/game_script_act2.rpy:1853
 translate spanish game_script_act2_55d85ccb:
 
     # "I think I got hit by the splattering bacon grease."
-    ""
+    "Creo que me ha salpicado algo de grasa del bacon."
 
 # game/game_script_act2.rpy:1856
 translate spanish game_script_act2_c70f3b05:
 
     # n mi "Careful, [player]!"
-    n mi ""
+    n mi "¡Ten cuidado, [player]!"
 
 # game/game_script_act2.rpy:1858
 translate spanish game_script_act2_fe5be12c_1:
 
     # mc "Yeah, yeah."
-    mc ""
+    mc "Ya, ya."
 
 # game/game_script_act2.rpy:1859
 translate spanish game_script_act2_266d0902:
 
     # mc "I just got caught off-guard."
-    mc ""
+    mc "Es que me ha pillado con la guardia baja."
 
 # game/game_script_act2.rpy:1861
 translate spanish game_script_act2_328508dc:
 
     # n mg "Alright..."
-    n mg ""
+    n mg "Vale..."
 
 # game/game_script_act2.rpy:1866
 translate spanish game_script_act2_9b8c0a86:
 
     # "She turns her attention back to the eggs."
-    ""
+    "Vuelve a mirar a los huevos."
 
 # game/game_script_act2.rpy:1867
 translate spanish game_script_act2_0738d3c4:
 
     # "This is so embarrassing."
-    ""
+    "Qué vergüenza..."
 
 # game/game_script_act2.rpy:1868
 translate spanish game_script_act2_bf4f3d77:
 
     # "Let’s just get this over with so I can go take a long shower."
-    ""
+    "Acabemos con esto de una vez y me doy una ducha larga."
 
 # game/game_script_act2.rpy:1869
 translate spanish game_script_act2_e09c6188:
 
     # "Maybe even a {i}cold{/i} shower."
-    ""
+    "O una ducha fría..."
 
 # game/game_script_act2.rpy:1870
 translate spanish game_script_act2_73a84b8b:
 
     # "...Okay, maybe not. I’m not a psychopath."
-    ""
+    "No, no. Ducha fría no. No soy un psicópata para tener que hacer eso."
 
 # game/game_script_act2.rpy:1871
 translate spanish game_script_act2_b210a98b:
 
     # "Maybe if I’m lucky, she’ll slip up too and I won’t look like a total idiot."
-    ""
+    "Si la suerte me sonríe, a ella le salpicará también y no quedaré como un completo inútil."
 
 # game/game_script_act2.rpy:1872
 translate spanish game_script_act2_09e4b92f:
 
     # "I get back to my bacon strips, defeated for now."
-    ""
+    "Descartando esa posible línea temporal, vuelvo a mis tiras de bacon."
 
 # game/game_script_act2.rpy:1873
 translate spanish game_script_act2_209ff3bb:
 
     # "They’re starting to look really crispy."
-    ""
+    "Parecen muy crujientes."
 
 # game/game_script_act2.rpy:1874
 translate spanish game_script_act2_c012444d:
 
     # "I keep moving them with the tongs, just to make sure I got every spot."
-    ""
+    "Sigo dándole vueltas para dorar cada uno de los lados."
 
 # game/game_script_act2.rpy:1875
 translate spanish game_script_act2_6774d0fc:
 
     # "Eventually, I deem them prepared enough and start distributing them between the two plates."
-    ""
+    "Tras un ratito, considero que ya están bien y las pongo en dos platos."
 
 # game/game_script_act2.rpy:1878
 translate spanish game_script_act2_653d3ead:
 
     # mc "Any ideas for drinks?"
-    mc ""
+    mc "¿Algo de beber quieres?"
 
 # game/game_script_act2.rpy:1880
 translate spanish game_script_act2_dad24add:
 
     # n mb "Something hot."
-    n mb ""
+    n mb "Algo calentito, porfa."
 
 # game/game_script_act2.rpy:1882
 translate spanish game_script_act2_d6c4925a:
 
     # mc "Well, I’ve got coffee, I’ve got a packet of green tea--"
-    mc ""
+    mc "Tengo café, té verd..."
 
 # game/game_script_act2.rpy:1884
 translate spanish game_script_act2_8c1d587e:
 
     # n e2a b1c lhip mf "Oooh,{w=0.3} {nw}"
-    n e2a b1c lhip mf ""
+    n e2a b1c lhip mf "¡Un momento!{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:1886
 translate spanish game_script_act2_1782b80e:
 
     # extend "have you got hot chocolate?"
-    extend ""
+    extend "¿Tienes chocolate caliente?"
 
 # game/game_script_act2.rpy:1888
 translate spanish game_script_act2_1a3aa5d2:
 
     # mc "I’ll...go check if we’ve got some."
-    mc ""
+    mc "Pues... ni idea. Voy a mirar."
 
 # game/game_script_act2.rpy:1890
 translate spanish game_script_act2_f255f7d3:
 
     # "I open up the cabinets and eventually I find a box of hot cocoa powder."
-    ""
+    "Abro las puertas de los armarios y encuentro una caja de chocolate caliente en polvo."
 
 # game/game_script_act2.rpy:1892
 translate spanish game_script_act2_07d89d58:
 
     # "I start boiling the water."
-    ""
+    "Pongo agua a calentar."
 
 # game/game_script_act2.rpy:1894
 translate spanish game_script_act2_1edaa689:
 
     # mc "I guess we’re in luck."
-    mc ""
+    mc "Pues estamos de suerte."
 
 # game/game_script_act2.rpy:1896
 translate spanish game_script_act2_9a8ca8ab:
 
     # "I take out the box, shaking it in front of Natsuki."
-    ""
+    "Saco la caja de los armarios y la agito en frente de Natsuki."
 
 # game/game_script_act2.rpy:1898
 translate spanish game_script_act2_a32fc7d2:
 
     # "She smiles at me while she continues to scramble the eggs."
-    ""
+    "Mientras se encarga de hacer el revuelto con los huevos, me sonríe."
 
 # game/game_script_act2.rpy:1901
 translate spanish game_script_act2_1e151c42:
 
     # "I open the cabinets and take out two mugs, one pink and one red."
-    ""
+    "Cojo dos tazas"
 
 # game/game_script_act2.rpy:1902
 translate spanish game_script_act2_b47a46cb:

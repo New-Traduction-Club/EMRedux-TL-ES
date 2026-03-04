@@ -788,7 +788,7 @@ translate spanish game_script_act2_e1d2d85f:
 translate spanish game_script_act2_93698561:
 
     # mc "I don't know how hard it's gonna be...but you do know you need to let this go, right?"
-    mc "No sé lo que te va a costar... pero sabes que tienes que pasar página, ¿no?
+    mc "No sé lo que te va a costar, pero... sabes que tienes que pasar página, ¿no?"
 
 # game/game_script_act2.rpy:2268
 translate spanish game_script_act2_4edce0a1:

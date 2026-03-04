@@ -2,139 +2,139 @@
 translate spanish game_script_act2_bb2cf764_1:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/game_script_act2.rpy:1998
 translate spanish game_script_act2_f1c260b3:
 
     # "She bursts into laughter, cackling away at my dumb joke."
-    ""
+    "Se echa a reír de mi chiste tonto, soltando carcajadas muy fuertes."
 
 # game/game_script_act2.rpy:1999
 translate spanish game_script_act2_1c85ce69:
 
     # "I crack a smile."
-    ""
+    "Sonrío."
 
 # game/game_script_act2.rpy:2000
 translate spanish game_script_act2_aa67743a:
 
     # "The smell of freshly cooked breakfast."
-    ""
+    "El olor de un buen desayuno recién hecho,"
 
 # game/game_script_act2.rpy:2001
 translate spanish game_script_act2_b0aa687f:
 
     # "Sunlight pouring in through the windows."
-    ""
+    "los rayos de sol penetrando las ventanas,"
 
 # game/game_script_act2.rpy:2002
 translate spanish game_script_act2_a91dc5e9:
 
     # "The steam emanating from our hot beverages."
-    ""
+    "el humo proveniente de las tazas,"
 
 # game/game_script_act2.rpy:2004
 translate spanish game_script_act2_c4bba879:
 
     # "Natsuki sitting across from me, still laughing."
-    ""
+    "Natsuki sentada a mi lado y aún riendo...,"
 
 # game/game_script_act2.rpy:2006
 translate spanish game_script_act2_d8641b78:
 
     # "It’s weird."
-    ""
+    "me resulta extraño."
 
 # game/game_script_act2.rpy:2007
 translate spanish game_script_act2_8282671b:
 
     # "All of this is happening right now, but..."
-    ""
+    "Aunque todo esto esté ocurriendo ahora...,"
 
 # game/game_script_act2.rpy:2008
 translate spanish game_script_act2_4a35f42d:
 
     # "It somehow already feels nostalgic."
-    ""
+    "me resulta nostálgico de alguna que otra manera."
 
 # game/game_script_act2.rpy:2010
 translate spanish game_script_act2_20d0c844:
 
     # "I start digging in."
-    ""
+    "Empiezo a comer."
 
 # game/game_script_act2.rpy:2013
 translate spanish game_script_act2_909dae5f:
 
     # "Let's start with the bacon."
-    ""
+    "Primero el bacon."
 
 # game/game_script_act2.rpy:2014
 translate spanish game_script_act2_7c4de242:
 
     # "I need to see how well my efforts have fared."
-    ""
+    "Me urge ver lo valioso que ha sido mi esfuerzo."
 
 # game/game_script_act2.rpy:2015
 translate spanish game_script_act2_201c4ba6:
 
     # "After a few bites, I conclude that it was just 'good enough.'"
-    ""
+    "Tras unos cuantos bocados, la conclusión es que está... lo bueno que debería de estar."
 
 # game/game_script_act2.rpy:2016
 translate spanish game_script_act2_155cc09e:
 
     # "Seems appropriate for something I made."
-    ""
+    "Totalmente esperable de algo que haya hecho yo."
 
 # game/game_script_act2.rpy:2018
 translate spanish game_script_act2_99e3abe9:
 
     # "Looking over at Natsuki, I see her take a taste of the bacon."
-    ""
+    "Echando un vistazo a Natsuki, la veo probar el bacon también."
 
 # game/game_script_act2.rpy:2020
 translate spanish game_script_act2_93030be8:
 
     # "{cps=9}.{w=0.2}.{nw}{/cps}"
-    ""
+    "{cps=9}.{w=0.2}.{nw}{/cps}"
 
 # game/game_script_act2.rpy:2022
 translate spanish game_script_act2_0e566672:
 
     # extend "{w=0.2}."
-    extend ""
+    extend "{w=0.2}."
 
 # game/game_script_act2.rpy:2024
 translate spanish game_script_act2_0426f3ea:
 
     # "She seems to have taken notice of me trying to gauge her opinion."
-    ""
+    "Parece haberse dado cuenta de que trato de saber su opinión."
 
 # game/game_script_act2.rpy:2026
 translate spanish game_script_act2_a22cba7e:
 
     # mc "That bad, huh?"
-    mc ""
+    mc "Fatal, ¿eh?"
 
 # game/game_script_act2.rpy:2028
 translate spanish game_script_act2_47b08fca:
 
     # n b2a mh "What? No way!"
-    n b2a mh ""
+    n b2a mh "¿Fatal? ¡Ni de coña!"
 
 # game/game_script_act2.rpy:2029
 translate spanish game_script_act2_44e45851:
 
     # n b1c mg "They're decent, at least."
-    n b1c mg ""
+    n b1c mg "Están bien, más o menos."
 
 # game/game_script_act2.rpy:2031
 translate spanish game_script_act2_43e3ceff:
 
     # mc "Okay, let's see how good your eggs are before you talk big game."
-    mc ""
+    mc "Vale, pues a ver qué tal han quedado los huevos antes de ir de sobrada."
 
 # game/game_script_act2.rpy:2033
 translate spanish game_script_act2_338942c9:

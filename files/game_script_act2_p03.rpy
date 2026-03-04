@@ -1923,76 +1923,76 @@ translate spanish game_script_act2_aa389913:
 translate spanish game_script_act2_32d45f68:
 
     # "I put the hot cocoa powder in the mug and pour the boiling water in."
-    ""
+    "Pongo el preparado en polvo en la taza y echo agua hirviendo."
 
 # game/game_script_act2.rpy:1955
 translate spanish game_script_act2_10235eb7:
 
     # "I mix the contents with a tablespoon, making everything even."
-    ""
+    "Con una cucharilla, mezclo todo."
 
 # game/game_script_act2.rpy:1956
 translate spanish game_script_act2_4e598516:
 
     # "I quickly prepare my coffee as well."
-    ""
+    "Aprovecho el agua para prepararme un café."
 
 # game/game_script_act2.rpy:1959
 translate spanish game_script_act2_17d8322c:
 
     # "Natsuki goes ahead and heads into the living room."
-    ""
+    "Natsuki se adelanta yendo al salón."
 
 # game/game_script_act2.rpy:1960
 translate spanish game_script_act2_003a8978:
 
     # "With my cup of coffee in hand, I follow, ready to enjoy our lavish breakfast."
-    ""
+    "Con el café en mano, la sigo para disfrutar de nuestro espléndido desayuno."
 
 # game/game_script_act2.rpy:1968
 translate spanish game_script_act2_d0a4e81b:
 
     # "Walking up to the couch, I place the drink on the coffee table in front of her."
-    ""
+    "Llegando al sofá, le pongo el chocolate en la mesita, frente a ella."
 
 # game/game_script_act2.rpy:1970
 translate spanish game_script_act2_a9502f99:
 
     # "She takes a whiff of the hot chocolate."
-    ""
+    "Se acerca y lo huele."
 
 # game/game_script_act2.rpy:1972
 translate spanish game_script_act2_f1ebf10d:
 
     # "I can’t help but take note of the resulting smile."
-    ""
+    "No puedo evitar notar su sonrisa."
 
 # game/game_script_act2.rpy:1975
 translate spanish game_script_act2_d8963a2e:
 
     # n e1a b2a zz1 mg "Hey, [player], did you switch our drinks?"
-    n e1a b2a zz1 mg ""
+    n e1a b2a zz1 mg "Oye, [player], ¿me has puesto el café?"
 
 # game/game_script_act2.rpy:1977
 translate spanish game_script_act2_fc5c6fe1:
 
     # mc "Nope. There’s coffee in this, hot choc in that."
-    mc ""
+    mc "No. El café está en mi taza y en la tuya está el chocolate caliente."
 
 # game/game_script_act2.rpy:1978
 translate spanish game_script_act2_fccb9547:
 
     # mc "Why do you ask?"
-    mc ""
+    mc "¿A qué viene esa pregunta?"
 
 # game/game_script_act2.rpy:1980
 translate spanish game_script_act2_b8a753d9:
 
     # n rhip mb "Why did you pour your coffee in the bright pink mug with cat ears?"
-    n rhip mb ""
+    n rhip mb "Es que no me queda claro el por qué tu café está en una taza rosa brillante con orejitas de gato."
 
 # game/game_script_act2.rpy:1982
 translate spanish game_script_act2_84091cd2:
 
     # mc "Because {i}obviously{/i} a bright pink mug with cat ears is the epitome of manliness."
-    mc ""
+    mc "Porque es más que obvio que una taza rosa brillante con orejitas de gato es "

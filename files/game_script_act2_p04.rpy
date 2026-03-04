@@ -140,223 +140,223 @@ translate spanish game_script_act2_43e3ceff:
 translate spanish game_script_act2_338942c9:
 
     # n mb "Please do."
-    n mb ""
+    n mb "Adelante."
 
 # game/game_script_act2.rpy:2036
 translate spanish game_script_act2_2c7cd240:
 
     # "I take a portion of the scrambled eggs and stuff it into my mouth."
-    ""
+    "Cojo un poco de los huevos revueltos y los pongo en mi boca."
 
 # game/game_script_act2.rpy:2037
 translate spanish game_script_act2_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script_act2.rpy:2039
 translate spanish game_script_act2_454b2343:
 
     # mc "{size=-18}Oh my God, these eggs are great.{/size}"
-    mc ""
+    mc "{size=-18}Joder, están muy buenos.{/size}"
 
 # game/game_script_act2.rpy:2041
 translate spanish game_script_act2_b3954dd9:
 
     # n rhip lhip b1f e1d mb "I couldn't hear you, can you speak up?"
-    n rhip lhip b1f e1d mb ""
+    n rhip lhip b1f e1d mb "Creo que no te he escuchado... ¿puedes hablar un poquiiito más alto?"
 
 # game/game_script_act2.rpy:2043
 translate spanish game_script_act2_06163025:
 
     # mc "{size=-12}These eggs are great.{/size}"
-    mc ""
+    mc "{size=-12}Están muy buenos.{/size}"
 
 # game/game_script_act2.rpy:2045
 translate spanish game_script_act2_692f1a53:
 
     # n mc "What?"
-    n mc ""
+    n mc "¿Que qué?"
 
 # game/game_script_act2.rpy:2047
 translate spanish game_script_act2_544fd325:
 
     # mc "{b}These eggs are great!{/b}"
-    mc ""
+    mc "{b}¡Que están muy buenos!{/b}"
 
 # game/game_script_act2.rpy:2049
 translate spanish game_script_act2_e6a3ae49:
 
     # n b1c mo "Ahh, that's better."
-    n b1c mo ""
+    n b1c mo "Ah, mucho mejor."
 
 # game/game_script_act2.rpy:2050
 translate spanish game_script_act2_dc978960:
 
     # n e4b zz2 mb "Told ya."
-    n e4b zz2 mb ""
+    n e4b zz2 mb "Te lo dije."
 
 # game/game_script_act2.rpy:2052
 translate spanish game_script_act2_e29dcc3f:
 
     # mc "Yeah, yeah, don't rub it in."
-    mc ""
+    mc "Que sí, que sí, no me lo restriegues."
 
 # game/game_script_act2.rpy:2055
 translate spanish game_script_act2_3bf5e535:
 
     # "I take a sip from the mug."
-    ""
+    "Doy un sorbo al café."
 
 # game/game_script_act2.rpy:2056
 translate spanish game_script_act2_639a0acf:
 
     # "This bright pink, cat-eared mug."
-    ""
+    "Café que está en la taza rosa con orejas de gatito."
 
 # game/game_script_act2.rpy:2057
 translate spanish game_script_act2_a20cefa7_2:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script_act2.rpy:2059
 translate spanish game_script_act2_65c6ff4c:
 
     # mc "Hey, can I ask you something?"
-    mc ""
+    mc "Oye, ¿puedo preguntarte algo?"
 
 # game/game_script_act2.rpy:2061
 translate spanish game_script_act2_80a6ffcc:
 
     # n b1c mg "Sure. What's up?"
-    n b1c mg ""
+    n b1c mg "Claro, dime."
 
 # game/game_script_act2.rpy:2063
 translate spanish game_script_act2_c8784ea5:
 
     # mc "The mug’s yours, right?"
-    mc ""
+    mc "La taza es tuya, ¿no?"
 
 # game/game_script_act2.rpy:2065
 translate spanish game_script_act2_ce7b5342:
 
     # n mh "Yeah."
-    n mh ""
+    n mh "Claro."
 
 # game/game_script_act2.rpy:2067
 translate spanish game_script_act2_eeece8d1:
 
     # mc "Why bring this of all things?"
-    mc ""
+    mc "¿Por qué, de todas las cosas, te traes esta taza?"
 
 # game/game_script_act2.rpy:2068
 translate spanish game_script_act2_648335ae:
 
     # mc "Kind of a {nw}"
-    mc ""
+    mc "Creo que es muy... {nw}"
 
 # game/game_script_act2.rpy:2070
 translate spanish game_script_act2_c88b36a9:
 
     # extend "dead weight, isn’t it?"
-    extend ""
+    extend "muy poco necesaria, ¿no?"
 
 # game/game_script_act2.rpy:2072
 translate spanish game_script_act2_2023649a:
 
     # mc "Surely you could've used that space for someth-..."
-    mc ""
+    mc "En plan, podrías haber usado ese espacio para otr..."
 
 # game/game_script_act2.rpy:2075
 translate spanish game_script_act2_db3d4258:
 
     # "I trail off as Natsuki glares at me."
-    ""
+    "Paro de hablar justo cuando Natsuki empieza a fulminarme con la mirada."
 
 # game/game_script_act2.rpy:2078
 translate spanish game_script_act2_78662e28:
 
     # n mh "It is{w=0.3} {nw}"
-    n mh ""
+    n mh "¡Es{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:2080
 translate spanish game_script_act2_2a027bb9:
 
     # extend "{i}not{/i} dead weight!"
-    extend ""
+    extend "muy necesaria!"
 
 # game/game_script_act2.rpy:2082
 translate spanish game_script_act2_682cd9cc:
 
     # mc "Sorry, sorry. I was just asking."
-    mc ""
+    mc "Lo siento, era solo una pregunta."
 
 # game/game_script_act2.rpy:2084
 translate spanish game_script_act2_6ea627a6:
 
     # mc "If you don’t wanna talk about it, it’s fine..."
-    mc ""
+    mc "Si no te apetece hablar de ello, no pasa nada..."
 
 # game/game_script_act2.rpy:2086
 translate spanish game_script_act2_06f68b29:
 
     # "I take another sip from the mug."
-    ""
+    "Le doy otro sorbo al café."
 
 # game/game_script_act2.rpy:2088
 translate spanish game_script_act2_745483f6:
 
     # "Natsuki fidgets in her seat before speaking."
-    ""
+    "Natsuki juega con su dedo en el sofá antes de hablar."
 
 # game/game_script_act2.rpy:2091
 translate spanish game_script_act2_a2250c1f:
 
     # n mg "Christmas gift."
-    n mg ""
+    n mg "Fue un regalo de Navidad."
 
 # game/game_script_act2.rpy:2092
 translate spanish game_script_act2_143ad9c1:
 
     # n mh "From Dad."
-    n mh ""
+    n mh "Un regalo de papá."
 
 # game/game_script_act2.rpy:2094
 translate spanish game_script_act2_c1dff962:
 
     # mc "Oh..."
-    mc ""
+    mc "Ah..."
 
 # game/game_script_act2.rpy:2096
 translate spanish game_script_act2_b60ede4d:
 
     # "I set the mug down on the table."
-    ""
+    "Dejo la taza en la mesa."
 
 # game/game_script_act2.rpy:2098
 translate spanish game_script_act2_49c94304:
 
     # mc "...Sorry."
-    mc ""
+    mc "Perdón..."
 
 # game/game_script_act2.rpy:2100
 translate spanish game_script_act2_2fb4e9ce:
 
     # n e1a mg "Don’t...don't worry about it."
-    n e1a mg ""
+    n e1a mg "No... te preocupes."
 
 # game/game_script_act2.rpy:2101
 translate spanish game_script_act2_6b346a4d:
 
     # n mh "Besides, apart from that..."
-    n mh ""
+    n mh "Aparte de eso,"
 
 # game/game_script_act2.rpy:2102
 translate spanish game_script_act2_c55666bb:
 
     # n -awkw b1c "It’s just a plain old mug."
-    n -awkw b1c ""
+    n -awkw b1c "no es más que una simple taza."
 
 # game/game_script_act2.rpy:2104
 translate spanish game_script_act2_d5ae2301:

@@ -1989,10 +1989,10 @@ translate spanish game_script_act2_fccb9547:
 translate spanish game_script_act2_b8a753d9:
 
     # n rhip mb "Why did you pour your coffee in the bright pink mug with cat ears?"
-    n rhip mb "Es que no me queda claro el por qué tu café está en una taza rosa brillante con orejitas de gato."
+    n rhip mb "Es que no me queda claro el por qué tu café está en una taza rosa chillón con orejitas de gato."
 
 # game/game_script_act2.rpy:1982
 translate spanish game_script_act2_84091cd2:
 
     # mc "Because {i}obviously{/i} a bright pink mug with cat ears is the epitome of manliness."
-    mc "Porque es más que obvio que una taza rosa brillante con orejitas de gato es "
+    mc "Porque es más que obvio que una taza rosa chillón con orejitas de gato es el no va más de la virilidad."

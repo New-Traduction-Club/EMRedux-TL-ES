@@ -1971,13 +1971,13 @@ translate spanish game_script_act2_f1ebf10d:
 translate spanish game_script_act2_d8963a2e:
 
     # n e1a b2a zz1 mg "Hey, [player], did you switch our drinks?"
-    n e1a b2a zz1 mg "Oye, [player], ¿me has puesto el café?"
+    n e1a b2a zz1 mg "Oye, [player], ¿me has cambiado la bebida?"
 
 # game/game_script_act2.rpy:1977
 translate spanish game_script_act2_fc5c6fe1:
 
     # mc "Nope. There’s coffee in this, hot choc in that."
-    mc "No. El café está en mi taza y en la tuya está el chocolate caliente."
+    mc "Pues no. El café está en mi taza y en la tuya está el chocolate caliente."
 
 # game/game_script_act2.rpy:1978
 translate spanish game_script_act2_fccb9547:
@@ -1989,7 +1989,7 @@ translate spanish game_script_act2_fccb9547:
 translate spanish game_script_act2_b8a753d9:
 
     # n rhip mb "Why did you pour your coffee in the bright pink mug with cat ears?"
-    n rhip mb "Es que no me queda claro el por qué tu café está en una taza rosa chillón con orejitas de gato."
+    n rhip mb "Es que no me queda claro el motivo del por qué tu café está en una taza rosa chillón con orejitas de gato."
 
 # game/game_script_act2.rpy:1982
 translate spanish game_script_act2_84091cd2:

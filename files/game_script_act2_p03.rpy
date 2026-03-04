@@ -1917,7 +1917,7 @@ translate spanish game_script_act2_85ead061:
 translate spanish game_script_act2_aa389913:
 
     # mc "Well, let’s just get these drinks finished up and we’ll dig right in."
-    mc ""
+    mc "Genial, vamos a terminar las bebidas y empezamos a comer."
 
 # game/game_script_act2.rpy:1954
 translate spanish game_script_act2_32d45f68:

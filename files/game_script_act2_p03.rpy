@@ -1947,7 +1947,7 @@ translate spanish game_script_act2_17d8322c:
 translate spanish game_script_act2_003a8978:
 
     # "With my cup of coffee in hand, I follow, ready to enjoy our lavish breakfast."
-    "Con el café en mano, la sigo para disfrutar de nuestro espléndido desayuno."
+    "Café en mano, la sigo para disfrutar de nuestro espléndido desayuno."
 
 # game/game_script_act2.rpy:1968
 translate spanish game_script_act2_d0a4e81b:

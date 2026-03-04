@@ -1803,7 +1803,7 @@ translate spanish game_script_act2_31de5441:
 translate spanish game_script_act2_f692aedc:
 
     # n mg b1c "Well, if you're gonna season it, it should be {i}before{/i} you fry it up..."
-    n mg b1c "Es que eso se hace antes de la fritura..."
+    n mg b1c "Es que se hace antes de la fritura..."
 
 # game/game_script_act2.rpy:1921
 translate spanish game_script_act2_2d593ffc:
@@ -1863,7 +1863,7 @@ translate spanish game_script_act2_a20cefa7:
 translate spanish game_script_act2_1eda30f3:
 
     # "I really need to keep a better track of what I have."
-    "Me hace falta tener un mejor control de lo que guardo por casa."
+    "Me hace falta controlar mejor lo que guardo por casa."
 
 # game/game_script_act2.rpy:1938
 translate spanish game_script_act2_7baf4ad6:

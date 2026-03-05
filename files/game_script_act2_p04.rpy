@@ -734,13 +734,13 @@ translate spanish game_script_act2_7e427d4e:
 translate spanish game_script_act2_ab2f9121:
 
     # n b1c "The stupid mug is probably the closest thing to a Christmas gift he got me in years."
-    n b1c "Esa estúpida taza es lo más parecido a un regalo de Navidad que me haya hecho en muchos años."
+    n b1c "Esa puñetera taza es lo más parecido a un regalo de Navidad que me haya hecho en muchos años."
 
 # game/game_script_act2.rpy:2255
 translate spanish game_script_act2_b06848b5:
 
     # n "I dunno why he picked a mug of all things. Must've been the bare minimum."
-    n "No sé por qué una taza, aunque supongo que por ser algo típico."
+    n "No sé por qué una taza, aunque supongo que ha sido por regalarme algo."
 
 # game/game_script_act2.rpy:2256
 translate spanish game_script_act2_441c22ba:
@@ -770,7 +770,7 @@ translate spanish game_script_act2_fcbd20c8:
 translate spanish game_script_act2_2a1354d5:
 
     # n cross e2a b1d mi "I can't help it!"
-    n cross e2a b1d mi "¡No puedo evitarlo!"
+    n cross e2a b1d mi "¡No me queda otra!"
 
 # game/game_script_act2.rpy:2264
 translate spanish game_script_act2_3e620f2c:

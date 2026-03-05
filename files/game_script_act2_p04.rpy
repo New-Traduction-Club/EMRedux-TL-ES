@@ -386,7 +386,7 @@ translate spanish game_script_act2_1cefec76:
 translate spanish game_script_act2_60f53ec6:
 
     # mc "Not much to do when we’re stuck here."
-    mc "No hay mucho que hacer estando los dos aquí atrapados."
+    mc "No hay mucho que hacer estando los dos aquí encerrados."
 
 # game/game_script_act2.rpy:2121
 translate spanish game_script_act2_9732792e:

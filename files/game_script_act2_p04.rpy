@@ -146,7 +146,7 @@ translate spanish game_script_act2_338942c9:
 translate spanish game_script_act2_2c7cd240:
 
     # "I take a portion of the scrambled eggs and stuff it into my mouth."
-    "Cojo un poco de los huevos revueltos y los pongo en mi boca."
+    "Cojo una porción de los huevos revueltos y me la meto en la boca."
 
 # game/game_script_act2.rpy:2037
 translate spanish game_script_act2_a20cefa7_1:

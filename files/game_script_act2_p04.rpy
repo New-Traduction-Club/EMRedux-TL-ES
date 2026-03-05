@@ -740,7 +740,7 @@ translate spanish game_script_act2_ab2f9121:
 translate spanish game_script_act2_b06848b5:
 
     # n "I dunno why he picked a mug of all things. Must've been the bare minimum."
-    n "No sé por qué una taza, aunque supongo que ha sido por regalarme algo."
+    n "Y no sé por qué una taza. Debió haber elegido lo primero que vio..."
 
 # game/game_script_act2.rpy:2256
 translate spanish game_script_act2_441c22ba:

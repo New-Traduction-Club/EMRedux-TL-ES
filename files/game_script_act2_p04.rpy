@@ -626,7 +626,7 @@ translate spanish game_script_act2_b56762a8:
 translate spanish game_script_act2_0ba5f273:
 
     # n mg "But, y'know, there is the small, teeny, tiny issue of {i}my dad{/i}."
-    n mg "También es cierto que hay una minúscula, ínfima y pequeña probabilidad de encontrarnos a mi padre."
+    n mg "Aunque también hay una minúscula, ínfima y pequeña probabilidad de encontrarnos a mi padre."
 
 # game/game_script_act2.rpy:2222
 translate spanish game_script_act2_246ff381:

@@ -560,7 +560,7 @@ translate spanish game_script_act2_873d0a82:
 translate spanish game_script_act2_09ff5fb9:
 
     # mc "I was trying to be jok--"
-    mc "Estaba brome..."
+    mc "Estaba tratando de gastarte una bro..."
 
 # game/game_script_act2.rpy:2198
 translate spanish game_script_act2_c89c4899:
@@ -620,7 +620,7 @@ translate spanish game_script_act2_5c37f07c:
 translate spanish game_script_act2_b56762a8:
 
     # n mi e1c "But man, being stuck here sucks."
-    n mi e1c "Pero es cierto que estar encerrado aquí es una mierda."
+    n mi e1c "Pero es cierto que estar confinada aquí es una mierda."
 
 # game/game_script_act2.rpy:2221
 translate spanish game_script_act2_0ba5f273:

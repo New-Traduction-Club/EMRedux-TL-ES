@@ -416,7 +416,7 @@ translate spanish game_script_act2_92429059:
 translate spanish game_script_act2_ca65050b:
 
     # n rhip mi "Oh what?{w=0.8}{nw}"
-    n rhip mi "Espera, ¿qué?{w=0.8}{nw}"
+    n rhip mi "Eh, ¿qué?{w=0.8}{nw}"
 
 # game/game_script_act2.rpy:2137
 translate spanish game_script_act2_f3c900ae:
@@ -530,13 +530,13 @@ translate spanish game_script_act2_4a8c17d2:
 translate spanish game_script_act2_b11f1e2e:
 
     # extend "see,{w=0.4} {nw}"
-    extend "pero es que yo tengo una cosa{w=0.4} {nw}"
+    extend "verás...{w=0.4} {nw}"
 
 # game/game_script_act2.rpy:2185
 translate spanish game_script_act2_5e4694b7:
 
     # extend "I have this thing called...{w=0.8}{nw}"
-    extend "llamada...{w=0.8} {nw}"
+    extend "dispongo de una cosita llamada...{w=0.8} {nw}"
 
 # game/game_script_act2.rpy:2187
 translate spanish game_script_act2_f34bfed3:
@@ -554,7 +554,7 @@ translate spanish game_script_act2_13c135b8:
 translate spanish game_script_act2_873d0a82:
 
     # mc "I'm sorry. That came out...so wrong."
-    mc "Perdón. No quería que esto acabase así."
+    mc "Perdón. No quería que esto... acabase así."
 
 # game/game_script_act2.rpy:2195
 translate spanish game_script_act2_09ff5fb9:

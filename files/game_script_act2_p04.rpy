@@ -1646,7 +1646,7 @@ translate spanish game_script_act2_c0061acd:
 translate spanish game_script_act2_baac459d:
 
     # n b1d e1c "{size=-12}{i}Short of a sewing machine, anyway...{/i}{/size}"
-    n b1d e1c "{size=-12}{i}menos una máquina de coser...{/i}{/size}"
+    n b1d e1c "{size=-12}menos una máquina de coser...{/size}"
 
 # game/game_script_act2.rpy:2509
 translate spanish game_script_act2_f72b12a9:

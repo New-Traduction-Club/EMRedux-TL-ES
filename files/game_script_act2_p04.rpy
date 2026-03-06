@@ -1430,211 +1430,211 @@ translate spanish game_script_act2_a20cefa7_5:
 translate spanish game_script_act2_3806589e:
 
     # "Natsuki looks up from the copy of Parfait Girls she was entrenched in."
-    ""
+    "Natsuki levanta la cabeza del tomo de Parfait Girls que estaba leyendo."
 
 # game/game_script_act2.rpy:2440
 translate spanish game_script_act2_5868ae9b:
 
     # n "Oh..."
-    n ""
+    n "Ah..."
 
 # game/game_script_act2.rpy:2441
 translate spanish game_script_act2_ffb53296:
 
     # n e1b mh "Hey, [player]."
-    n e1b mh ""
+    n e1b mh "Ey, [player]."
 
 # game/game_script_act2.rpy:2443
 translate spanish game_script_act2_01ff8425:
 
     # mc "...Hi."
-    mc ""
+    mc "Eh... hola."
 
 # game/game_script_act2.rpy:2445
 translate spanish game_script_act2_a643a65b:
 
     # n b1f e1a mh "Do you need something?"
-    n b1f e1a mh ""
+    n b1f e1a mh "¿Quieres algo?"
 
 # game/game_script_act2.rpy:2447
 translate spanish game_script_act2_f7c11115:
 
     # mc "I just...wanted to check up on you and see how you're holding up."
-    mc ""
+    mc "Quería... saber cómo estás y cómo lo estás llevando todo."
 
 # game/game_script_act2.rpy:2449
 translate spanish game_script_act2_c02c5d0b:
 
     # n b1d e1d mh "I'm fine."
-    n b1d e1d mh ""
+    n b1d e1d mh "Estoy bien."
 
 # game/game_script_act2.rpy:2451
 translate spanish game_script_act2_4e57c95a:
 
     # mc "That's...good."
-    mc ""
+    mc "Es... genial."
 
 # game/game_script_act2.rpy:2452
 translate spanish game_script_act2_b3a2a3a2:
 
     # mc "I've got your clothes, by the way."
-    mc ""
+    mc "Tengo tu ropa limpia, por cierto."
 
 # game/game_script_act2.rpy:2454
 translate spanish game_script_act2_03ddca20:
 
     # "I heft the bag into the room, propping it up next to her suitcase."
-    ""
+    "Le dejo la bolsa junto a su maleta."
 
 # game/game_script_act2.rpy:2457
 translate spanish game_script_act2_75d35a27:
 
     # n b1a e1b mh "Oh, thanks."
-    n b1a e1b mh ""
+    n b1a e1b mh "Vale, gracias."
 
 # game/game_script_act2.rpy:2459
 translate spanish game_script_act2_fef40329:
 
     # "She proceeds to try and shut the door to the room, but I stop it with my foot."
-    ""
+    "Natsuki intenta cerrar la puerta de la habitación y pongo mi pie por medio."
 
 # game/game_script_act2.rpy:2461
 translate spanish game_script_act2_047f7900:
 
     # n b1a e1d mh "You mind?"
-    n b1a e1d mh ""
+    n b1a e1d mh "Si no te importa..."
 
 # game/game_script_act2.rpy:2463
 translate spanish game_script_act2_281e814d:
 
     # mc "Wait, uhm..."
-    mc ""
+    mc "Espera, por... favor."
 
 # game/game_script_act2.rpy:2465
 translate spanish game_script_act2_64ab5f00:
 
     # "Her left eye peeks out from the little crevice left by the door."
-    ""
+    "Su ojo izquierdo se asoma por la pequeña grieta que queda entre el marco y la puerta."
 
 # game/game_script_act2.rpy:2467
 translate spanish game_script_act2_faaab126:
 
     # n b1d e1a mi "What?"
-    n b1d e1a mi ""
+    n b1d e1a mi "Qué."
 
 # game/game_script_act2.rpy:2469
 translate spanish game_script_act2_7fac897d:
 
     # "I shove her blazer through the gap."
-    ""
+    "Meto su chaqueta por el hueco."
 
 # game/game_script_act2.rpy:2471
 translate spanish game_script_act2_e208bd2b:
 
     # mc "I saw this when I was going through the clothes and thought, if you're up to it, maybe we can try and fix it up?"
-    mc ""
+    mc "Me di cuenta de esto cuando estaba recogiendo la ropa, y quería decirte que... que si querías, podíamos intentar arreglarla."
 
 # game/game_script_act2.rpy:2472
 translate spanish game_script_act2_8bd2b3d5:
 
     # mc "I dug out some sewing stuff from my parents' old room, got it set up downstairs."
-    mc ""
+    mc "He puesto abajo una caja de costura que pertenecía a mis padres."
 
 # game/game_script_act2.rpy:2473
 translate spanish game_script_act2_db2acac2:
 
     # mc "We do have to go to school on Monday, so..."
-    mc ""
+    mc "Como tenemos que ir a clase el lunes..."
 
 # game/game_script_act2.rpy:2475
 translate spanish game_script_act2_9a973e43:
 
     # "She slowly opens the door."
-    ""
+    "Abre lentamente la puerta."
 
 # game/game_script_act2.rpy:2477
 translate spanish game_script_act2_253bd863:
 
     # "Natsuki stands in the doorway, leaning on its rims."
-    ""
+    "Natsuki se apoya en los marcos de la puerta ya abierta."
 
 # game/game_script_act2.rpy:2479
 translate spanish game_script_act2_31f5d636:
 
     # n b1b e1d mh "Do you even know how to sew?"
-    n b1b e1d mh ""
+    n b1b e1d mh "¿Sabes acaso cómo coger una aguja?"
 
 # game/game_script_act2.rpy:2481
 translate spanish game_script_act2_62e9feaa:
 
     # mc "First time for everything, right?"
-    mc ""
+    mc "Siempre hay una primera vez para todo."
 
 # game/game_script_act2.rpy:2483
 translate spanish game_script_act2_1473480d:
 
     # "I crack a shaky smile."
-    ""
+    "Sonrío temblorosamente."
 
 # game/game_script_act2.rpy:2485
 translate spanish game_script_act2_accc5295:
 
     # n b1a e1b mh "I know a bit about it, but I've never actually sewn anything."
-    n b1a e1b mh ""
+    n b1a e1b mh "Yo sé del tema un poco, pero nunca lo he aplicado en un caso real."
 
 # game/game_script_act2.rpy:2486
 translate spanish game_script_act2_6bcbd598:
 
     # n e1d "Guess we'll be learning together then."
-    n e1d ""
+    n e1d "Pues nada, tendremos que aprender por el camino."
 
 # game/game_script_act2.rpy:2488
 translate spanish game_script_act2_e63a0b4c:
 
     # "She lobs Parfait Girls onto the futon, before handing the blazer back to me."
-    ""
+    "Me da la chaqueta y deja Parfait Girls en el futón."
 
 # game/game_script_act2.rpy:2490
 translate spanish game_script_act2_cf1adef2_1:
 
     # mc "Yeah."
-    mc ""
+    mc "Supongo."
 
 # game/game_script_act2.rpy:2492
 translate spanish game_script_act2_0331ecd2:
 
     # "I take the lead, heading downstairs."
-    ""
+    "Bajamos las escaleras."
 
 # game/game_script_act2.rpy:2495
 translate spanish game_script_act2_94f4da9d:
 
     # "As we reach the living room, I take a seat on the couch, pointing towards all the stuff on the table."
-    ""
+    "Tal y como llegamos al salón, me siento en el sofá y señalo la caja de costura, que está en la mesa grande."
 
 # game/game_script_act2.rpy:2497
 translate spanish game_script_act2_1a65ad16:
 
     # mc "String, needles, this thing..."
-    mc ""
+    mc "Ahí hay agujas, hilos, lo que sea que es esto..."
 
 # game/game_script_act2.rpy:2499
 translate spanish game_script_act2_356cdb9d:
 
     # "I motion towards what I can only describe as a thumb-sized cheese grater."
-    ""
+    "Señalo a lo que puedo definir como un rallador de queso del tamaño de un dedo."
 
 # game/game_script_act2.rpy:2502
 translate spanish game_script_act2_acabfbff:
 
     # n b1f e1a mh "A thimble?"
-    n b1f e1a mh ""
+    n b1f e1a mh "¿Un dedal?"
 
 # game/game_script_act2.rpy:2504
 translate spanish game_script_act2_1f5f4b0c:
 
     # mc "Uh...sure, yeah. Probably."
-    mc ""
+    mc "Eh... sí, eso, lo que yo decía..."
 
 # game/game_script_act2.rpy:2506
 translate spanish game_script_act2_c0061acd:

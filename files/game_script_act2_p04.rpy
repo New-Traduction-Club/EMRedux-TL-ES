@@ -1394,37 +1394,37 @@ translate spanish game_script_act2_74c8a583:
 translate spanish game_script_act2_371ec013:
 
     # "Noticing that the dryer has quietened down, I assume that it's finished its job."
-    ""
+    "Me percato de que la secadora ha terminado de hacer ruido y supongo que ya ha acabado de hacer su trabajo."
 
 # game/game_script_act2.rpy:2421
 translate spanish game_script_act2_d0fdddec:
 
     # "That {i}was{/i} fast."
-    ""
+    "Pues sí que ha sido rápido."
 
 # game/game_script_act2.rpy:2422
 translate spanish game_script_act2_f6fc0d9c:
 
     # "Opening the drawer under the sink, I grab a large bag and start stuffing the now-dry clothes into it, one by one."
-    ""
+    "Abriendo el compartimento de debajo del fregadero, cojo una bolsa grande y meto la ropa seca ahí dentro."
 
 # game/game_script_act2.rpy:2423
 translate spanish game_script_act2_48d48ad4:
 
     # "As I get the last articles of clothing in, something catches my attention."
-    ""
+    "Tal y como meto las últimas unidades de ropa, algo llama mi atención."
 
 # game/game_script_act2.rpy:2424
 translate spanish game_script_act2_4e2a8115:
 
     # "Natsuki's school blazer, the left sleeve ripped at the seam."
-    ""
+    "La chaqueta del instituto de Natsuki. Tiene la manga izquierda con las costuras rotas."
 
 # game/game_script_act2.rpy:2425
 translate spanish game_script_act2_a20cefa7_5:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script_act2.rpy:2438
 translate spanish game_script_act2_3806589e:

@@ -1088,67 +1088,67 @@ translate spanish game_script_act2_77f1dd3d:
 translate spanish game_script_act2_148399d2:
 
     # mc "I know {i}that{/i} alone isn't much, but it does make a difference."
-    mc "Sé que no es la gran cosa, pero"
+    mc "Sé que no es la gran cosa, pero marca la diferencia."
 
 # game/game_script_act2.rpy:2350
 translate spanish game_script_act2_14408484:
 
     # mc "But he doesn't even know {i}who{/i} I am, let alone where I live."
-    mc ""
+    mc "Además, si ni siquiera sabe quién soy... mucho menos va a saber dónde vivo."
 
 # game/game_script_act2.rpy:2351
 translate spanish game_script_act2_c6115c74:
 
     # mc "I know you being here puts me at risk as well, but what other option is there?"
-    mc ""
+    mc "Sé que tenerte aquí me pone en peligro, pero no hay nada mejor que podamos hacer."
 
 # game/game_script_act2.rpy:2352
 translate spanish game_script_act2_e36f8fa0:
 
     # mc "It may be past the point of no return for you to go back..."
-    mc ""
+    mc "Y puede que ya hayas pasado ese punto de 'no retorno' para echarte atrás ahora..."
 
 # game/game_script_act2.rpy:2353
 translate spanish game_script_act2_2928d69c:
 
     # mc "But in a month's time, you won't have to worry about him ever again."
-    mc ""
+    mc "En un mes, podrás despreocuparte de él,"
 
 # game/game_script_act2.rpy:2354
 translate spanish game_script_act2_13b96099:
 
     # mc "So, all we can do is look ahead and try to get through all this."
-    mc ""
+    mc "así que ahora nos queda seguir hacia adelante y superar todas estas adversidades."
 
 # game/game_script_act2.rpy:2355
 translate spanish game_script_act2_f49fff8f_2:
 
     # mc "Yeah?"
-    mc ""
+    mc "¿Vale?"
 
 # game/game_script_act2.rpy:2369
 translate spanish game_script_act2_5a88d39c:
 
     # "Without another word, Natsuki stands up, and makes her way upstairs."
-    ""
+    "Sin mediar palabra, Natsuki se levanta y sube las escaleras."
 
 # game/game_script_act2.rpy:2370
 translate spanish game_script_act2_23943396:
 
     # "Into the spare room, I'm guessing."
-    ""
+    "Inagino que irá a la habitación de invitados."
 
 # game/game_script_act2.rpy:2371
 translate spanish game_script_act2_694ec753:
 
     # "I remain planted in my seat, running my hands through my hair."
-    ""
+    "Me quedo solo en el sofá, pasándome las manos por el pelo."
 
 # game/game_script_act2.rpy:2374
 translate spanish game_script_act2_2785947d:
 
     # "What the hell was I thinking?"
-    ""
+    "¿En qué coño estaba yo pensando?"
 
 # game/game_script_act2.rpy:2375
 translate spanish game_script_act2_2d937fb4:

@@ -1154,241 +1154,241 @@ translate spanish game_script_act2_2785947d:
 translate spanish game_script_act2_2d937fb4:
 
     # "Bringing up her dad like that..."
-    ""
+    "Sacar el tema de su padre de esa forma..."
 
 # game/game_script_act2.rpy:2376
 translate spanish game_script_act2_90968360:
 
     # "It wasn't my place."
-    ""
+    "No era asunto mío."
 
 # game/game_script_act2.rpy:2377
 translate spanish game_script_act2_4f2d6df9:
 
     # "I stand up, and consider following her, but I stop myself in my tracks."
-    ""
+    "Me levanto y pienso en seguirla, pero me paro en seco."
 
 # game/game_script_act2.rpy:2378
 translate spanish game_script_act2_a1a429a6:
 
     # "Opting to occupy myself with something, I head into the kitchen, and start transferring yesterday’s clean but damp washing into the dryer."
-    ""
+    "Optando por hacer algo para mantener la mente ocupada, empiezo a pasar la ropa limpia de ayer, que está húmeda, a la secadora."
 
 # game/game_script_act2.rpy:2383
 translate spanish game_script_act2_e8c8a5de:
 
     # "Did I mess this up?"
-    ""
+    "¿La he liado?"
 
 # game/game_script_act2.rpy:2384
 translate spanish game_script_act2_a20cefa7_3:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script_act2.rpy:2385
 translate spanish game_script_act2_216408fd:
 
     # "I don't think so."
-    ""
+    "No creo."
 
 # game/game_script_act2.rpy:2386
 translate spanish game_script_act2_45f4bb94:
 
     # "I'm doing the right thing."
-    ""
+    "Hago lo correcto."
 
 # game/game_script_act2.rpy:2387
 translate spanish game_script_act2_baf0b275:
 
     # "I know I am."
-    ""
+    "Sé quién soy."
 
 # game/game_script_act2.rpy:2388
 translate spanish game_script_act2_26786086:
 
     # "Sure, there may be a few kinks that need to be ironed out, but..."
-    ""
+    "Puede que hayan matices que solucionar, pero...,"
 
 # game/game_script_act2.rpy:2389
 translate spanish game_script_act2_e42c9216:
 
     # "It's better than leaving her with {i}him{/i}."
-    ""
+    "es mejor que dejarla a su suerte con... él."
 
 # game/game_script_act2.rpy:2391
 translate spanish game_script_act2_d83b49fc:
 
     # "I get the last of the clothes into the dryer, and start fiddling with the options."
-    ""
+    "Meto en la secadora lo poco que me queda de ropa y configuro la secadora."
 
 # game/game_script_act2.rpy:2392
 translate spanish game_script_act2_5bca2e43:
 
     # "Having configured it to the fastest option I could find, I press 'start' and the machine quickly rumbles to life."
-    ""
+    "Poniendo la opción más rápida que había, pulso 'Start' y el aparato empieza a sonar."
 
 # game/game_script_act2.rpy:2393
 translate spanish game_script_act2_1c459d8c:
 
     # "But what do I do?"
-    ""
+    "Pero, ¿qué hago ahora?"
 
 # game/game_script_act2.rpy:2394
 translate spanish game_script_act2_84866aae:
 
     # "How can I fix this?"
-    ""
+    "¿Cómo lo arreglo?"
 
 # game/game_script_act2.rpy:2395
 translate spanish game_script_act2_1ed11f19:
 
     # "My mind immediately jumps to Sayori."
-    ""
+    "Me viene a la cabeza preguntarle a Sayori."
 
 # game/game_script_act2.rpy:2396
 translate spanish game_script_act2_37e21aca:
 
     # "She might know."
-    ""
+    "Puede que ella sepa aconsejarme."
 
 # game/game_script_act2.rpy:2397
 translate spanish game_script_act2_02d28f52:
 
     # "Sayori's always had a knack for cheering people up."
-    ""
+    "Sayori siempre ha tenido un don para animar a la gente."
 
 # game/game_script_act2.rpy:2398
 translate spanish game_script_act2_bf0874e3_1:
 
     # "But..."
-    ""
+    "Pero..."
 
 # game/game_script_act2.rpy:2399
 translate spanish game_script_act2_a20cefa7_4:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script_act2.rpy:2400
 translate spanish game_script_act2_2f87af0d:
 
     # "Maybe I shouldn't involve her in this."
-    ""
+    "Puede que no sea necesario meterla en esto."
 
 # game/game_script_act2.rpy:2401
 translate spanish game_script_act2_23dd2cd4:
 
     # "I can't always use her as an emotional crutch."
-    ""
+    "No puedo usarla siempre como una solución emocional."
 
 # game/game_script_act2.rpy:2402
 translate spanish game_script_act2_873454e7:
 
     # "Especially not when she can barely keep herself together."
-    ""
+    "Y menos cuando ni siquiera ella es capaz de solucionarse emocionalmente a sí misma."
 
 # game/game_script_act2.rpy:2403
 translate spanish game_script_act2_e0798ba9:
 
     # "Maybe Yuri?"
-    ""
+    "¿Y Yuri...?"
 
 # game/game_script_act2.rpy:2404
 translate spanish game_script_act2_4ae11171:
 
     # "No, she can't know."
-    ""
+    "Ni de coña."
 
 # game/game_script_act2.rpy:2405
 translate spanish game_script_act2_57656bcf:
 
     # "Well...I guess I could make up some kind of story to explain to her."
-    ""
+    "Ni aunque me inventase una historia para llegar al mismo resultado..."
 
 # game/game_script_act2.rpy:2406
 translate spanish game_script_act2_79325cff:
 
     # "But even so..."
-    ""
+    "Aún así..."
 
 # game/game_script_act2.rpy:2407
 translate spanish game_script_act2_9f0d7230:
 
     # "How much relationship advice would Yuri be able to give?"
-    ""
+    "¿Cuánto es capaz Yuri de aconsejarme sobre relaciones?"
 
 # game/game_script_act2.rpy:2408
 translate spanish game_script_act2_2141cc42:
 
     # "So...what about Monika?"
-    ""
+    "¿Y si pruebo con... Monika?"
 
 # game/game_script_act2.rpy:2409
 translate spanish game_script_act2_57b306cb:
 
     # "I imagine she'd probably know the most about- well, not {i}relationship{/i}, but...friendship...advice."
-    ""
+    "Puede que ella sepa aconsejarme mejor sobre relaciones..., o bueno, sobre amistades."
 
 # game/game_script_act2.rpy:2410
 translate spanish game_script_act2_04ebc228:
 
     # "But she has more than enough on her plate already."
-    ""
+    "No, Monika tiene ya suficiente con lo suyo."
 
 # game/game_script_act2.rpy:2411
 translate spanish game_script_act2_ef0bd2f3:
 
     # "Don't want to stress her out any more."
-    ""
+    "No quiero estresarla más."
 
 # game/game_script_act2.rpy:2412
 translate spanish game_script_act2_9f6b7331:
 
     # "Well, looks like I'm on my own here."
-    ""
+    "Pues nada, voy completamente a ciegas."
 
 # game/game_script_act2.rpy:2413
 translate spanish game_script_act2_efda773c:
 
     # "What would Natsuki appreciate..?"
-    ""
+    "¿Qué podría hacerle a Natsuki que le guste...?"
 
 # game/game_script_act2.rpy:2414
 translate spanish game_script_act2_04733c6b:
 
     # "I could make her dinner, but it's not like that affirms anything."
-    ""
+    "Podría hacerle la cena, pero no me queda muy claro de si es eso, o no, lo que prefiere."
 
 # game/game_script_act2.rpy:2415
 translate spanish game_script_act2_5d27a9cd:
 
     # "I don't think I was ever expected to not feed her."
-    ""
+    "No creo que piense que no voy a hacerle de comer, ¿sabes?"
 
 # game/game_script_act2.rpy:2416
 translate spanish game_script_act2_59df16a5:
 
     # "Maybe I could buy a new volume of Parfait Girls?"
-    ""
+    "¿Y si le compro un tomo nuevo de Parfait Girls?"
 
 # game/game_script_act2.rpy:2417
 translate spanish game_script_act2_4f2e442b:
 
     # "...Nah. It seems a little too...materialistic."
-    ""
+    "No, voy a parecer... materialista."
 
 # game/game_script_act2.rpy:2418
 translate spanish game_script_act2_c9115571:
 
     # "Not to mention, those volumes can get really pricey."
-    ""
+    "Y cabe recalcar que comprar uno puede costarme un ojo de la cara..."
 
 # game/game_script_act2.rpy:2419
 translate spanish game_script_act2_74c8a583:
 
     # "I'm not sure I have the money to burn on stuff like that."
-    ""
+    "No tengo tanto dinero como para gastarlo con tanta libertad en algo tan caro."
 
 # game/game_script_act2.rpy:2420
 translate spanish game_script_act2_371ec013:

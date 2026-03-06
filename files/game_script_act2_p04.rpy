@@ -1640,13 +1640,13 @@ translate spanish game_script_act2_1f5f4b0c:
 translate spanish game_script_act2_c0061acd:
 
     # n b1a e1b mh "Well, looks like you've got everything we'll need..."
-    n b1a e1b mh ""
+    n b1a e1b mh "Pues parece que lo tienes todo...,"
 
 # game/game_script_act2.rpy:2507
 translate spanish game_script_act2_baac459d:
 
     # n b1d e1c "{size=-12}{i}Short of a sewing machine, anyway...{/i}{/size}"
-    n b1d e1c ""
+    n b1d e1c "{size=-12}{i}menos una máquina de coser...{/i}{/size}"
 
 # game/game_script_act2.rpy:2509
 translate spanish game_script_act2_f72b12a9:

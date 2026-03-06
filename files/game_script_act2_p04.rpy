@@ -710,7 +710,7 @@ translate spanish game_script_act2_0a316aaa:
 translate spanish game_script_act2_d649b7ac:
 
     # "Natsuki flinches back."
-    "Natsuki retrocede."
+    "Natsuki se echa hacia atrás."
 
 # game/game_script_act2.rpy:2249
 translate spanish game_script_act2_bb2cf764_2:

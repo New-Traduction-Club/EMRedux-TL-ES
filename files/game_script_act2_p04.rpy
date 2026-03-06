@@ -746,7 +746,7 @@ translate spanish game_script_act2_b06848b5:
 translate spanish game_script_act2_441c22ba:
 
     # n b1a e1a "But I guess it gives me some kind of reassurance that even despite...well...{w}everything, he's still my dad."
-    n b1a e1a "Pero creo que me da la seguridad de que, después de...{w} de todo, sigue siendo mi padre."
+    n b1a e1a "Pero... creo que me da la seguridad de que, después de...{w} de todo, sigue siendo mi padre."
 
 # game/game_script_act2.rpy:2258
 translate spanish game_script_act2_718bb939:
@@ -776,7 +776,7 @@ translate spanish game_script_act2_2a1354d5:
 translate spanish game_script_act2_3e620f2c:
 
     # n e2b mg b2b "Being stuck with the asshole my whole life has done this to me!"
-    n e2b mg b2b "¡Estar encerrada con ese trozo de mierda toda mi vida me ha dejado mella!"
+    n e2b mg b2b "¡Estar encerrada con ese trozo de mierda toda mi vida me ha hecho ser así!"
 
 # game/game_script_act2.rpy:2266
 translate spanish game_script_act2_e1d2d85f:
@@ -806,7 +806,7 @@ translate spanish game_script_act2_50d2b9da:
 translate spanish game_script_act2_b8e9cf3c:
 
     # extend "For the person who ran away from him, you're sticking up for him a whole lot."
-    extend "Para ser alguien que ha huido de su yugo, lo defiendes mucho."
+    extend "Para ser alguien que ha huido de su yugo, lo estás defendiendo mucho."
 
 # game/game_script_act2.rpy:2273
 translate spanish game_script_act2_14451bf8:
@@ -926,169 +926,169 @@ translate spanish game_script_act2_977ff583:
 translate spanish game_script_act2_d0703b62:
 
     # "A tense silence washes over us as her mind races with the gruesome possibilities."
-    ""
+    "Un tenso silencio se alza sobre nosotros mientras en su cabeza corren las horripilantes posibilidades."
 
 # game/game_script_act2.rpy:2306
 translate spanish game_script_act2_4736dffd:
 
     # "She glares at the ground, then back to me."
-    ""
+    "Mira al suelo y levanta la cabeza, mirándome."
 
 # game/game_script_act2.rpy:2308
 translate spanish game_script_act2_b92d3907:
 
     # n e1a mh "Do you get it now?"
-    n e1a mh ""
+    n e1a mh "¿Lo pillas ya?"
 
 # game/game_script_act2.rpy:2309
 translate spanish game_script_act2_fad8ec7b:
 
     # n b2b e2b "I mean, God, if he found out I was {i}here{/i}?"
-    n b2b e2b ""
+    n b2b e2b "Piensa en lo que pasará si me ve aquí."
 
 # game/game_script_act2.rpy:2310
 translate spanish game_script_act2_2f5b8826:
 
     # n zz3 e4a "I'd be screwed."
-    n zz3 e4a ""
+    n zz3 e4a "Si eso ocurre... estoy jodida, [player]."
 
 # game/game_script_act2.rpy:2311
 translate spanish game_script_act2_b588a189:
 
     # n zz1 e2a "And you would be-..."
-    n zz1 e2a ""
+    n zz1 e2a "Y tú..."
 
 # game/game_script_act2.rpy:2314
 translate spanish game_script_act2_081bc314:
 
     # "Natsuki suddenly stops in her tracks."
-    ""
+    "Natsuki para de hablar al instante."
 
 # game/game_script_act2.rpy:2316
 translate spanish game_script_act2_f220c8a4:
 
     # mc "I'd be..?"
-    mc ""
+    mc "¿Yo...?"
 
 # game/game_script_act2.rpy:2318
 translate spanish game_script_act2_72a25b6c:
 
     # n b2c e2d "You'd be..."
-    n b2c e2d ""
+    n b2c e2d "Y tú...,"
 
 # game/game_script_act2.rpy:2320
 translate spanish game_script_act2_809d3d0c:
 
     # "She waves her hand around her face."
-    ""
+    "Me señala su cara y hace círculos con la mano alrededor suya."
 
 # game/game_script_act2.rpy:2323
 translate spanish game_script_act2_3c49ffeb:
 
     # n b1d zz1 e1a mh "You'd be as screwed as me."
-    n b1d zz1 e1a mh ""
+    n b1d zz1 e1a mh "estarás igual que yo."
 
 # game/game_script_act2.rpy:2324
 translate spanish game_script_act2_311ca966:
 
     # n b1b me "..."
-    n b1b me ""
+    n b1b me "..."
 
 # game/game_script_act2.rpy:2326
 translate spanish game_script_act2_a3b786f0:
 
     # n zz1 e2a mg "I...shouldn't have listened to you."
-    n zz1 e2a mg ""
+    n zz1 e2a mg "No tendría que... haberte hecho caso."
 
 # game/game_script_act2.rpy:2328
 translate spanish game_script_act2_43531043:
 
     # mc "What? What do you mean?"
-    mc ""
+    mc "¿Cómo? ¿A qué te refieres?"
 
 # game/game_script_act2.rpy:2330
 translate spanish game_script_act2_83040de5:
 
     # n zz3 e4a mh "Coming here was a mistake."
-    n zz3 e4a mh ""
+    n zz3 e4a mh "Ha sido un error haberme mudado aquí."
 
 # game/game_script_act2.rpy:2332
 translate spanish game_script_act2_945917bf:
 
     # "My eyes widen at the sound of her words."
-    ""
+    "Al oír eso, abro los ojos de par en par."
 
 # game/game_script_act2.rpy:2333
 translate spanish game_script_act2_62016bea:
 
     # "To think she regrets how far we've come."
-    ""
+    "Y pensar que se está echando atrás con todo lo que hemos avanzado..."
 
 # game/game_script_act2.rpy:2334
 translate spanish game_script_act2_3ce35a5b:
 
     # "I look off to the side to collect myself, before facing her and responding."
-    ""
+    "Aparto la vista un momento antes de tener claro lo que voy a decir y poder mirarle a la cara."
 
 # game/game_script_act2.rpy:2336
 translate spanish game_script_act2_cb26c215:
 
     # mc "Why do you...think that?"
-    mc ""
+    mc "¿Por qué... piensas eso?"
 
 # game/game_script_act2.rpy:2337
 translate spanish game_script_act2_a96b59cc:
 
     # mc "I mean, aren't you better off here than dealing with him?"
-    mc ""
+    mc "En plan, ¿no estás mejor aquí que con él?"
 
 # game/game_script_act2.rpy:2339
 translate spanish game_script_act2_b35b77a7:
 
     # n e1c mh "Obviously, but..."
-    n e1c mh ""
+    n e1c mh "Obviamente, pero...,"
 
 # game/game_script_act2.rpy:2340
 translate spanish game_script_act2_1beecc1e:
 
     # n e2a "What if he finds me with you?"
-    n e2a ""
+    n e2a "¿y si me pilla contigo?"
 
 # game/game_script_act2.rpy:2341
 translate spanish game_script_act2_8199f413:
 
     # n "You might end up getting hurt..."
-    n ""
+    n "Lo más probable es que salgas mal de esta..."
 
 # game/game_script_act2.rpy:2343
 translate spanish game_script_act2_670d8c58:
 
     # mc "That's just it though."
-    mc ""
+    mc "Es que esa es la cosa, Natsuki,"
 
 # game/game_script_act2.rpy:2344
 translate spanish game_script_act2_352e98de:
 
     # mc "How would he even find us?"
-    mc ""
+    mc "¿cómo se supone que va a encontrarnos?"
 
 # game/game_script_act2.rpy:2346
 translate spanish game_script_act2_f97d3116:
 
     # n e1b "..."
-    n e1b ""
+    n e1b "..."
 
 # game/game_script_act2.rpy:2348
 translate spanish game_script_act2_77f1dd3d:
 
     # mc "He's on the other side of town."
-    mc ""
+    mc "Si está en la otra punta de la ciudad, por Dios."
 
 # game/game_script_act2.rpy:2349
 translate spanish game_script_act2_148399d2:
 
     # mc "I know {i}that{/i} alone isn't much, but it does make a difference."
-    mc ""
+    mc "Sé que no es la gran cosa, pero"
 
 # game/game_script_act2.rpy:2350
 translate spanish game_script_act2_14408484:

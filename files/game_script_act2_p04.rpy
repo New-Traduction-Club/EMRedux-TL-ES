@@ -1364,7 +1364,7 @@ translate spanish game_script_act2_04733c6b:
 translate spanish game_script_act2_5d27a9cd:
 
     # "I don't think I was ever expected to not feed her."
-    "No creo que piense que no voy a hacerle de comer, ¿sabes?"
+    "No quiero que piense que no voy a hacerle de comer, ¿sabes?"
 
 # game/game_script_act2.rpy:2416
 translate spanish game_script_act2_59df16a5:

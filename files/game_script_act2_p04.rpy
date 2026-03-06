@@ -1616,7 +1616,7 @@ translate spanish game_script_act2_94f4da9d:
 translate spanish game_script_act2_1a65ad16:
 
     # mc "String, needles, this thing..."
-    mc "Ahí hay agujas, hilos, lo que sea que es esto..."
+    mc "Ahí hay agujas, cuerdas, lo que sea que es esto..."
 
 # game/game_script_act2.rpy:2499
 translate spanish game_script_act2_356cdb9d:
@@ -1652,193 +1652,193 @@ translate spanish game_script_act2_baac459d:
 translate spanish game_script_act2_f72b12a9:
 
     # mc "Good, good..."
-    mc ""
+    mc "Bien, bien..."
 
 # game/game_script_act2.rpy:2512
 translate spanish game_script_act2_d26c33cb:
 
     # "I set the blazer down on the table, moving the sewing utensils to the side to make space for it."
-    ""
+    "Traigo la caja de costura y la chaqueta a la mesita y hago espacio para que quepa todo."
 
 # game/game_script_act2.rpy:2513
 translate spanish game_script_act2_6ef6367d:
 
     # "Natsuki takes a seat beside me."
-    ""
+    "Natsuki se sienta al lado mía."
 
 # game/game_script_act2.rpy:2524
 translate spanish game_script_act2_3d8c52f1:
 
     # mc "So, what first?"
-    mc ""
+    mc "Pues... ¿qué va primero?"
 
 # game/game_script_act2.rpy:2527
 translate spanish game_script_act2_193998a7:
 
     # n "Well, why don't you try threading the needle?"
-    n ""
+    n "Si sabes, prueba a ensartar la aguja."
 
 # game/game_script_act2.rpy:2530
 translate spanish game_script_act2_c2464fc5:
 
     # mc "Uhhh..."
-    mc ""
+    mc "Eeeh..."
 
 # game/game_script_act2.rpy:2535
 translate spanish game_script_act2_f889fb92:
 
     # n "You need to thread the needle first, before we can actually sew it."
-    n ""
+    n "Antes de coser, se ensarta la aguja."
 
 # game/game_script_act2.rpy:2538
 translate spanish game_script_act2_5703e90d:
 
     # mc "Just as soon as I figure out what you mean..."
-    mc ""
+    mc "Sí, pero antes de coser... he de entender lo que me has dicho."
 
 # game/game_script_act2.rpy:2542
 translate spanish game_script_act2_8855d0b3:
 
     # "She sighs, picking up the string and the needle."
-    ""
+    "Profiere un suspiro y coge la cuerda y una aguja."
 
 # game/game_script_act2.rpy:2546
 translate spanish game_script_act2_363f9b4e:
 
     # n "Look, you see the needle?"
-    n ""
+    n "Atiende: ¿ves la aguja?"
 
 # game/game_script_act2.rpy:2548
 translate spanish game_script_act2_90b8564e:
 
     # n "Look at the top."
-    n ""
+    n "Fíjate en la parte superior."
 
 # game/game_script_act2.rpy:2551
 translate spanish game_script_act2_a42d15f4:
 
     # mc "The little hole?"
-    mc ""
+    mc "¿Ese pequeño agujero?"
 
 # game/game_script_act2.rpy:2554
 translate spanish game_script_act2_2fe1bf98:
 
     # n "Yeah."
-    n ""
+    n "Ese mismo."
 
 # game/game_script_act2.rpy:2556
 translate spanish game_script_act2_95ab3b79:
 
     # n "Now you take the thread - and it's called a thread, not string - and you push it through the hole."
-    n ""
+    n "Pues coges el hilo, que se llama 'hilo' y no 'cuerda', y lo metes por ese pequeño agujero."
 
 # game/game_script_act2.rpy:2559
 translate spanish game_script_act2_b12907fb:
 
     # mc "Alright..."
-    mc ""
+    mc "Vaaale..."
 
 # game/game_script_act2.rpy:2562
 translate spanish game_script_act2_922fb12c:
 
     # "She hands them both to me."
-    ""
+    "Me los da."
 
 # game/game_script_act2.rpy:2566
 translate spanish game_script_act2_8f113534:
 
     # "I take the needle in one hand, and the thread in the other."
-    ""
+    "Con una mano, tengo la aguja. Con la otra, el hilo."
 
 # game/game_script_act2.rpy:2568
 translate spanish game_script_act2_8e4b2988:
 
     # "Closing one eye, I very slowly try to poke the thread through it."
-    ""
+    "Cierro un ojo y poco a poco voy metiéndolo."
 
 # game/game_script_act2.rpy:2574
 translate spanish game_script_act2_01518ef1:
 
     # "I overshoot, just barely missing the hole."
-    ""
+    "Fallo estrepitosamente al intentarlo."
 
 # game/game_script_act2.rpy:2577
 translate spanish game_script_act2_a95b21b2_1:
 
     # mc "Crap."
-    mc ""
+    mc "Joder."
 
 # game/game_script_act2.rpy:2580
 translate spanish game_script_act2_c8ce91e3:
 
     # "I try again, even slower this time."
-    ""
+    "Lo vuelvo a intentar... pero mucho más despacio."
 
 # game/game_script_act2.rpy:2584
 translate spanish game_script_act2_bb911ca5:
 
     # "For just a second, it appears as though the thread is through."
-    ""
+    "De un momento a otro, parece que lo he conseguido."
 
 # game/game_script_act2.rpy:2587
 translate spanish game_script_act2_779c051a:
 
     # mc "Yes!"
-    mc ""
+    mc "¡Bien!"
 
 # game/game_script_act2.rpy:2589
 translate spanish game_script_act2_cad690e4:
 
     # mc "Okay, what now?"
-    mc ""
+    mc "Bueno, ¿qué sigue?"
 
 # game/game_script_act2.rpy:2592
 translate spanish game_script_act2_c2326e45:
 
     # n "Now, you tie it up."
-    n ""
+    n "Hacerle un nudo."
 
 # game/game_script_act2.rpy:2594
 translate spanish game_script_act2_8ee30cb8:
 
     # n "That'll hold it in pla--{w=0.3}{nw}{done}oh, come on!"
-    n ""
+    n "Eso evitará que s...{w=0.3}{nw}{done} ¡vamos, no me jodas!"
 
 # game/game_script_act2.rpy:2596
 translate spanish game_script_act2_dfde99b3:
 
     # n "That'll hold it in pla--{fast}oh, come on!"
-    n ""
+    n "Eso evitará que s...{fast} ¡vamos, no me jodas!"
 
 # game/game_script_act2.rpy:2599
 translate spanish game_script_act2_0536417b:
 
     # "While distracted, my hand drifted away, pulling the thread back out with it."
-    ""
+    "Al estar distraído, he movido la mano y he tirado del hilo."
 
 # game/game_script_act2.rpy:2602
 translate spanish game_script_act2_e6126b55:
 
     # mc "Damn it!"
-    mc ""
+    mc "¡Mierda!"
 
 # game/game_script_act2.rpy:2604
 translate spanish game_script_act2_0882be1f:
 
     # n "You want me to give it a try?"
-    n ""
+    n "¿Quieres que lo haga yo?"
 
 # game/game_script_act2.rpy:2607
 translate spanish game_script_act2_01fac4d5:
 
     # mc "Nah, I'll get it...eventually..."
-    mc ""
+    mc "No, no, ya... ya me encargo yo..."
 
 # game/game_script_act2.rpy:2612
 translate spanish game_script_act2_290262dc:
 
     # "I give it one more go."
-    ""
+    "Lo intento una vez más."
 
 # game/game_script_act2.rpy:2614
 translate spanish game_script_act2_c0db36db:

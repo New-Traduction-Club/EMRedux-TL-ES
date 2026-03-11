@@ -1838,160 +1838,160 @@ translate spanish game_script_act2_01fac4d5:
 translate spanish game_script_act2_290262dc:
 
     # "I give it one more go."
-    "Lo intento una vez más."
+    "Lo intento una vez más...,"
 
 # game/game_script_act2.rpy:2614
 translate spanish game_script_act2_c0db36db:
 
     # "Very delicate, deliberate movements..."
-    ""
+    "con mucho cuidado y delicadeza."
 
 # game/game_script_act2.rpy:2615
 translate spanish game_script_act2_3bea29a3:
 
     # "Nice and slow..."
-    ""
+    "Tranquiiilo, tranquiiilo..."
 
 # game/game_script_act2.rpy:2617
 translate spanish game_script_act2_ab27b3ce:
 
     # "Neeeeeeaaaarly th----{nw}"
-    ""
+    "Casi lo teeeng...{nw}"
 
 # game/game_script_act2.rpy:2625
 translate spanish game_script_act2_7bfaecba:
 
     # n "Oh, you have to be kidding!!"
-    n ""
+    n "¡Estarás de coña!"
 
 # game/game_script_act2.rpy:2628
 translate spanish game_script_act2_e66e098a:
 
     # "I sneezed..."
-    ""
+    "He estornudado..."
 
 # game/game_script_act2.rpy:2631
 translate spanish game_script_act2_1cb496b3:
 
     # mc "Hey, that wasn't my fault!"
-    mc ""
+    mc "¡Que no ha sido mi culpa!"
 
 # game/game_script_act2.rpy:2633
 translate spanish game_script_act2_35be27a1:
 
     # mc "It's the dust! This stuff is ancient!"
-    mc ""
+    mc "¡La culpa ha sido del polvo, que estas cosas tienen años!"
 
 # game/game_script_act2.rpy:2636
 translate spanish game_script_act2_0ff96c17:
 
     # n "Ugh, it's fine..."
-    n ""
+    n "Da igual..."
 
 # game/game_script_act2.rpy:2638
 translate spanish game_script_act2_8e689c70:
 
     # n "Now, where's the needle?"
-    n ""
+    n "¿Y la aguja?"
 
 # game/game_script_act2.rpy:2641
 translate spanish game_script_act2_49abd47e:
 
     # mc "I think I dropped it..."
-    mc ""
+    mc "Pues creo que se me ha caído..."
 
 # game/game_script_act2.rpy:2646
 translate spanish game_script_act2_07bc19ee:
 
     # n "In the carpet?"
-    n ""
+    n "¿En la alfombra?"
 
 # game/game_script_act2.rpy:2649
 translate spanish game_script_act2_cdbdc4e8:
 
     # mc "Forget it, I'll just use this one."
-    mc ""
+    mc "Déjalo, voy a coger esta otra."
 
 # game/game_script_act2.rpy:2652
 translate spanish game_script_act2_ede3f30f:
 
     # "I go to grab another needle from the pile, but Natsuki stops me."
-    ""
+    "Voy a por otra aguja y Natsuki me detiene."
 
 # game/game_script_act2.rpy:2656
 translate spanish game_script_act2_0d3a1735:
 
     # n "Why don't I give it a try?"
-    n ""
+    n "Escucha, ¿por qué no me dejas intentarlo a mí?"
 
 # game/game_script_act2.rpy:2658
 translate spanish game_script_act2_c41272a4:
 
     # n "I mean, how hard can it be..?"
-    n ""
+    n "En plan, no puede ser tan difícil..."
 
 # game/game_script_act2.rpy:2661
 translate spanish game_script_act2_de604587:
 
     # "Pausing for a second to contemplate, she pipes up again."
-    ""
+    "Me quedo callado un momento para mirarla y Natsuki vuelve a hablar."
 
 # game/game_script_act2.rpy:2664
 translate spanish game_script_act2_58527342:
 
     # n "Well, I suppose I can have a crack at it."
-    n ""
+    n "Pues supongo que puedo intentarlo yo."
 
 # game/game_script_act2.rpy:2667
 translate spanish game_script_act2_99fe002d:
 
     # mc "Sure. Anything I can do in the meantime?"
-    mc ""
+    mc "Vale. ¿Hay algo que pueda hacer de mientras?"
 
 # game/game_script_act2.rpy:2670
 translate spanish game_script_act2_052fc8de:
 
     # "She ponders for a second."
-    ""
+    "Natsuki se queda pensando un momento."
 
 # game/game_script_act2.rpy:2673
 translate spanish game_script_act2_0bced5a0:
 
     # n "Not really..?"
-    n ""
+    n "Pues no creo."
 
 # game/game_script_act2.rpy:2677
 translate spanish game_script_act2_b8de06d3:
 
     # mc "Oh."
-    mc ""
+    mc "Ah."
 
 # game/game_script_act2.rpy:2680
 translate spanish game_script_act2_1cdb799c:
 
     # "Natsuki starts to attempt to thread the needle, as I awkwardly stare at her hand movement."
-    ""
+    "Natsuki intenta ensartar la aguja mientras que, por mi parte, miro avergonzado los movimientos que hace con la mano."
 
 # game/game_script_act2.rpy:2682
 translate spanish game_script_act2_1c045f46:
 
     # "She keeps on missing the hole."
-    ""
+    "Falla, como yo."
 
 # game/game_script_act2.rpy:2685
 translate spanish game_script_act2_5e987ebd:
 
     # mc "Here, lemme help."
-    mc ""
+    mc "Deja que te ayude."
 
 # game/game_script_act2.rpy:2688
 translate spanish game_script_act2_50fef7e4:
 
     # "I hold her hand up, helping her steady it."
-    ""
+    "Le cojo la mano para estabilizarla."
 
 # game/game_script_act2.rpy:2690
 translate spanish game_script_act2_e4a59b5a:
 
     # "Eventually she finally inserts the thread into the hole."
-    ""
+    "Al final, consigue hacerlo."

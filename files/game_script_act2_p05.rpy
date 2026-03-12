@@ -248,211 +248,211 @@ translate spanish game_script_act2_d8c2e822:
 translate spanish game_script_act2_80d2c11f:
 
     # n "Just hand it over."
-    n ""
+    n "Dame eso, anda."
 
 # game/game_script_act2.rpy:2802
 translate spanish game_script_act2_9c168f72:
 
     # "I hand over the blazer and needle to Natsuki and she continues where I left off."
-    ""
+    "Le doy la chaqueta y la aguja y continua desde donde lo dejé."
 
 # game/game_script_act2.rpy:2806
 translate spanish game_script_act2_83e527c4:
 
     # "Eventually, we're finally done with our botched attempt at sewing."
-    ""
+    "Al final, acabamos nuestros fallidos intentos de costura."
 
 # game/game_script_act2.rpy:2812
 translate spanish game_script_act2_a96be4cb:
 
     # n "I think we're done."
-    n ""
+    n "Pues creo que ya está."
 
 # game/game_script_act2.rpy:2814
 translate spanish game_script_act2_1c4ef0e5:
 
     # mc "Are you sure..?"
-    mc ""
+    mc "¿Segura...?"
 
 # game/game_script_act2.rpy:2815
 translate spanish game_script_act2_a4994286:
 
     # n mh "It looks presentable enough."
-    n mh ""
+    n mh "Está más presentable que cuando empezamos."
 
 # game/game_script_act2.rpy:2816
 translate spanish game_script_act2_9b934644:
 
     # n "The sleeve is holding up fine,{w=0.8}{nw}"
-    n ""
+    n "Además, la manga no parece descoserse,{w=0.8}{nw}"
 
 # game/game_script_act2.rpy:2818
 translate spanish game_script_act2_77e1bc0d:
 
     # extend " so I guess..?"
-    extend ""
+    extend " así que..."
 
 # game/game_script_act2.rpy:2824
 translate spanish game_script_act2_ac1e7a49:
 
     # "She slowly puts on the blazer, trying to make sure she doesn't rip the stitches open."
-    ""
+    "Se pone la chaqueta poco a poco intentando no romper las costuras."
 
 # game/game_script_act2.rpy:2826
 translate spanish game_script_act2_758dea6b:
 
     # n b1f mg "So? What do you think..?"
-    n b1f mg ""
+    n b1f mg "¿Y? ¿Qué tal...?"
 
 # game/game_script_act2.rpy:2828
 translate spanish game_script_act2_c14c584c:
 
     # mc "Well..."
-    mc ""
+    mc "Pues...,"
 
 # game/game_script_act2.rpy:2829
 translate spanish game_script_act2_7eb90334:
 
     # mc "It's...functional?"
-    mc ""
+    mc "¿es... válida?"
 
 # game/game_script_act2.rpy:2830
 translate spanish game_script_act2_a95d3ba3:
 
     # n e1b mg lhip "It looks bad, doesn't it?"
-    n e1b mg lhip ""
+    n e1b mg lhip "De válida nada. Se ve como el culo, ¿no?"
 
 # game/game_script_act2.rpy:2832
 translate spanish game_script_act2_cf77a7cd:
 
     # mc "No, no. I think there's a charm to it."
-    mc ""
+    mc "No, no. A ver, tiene su encanto."
 
 # game/game_script_act2.rpy:2834
 translate spanish game_script_act2_b08fd0d4:
 
     # extend " Like ripped jeans."
-    extend ""
+    extend " Piensa en los pantalones vaqueros que parecen estar rotos."
 
 # game/game_script_act2.rpy:2835
 translate spanish game_script_act2_3d3d78e5:
 
     # n e1a mb rhip "Hmm...y'know, I dunno how comfortable I am taking fashion advice from you."
-    n e1a mb rhip ""
+    n e1a mb rhip "¿Sabes? No tengo ni idea de hasta cuánto puedo confiar pidiéndote consejos de moda."
 
 # game/game_script_act2.rpy:2837
 translate spanish game_script_act2_6fbea252:
 
     # mc "You can always take a look yourself."
-    mc ""
+    mc "Siempre puedes comprobarlo tú."
 
 # game/game_script_act2.rpy:2839
 translate spanish game_script_act2_42254a16:
 
     # "I grab my phone and point the camera at Natsuki."
-    ""
+    "Cojo el móvil y apunto con la cámara a Natsuki."
 
 # game/game_script_act2.rpy:2841
 translate spanish game_script_act2_b4168c76:
 
     # mc "Say cheese."
-    mc ""
+    mc "¡Patata!"
 
 # game/game_script_act2.rpy:2843
 translate spanish game_script_act2_5c10ab8c:
 
     # n "Wait, what--{nw}"
-    n ""
+    n "Cómo que patata. Espera, ¿qu{nw}"
 
 # game/game_script_act2.rpy:2861
 translate spanish game_script_act2_dc07df45:
 
     # n "Dude, what the hell?!"
-    n ""
+    n "Tío, ¿¡qué coño te pasa!?"
 
 # game/game_script_act2.rpy:2863
 translate spanish game_script_act2_ea01c16e:
 
     # mc "What? It's just a picture."
-    mc ""
+    mc "¿Qué? Si es solo una foto."
 
 # game/game_script_act2.rpy:2864
 translate spanish game_script_act2_5cc2130d:
 
     # n lhip b1d mh "Yeah, but you gotta warn me first!"
-    n lhip b1d mh ""
+    n lhip b1d mh "¡Hasta ahí llego, pero tienes que avisarme antes!"
 
 # game/game_script_act2.rpy:2866
 translate spanish game_script_act2_26c52b0b:
 
     # mc "I did, I told you to say cheese!"
-    mc ""
+    mc "¡Y eso hice, te dije 'patata'!"
 
 # game/game_script_act2.rpy:2867
 translate spanish game_script_act2_0beb8a65:
 
     # n ldown mi "I meant a proper warning!"
-    n ldown mi ""
+    n ldown mi "¡Que me avises bien!"
 
 # game/game_script_act2.rpy:2868
 translate spanish game_script_act2_788ab382:
 
     # n rhip e4a zz3 b3b "There's a lot of steps involved in taking a good picture!"
-    n rhip e4a zz3 b3b ""
+    n rhip e4a zz3 b3b "¡Antes de sacar una foto, hay que seguir unos pasos a rajatabla!"
 
 # game/game_script_act2.rpy:2869
 translate spanish game_script_act2_990105e5:
 
     # n mg "I don't wanna look bad."
-    n mg ""
+    n mg "No quiero salir mal."
 
 # game/game_script_act2.rpy:2871
 translate spanish game_script_act2_cafb7e92:
 
     # mc "Oh, I don't know.{w=0.3} {nw}"
-    mc ""
+    mc "Ah, pues no tenía ni idea. Lo que sí sé{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:2873
 translate spanish game_script_act2_6a013515:
 
     # extend "I think you look great."
-    extend ""
+    extend "es que sales genial."
 
 # game/game_script_act2.rpy:2875
 translate spanish game_script_act2_221bbbd4:
 
     # "I shoot her a gentle smile."
-    ""
+    "Le sonrío con franqueza."
 
 # game/game_script_act2.rpy:2877
 translate spanish game_script_act2_e15dc91d:
 
     # "She flinches back, her cheeks turning a bright shade of red."
-    ""
+    "Se sorprende de lo que he dicho y sus mejillas empiezan a ponerse rojas."
 
 # game/game_script_act2.rpy:2879
 translate spanish game_script_act2_86a0846c:
 
     # n lhip mi "D-don't be stupid!"
-    n lhip mi ""
+    n lhip mi "¡N-No seas idiota!"
 
 # game/game_script_act2.rpy:2881
 translate spanish game_script_act2_f56dd0be:
 
     # mc "Just take a look at it yourself."
-    mc ""
+    mc "Por favor, compruébalo tú misma."
 
 # game/game_script_act2.rpy:2883
 translate spanish game_script_act2_e45f9b8d:
 
     # "I turn the phone over to her, showing her the photo."
-    ""
+    "Le doy mi teléfono con la foto en pantalla."
 
 # game/game_script_act2.rpy:2894
 translate spanish game_script_act2_6377d255:
 
     # n b1a "Hmph."
-    n b1a ""
+    n b1a "Jum."
 
 # game/game_script_act2.rpy:2895
 translate spanish game_script_act2_549b5b8e:

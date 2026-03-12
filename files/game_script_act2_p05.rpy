@@ -2,247 +2,247 @@
 translate spanish game_script_act2_d7f0ca85:
 
     # mc "There we go."
-    mc ""
+    mc "Listo."
 
 # game/game_script_act2.rpy:2696
 translate spanish game_script_act2_83842fa8:
 
     # n "Thanks, I'll take it from here."
-    n ""
+    n "Gracias. A partir de aquí, me encargo yo."
 
 # game/game_script_act2.rpy:2699
 translate spanish game_script_act2_3cddbd1f:
 
     # "I let her go and she begins to loop the thread around the needle, tying a knot."
-    ""
+    "La dejo mientras la veo anudar el hilo alrededor de la aguja."
 
 # game/game_script_act2.rpy:2702
 translate spanish game_script_act2_0d789469:
 
     # n "Aha! See, there we go!"
-    n ""
+    n "¡Ja, ja, ja! ¿Ves? ¡Lo que yo decía!"
 
 # game/game_script_act2.rpy:2707
 translate spanish game_script_act2_824e3c91:
 
     # "I raise my hand, ready for a high five."
-    ""
+    "Levanto la mano para chocar los cinco."
 
 # game/game_script_act2.rpy:2709
 translate spanish game_script_act2_1aa630a1:
 
     # "She shakes her head, not willing to let go of the needle."
-    ""
+    "Niega con la cabeza porque no quiere soltar la aguja...,"
 
 # game/game_script_act2.rpy:2712
 translate spanish game_script_act2_bf4b29a5:
 
     # "Which, thinking about it, makes total sense."
-    ""
+    "y tiene todo el sentido del mundo."
 
 # game/game_script_act2.rpy:2714
 translate spanish game_script_act2_b0d50561:
 
     # "I solemnly lower my hand."
-    ""
+    "Bajo la mano lentamente."
 
 # game/game_script_act2.rpy:2715
 translate spanish game_script_act2_a2e6969b:
 
     # "She begins running the needle through the blazer, connecting it and the sleeve."
-    ""
+    "Empieza a pasar la aguja por la chaqueta, conectándola con la manga."
 
 # game/game_script_act2.rpy:2716
 translate spanish game_script_act2_428e07bf:
 
     # "Each movement causes her to noticeably tense up."
-    ""
+    "Cada movimiento que hace la pone más y más tensa."
 
 # game/game_script_act2.rpy:2718
 translate spanish game_script_act2_1cd472eb:
 
     # "A bead of sweat cascades down her forehead."
-    ""
+    "Puedo ver una gota grande de sudor bajando por su frente a toda velocidad."
 
 # game/game_script_act2.rpy:2719
 translate spanish game_script_act2_ad15dbb1:
 
     # "I should probably help out."
-    ""
+    "Creo que debería echarle una mano."
 
 # game/game_script_act2.rpy:2722
 translate spanish game_script_act2_6fc1d2c6:
 
     # mc "Natsuki, how about I give it a shot now?"
-    mc ""
+    mc "Oye, ¿te hace que lo intente yo?"
 
 # game/game_script_act2.rpy:2725
 translate spanish game_script_act2_2b4acb92:
 
     # n "Are you sure you won't screw it up?"
-    n ""
+    n "¿Estás seguro de que no vas a liarla?"
 
 # game/game_script_act2.rpy:2728
 translate spanish game_script_act2_f3149371:
 
     # mc "Ehhh..."
-    mc ""
+    mc "Pues...,"
 
 # game/game_script_act2.rpy:2730
 translate spanish game_script_act2_382b0921:
 
     # mc "Mostly..?"
-    mc ""
+    mc "¿puede que no?"
 
 # game/game_script_act2.rpy:2733
 translate spanish game_script_act2_4774d187:
 
     # n "Good enough. You know what to do?"
-    n ""
+    n "Me vale. ¿Sabes qué tienes que hacer ahora?"
 
 # game/game_script_act2.rpy:2736
 translate spanish game_script_act2_7596629f:
 
     # mc "Yeah, I’ve been watching."
-    mc ""
+    mc "Sí, sí, llevo viéndote un rato."
 
 # game/game_script_act2.rpy:2739
 translate spanish game_script_act2_9b8a4724:
 
     # n "Here you go."
-    n ""
+    n "Pues toma."
 
 # game/game_script_act2.rpy:2745
 translate spanish game_script_act2_0a2b0863:
 
     # "She hands me the needle, careful not to pull on it too hard."
-    ""
+    "Me da la aguja con cuidado de no tirar muy fuerte."
 
 # game/game_script_act2.rpy:2747
 translate spanish game_script_act2_4824af64:
 
     # "Taking over, I pull the jacket’s sleeve and hold it over the seam."
-    ""
+    "Cogiéndola, meto la mano bajo la manga y levanto las costuras."
 
 # game/game_script_act2.rpy:2748
 translate spanish game_script_act2_e5a11e7d:
 
     # "Carefully, I push the needle through, pulling it out of the other side."
-    ""
+    "Con suma cautela, meto la aguja por un lado y la saco por el otro."
 
 # game/game_script_act2.rpy:2751
 translate spanish game_script_act2_7f948faa:
 
     # n "You managing?"
-    n ""
+    n "¿Lo vas pillando?"
 
 # game/game_script_act2.rpy:2754
 translate spanish game_script_act2_dc15c8ad:
 
     # mc "Just being careful."
-    mc ""
+    mc "Creo que sí, solo he de tener cuidado."
 
 # game/game_script_act2.rpy:2757
 translate spanish game_script_act2_d7ebc0d9:
 
     # "I push it back up towards me, and begin repeating the process."
-    ""
+    "La atraigo hacia mí y repito el proceso."
 
 # game/game_script_act2.rpy:2763
 translate spanish game_script_act2_6f99cfbb:
 
     # n "Hey, now you’re getting the hang of it!"
-    n ""
+    n "¡Hala! ¡Al final sí le has pillado el truco!"
 
 # game/game_script_act2.rpy:2765
 translate spanish game_script_act2_1e3e884e:
 
     # mc "I know, right? I surprised myself a little."
-    mc ""
+    mc "¿A que sí? Hasta yo me he sorprendido."
 
 # game/game_script_act2.rpy:2767
 translate spanish game_script_act2_36eef5fb:
 
     # n "Truth be told, you surprised me too."
-    n ""
+    n "Pues que sepas que yo también."
 
 # game/game_script_act2.rpy:2769
 translate spanish game_script_act2_70e56f5a:
 
     # mc "I'm full of surprises."
-    mc ""
+    mc "Soy una caja de sorpresas."
 
 # game/game_script_act2.rpy:2771
 translate spanish game_script_act2_d194eaf8:
 
     # n "Gross."
-    n ""
+    n "Creído."
 
 # game/game_script_act2.rpy:2774
 translate spanish game_script_act2_b1d0413a:
 
     # "A bit of a chuckle escapes me."
-    ""
+    "Suelto una carcajada sin querer."
 
 # game/game_script_act2.rpy:2775
 translate spanish game_script_act2_9b778893:
 
     # "Natsuki balls up her fist, shooting me a threatening look."
-    ""
+    "Natsuki levanta el puño y me mira, amenazante."
 
 # game/game_script_act2.rpy:2777
 translate spanish game_script_act2_31523573:
 
     # "I fake a look of fear, following it up with a grin."
-    ""
+    "Finjo tener miedo y le sonrío."
 
 # game/game_script_act2.rpy:2779
 translate spanish game_script_act2_fb32f0d3:
 
     # "Refocusing my attention to the blazer, I continue my sewing...{i}efforts{/i}."
-    ""
+    "Volviendo a la chaqueta... sigo con mis dotes de sastre."
 
 # game/game_script_act2.rpy:2780
 translate spanish game_script_act2_91fca513:
 
     # "As I'm moving the needle through the sleeve, I accidentally prick my finger."
-    ""
+    "Mientras sigo cosiendo la manga, me pincho el dedo sin querer."
 
 # game/game_script_act2.rpy:2783
 translate spanish game_script_act2_c20b1a05:
 
     # mc "Owww!"
-    mc ""
+    mc "¡Ay!"
 
 # game/game_script_act2.rpy:2785
 translate spanish game_script_act2_f391f15c:
 
     # "I instinctively go to suck the blood drawn from my {i}horrific{/i} injury."
-    ""
-
+    "Por instinto, me meto el dedo en la boca para chupar la sangre que proviene de la horripilante herida que acabo de hacerme.."
+    
 # game/game_script_act2.rpy:2788
 translate spanish game_script_act2_885f29f8:
 
     # n "You dumbass, that’s what this is for."
-    n ""
+    n "Mira que eres idiota. Para eso sirve esto."
 
 # game/game_script_act2.rpy:2790
 translate spanish game_script_act2_fdaec9fd:
 
     # "She holds out the thimble."
-    ""
+    "Tiene el dedal en la mano."
 
 # game/game_script_act2.rpy:2793
 translate spanish game_script_act2_3ec73478:
 
     # mc "Why didn't you give me that before I started!?"
-    mc ""
+    mc "¿¡Por qué no me lo has dado antes de empezar a coser!?"
 
 # game/game_script_act2.rpy:2795
 translate spanish game_script_act2_d8c2e822:
 
     # n "I didn't think you'd mess it up {i}again{/i}!"
-    n ""
+    n "¡Pensaba que no la liarías más!"
 
 # game/game_script_act2.rpy:2797
 translate spanish game_script_act2_80d2c11f:

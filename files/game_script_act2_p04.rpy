@@ -1904,19 +1904,19 @@ translate spanish game_script_act2_49abd47e:
 translate spanish game_script_act2_07bc19ee:
 
     # n "In the carpet?"
-    n "¿En la alfombra?"
+    n "¿Ha caído en la alfombra?"
 
 # game/game_script_act2.rpy:2649
 translate spanish game_script_act2_cdbdc4e8:
 
     # mc "Forget it, I'll just use this one."
-    mc "Déjalo, voy a coger esta otra."
+    mc "Puede ser, pero déjalo. Voy a coger esta otra."
 
 # game/game_script_act2.rpy:2652
 translate spanish game_script_act2_ede3f30f:
 
     # "I go to grab another needle from the pile, but Natsuki stops me."
-    "Voy a por otra aguja y Natsuki me detiene."
+    "Voy a coger otra aguja y Natsuki me detiene."
 
 # game/game_script_act2.rpy:2656
 translate spanish game_script_act2_0d3a1735:
@@ -1952,7 +1952,7 @@ translate spanish game_script_act2_99fe002d:
 translate spanish game_script_act2_052fc8de:
 
     # "She ponders for a second."
-    "Natsuki se queda pensando un momento."
+    "Se queda pensando un momento."
 
 # game/game_script_act2.rpy:2673
 translate spanish game_script_act2_0bced5a0:
@@ -1994,4 +1994,4 @@ translate spanish game_script_act2_50fef7e4:
 translate spanish game_script_act2_e4a59b5a:
 
     # "Eventually she finally inserts the thread into the hole."
-    "Al final, consigue hacerlo."
+    "Al final, consigue meter el hilo en la aguja."

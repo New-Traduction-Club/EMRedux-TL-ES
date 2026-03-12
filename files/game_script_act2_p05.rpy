@@ -452,55 +452,55 @@ translate spanish game_script_act2_e45f9b8d:
 translate spanish game_script_act2_6377d255:
 
     # n b1a "Hmph."
-    n b1a "Jum."
+    n b1a "Ay, señor..."
 
 # game/game_script_act2.rpy:2895
 translate spanish game_script_act2_549b5b8e:
 
     # n mg "The jacket looks alright, I guess."
-    n mg ""
+    n mg "Al menos, la chaqueta se ve decente."
 
 # game/game_script_act2.rpy:2897
 translate spanish game_script_act2_3c13a04e:
 
     # mc "I don't really think the jacket's the highlight of the photo."
-    mc ""
+    mc "No creo que eso sea lo importante de la foto."
 
 # game/game_script_act2.rpy:2899
 translate spanish game_script_act2_8b7ce52f:
 
     # n "I--{w=0.3}{nw}"
-    n ""
+    n "Pe{w=0.3}{nw}"
 
 # game/game_script_act2.rpy:2900
 translate spanish game_script_act2_35195a15:
 
     # n e2c mm "B--{w=0.3}{nw}"
-    n e2c mm ""
+    n e2c mm "Se{w=0.3}{nw}"
 
 # game/game_script_act2.rpy:2901
 translate spanish game_script_act2_c15f5702:
 
     # n e4a b3b zz3 me "H--{w=0.3}{nw}"
-    n e4a b3b zz3 me ""
+    n e4a b3b zz3 me "Có{w=0.3}{nw}"
 
 # game/game_script_act2.rpy:2903
 translate spanish game_script_act2_bb2cf764_3:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/game_script_act2.rpy:2905
 translate spanish game_script_act2_69c7dc38:
 
     # n mf "Eugh."
-    n mf ""
+    n mf "Uf..."
 
 # game/game_script_act2.rpy:2906
 translate spanish game_script_act2_a5446362:
 
     # n mg b3c "Whatever."
-    n mg b3c ""
+    n mg b3c "Lo que tú digas."
 
 # game/game_script_act2.rpy:2912
 translate spanish game_script_act2_fed25b6c:

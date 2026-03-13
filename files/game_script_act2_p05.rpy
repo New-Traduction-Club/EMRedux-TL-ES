@@ -506,121 +506,121 @@ translate spanish game_script_act2_a5446362:
 translate spanish game_script_act2_fed25b6c:
 
     # "Natsuki takes off the jacket, mumbling under her breath."
-    ""
+    "Natsuki se quita la chaqueta mientras murmura en voz baja."
 
 # game/game_script_act2.rpy:2913
 translate spanish game_script_act2_588d6a9d:
 
     # "I can't help but laugh at her inability to receive compliments."
-    ""
+    "Es que es imposible no reírse de lo difícil que le resulta recibir un simple cumplido."
 
 # game/game_script_act2.rpy:2918
 translate spanish game_script_act2_202cf066:
 
     # "She sets down the blazer on the arm of the couch."
-    ""
+    "Deja la chaqueta en el lateral del sofá."
 
 # game/game_script_act2.rpy:2920
 translate spanish game_script_act2_52774140:
 
     # "We both take a seat, relaxing from the mess that was trying to sew."
-    ""
+    "Nos sentamos, relajándonos por fin de nuestras estrepitosas labores de sastrería."
 
 # game/game_script_act2.rpy:2921
 translate spanish game_script_act2_4b6e7d36:
 
     # "I try to strike up some conversation, but our earlier argument is still hanging over me."
-    ""
+    "Trato de sacar algún tema de conversación, pero el tema anterior aún sigue pendiente."
 
 # game/game_script_act2.rpy:2922
 translate spanish game_script_act2_afd97d02:
 
     # "Well [player], now is as good a time as any to own up to your mistakes."
-    ""
+    "Pues nada, [player], es tu momento para redimirte."
 
 # game/game_script_act2.rpy:2925
 translate spanish game_script_act2_e46a5eae:
 
     # mc "Hey, uhh...Natsuki?"
-    mc ""
+    mc "Eh... ¿Natsuki?"
 
 # game/game_script_act2.rpy:2926
 translate spanish game_script_act2_362b7444:
 
     # n b1c mg "Yeah?"
-    n b1c mg ""
+    n b1c mg "¿Qué?"
 
 # game/game_script_act2.rpy:2929
 translate spanish game_script_act2_141c68f7:
 
     # mc "I'm sorry for what I said today."
-    mc ""
+    mc "Perdona por lo que te he dicho hoy."
 
 # game/game_script_act2.rpy:2931
 translate spanish game_script_act2_7748e82b:
 
     # mc "It was way out of line."
-    mc ""
+    mc "No vino a cuento."
 
 # game/game_script_act2.rpy:2936
 translate spanish game_script_act2_fec8de08:
 
     # n lhip mg "Don't worry about it too much."
-    n lhip mg ""
+    n lhip mg "No te preocupes."
 
 # game/game_script_act2.rpy:2937
 translate spanish game_script_act2_d077eca2:
 
     # n b1c "I get it."
-    n b1c ""
+    n b1c "Lo he pillado."
 
 # game/game_script_act2.rpy:2938
 translate spanish game_script_act2_b241454d:
 
     # n mh "This whole situation is just...{w=0.3}{nw}"
-    n mh ""
+    n mh "Todo esto es...{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:2940
 translate spanish game_script_act2_9478a20e:
 
     # extend "so complicated."
-    extend ""
+    extend "muy difícil."
 
 # game/game_script_act2.rpy:2943
 translate spanish game_script_act2_f5f96773:
 
     # "She grows silent, seemingly contemplating what she's going to say next."
-    ""
+    "Se calla, aparentemente para pensar en lo próximo que decir."
 
 # game/game_script_act2.rpy:2945
 translate spanish game_script_act2_3cacd4df:
 
     # n me "So...we’ve got time to kill."
-    n me ""
+    n me "En fin... aún nos queda tiempo que matar haciendo algo."
 
 # game/game_script_act2.rpy:2946
 translate spanish game_script_act2_97c15a6f:
 
     # n b1c "Like, a {i}lot{/i} of time."
-    n b1c ""
+    n b1c "En plan, demasiado tiempo."
 
 # game/game_script_act2.rpy:2948
 translate spanish game_script_act2_68656c5c:
 
     # n "TV or Parfait Girls?"
-    n ""
+    n "¿Parfait Girls o la tele? Tú decides."
 
 # game/game_script_act2.rpy:2950
 translate spanish game_script_act2_0e2c733e:
 
     # mc "Hardest question of my life."
-    mc ""
+    mc "La decisión más difícil que he tenido que hacer en mi vida..."
 
 # game/game_script_act2.rpy:2952
 translate spanish game_script_act2_95a7aba1:
 
     # mc "Just kidding. Parfait Girls. Obviously."
-    mc ""
+    mc "Es coña. Parfait Girls del tirón."
 
 # game/game_script_act2.rpy:2963
 translate spanish game_script_act2_6a6d7728:

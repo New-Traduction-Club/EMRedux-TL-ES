@@ -626,289 +626,289 @@ translate spanish game_script_act2_95a7aba1:
 translate spanish game_script_act2_6a6d7728:
 
     # "With volume three done, Natsuki reaches down to place it back in the box."
-    ""
+    "Habiendo terminado el tercer tomo, Natsuki se agacha para dejarlo en la caja."
 
 # game/game_script_act2.rpy:2965
 translate spanish game_script_act2_dfed5e9a:
 
     # mc "Alright, I give up. This does just get better and better."
-    mc ""
+    mc "Vale, tú ganas. La historia empieza a subir como la espuma."
 
 # game/game_script_act2.rpy:2966
 translate spanish game_script_act2_427f222a:
 
     # n mb "See? It just took a little time investment."
-    n mb ""
+    n mb "¿Ves? Hacía falta dedicarle algo de tiempo, nada más."
 
 # game/game_script_act2.rpy:2967
 translate spanish game_script_act2_f41c8ddf:
 
     # n mn "Come on, say it."
-    n mn ""
+    n mn "Venga, dilo."
 
 # game/game_script_act2.rpy:2968
 translate spanish game_script_act2_817b8cd1:
 
     # n mc "Just say you like it and be done with it."
-    n mc ""
+    n mc "Dilo y acabamos con esto."
 
 # game/game_script_act2.rpy:2969
 translate spanish game_script_act2_bce94235:
 
     # n cross b1a e1b mg "Well, not {i}done{/i}, we haven’t finished it, but-..."
-    n cross b1a e1b mg ""
+    n cross b1a e1b mg "Bueno, aún no hemos 'acabado' como tal, pero...,"
 
 # game/game_script_act2.rpy:2970
 translate spanish game_script_act2_67c7f712:
 
     # n e1a mh "You know what I mean."
-    n e1a mh ""
+    n e1a mh "ya me has entendido."
 
 # game/game_script_act2.rpy:2972
 translate spanish game_script_act2_b4304b2e:
 
     # mc "But I already said I liked it!"
-    mc ""
+    mc "¡Pero si ya te he dicho que me ha gustado!"
 
 # game/game_script_act2.rpy:2974
 translate spanish game_script_act2_55296d20:
 
     # "I fake a hearty sigh."
-    ""
+    "Finjo proferar un suspiro."
 
 # game/game_script_act2.rpy:2977
 translate spanish game_script_act2_68408c40:
 
     # mc "'It’s really good.'"
-    mc ""
+    mc "Me gusta."
 
 # game/game_script_act2.rpy:2978
 translate spanish game_script_act2_931847e9:
 
     # mc "There, that's my final answer. Are you happy now?"
-    mc ""
+    mc "Hala, ya lo he dicho. ¿Estás contenta?"
 
 # game/game_script_act2.rpy:2979
 translate spanish game_script_act2_f4d9cba6:
 
     # n e1d b1c mb "Very."
-    n e1d b1c mb ""
+    n e1d b1c mb "Y tanto."
 
 # game/game_script_act2.rpy:2982
 translate spanish game_script_act2_74424465:
 
     # "...I think it’s time to get up."
-    ""
+    "Creo que... va siendo hora de levantar el culo."
 
 # game/game_script_act2.rpy:2983
 translate spanish game_script_act2_e4950ab3:
 
     # "If we sit here any longer, I fear we might leave a lasting imprint on the couch."
-    ""
+    "Si seguimos aquí sentados, vamos a dejar huella en el sofá."
 
 # game/game_script_act2.rpy:2984
 translate spanish game_script_act2_ace15b49:
 
     # "Not to mention, it's--"
-    ""
+    "Y sin mencionar que ya..."
 
 # game/game_script_act2.rpy:2986
 translate spanish game_script_act2_b4deff96:
 
     # mc "Dinner time."
-    mc ""
+    mc "Toca cenar."
 
 # game/game_script_act2.rpy:2987
 translate spanish game_script_act2_4124e079:
 
     # mc "Whadda you fancy?"
-    mc ""
+    mc "¿Qué te apetece?"
 
 # game/game_script_act2.rpy:2988
 translate spanish game_script_act2_73ecc830:
 
     # n e1a me "Uhh...{w=0.6}{nw}"
-    n e1a me ""
+    n e1a me "Pues...{w=0.6} {nw}"
 
 # game/game_script_act2.rpy:2990
 translate spanish game_script_act2_1918c9ea:
 
     # extend "what have we got?"
-    extend ""
+    extend "no sé, ¿qué hay?"
 
 # game/game_script_act2.rpy:2992
 translate spanish game_script_act2_07f0e3aa:
 
     # mc "Honestly, I feel like we can have a night off."
-    mc ""
+    mc "Si te digo la verdad... me apetece no cocinar hoy."
 
 # game/game_script_act2.rpy:2994
 translate spanish game_script_act2_6254c4d3:
 
     # mc "Get a takeaway or something."
-    mc ""
+    mc "¿Pedimos comida para llevar?"
 
 # game/game_script_act2.rpy:2995
 translate spanish game_script_act2_703cb47d:
 
     # mc "Like, uhh...door delivery."
-    mc ""
+    mc "Y que nos la traigan a casa."
 
 # game/game_script_act2.rpy:2997
 translate spanish game_script_act2_2a43a65a:
 
     # mc "How’s pizza sound?"
-    mc ""
+    mc "¿Te hace cenar pizza?"
 
 # game/game_script_act2.rpy:2998
 translate spanish game_script_act2_7f5584f6:
 
     # n mb "Ooh, that sounds nice."
-    n mb ""
+    n mb "Pues sí, suena genial."
 
 # game/game_script_act2.rpy:2999
 translate spanish game_script_act2_933cd798:
 
     # n b1c mg "You sure you can afford it?"
-    n b1c mg ""
+    n b1c mg "¿Te llega para pagarlas?"
 
 # game/game_script_act2.rpy:3001
 translate spanish game_script_act2_21c96e61:
 
     # mc "It won’t break the bank."
-    mc ""
+    mc "No voy a quedarme en bancarrota por un par de pizzas."
 
 # game/game_script_act2.rpy:3002
 translate spanish game_script_act2_81499920:
 
     # n e1a ldown rhip mh "I can chip in, y’know."
-    n e1a ldown rhip mh ""
+    n e1a ldown rhip mh "Te lo digo porque puedo aportar monetariamente, ¿sabes?"
 
 # game/game_script_act2.rpy:3004
 translate spanish game_script_act2_83a1e25e:
 
     # mc "Nah, it’s on the house."
-    mc ""
+    mc "Invita la casa."
 
 # game/game_script_act2.rpy:3005
 translate spanish game_script_act2_c533b9e6:
 
     # mc "Besides, it’s just for tonight."
-    mc ""
+    mc "Aparte, será por hoy,"
 
 # game/game_script_act2.rpy:3006
 translate spanish game_script_act2_2c995e90:
 
     # mc "Like a reward, since we did something productive."
-    mc ""
+    mc "por haber hecho algo productivo."
 
 # game/game_script_act2.rpy:3007
 translate spanish game_script_act2_41e84c6b:
 
     # n cross b1f e1d mb "Like one of Pavlov's dogs?"
-    n cross b1f e1d mb ""
+    n cross b1f e1d mb "¿Como uno de los perros de Pavlov? (Nota del traductor: experimento de Ivan Pavlov para entrenar a los perros y enseñarles a salivar con estímulos)"
 
 # game/game_script_act2.rpy:3009
 translate spanish game_script_act2_539280e9:
 
     # mc "I'm shocked you even know who Pavlov is."
-    mc ""
+    mc "Me sorprende que sepas quién es."
 
 # game/game_script_act2.rpy:3011
 translate spanish game_script_act2_2fcefed0:
 
     # n "I'm not stupid, y'know!"
-    n ""
+    n "¡No soy idiota!"
 
 # game/game_script_act2.rpy:3012
 translate spanish game_script_act2_6e8c0d55:
 
     # n b1d mg e1b "I...heard Yuri yammering on about it once or twice..."
-    n b1d mg e1b ""
+    n b1d mg e1b "Escuché a... a Yuri... un par de veces hablar de él."
 
 # game/game_script_act2.rpy:3014
 translate spanish game_script_act2_eb2fb8f0:
 
     # mc "So you {i}do{/i} listen to her."
-    mc ""
+    mc "Entonces es que sí le haces caso."
 
 # game/game_script_act2.rpy:3015
 translate spanish game_script_act2_e704e507:
 
     # mc "By the way, heads up."
-    mc ""
+    mc "Por cierto, atenta."
 
 # game/game_script_act2.rpy:3017
 translate spanish game_script_act2_5ab9be5a:
 
     # "Taking my phone out of my pocket, I lob it in her direction."
-    ""
+    "Cojo mi teléfono del bolsillo y se lo lanzo."
 
 # game/game_script_act2.rpy:3021
 translate spanish game_script_act2_0e3a1d40:
 
     # "Luckily, she catches it."
-    ""
+    "Con suerte, lo coge en el aire."
 
 # game/game_script_act2.rpy:3023
 translate spanish game_script_act2_1c21b65d:
 
     # n mg "What’s this for?"
-    n mg ""
+    n mg "¿Para?"
 
 # game/game_script_act2.rpy:3025
 translate spanish game_script_act2_8640ee3b:
 
     # mc "You sort the pizza out. I’ve gotta go to the bathroom."
-    mc ""
+    mc "Para ir pidiendo las pizzas. Tengo que ir al baño."
 
 # game/game_script_act2.rpy:3027
 translate spanish game_script_act2_55f903a6:
 
     # mc "Passcode’s one-one-zero-five."
-    mc ""
+    mc "La contraseña es uno, uno, cero, cinco."
 
 # game/game_script_act2.rpy:3029
 translate spanish game_script_act2_75d70f58:
 
     # mc "Pick what you want, I’ll just have...uhhh...{w}I dunno, you can pick for me too."
-    mc ""
+    mc "Cógete lo que quieras. Para mí pues...{w} ni pajolera idea, cógeme lo que te dé la gana."
 
 # game/game_script_act2.rpy:3030
 translate spanish game_script_act2_686d4b2f:
 
     # mc "But thirty bucks is the limit."
-    mc ""
+    mc "Treinta pavos es lo máximo, ¿eh?"
 
 # game/game_script_act2.rpy:3031
 translate spanish game_script_act2_809f074c:
 
     # mc "Got that?"
-    mc ""
+    mc "¿Ha quedado claro?"
 
 # game/game_script_act2.rpy:3032
 translate spanish game_script_act2_cf234b95:
 
     # n e1a mb "Clear as day."
-    n e1a mb ""
+    n e1a mb "Como el agua."
 
 # game/game_script_act2.rpy:3033
 translate spanish game_script_act2_cb360d1b:
 
     # n b1f rhip e1a mb "Actually, did you say thirty was the limit, or was it forty?"
-    n b1f rhip e1a mb ""
+    n b1f rhip e1a mb "Aunque... ¿eran treinta pavos... o cuarenta?"
 
 # game/game_script_act2.rpy:3035
 translate spanish game_script_act2_5200a21f:
 
     # mc "Oh, shush."
-    mc ""
+    mc "Ay, que te den."
 
 # game/game_script_act2.rpy:3039
 translate spanish game_script_act2_ed915c75:
 
     # "Natsuki burrows herself in my phone as I head upstairs."
-    ""
+    "Natsuki se esconde en mi teléfono mientras subo las escaleras."
 
 # game/game_script_act2.rpy:3048
 translate spanish game_script_act2_dbaf38c9:

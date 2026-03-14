@@ -914,157 +914,157 @@ translate spanish game_script_act2_ed915c75:
 translate spanish game_script_act2_dbaf38c9:
 
     # "As I head downstairs, I notice that Natsuki’s turned the lights off and the TV back on, legs crossed resting on the coffee table."
-    ""
+    "Al bajar, veo las luces apagadas y la tele puesta. Natsuki, por otro lado, está con las piernas cruzadas y estiradas en la mesita."
 
 # game/game_script_act2.rpy:3049
 translate spanish game_script_act2_01a8e12f:
 
     # "I step over her in order to take my seat."
-    ""
+    "Paso por su lado para sentarme."
 
 # game/game_script_act2.rpy:3052
 translate spanish game_script_act2_38da7c25:
 
     # n "You took your time."
-    n ""
+    n "Vaya tardón."
 
 # game/game_script_act2.rpy:3054
 translate spanish game_script_act2_e0431302:
 
     # mc "Nature calls."
-    mc ""
+    mc "Si te gustan los animales del mar, que sepas que había una tortuga asomando."
 
 # game/game_script_act2.rpy:3055
 translate spanish game_script_act2_7c702a80:
 
     # mc "So, what’d you get?"
-    mc ""
+    mc "Mierdas aparte, ¿qué has pedido?"
 
 # game/game_script_act2.rpy:3056
 translate spanish game_script_act2_aee59578:
 
     # n mg "Oh yeah.{w=0.3} {nw}"
-    n mg ""
+    n mg "Ah, sí.{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:3058
 translate spanish game_script_act2_0716687a:
 
     # extend "Large Hawaiian to share, some sour cream & onion sauce, breadsticks to go with that...{w=0.3}{nw}"
-    extend ""
+    extend "Una hawaiana grande para los dos, algo de salsa sour cream & onion, piquitos de pan para mojar en la salsa...{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:3060
 translate spanish game_script_act2_3ba961d5:
 
     # extend "{i}and{/i} a big bottle of lemonade."
-    extend ""
+    extend "Y un botellón de limonada."
 
 # game/game_script_act2.rpy:3061
 translate spanish game_script_act2_307cead5:
 
     # n mb "Should be here in ten-fifteen minutes, give or take."
-    n mb ""
+    n mb "Llegará todo en diez o quince minutos."
 
 # game/game_script_act2.rpy:3064
 translate spanish game_script_act2_2eb9f243:
 
     # "As delicious as it sounds, my mind immediately jumps to the price."
-    ""
+    "Aunque suene delicioso, en lo primero que pienso es en lo que ha costado."
 
 # game/game_script_act2.rpy:3066
 translate spanish game_script_act2_d1e7a302:
 
     # mc "Oh God, how much?"
-    mc ""
+    mc "Por Dios, ¿cuánto ha sido?"
 
 # game/game_script_act2.rpy:3069
 translate spanish game_script_act2_2033e893:
 
     # "As she returns my phone to me, I get my answer in the form of an email receipt."
-    ""
+    "Me devuelve el móvil y veo un correo electrónico con el recibo que responde mis preguntas."
 
 # game/game_script_act2.rpy:3071
 translate spanish game_script_act2_55fb9ee8:
 
     # mc "Oh, that's not that bad, actually."
-    mc ""
+    mc "Ah, bueno, pensaba que era más."
 
 # game/game_script_act2.rpy:3073
 translate spanish game_script_act2_11d570b9:
 
     # n e4a b3b mb zz3 "Plus, I tipped the guy. Hope you don’t mind."
-    n e4a b3b mb zz3 ""
+    n e4a b3b mb zz3 "Y que sepas que le he dado algo de propina al tío ese. Espero que no te importe mucho."
 
 # game/game_script_act2.rpy:3075
 translate spanish game_script_act2_95e9ee25:
 
     # mc "Sounds like a feast."
-    mc ""
+    mc "Me parece bien."
 
 # game/game_script_act2.rpy:3076
 translate spanish game_script_act2_299af218:
 
     # mc "So, uhh...whatcha watching?"
-    mc ""
+    mc "Y, eh... ¿qué ves?"
 
 # game/game_script_act2.rpy:3077
 translate spanish game_script_act2_5ce77040:
 
     # n b1c e1a mg zz1 "Oh, y’know, just some trashy soaps."
-    n b1c e1a mg zz1 ""
+    n b1c e1a mg zz1 "Ah, lo típico. Mucha telebasura."
 
 # game/game_script_act2.rpy:3079
 translate spanish game_script_act2_38c91b96:
 
     # mc "Really? I thought they only aired during the day."
-    mc ""
+    mc "¿En serio? Pensaba que estas cosas se emitían por el día."
 
 # game/game_script_act2.rpy:3080
 translate spanish game_script_act2_3b9a9ed8:
 
     # n mg "Reruns."
-    n mg ""
+    n mg "Sí, pero lo repiten."
 
 # game/game_script_act2.rpy:3081
 translate spanish game_script_act2_7238f072:
 
     # n turned rhip mh "I think they’re called an 'omnibus', where they rerun a bunch of episodes at once."
-    n turned rhip mh ""
+    n turned rhip mh "Creo que han mencionado antes algo de 'ómnibus', diciendo que van a repetir muchos capítulos seguidos."
 
 # game/game_script_act2.rpy:3083
 translate spanish game_script_act2_c05a725f:
 
     # mc "Right, I forgot that happens. I don't really watch TV."
-    mc ""
+    mc "Ah, claro. Se me olvidaba que la tele era así. Como ya no la veo..."
 
 # game/game_script_act2.rpy:3084
 translate spanish game_script_act2_eceda5b4:
 
     # mc "It just feels outdated, given that you can stream almost anything you want."
-    mc ""
+    mc "Siento que está pasada de moda, y teniendo la posibilidad de ver lo que quieras por internet..."
 
 # game/game_script_act2.rpy:3086
 translate spanish game_script_act2_9222f442:
 
     # mc "Suits my non-schedule better when I can just put something on whenever."
-    mc ""
+    mc "Se adapta mejor a mi horario irregular sabiendo que puedo poner lo que quiera y cuando quiera."
 
 # game/game_script_act2.rpy:3087
 translate spanish game_script_act2_b562cdc4:
 
     # n e1c mg "Funnily enough, I couldn't really buy those subscriptions."
-    n e1c mg ""
+    n e1c mg "Curiosamente, esas suscripciones no estaban a mi alcance monetario."
 
 # game/game_script_act2.rpy:3088
 translate spanish game_script_act2_39a6d518:
 
     # n mh "So, uhh...{w=0.3}{nw}"
-    n mh ""
+    n mh "Así que, eh...{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:3090
 translate spanish game_script_act2_efba5a40:
 
     # extend "cable TV! That was my only option, besides rewatching old DVDs."
-    extend ""
+    extend "¡me quedaba la tele por cable! Quitando los DVD's que veía una y otra vez, era lo único que tenía."
 
 # game/game_script_act2.rpy:3091
 translate spanish game_script_act2_9be43e21:

@@ -1940,7 +1940,7 @@ translate spanish game_script_act2_de604587:
 translate spanish game_script_act2_58527342:
 
     # n "Well, I suppose I can have a crack at it."
-    n "Pues supongo que puedo intentarlo yo."
+    n "Bueno, voy a probar yo."
 
 # game/game_script_act2.rpy:2667
 translate spanish game_script_act2_99fe002d:

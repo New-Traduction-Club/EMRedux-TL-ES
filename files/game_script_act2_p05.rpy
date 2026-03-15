@@ -932,13 +932,13 @@ translate spanish game_script_act2_38da7c25:
 translate spanish game_script_act2_e0431302:
 
     # mc "Nature calls."
-    mc "Si te gustan los animales del mar, que sepas que había una tortuga asomando."
+    mc "La naturaleza llama."
 
 # game/game_script_act2.rpy:3055
 translate spanish game_script_act2_7c702a80:
 
     # mc "So, what’d you get?"
-    mc "Mierdas aparte, ¿qué has pedido?"
+    mc "En fin, ¿qué has pedido?"
 
 # game/game_script_act2.rpy:3056
 translate spanish game_script_act2_aee59578:
@@ -956,7 +956,7 @@ translate spanish game_script_act2_0716687a:
 translate spanish game_script_act2_3ba961d5:
 
     # extend "{i}and{/i} a big bottle of lemonade."
-    extend "Y un botellón de limonada."
+    extend "y un botellón de limonada."
 
 # game/game_script_act2.rpy:3061
 translate spanish game_script_act2_307cead5:

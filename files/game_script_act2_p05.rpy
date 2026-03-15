@@ -1070,7 +1070,7 @@ translate spanish game_script_act2_efba5a40:
 translate spanish game_script_act2_9be43e21:
 
     # n mh "And I wore those out pretty quickly."
-    n mh ""
+    n mh "Y me aburrí de ellos bastante rápido."
 
 # game/game_script_act2.rpy:3092
 translate spanish game_script_act2_bfd45999:

@@ -950,7 +950,7 @@ translate spanish game_script_act2_aee59578:
 translate spanish game_script_act2_0716687a:
 
     # extend "Large Hawaiian to share, some sour cream & onion sauce, breadsticks to go with that...{w=0.3}{nw}"
-    extend "Una hawaiana grande para los dos, algo de salsa sour cream & onion, piquitos de pan para mojar en la salsa...{w=0.3} {nw}"
+    extend "Una hawaiana grande para los dos, algo de salsa agria con cebolla, piquitos de pan para mojar en la salsa...{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:3060
 translate spanish game_script_act2_3ba961d5:
@@ -1076,253 +1076,253 @@ translate spanish game_script_act2_9be43e21:
 translate spanish game_script_act2_bfd45999:
 
     # n b1a e1d mg "Hey, don't give me that look. It's not {i}all{/i} that bad."
-    n b1a e1d mg ""
+    n b1a e1d mg "¡Eh! No me mires así, que tampoco eran taaan malos."
 
 # game/game_script_act2.rpy:3094
 translate spanish game_script_act2_cd4a9574:
 
     # n "They only had {i}two{/i} helicopter crash subplots in this show."
-    n ""
+    n "Solo habían dos subtramas de accidentes de helicóptero en esta serie."
 
 # game/game_script_act2.rpy:3096
 translate spanish game_script_act2_62c31b5a:
 
     # mc "I aspire to reach that level of self-control."
-    mc ""
+    mc "Me gustaría tener ese nivel de autocontrol algún día..."
 
 # game/game_script_act2.rpy:3109
 translate spanish game_script_act2_67b128f2:
 
     # "Natsuki flinches, stiffening up like a board."
-    ""
+    "Natsuki se asusta, poniéndose rígida como un palo."
 
 # game/game_script_act2.rpy:3110
 translate spanish game_script_act2_e21ce177:
 
     # "I peer out of the window, and glimpse a lanky teenager with a backwards cap walking back to his car."
-    ""
+    "Echo un vistazo por la ventana y veo a un tío larguirucho con la gorra puesta hacia atrás entrando en su coche."
 
 # game/game_script_act2.rpy:3113
 translate spanish game_script_act2_9f14ca9f:
 
     # mc "Hey, it's okay. It’s just the pizza guy."
-    mc ""
+    mc "Oye, tranquila. Es el de las pizzas."
 
 # game/game_script_act2.rpy:3114
 translate spanish game_script_act2_1e8017c5:
 
     # n e2b b2c mg zz1 "O-oh..."
-    n e2b b2c mg zz1 ""
+    n e2b b2c mg zz1 "A-Ah..."
 
 # game/game_script_act2.rpy:3116
 translate spanish game_script_act2_f33b6285:
 
     # n "Think the asshole gave me an actual heart attack."
-    n ""
+    n "Vaya susto me ha dado el gilipollas..."
 
 # game/game_script_act2.rpy:3118
 translate spanish game_script_act2_a8d2e921:
 
     # mc "He could've just used the doorbell..."
-    mc ""
+    mc "Ya, podría haber tocado el timbre..."
 
 # game/game_script_act2.rpy:3122
 translate spanish game_script_act2_54944517:
 
     # "Heading to the door, I grab the pizza and bag off the porch and head back inside."
-    ""
+    "Abro la puerta, cojo la pizza y la bolsa que hay al lado y vuelvo dentro."
 
 # game/game_script_act2.rpy:3125
 translate spanish game_script_act2_38014f51:
 
     # mc "Well, here it is."
-    mc ""
+    mc "Pues nada, aquí lo tenemos todo."
 
 # game/game_script_act2.rpy:3128
 translate spanish game_script_act2_53c9138a:
 
     # mc "Pizza, lemonade and all the other stuff I already forgot you bought."
-    mc ""
+    mc "Pizza, limonada y las otras cosas que no recuerdo que hayas pedido."
 
 # game/game_script_act2.rpy:3129
 translate spanish game_script_act2_4be674e5:
 
     # n mb "Well, put it down already and let's dig in."
-    n mb ""
+    n mb "Venga, déjalas ya y vamos a zampar."
 
 # game/game_script_act2.rpy:3132
 translate spanish game_script_act2_f7ec236b:
 
     # "Natsuki rips the box open."
-    ""
+    "Natsuki abre la caja de golpe."
 
 # game/game_script_act2.rpy:3134
 translate spanish game_script_act2_95aca269:
 
     # "Taking a slice for herself, she slathers it in sour cream & onion sauce {nw}"
-    ""
+    "Cogiendo una porción, la moja en la salsa agria con cebolla {nw}"
 
 # game/game_script_act2.rpy:3136
 translate spanish game_script_act2_402b0a82:
 
     # extend "before stuffing her face."
-    extend ""
+    extend "y la engulle."
 
 # game/game_script_act2.rpy:3138
 translate spanish game_script_act2_10052d8f:
 
     # "I retake my place on the sofa, grabbing a slice for myself."
-    ""
+    "Me siento en el sofá y cojo una porción."
 
 # game/game_script_act2.rpy:3139
 translate spanish game_script_act2_06530044:
 
     # "We sit quietly, just appreciating our food, and the garbage TV."
-    ""
+    "Nos quedamos en silencio, disfrutando de la comida y la telebasura,"
 
 # game/game_script_act2.rpy:3141
 translate spanish game_script_act2_359bbd3b:
 
     # "But out of the corner of my eye, I notice movement coming from the window..."
-    ""
+    "aunque alcanzo a ver algo con el rabillo del ojo a través de la ventana..."
 
 # game/game_script_act2.rpy:3143
 translate spanish game_script_act2_6fd87095:
 
     # mc "Well, would you look at that..."
-    mc ""
+    mc "Pero qué tenemos aquí..."
 
 # game/game_script_act2.rpy:3145
 translate spanish game_script_act2_b1f9729d:
 
     # n b1f e1a me "Whah?"
-    n b1f e1a me ""
+    n b1f e1a me "¿Kéh?"
 
 # game/game_script_act2.rpy:3146
 translate spanish game_script_act2_42794881:
 
     # mc "I think it’s snowing outside."
-    mc ""
+    mc "Creo que está nevando fuera."
 
 # game/game_script_act2.rpy:3147
 translate spanish game_script_act2_95787cbc:
 
     # n awkw ldown b1c e2a mn "Waih, are you sherioush?!"
-    n awkw ldown b1c e2a mn ""
+    n awkw ldown b1c e2a mn "Ehpera, ¡¿stásh de kóñah?!"
 
 # game/game_script_act2.rpy:3150
 translate spanish game_script_act2_2cb58129:
 
     # "She eagerly springs to her feet and makes her way to the window, abandoning her slice of pizza as she does so."
-    ""
+    "Deja el trozo de pizza y se levanta rápidamente para asomarse."
 
 # game/game_script_act2.rpy:3151
 translate spanish game_script_act2_5e4b48eb:
 
     # "She presses her face against the glass as she looks on in awe at the little flecks of snow falling from the sky."
-    ""
+    "Presiona la cara contra el cristal mientras observa los copos de nieve de caer."
 
 # game/game_script_act2.rpy:3153
 translate spanish game_script_act2_58048ff1:
 
     # n rhip e2a mc "No shit, we never get snow here this early!"
-    n rhip e2a mc ""
+    n rhip e2a mc "¡No me jodas, que nunca jamás había nevado tan pronto!"
 
 # game/game_script_act2.rpy:3155
 translate spanish game_script_act2_3bacdbd8:
 
     # mc "Must’ve been a couple years at least. Haven't seen snow before November in a long time."
-    mc ""
+    mc "Sí, hace un par de años que ocurrió. Eso de que nieve antes de noviembre no es algo común."
 
 # game/game_script_act2.rpy:3156
 translate spanish game_script_act2_a08aaf12:
 
     # n cross b1a e2b mb "I wonder if there’ll be enough to stick..."
-    n cross b1a e2b mb ""
+    n cross b1a e2b mb "Me pregunto si habrá suficiente nieve como para moldearla..."
 
 # game/game_script_act2.rpy:3158
 translate spanish game_script_act2_68bed8f4:
 
     # mc "Guess we’ll find out tomorrow morning..."
-    mc ""
+    mc "Mañana lo sabremos."
 
 # game/game_script_act2.rpy:3159
 translate spanish game_script_act2_4ad2e223:
 
     # mc "Until then..."
-    mc ""
+    mc "De mientras...,"
 
 # game/game_script_act2.rpy:3160
 translate spanish game_script_act2_e26fbfcf:
 
     # mc "Let's keep eating."
-    mc ""
+    mc "a seguir comiendo."
 
 # game/game_script_act2.rpy:3161
 translate spanish game_script_act2_09397db9:
 
     # n e1a mc "Not gonna argue with that."
-    n e1a mc ""
+    n e1a mc "No hay pegas."
 
 # game/game_script_act2.rpy:3164
 translate spanish game_script_act2_0ede458b:
 
     # "She jumps back on the couch and quickly grabs another slice."
-    ""
+    "Pega un salto de vuelta al sofá y coge otro trozo."
 
 # game/game_script_act2.rpy:3165
 translate spanish game_script_act2_52857671:
 
     # "As I try and reach for the lemonade,{w=0.3} {nw}"
-    ""
+    "Al intentar coger la botella de limonada,{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:3167
 translate spanish game_script_act2_4347b461:
 
     # extend "I see Natsuki quickly open the bottle and take a swig."
-    extend ""
+    extend "veo a Natsuki cogerla antes, abrirla y darle un buen sorbo."
 
 # game/game_script_act2.rpy:3170
 translate spanish game_script_act2_aa126cc0:
 
     # mc "Hey, come on, use a glass!"
-    mc ""
+    mc "¡Venga ya, coge un vaso!"
 
 # game/game_script_act2.rpy:3171
 translate spanish game_script_act2_bdb28156:
 
     # n b1a e1d mg "What? I was thirsty, it’s not {i}that{/i} big a deal."
-    n b1a e1d mg ""
+    n b1a e1d mg "¿Qué pasa? Tenía sed."
 
 # game/game_script_act2.rpy:3173
 translate spanish game_script_act2_eb67c648:
 
     # mc "It’s kinda gross."
-    mc ""
+    mc "Es de ser una maleducada."
 
 # game/game_script_act2.rpy:3174
 translate spanish game_script_act2_10e57f1c:
 
     # mc "Now I’ve gotta drink from that."
-    mc ""
+    mc "Piensa que ahora tengo que beber de ahí."
 
 # game/game_script_act2.rpy:3175
 translate spanish game_script_act2_5bccd82c:
 
     # n e1b mh "Alright, alright."
-    n e1b mh ""
+    n e1b mh "Vale, vale."
 
 # game/game_script_act2.rpy:3177
 translate spanish game_script_act2_409e27cd:
 
     # "She wipes the bottletop with her shirt, before setting it down and {nw}"
-    ""
+    "Limpia la botella con su camisa, deja la botella... {nw}"
 
 # game/game_script_act2.rpy:3180
 translate spanish game_script_act2_71e6f623:
 
     # extend "disappearing into the kitchen momentarily."
-    extend ""
+    extend "y se va a la cocina."
 
 # game/game_script_act2.rpy:3182
 translate spanish game_script_act2_61ca9536:

@@ -992,7 +992,7 @@ translate spanish game_script_act2_55fb9ee8:
 translate spanish game_script_act2_11d570b9:
 
     # n e4a b3b mb zz3 "Plus, I tipped the guy. Hope you don’t mind."
-    n e4a b3b mb zz3 "Y que sepas que le he dado algo de propina al tío ese. Espero que no te importe mucho."
+    n e4a b3b mb zz3 "Espero que no te importe mucho, pero que sepas que le he dado algo de propina al tío ese."
 
 # game/game_script_act2.rpy:3075
 translate spanish game_script_act2_95e9ee25:
@@ -1010,7 +1010,7 @@ translate spanish game_script_act2_299af218:
 translate spanish game_script_act2_5ce77040:
 
     # n b1c e1a mg zz1 "Oh, y’know, just some trashy soaps."
-    n b1c e1a mg zz1 "Ah, lo típico. Mucha telebasura."
+    n b1c e1a mg zz1 "Ah, tú sabes... algo de telebasura."
 
 # game/game_script_act2.rpy:3079
 translate spanish game_script_act2_38c91b96:
@@ -1022,7 +1022,7 @@ translate spanish game_script_act2_38c91b96:
 translate spanish game_script_act2_3b9a9ed8:
 
     # n mg "Reruns."
-    n mg "Sí, pero lo repiten."
+    n mg "Sí, pero lo vuelven a emitir."
 
 # game/game_script_act2.rpy:3081
 translate spanish game_script_act2_7238f072:
@@ -1040,13 +1040,13 @@ translate spanish game_script_act2_c05a725f:
 translate spanish game_script_act2_eceda5b4:
 
     # mc "It just feels outdated, given that you can stream almost anything you want."
-    mc "Siento que está pasada de moda, y teniendo la posibilidad de ver lo que quieras por internet..."
+    mc "Siento que está pasada de moda, y teniendo la posibilidad de ver lo que quieras por internet...,"
 
 # game/game_script_act2.rpy:3086
 translate spanish game_script_act2_9222f442:
 
     # mc "Suits my non-schedule better when I can just put something on whenever."
-    mc "Se adapta mejor a mi horario irregular sabiendo que puedo poner lo que quiera y cuando quiera."
+    mc "se adapta mejor a mi horario irregular, ya que puedo poner lo que quiera y cuando quiera."
 
 # game/game_script_act2.rpy:3087
 translate spanish game_script_act2_b562cdc4:

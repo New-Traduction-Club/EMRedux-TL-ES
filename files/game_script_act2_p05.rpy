@@ -1316,157 +1316,157 @@ translate spanish game_script_act2_5bccd82c:
 translate spanish game_script_act2_409e27cd:
 
     # "She wipes the bottletop with her shirt, before setting it down and {nw}"
-    "Limpia la botella con su camisa, deja la botella... {nw}"
+    "Limpia la botella con su camisa, la deja en la mesa... {nw}"
 
 # game/game_script_act2.rpy:3180
 translate spanish game_script_act2_71e6f623:
 
     # extend "disappearing into the kitchen momentarily."
-    extend "y se va a la cocina."
+    extend "y va para la cocina."
 
 # game/game_script_act2.rpy:3182
 translate spanish game_script_act2_61ca9536:
 
     # "When she returns, she throws a plastic cup my way."
-    ""
+    "Al volver, me lanza un vaso de plástico."
 
 # game/game_script_act2.rpy:3184
 translate spanish game_script_act2_ff7a2094:
 
     # "I fumble, but catch it, proceeding to pour myself a glass."
-    ""
+    "Se me resbala, aunque consigo pillarlo y echarme la limonada."
 
 # game/game_script_act2.rpy:3187
 translate spanish game_script_act2_f613e7aa:
 
     # mc "Y’know, I remember last time it snowed, me and Sayori went all around town."
-    mc ""
+    mc "¿Sabes? Cuando nevó por aquí la última vez, Sayori y yo fuimos recorriendo toda la ciudad."
 
 # game/game_script_act2.rpy:3188
 translate spanish game_script_act2_fcd0ed33:
 
     # mc "It was so weird seeing everything covered in snow, cause we'd only seen it maybe two or three times in our lives at that point."
-    mc ""
+    mc "Estaba todo cubierto de nieve y era súper raro. Date cuenta de que era nuestra segunda o tercera vez viendo nieve porque no era común que cayese por estas zonas."
 
 # game/game_script_act2.rpy:3190
 translate spanish game_script_act2_45e5c1b1:
 
     # mc "We kept trying to make snowmen, but they always fell apart."
-    mc ""
+    mc "Pese a intentar una y otra vez hacer un muñeco de nieve, se desmoronaba."
 
 # game/game_script_act2.rpy:3191
 translate spanish game_script_act2_b908bedf:
 
     # n mb "Ehehe, my snow day experience was...{w=0.3}{nw}"
-    n mb ""
+    n mb "¡Ja, ja, ja! Pues mi experiencia en días nevados ha sido...{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:3193
 translate spanish game_script_act2_dbb3c135:
 
     # extend "different."
-    extend ""
+    extend "diferente, podemos decir."
 
 # game/game_script_act2.rpy:3194
 translate spanish game_script_act2_2f4577a0:
 
     # n cross b1c mg "Back then, I used to hang around with a different crowd. Not really anyone I'd call friends, though."
-    n cross b1c mg ""
+    n cross b1c mg "Por aquel entonces, salía con un grupito de gente, aunque ninguno de ellos se podría considerar amigo mío, la verdad."
 
 # game/game_script_act2.rpy:3195
 translate spanish game_script_act2_91d69c1a:
 
     # n "Don’t think you’d know any of them, but..."
-    n ""
+    n "No creo que conozcas a ninguno de ellos, pero...,"
 
 # game/game_script_act2.rpy:3196
 translate spanish game_script_act2_51b13a02:
 
     # n b1a e1d mg "Anyway, we all thought it’d be very funny to throw snowballs at passing cars."
-    n b1a e1d mg ""
+    n b1a e1d mg "en fin, era un gustazo pegarle bolazos de nieve a los coches que pasaban por ahí."
 
 # game/game_script_act2.rpy:3197
 translate spanish game_script_act2_b9b595ff:
 
     # n b1c mb "And it {i}was{/i} funny,{w=0.3} {nw}"
-    n b1c mb ""
+    n b1c mb "Y sí, era divertido{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:3199
 translate spanish game_script_act2_73065c2f:
 
     # extend "until one slammed the brakes, and we all bolted."
-    extend ""
+    extend "hasta que uno de ellos echó el freno y tuvimos que salir pitando de allí."
 
 # game/game_script_act2.rpy:3200
 translate spanish game_script_act2_abfb86cf:
 
     # n e4b b3c mb zz2 "I pretty much ran until my lungs were sore, and ended up having to go home 'cause we'd all split up."
-    n e4b b3c mb zz2 ""
+    n e4b b3c mb zz2 "Corrí y corrí hasta que mis pulmones dijeron 'basta' y me acabé yendo a casa porque nos acabamos separando al correr."
 
 # game/game_script_act2.rpy:3202
 translate spanish game_script_act2_2fdd7fa8:
 
     # mc "And I thought {i}my{/i} life was boring!"
-    mc ""
+    mc "¡Y yo con que mi vida era aburrida!"
 
 # game/game_script_act2.rpy:3203
 translate spanish game_script_act2_d6fb5578:
 
     # n b1c e1a mh zz1 "Yeah, I was a real piece of shit back then."
-    n b1c e1a mh zz1 ""
+    n b1c e1a mh zz1 "Pues sí, era una pedazo de mierda por aquel entonces..."
 
 # game/game_script_act2.rpy:3205
 translate spanish game_script_act2_d0c89bab:
 
     # mc "Well, at least you’ve outgrown throwing stuff at moving vehicles."
-    mc ""
+    mc "Bueno, algo has madurado. Ahora no le lanzas cosas a vehículos en movimiento...,"
 
 # game/game_script_act2.rpy:3206
 translate spanish game_script_act2_8561efc5:
 
     # mc "{i}I hope...{/i}"
-    mc ""
+    mc "digo yo..."
 
 # game/game_script_act2.rpy:3209
 translate spanish game_script_act2_3ac2f0f6:
 
     # "She smirks and snickers at me as I take a swig of lemonade."
-    ""
+    "Sonríe con picardía mientras le doy un sorbo a la limonada."
 
 # game/game_script_act2.rpy:3211
 translate spanish game_script_act2_26947e91:
 
     # n cross e1b mb "Now that I mention it,{w=0.3} {nw}"
-    n cross e1b mb ""
+    n cross e1b mb "Y ahora que lo dices,{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:3213
 translate spanish game_script_act2_6b4325e9:
 
     # extend "I think I got something fun for us to do tomorrow..."
-    extend ""
+    extend "creo que tengo una idea interesante para que hagamos mañana..."
 
 # game/game_script_act2.rpy:3215
 translate spanish game_script_act2_bcd92ebf:
 
     # mc "{i}Absolutely not.{/i}"
-    mc ""
+    mc "Ni de coña."
 
 # game/game_script_act2.rpy:3216
 translate spanish game_script_act2_b83566d9:
 
     # n turned lhip rhip b1a e1a mc "I’m kidding!"
-    n turned lhip rhip b1a e1a mc ""
+    n turned lhip rhip b1a e1a mc "¡Que era una broma, jolines!"
 
 # game/game_script_act2.rpy:3218
 translate spanish game_script_act2_db1b2c86:
 
     # mc "Come on, we could probably do something fun {i}and{/i}..."
-    mc ""
+    mc "Venga ya, podemos hacer algo divertido sin...,"
 
 # game/game_script_act2.rpy:3219
 translate spanish game_script_act2_e9c03711:
 
     # mc "Legal? Moral?"
-    mc ""
+    mc "¿sin saltarnos lo legal y moral?"
 
 # game/game_script_act2.rpy:3220
 translate spanish game_script_act2_e9cc6bad:

@@ -1472,133 +1472,133 @@ translate spanish game_script_act2_e9c03711:
 translate spanish game_script_act2_e9cc6bad:
 
     # n mg "Hell if I know."
-    n mg ""
+    n mg "Y yo qué sé."
 
 # game/game_script_act2.rpy:3221
 translate spanish game_script_act2_27f17dd6:
 
     # n ldown b1c mh "What you got in mind?"
-    n ldown b1c mh ""
+    n ldown b1c mh "¿Tienes pensado algo?"
 
 # game/game_script_act2.rpy:3223
 translate spanish game_script_act2_dfd81e46:
 
     # mc "Uhh..."
-    mc ""
+    mc "Eh..."
 
 # game/game_script_act2.rpy:3224
 translate spanish game_script_act2_5a07b0ba:
 
     # mc "You can throw snowballs at me instead?"
-    mc ""
+    mc "¿Quieres tirarme bolas de nieve?"
 
 # game/game_script_act2.rpy:3225
 translate spanish game_script_act2_93c22a5f:
 
     # n b1a mb "Deal."
-    n b1a mb ""
+    n b1a mb "Dale."
 
 # game/game_script_act2.rpy:3226
 translate spanish game_script_act2_0b2233df:
 
     # n b1e e1d mc "But only if I get to do it when you least expect it."
-    n b1e e1d mc ""
+    n b1e e1d mc "Pero únicamente si te pillo desprevenido y te doy."
 
 # game/game_script_act2.rpy:3228
 translate spanish game_script_act2_2b35b6fe_2:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/game_script_act2.rpy:3230
 translate spanish game_script_act2_5a9b24f2:
 
     # "I heave an exaggerated sigh."
-    ""
+    "Profiero un suspiro exagerado."
 
 # game/game_script_act2.rpy:3233
 translate spanish game_script_act2_2557a4c5:
 
     # mc "If it keeps you from throwing ‘em at cars, sure."
-    mc ""
+    mc "Si consigo que no le des a algún coche... me vale."
 
 # game/game_script_act2.rpy:3235
 translate spanish game_script_act2_2e43e1e5:
 
     # "I reclaim a couple more slices for myself, leaving the last few for Natsuki."
-    ""
+    "Cojo un par de trozos más y le dejo el resto a Natsuki."
 
 # game/game_script_act2.rpy:3238
 translate spanish game_script_act2_18cc7733:
 
     # "We both stuff our faces in silence."
-    ""
+    "Terminamos de comer en silencio."
 
 # game/game_script_act2.rpy:3239
 translate spanish game_script_act2_63ccebb2:
 
     # "Unsurprisingly, the pizza is finished within a matter of minutes."
-    ""
+    "En pocos minutos, la caja estaba vacía."
 
 # game/game_script_act2.rpy:3240
 translate spanish game_script_act2_12a9c440:
 
     # "The breadsticks go ignored."
-    ""
+    "Los piquitos de pan nos han importado bien poco, la verdad."
 
 # game/game_script_act2.rpy:3242
 translate spanish game_script_act2_d3af8860:
 
     # n e1a mg -f1 "So..."
-    n e1a mg -f1 ""
+    n e1a mg -f1 "Entonces...,"
 
 # game/game_script_act2.rpy:3243
 translate spanish game_script_act2_94c1cb23:
 
     # n b1c mh "What do you think we’ll do after...{w=0.5}{nw}"
-    n b1c mh ""
+    n b1c mh "¿qué tienes pensado después de que papá...{w=0.5}{nw}"
 
 # game/game_script_act2.rpy:3246
 translate spanish game_script_act2_ff5fd67f:
 
     # extend "Dad’s out of the picture?"
-    extend ""
+    extend "esté fuera de nuestro alcance?"
 
 # game/game_script_act2.rpy:3248
 translate spanish game_script_act2_b2b9e19d:
 
     # mc "What do you mean?"
-    mc ""
+    mc "¿A qué te refieres?"
 
 # game/game_script_act2.rpy:3249
 translate spanish game_script_act2_f3ceac6a:
 
     # n me "Like...{w=0.3}{nw}"
-    n me ""
+    n me "En plan...{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:3251
 translate spanish game_script_act2_d4b151d0:
 
     # extend "{i}'where would I go?'{/i}"
-    extend ""
+    extend "¿dónde iremos?"
 
 # game/game_script_act2.rpy:3252
 translate spanish game_script_act2_567fee78:
 
     # n lhip rdown b1a mh "I mean, it’s not like we’ve thought it through to that point yet, and it’s something we’re gonna need to talk about either way."
-    n lhip rdown b1a mh ""
+    n lhip rdown b1a mh "A ver, no hemos planteado esto en ningún momento y es algo que tendremos que hablar tarde o temprano."
 
 # game/game_script_act2.rpy:3254
 translate spanish game_script_act2_529dd1a4:
 
     # mc "Uhh...okay..."
-    mc ""
+    mc "Eh... supongo."
 
 # game/game_script_act2.rpy:3255
 translate spanish game_script_act2_ddb0a656:
 
     # mc "Do you have any family members nearby, or know any friends who’d let you stay at their house?"
-    mc ""
+    mc "Entonces, ¿tienes familiares cerca o amigos que te dejen vivir en sus casas?"
 
 # game/game_script_act2.rpy:3258
 translate spanish game_script_act2_d45aa226:

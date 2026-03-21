@@ -1076,7 +1076,7 @@ translate spanish game_script_act2_9be43e21:
 translate spanish game_script_act2_bfd45999:
 
     # n b1a e1d mg "Hey, don't give me that look. It's not {i}all{/i} that bad."
-    n b1a e1d mg "¡Eh! No me mires así, que tampoco eran taaan malos."
+    n b1a e1d mg "¡Eh! No me mires así, que no todo es tan malo."
 
 # game/game_script_act2.rpy:3094
 translate spanish game_script_act2_cd4a9574:

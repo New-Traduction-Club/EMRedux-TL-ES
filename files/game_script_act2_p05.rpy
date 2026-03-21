@@ -1076,13 +1076,13 @@ translate spanish game_script_act2_9be43e21:
 translate spanish game_script_act2_bfd45999:
 
     # n b1a e1d mg "Hey, don't give me that look. It's not {i}all{/i} that bad."
-    n b1a e1d mg "¡Eh! No me mires así, que no todo es tan malo."
+    n b1a e1d mg "Ni se te ocurra mirarme así, que podría ser peor."
 
 # game/game_script_act2.rpy:3094
 translate spanish game_script_act2_cd4a9574:
 
     # n "They only had {i}two{/i} helicopter crash subplots in this show."
-    n "Solo habían dos subtramas de accidentes de helicóptero en esta serie."
+    n "Solo hay dos subtramas de accidentes de helicóptero en esta serie."
 
 # game/game_script_act2.rpy:3096
 translate spanish game_script_act2_62c31b5a:

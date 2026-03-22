@@ -1598,7 +1598,7 @@ translate spanish game_script_act2_529dd1a4:
 translate spanish game_script_act2_ddb0a656:
 
     # mc "Do you have any family members nearby, or know any friends who’d let you stay at their house?"
-    mc "Entonces, ¿tienes familiares cerca o amigos que te dejen vivir en sus casas?"
+    mc "No sé, ¿tienes familiares cerca o amigos que te dejen vivir en sus casas?"
 
 # game/game_script_act2.rpy:3258
 translate spanish game_script_act2_d45aa226:

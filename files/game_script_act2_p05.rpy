@@ -1604,157 +1604,157 @@ translate spanish game_script_act2_ddb0a656:
 translate spanish game_script_act2_d45aa226:
 
     # "Natsuki eyes the ground timidly, not really sure how to respond."
-    ""
+    "Natsuki baja la mirada con timidez, seguramente porque no sepa responder a mi pregunta."
 
 # game/game_script_act2.rpy:3260
 translate spanish game_script_act2_ac7209de:
 
     # n me "Well..."
-    n me ""
+    n me "A ver..."
 
 # game/game_script_act2.rpy:3261
 translate spanish game_script_act2_fbdc8707:
 
     # n cross mg "My mum’s side of the family lives about...400-ish miles away."
-    n cross mg ""
+    n cross mg "La familia de mi madre vive como a unos... 640 kilómetros de aquí."
 
 # game/game_script_act2.rpy:3262
 translate spanish game_script_act2_073f4734:
 
     # n mh "I’d thought about that for a {i}long{/i} time..."
-    n mh ""
+    n mh "Fue una de las primeras ideas que tuve, [player]..."
 
 # game/game_script_act2.rpy:3263
 translate spanish game_script_act2_44d0b8fa:
 
     # n e1a "Running from home, and finding my way there somehow."
-    n e1a ""
+    n e1a "Salir pitando de casa e ir para allá de alguna manera."
 
 # game/game_script_act2.rpy:3264
 translate spanish game_script_act2_1930c0e3:
 
     # n e4a b3c mg zz3 "But they never had a clue of what was going on, and I was scared they wouldn’t believe me."
-    n e4a b3c mg zz3 ""
+    n e4a b3c mg zz3 "Pero como no tienen ni idea de lo que pasa, me daba miedo que no creyesen nada de lo que les diga."
 
 # game/game_script_act2.rpy:3265
 translate spanish game_script_act2_3751eb89:
 
     # n me "But obviously, being stuck with Dad, I always thought it’d be impossible."
-    n me ""
+    n me "Aunque ya pensaba que sería imposible salir de ahí estando encerrada con papá...,"
 
 # game/game_script_act2.rpy:3266
 translate spanish game_script_act2_dae8d48b:
 
     # n b2a e2a mb zz1 "...until you got me away from him."
-    n b2a e2a mb zz1 ""
+    n b2a e2a mb zz1 "hasta que me sacaste de allí."
 
 # game/game_script_act2.rpy:3267
 translate spanish game_script_act2_7fdb3406:
 
     # n e2c mg "Now, it feels like a distinct possibility."
-    n e2c mg ""
+    n e2c mg "Ahora sí siento que puede ser diferente."
 
 # game/game_script_act2.rpy:3268
 translate spanish game_script_act2_07da90c5:
 
     # n b1c e2a mh "The long-term solution, y’know?"
-    n b1c e2a mh ""
+    n b1c e2a mh "La solución a largo plazo, digo."
 
 # game/game_script_act2.rpy:3269
 translate spanish game_script_act2_0e4158b8:
 
     # n turned lhip mh "The...{w=0.3}{nw}"
-    n turned lhip mh ""
+    n turned lhip mh "El...{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:3271
 translate spanish game_script_act2_11906c14:
 
     # extend "the problem is, I don’t think I’ve seen any of them in maybe, ten years?"
-    extend ""
+    extend "el problema es que llevo sin verles la cara... qué te digo, ¿diez años?"
 
 # game/game_script_act2.rpy:3272
 translate spanish game_script_act2_9eafb4ad:
 
     # n cross "And after Mum..."
-    n cross ""
+    n cross "Y después de mamá...,"
 
 # game/game_script_act2.rpy:3273
 translate spanish game_script_act2_66794b07:
 
     # n me "Yeah, I dunno."
-    n me ""
+    n me "pues ni idea."
 
 # game/game_script_act2.rpy:3276
 translate spanish game_script_act2_c84bb8c8:
 
     # "Her head turns to face me as her eyes meet mine."
-    ""
+    "Gira la cabeza y su mirada se encuentra con la mía."
 
 # game/game_script_act2.rpy:3278
 translate spanish game_script_act2_4f0d230e:
 
     # mc "I’ve probably hinted at it countless times, but..."
-    mc ""
+    mc "Lo habré dejado caer mil veces, pero..."
 
 # game/game_script_act2.rpy:3279
 translate spanish game_script_act2_2b35b6fe_3:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/game_script_act2.rpy:3281
 translate spanish game_script_act2_5e680d69:
 
     # mc "Listen, I can’t guarantee anything since this isn’t technically {i}my{/i} house, it’s my mum’s..."
-    mc ""
+    mc "Escucha, no puedo asegurarte nada porque esta no es 'mi' casa, sino la de mi madre...,"
 
 # game/game_script_act2.rpy:3283
 translate spanish game_script_act2_76568ec6:
 
     # mc "But I’ll let you stay with me for as long as you need, even after your 18th."
-    mc ""
+    mc "pero lo que sí puedo asegurarte es que puedas quedarte aquí, incluso al pasar de los dieciocho años."
 
 # game/game_script_act2.rpy:3289
 translate spanish game_script_act2_bb2cf764_4:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/game_script_act2.rpy:3290
 translate spanish game_script_act2_c6772166:
 
     # n mb "Thanks."
-    n mb ""
+    n mb "Gracias."
 
 # game/game_script_act2.rpy:3292
 translate spanish game_script_act2_6c4a19d6:
 
     # mc "It’s the least I can do."
-    mc ""
+    mc "Es lo menos que puedo hacer."
 
 # game/game_script_act2.rpy:3294
 translate spanish game_script_act2_492fc5ff:
 
     # "I rise from the couch, grabbing the TV remote and{nw}"
-    ""
+    "Me estiro para coger el mando de la tele...{nw}"
 
 # game/game_script_act2.rpy:3296
 translate spanish game_script_act2_19b2a279:
 
     # extend " shutting it off."
-    extend ""
+    extend " y la apago."
 
 # game/game_script_act2.rpy:3298
 translate spanish game_script_act2_bdda6303:
 
     # mc "Well, if we want to enjoy the snow, we should probably get some sleep."
-    mc ""
+    mc "Pues nada, si quieres pasártelo bien mañana... a sobar se ha dicho."
 
 # game/game_script_act2.rpy:3299
 translate spanish game_script_act2_61616a7d:
 
     # n b2a e1a mg "Yeah, I’m completely out of it."
-    n b2a e1a mg ""
+    n b2a e1a mg "Te tomo la palabra, estoy que no puedo más."
 
 # game/game_script_act2.rpy:3302
 translate spanish game_script_act2_c93a2c04:

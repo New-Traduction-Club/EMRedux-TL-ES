@@ -1760,73 +1760,73 @@ translate spanish game_script_act2_61616a7d:
 translate spanish game_script_act2_c93a2c04:
 
     # "Natsuki stands up, starts gathering up the empty dips and stuffing them into yesterday’s carrier bag."
-    ""
+    "Natsuki se levanta, coge los envases vacíos de las salsas y los mete en la bolsa de ayer."
 
 # game/game_script_act2.rpy:3303
 translate spanish game_script_act2_fa7a3338:
 
     # "Quick to step in however, I stop her."
-    ""
+    "Rápidamente la detengo."
 
 # game/game_script_act2.rpy:3305
 translate spanish game_script_act2_5e0382a8:
 
     # n b1f me "Huh?"
-    n b1f me ""
+    n b1f me "¿Qué haces?"
 
 # game/game_script_act2.rpy:3306
 translate spanish game_script_act2_db05e2f1:
 
     # mc "I’ll take care of it."
-    mc ""
+    mc "Ya me encargo yo."
 
 # game/game_script_act2.rpy:3307
 translate spanish game_script_act2_9e191340:
 
     # mc "You can get ready for bed. I’ll head up myself in a minute."
-    mc ""
+    mc "Prepárate para irte a dormir, que yo subo en un minuto."
 
 # game/game_script_act2.rpy:3308
 translate spanish game_script_act2_bb2cf764_5:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/game_script_act2.rpy:3309
 translate spanish game_script_act2_3740a549:
 
     # n mg "You sure?"
-    n mg ""
+    n mg "¿Seguro?"
 
 # game/game_script_act2.rpy:3311
 translate spanish game_script_act2_7d21daab:
 
     # mc "Yeah, I got it."
-    mc ""
+    mc "Claro, no te preocupes."
 
 # game/game_script_act2.rpy:3314
 translate spanish game_script_act2_6b29e5c5:
 
     # "Natsuki nonchalantly shrugs."
-    ""
+    "Natsuki se encoge de hombros con indiferencia."
 
 # game/game_script_act2.rpy:3316
 translate spanish game_script_act2_1e09d6d3:
 
     # n mb "Go for it."
-    n mb ""
+    n mb "Como quieras."
 
 # game/game_script_act2.rpy:3320
 translate spanish game_script_act2_c3a021c3:
 
     # "And with that, she makes her way upstairs."
-    ""
+    "Tras decir eso, sube las escaleras."
 
 # game/game_script_act2.rpy:3321
 translate spanish game_script_act2_cf78ad48:
 
     # "Taking the empty pizza box, I rip it up into parts and stuff them into the bag."
-    ""
+    "Cojo la caja de pizza vacía, la rompo en varios trozos y los meto en la bolsa."
 
 # game/game_script_act2.rpy:3338
 translate spanish game_script_act2_6b8f1eaa:

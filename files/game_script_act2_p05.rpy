@@ -1622,31 +1622,31 @@ translate spanish game_script_act2_fbdc8707:
 translate spanish game_script_act2_073f4734:
 
     # n mh "I’d thought about that for a {i}long{/i} time..."
-    n mh "Fue una de las primeras ideas que tuve, [player]..."
+    n mh "Fue una de las primeras ideas que tuve, [player]:"
 
 # game/game_script_act2.rpy:3263
 translate spanish game_script_act2_44d0b8fa:
 
     # n e1a "Running from home, and finding my way there somehow."
-    n e1a "Salir pitando de casa e ir para allá de alguna manera."
+    n e1a "salir pitando de casa e ir allí de alguna manera."
 
 # game/game_script_act2.rpy:3264
 translate spanish game_script_act2_1930c0e3:
 
     # n e4a b3c mg zz3 "But they never had a clue of what was going on, and I was scared they wouldn’t believe me."
-    n e4a b3c mg zz3 "Pero como no tienen ni idea de lo que pasa, me daba miedo que no creyesen nada de lo que les diga."
+    n e4a b3c mg zz3 "Pero como no tienen ni idea de lo que pasa, me daba miedo que no creyesen nada de lo que les contase."
 
 # game/game_script_act2.rpy:3265
 translate spanish game_script_act2_3751eb89:
 
     # n me "But obviously, being stuck with Dad, I always thought it’d be impossible."
-    n me "Aunque ya pensaba que sería imposible salir de ahí estando encerrada con papá...,"
+    n me "Y aunque pensaba que sería imposible salir de ahí estando encerrada con papá...,"
 
 # game/game_script_act2.rpy:3266
 translate spanish game_script_act2_dae8d48b:
 
     # n b2a e2a mb zz1 "...until you got me away from him."
-    n b2a e2a mb zz1 "hasta que me sacaste de allí."
+    n b2a e2a mb zz1 "¡pudiste sacarme de allí!"
 
 # game/game_script_act2.rpy:3267
 translate spanish game_script_act2_7fdb3406:
@@ -1658,7 +1658,7 @@ translate spanish game_script_act2_7fdb3406:
 translate spanish game_script_act2_07da90c5:
 
     # n b1c e2a mh "The long-term solution, y’know?"
-    n b1c e2a mh "La solución a largo plazo, digo."
+    n b1c e2a mh "Hablando del largo plazo, claro está."
 
 # game/game_script_act2.rpy:3269
 translate spanish game_script_act2_0e4158b8:

@@ -1712,7 +1712,7 @@ translate spanish game_script_act2_5e680d69:
 translate spanish game_script_act2_76568ec6:
 
     # mc "But I’ll let you stay with me for as long as you need, even after your 18th."
-    mc "pero lo que sí puedo asegurarte es que puedas quedarte aquí, incluso al pasar de los dieciocho años."
+    mc "pero lo que sí puedo asegurarte es que puedas quedarte aquí, aunque tengas más de los dieciocho."
 
 # game/game_script_act2.rpy:3289
 translate spanish game_script_act2_bb2cf764_4:

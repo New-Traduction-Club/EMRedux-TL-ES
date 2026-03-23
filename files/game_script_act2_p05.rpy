@@ -1658,7 +1658,7 @@ translate spanish game_script_act2_7fdb3406:
 translate spanish game_script_act2_07da90c5:
 
     # n b1c e2a mh "The long-term solution, y’know?"
-    n b1c e2a mh "Hablando del largo plazo, claro está."
+    n b1c e2a mh "Hablando a largo plazo, claro está."
 
 # game/game_script_act2.rpy:3269
 translate spanish game_script_act2_0e4158b8:

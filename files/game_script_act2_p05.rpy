@@ -1862,7 +1862,7 @@ translate spanish game_script_act2_582869a2:
 translate spanish game_script_act2_d926d8fa:
 
     # "Opening my eyes, I’m greeted by Natsuki hovering over me."
-    "Abro los ojos y veo a Natsuki sobre mí."
+    "Abro los ojos y veo a Natsuki flotando encima mía."
 
 # game/game_script_act2.rpy:3354
 translate spanish game_script_act2_473a34b5:
@@ -1922,7 +1922,7 @@ translate spanish game_script_act2_da3da00f:
 translate spanish game_script_act2_f7f91826:
 
     # n rdown mh b1f "Uhh...{w=0.8}like midday."
-    n rdown mh b1f "Creo que...{w=0.8} más o menos mediodía"
+    n rdown mh b1f "Creo que...{w=0.8} más o menos mediodía."
 
 # game/game_script_act2.rpy:3377
 translate spanish game_script_act2_9ab05f14:

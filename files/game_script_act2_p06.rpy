@@ -26,13 +26,13 @@ translate spanish game_script_act2_29cf4ca8:
 translate spanish game_script_act2_26aa30ab:
 
     # mc "Fancy."
-    mc "Muy cantoso."
+    mc "Vaya estilazo."
 
 # game/game_script_act2.rpy:3425
 translate spanish game_script_act2_b85b1b4b:
 
     # n e1b b1b mb ldown zzz1 "Well, I don’t wanna freeze my ass off out there."
-    n e1b b1b mb ldown zzz1 "A ver, no quiero congelarme el culo, ¿sabes?"
+    n e1b b1b mb ldown zzz1 "A ver, no me gustaría congelarme el culo."
 
 # game/game_script_act2.rpy:3426
 translate spanish game_script_act2_51ff0af7:

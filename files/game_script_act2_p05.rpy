@@ -1826,172 +1826,172 @@ translate spanish game_script_act2_c3a021c3:
 translate spanish game_script_act2_cf78ad48:
 
     # "Taking the empty pizza box, I rip it up into parts and stuff them into the bag."
-    "Cojo la caja de pizza vacía, la rompo en varios trozos y los meto en la bolsa."
+    "Cojo la caja de pizza vacía, la rompo en varios trozos y los meto en la bolsa..."
 
 # game/game_script_act2.rpy:3338
 translate spanish game_script_act2_6b8f1eaa:
 
     # n "{size=-5}Hey!{/size}"
-    n ""
+    n "{size=-5}¡Despierta!{/size}"
 
 # game/game_script_act2.rpy:3339
 translate spanish game_script_act2_c5b1b152:
 
     # n "{size=+1}Hey!!{/size}"
-    n ""
+    n "{size=+1}¡¡Despierta!!{/size}"
 
 # game/game_script_act2.rpy:3340
 translate spanish game_script_act2_d529ea6e:
 
     # n "{size=+1}Heeeeeyyyyyyy!!!{/size}"
-    n ""
+    n "{size=+1}¡¡¡Despiertaaa!!!{/size}"
 
 # game/game_script_act2.rpy:3341
 translate spanish game_script_act2_6d46b6cc:
 
     # n "Dumbass,{w=0.8} wake up!"
-    n ""
+    n "¡Despierta,{w=0.8} pedazo de idiota!"
 
 # game/game_script_act2.rpy:3342
 translate spanish game_script_act2_582869a2:
 
     # mc "Whuh..?"
-    mc ""
+    mc "Pero qué..."
 
 # game/game_script_act2.rpy:3352
 translate spanish game_script_act2_d926d8fa:
 
     # "Opening my eyes, I’m greeted by Natsuki hovering over me."
-    ""
+    "Abro los ojos y veo a Natsuki sobre mí."
 
 # game/game_script_act2.rpy:3354
 translate spanish game_script_act2_473a34b5:
 
     # mc "Wh-what's going on...?"
-    mc ""
+    mc "Pero q-qué pasa..."
 
 # game/game_script_act2.rpy:3355
 translate spanish game_script_act2_2fde8d18:
 
     # n ldown mh "The snow stuck!"
-    n ldown mh ""
+    n ldown mh "¡Que la nieve está dura!"
 
 # game/game_script_act2.rpy:3357
 translate spanish game_script_act2_ef4757ba:
 
     # mc "Huh..?"
-    mc ""
+    mc "¿Eh...?"
 
 # game/game_script_act2.rpy:3361
 translate spanish game_script_act2_2667bfcb:
 
     # mc "Oh! Really?"
-    mc ""
+    mc "¡Anda! ¿En serio?"
 
 # game/game_script_act2.rpy:3363
 translate spanish game_script_act2_43ec5abc:
 
     # n "Yeah! I haven’t gone out, but it’s really piled up."
-    n ""
+    n "¡Sí! No he ido a comprobarlo, pero se ve desde la ventana muy compacta."
 
 # game/game_script_act2.rpy:3365
 translate spanish game_script_act2_76870be1:
 
     # mc "Hmm...that's neat."
-    mc ""
+    mc "Mmm... mola."
 
 # game/game_script_act2.rpy:3366
 translate spanish game_script_act2_10777004:
 
     # n mh "Come on,{w=0.8}{nw}"
-    n mh ""
+    n mh "¡Vente,{w=0.8}{nw}"
 
 # game/game_script_act2.rpy:3368
 translate spanish game_script_act2_3f648349:
 
     # extend " let’s go check it out!"
-    extend ""
+    extend " vamos fuera!"
 
 # game/game_script_act2.rpy:3370
 translate spanish game_script_act2_da3da00f:
 
     # mc "What’s the time?"
-    mc ""
+    mc "¿Que... hora es?"
 
 # game/game_script_act2.rpy:3371
 translate spanish game_script_act2_f7f91826:
 
     # n rdown mh b1f "Uhh...{w=0.8}like midday."
-    n rdown mh b1f ""
+    n rdown mh b1f "Creo que...{w=0.8} más o menos mediodía"
 
 # game/game_script_act2.rpy:3377
 translate spanish game_script_act2_9ab05f14:
 
     # mc "Mm, just give me five..."
-    mc ""
+    mc "Genial, solo cinco minutitos más..."
 
 # game/game_script_act2.rpy:3378
 translate spanish game_script_act2_e3ec6ad2:
 
     # n "God, you’re a really heavy sleeper."
-    n ""
+    n "Dios santo, ¡te pesa mucho el sueño!"
 
 # game/game_script_act2.rpy:3379
 translate spanish game_script_act2_7fbe719d:
 
     # n "No way you’re just gonna sleep for another three hours."
-    n ""
+    n "No te vas a pegar durmiendo tres horas más ni de coña."
 
 # game/game_script_act2.rpy:3380
 translate spanish game_script_act2_64df8dc6:
 
     # n "Come on!"
-    n ""
+    n "¡Levanta el culo ya!"
 
 # game/game_script_act2.rpy:3388
 translate spanish game_script_act2_3b30c610:
 
     # "I wrench my eyes back open."
-    ""
+    "Me fuerzo a abrir los ojos."
 
 # game/game_script_act2.rpy:3391
 translate spanish game_script_act2_e65657c9:
 
     # mc "Fine, fine..."
-    mc ""
+    mc "Que sí, que sí..."
 
 # game/game_script_act2.rpy:3392
 translate spanish game_script_act2_aa52e425:
 
     # mc "Just, get out a sec."
-    mc ""
+    mc "Pero salte un momento."
 
 # game/game_script_act2.rpy:3393
 translate spanish game_script_act2_aeb17056:
 
     # mc "I’m not...{w=0.8}too decent under here."
-    mc ""
+    mc "No estoy muy...{w=0.8} presentable ahí abajo."
 
 # game/game_script_act2.rpy:3397
 translate spanish game_script_act2_20bf5176:
 
     # n "Ew."
-    n ""
+    n "Puaj."
 
 # game/game_script_act2.rpy:3399
 translate spanish game_script_act2_2d1a8525:
 
     # n e1b b1a mh zzz1 "I’ll be out in the hall."
-    n e1b b1a mh zzz1 ""
+    n e1b b1a mh zzz1 "Pues me voy al pasillo."
 
 # game/game_script_act2.rpy:3407
 translate spanish game_script_act2_19826a6b:
 
     # "She disappears."
-    ""
+    "Se esfuma."
 
 # game/game_script_act2.rpy:3408
 translate spanish game_script_act2_47f914b1:
 
     # "Slipping out from under my sheets, I immediately rush to the wardrobe to put a shirt and some pants on."
-    ""
+    "Deslizándome bajo las sábanas, corro al armario para ponerme una camisa y unos pantalones."

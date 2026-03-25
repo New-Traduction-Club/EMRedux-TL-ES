@@ -2,61 +2,61 @@
 translate spanish game_script_act2_8b092305:
 
     # "I slip my shoes on as I exit into the hall."
-    ""
+    "Me pongo los zapatos y salgo de mi cuarto."
 
 # game/game_script_act2.rpy:3414
 translate spanish game_script_act2_c2d71af3:
 
     # "Natsuki’s gone. I assume she’s headed into the spare room."
-    ""
+    "No veo a Natsuki. Imagino que se habrá ido a la habitación de invitados."
 
 # game/game_script_act2.rpy:3415
 translate spanish game_script_act2_e3172efc:
 
     # "I idle outside for a moment, and sure enough she appears."
-    ""
+    "Me quedo en el pasillo un rato y, de repente, aparece."
 
 # game/game_script_act2.rpy:3423
 translate spanish game_script_act2_29cf4ca8:
 
     # mc "Hm!"
-    mc ""
+    mc "¡Ajá!"
 
 # game/game_script_act2.rpy:3424
 translate spanish game_script_act2_26aa30ab:
 
     # mc "Fancy."
-    mc ""
+    mc "Muy cantoso."
 
 # game/game_script_act2.rpy:3425
 translate spanish game_script_act2_b85b1b4b:
 
     # n e1b b1b mb ldown zzz1 "Well, I don’t wanna freeze my ass off out there."
-    n e1b b1b mb ldown zzz1 ""
+    n e1b b1b mb ldown zzz1 "A ver, no quiero congelarme el culo, ¿sabes?"
 
 # game/game_script_act2.rpy:3426
 translate spanish game_script_act2_51ff0af7:
 
     # n e1a b1a "You’ll need one too."
-    n e1a b1a ""
+    n e1a b1a "Coge uno tú también."
 
 # game/game_script_act2.rpy:3428
 translate spanish game_script_act2_724985db:
 
     # mc "I’ll grab my coat on the way out."
-    mc ""
+    mc "Cuando salgamos a la calle."
 
 # game/game_script_act2.rpy:3433
 translate spanish game_script_act2_0fd13d85:
 
     # "I rub the sleep from my eyes, yawning in succession."
-    ""
+    "Me quito las legañas de los ojos y bostezo."
 
 # game/game_script_act2.rpy:3437
 translate spanish game_script_act2_56536552:
 
     # "As we both head downstairs, I get my first look at it through the window."
-    ""
+    "Al bajar, miro por la ventana."
 
 # game/game_script_act2.rpy:3438
 translate spanish game_script_act2_932f5bb9:

@@ -62,139 +62,139 @@ translate spanish game_script_act2_56536552:
 translate spanish game_script_act2_932f5bb9:
 
     # "Mounds of snow piled up all across the street, decorating the shrubbery..."
-    ""
+    "Montones y montones de nieve apilados por toda la calle, decorando los arbustos..."
 
 # game/game_script_act2.rpy:3439
 translate spanish game_script_act2_e3396b70:
 
     # "It’s honestly beautiful."
-    ""
+    "Siendo honestos, son unas vistas preciosas."
 
 # game/game_script_act2.rpy:3440
 translate spanish game_script_act2_8791d651:
 
     # "For once in my life, I actually want to leave my own home."
-    ""
+    "Por primera vez, tengo ganas de salir de casa."
 
 # game/game_script_act2.rpy:3443
 translate spanish game_script_act2_013a6253:
 
     # mc "Oh, wow."
-    mc ""
+    mc "Pero mira..."
 
 # game/game_script_act2.rpy:3447
 translate spanish game_script_act2_96a59a04:
 
     # n "I know, right?"
-    n ""
+    n "¿A que es bonito?"
 
 # game/game_script_act2.rpy:3448
 translate spanish game_script_act2_c22ec122:
 
     # n mc "So, wanna check it out?"
-    n mc ""
+    n mc "¿Quieres salir y comprobarlo?"
 
 # game/game_script_act2.rpy:3450
 translate spanish game_script_act2_b6fda155:
 
     # mc "‘Course I do."
-    mc ""
+    mc "Y tanto."
 
 # game/game_script_act2.rpy:3452
 translate spanish game_script_act2_9104417f:
 
     # "I pull a random jacket from the coathanger,{w=0.8}{nw}"
-    ""
+    "Me pongo la primera chaqueta que veo en el perchero{w=0.8}{nw}"
 
 # game/game_script_act2.rpy:3454
 translate spanish game_script_act2_ae001574:
 
     # extend " before following her out the front door."
-    extend ""
+    extend " y sigo a Natsuki hasta la puerta de entrada."
 
 # game/game_script_act2.rpy:3470
 translate spanish game_script_act2_7d26721e:
 
     # "As expected, I’m immediately hit by a gust of chilling wind, but I savour the moment."
-    ""
+    "Como era de esperar, me impacta una fría ráfaga de viento... que no me impide disfrutar el momento."
 
 # game/game_script_act2.rpy:3471
 translate spanish game_script_act2_71dc13ad:
 
     # "Trudging through the snow towards the middle of the road, I look off to the end of the street."
-    ""
+    "Difícilmente avanzando por la nieve hasta el centro de la carretera, miro hacia el final de la calle."
 
 # game/game_script_act2.rpy:3472
 translate spanish game_script_act2_52d37847:
 
     # "The snow seems to rage on endlessly."
-    ""
+    "La nieve no tiene fin."
 
 # game/game_script_act2.rpy:3473
 translate spanish game_script_act2_35a97e8b:
 
     # "I start to shiver almost immediately."
-    ""
+    "Casi al momento, empiezo a temblar."
 
 # game/game_script_act2.rpy:3474
 translate spanish game_script_act2_74918e8b:
 
     # "I should probably have worn a couple more layers of clothing..."
-    ""
+    "Creo que ir un poco más abrigado no iría mal..."
 
 # game/game_script_act2.rpy:3475
 translate spanish game_script_act2_8e4d178f:
 
     # "But from behind me, I hear the scrape of snow being mound together."
-    ""
+    "Tras de mí, oigo la nieve de raspar y amontonarse."
 
 # game/game_script_act2.rpy:3476
 translate spanish game_script_act2_bbfb6a49:
 
     # "If this is her idea of 'when I least expect it'..."
-    ""
+    "Si creo que es lo que creo que es, me he coscado."
 
 # game/game_script_act2.rpy:3477
 translate spanish game_script_act2_73c34a70:
 
     # "Turning around, I veer to the right and narrowly dodge the snowball as it whizzes past my head."
-    ""
+    "Me doy la vuelta, me inclino hacia la derecha y consigo esquivar una bola de nieve que casi raspa mi cabeza."
 
 # game/game_script_act2.rpy:3481
 translate spanish game_script_act2_23f7449b:
 
     # n "{size=-5}Damnit!{/size}"
-    n ""
+    n "{size=-5}¡Aish, mierda!{/size}"
 
 # game/game_script_act2.rpy:3483
 translate spanish game_script_act2_041b21b0:
 
     # mc "Nice try."
-    mc ""
+    mc "Casi, pero no."
 
 # game/game_script_act2.rpy:3484
 translate spanish game_script_act2_fb4b0291:
 
     # mc "{i}You thought I wouldn’t expect that?{/i}"
-    mc ""
+    mc "¿Te creías que no me iba a coscar?"
 
 # game/game_script_act2.rpy:3486
 translate spanish game_script_act2_0cf71208:
 
     # "My attempt at posturing comes off like..."
-    ""
+    "Este intento de chulería me hace ver como un..."
 
 # game/game_script_act2.rpy:3489
 translate spanish game_script_act2_d76e64d9:
 
     # n e1a b1d mi zzz1 ldown "Showoff!"
-    n e1a b1d mi zzz1 ldown ""
+    n e1a b1d mi zzz1 ldown "¡Vacilón!"
 
 # game/game_script_act2.rpy:3491
 translate spanish game_script_act2_80e54e1b:
 
     # "Yeah,{w=0.6} like that."
-    ""
+    "Ah, sí.{w=0.6} Eso mismo."
 
 # game/game_script_act2.rpy:3495
 translate spanish game_script_act2_234a9111:

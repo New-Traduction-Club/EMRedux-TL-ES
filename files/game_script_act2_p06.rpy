@@ -770,7 +770,7 @@ translate spanish game_script_act2_886473ff:
 translate spanish game_script_act2_8787153c:
 
     # "Without a word, Natsuki seems to take charge of the walk and steers us right, up an alleyway wedged between two houses."
-    "Sin mediar palabra, Natsuki gira hacia la derecha y se mete por un callejón. Yo la sigo."
+    "Sin mediar palabra, Natsuki gira hacia la derecha y se mete por un callejón. La sigo."
 
 # game/game_script_act2.rpy:3714
 translate spanish game_script_act2_5c54fcc6:

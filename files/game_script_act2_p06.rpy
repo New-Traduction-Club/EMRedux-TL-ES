@@ -818,205 +818,205 @@ translate spanish game_script_act2_943e381a:
 translate spanish game_script_act2_36340650:
 
     # mc "Huh...?"
-    mc ""
+    mc "¿Eh...?"
 
 # game/game_script_act2.rpy:3729
 translate spanish game_script_act2_c5fbb3dc:
 
     # "Out of nowhere, the creaking of a swingset cuts through the howling wind."
-    ""
+    "De la nada, se escucha el crujido de un columpio entre el viento."
 
 # game/game_script_act2.rpy:3730
 translate spanish game_script_act2_836c10f5:
 
     # "I take a left. Natsuki follows."
-    ""
+    "Voy hacia la izquierda y Natsuki me sigue."
 
 # game/game_script_act2.rpy:3741
 translate spanish game_script_act2_6f79f831:
 
     # mc "Oh, hey, over there."
-    mc ""
+    mc "Mira, por aquí."
 
 # game/game_script_act2.rpy:3742
 translate spanish game_script_act2_e14acc12:
 
     # n b1c mg "What, the snowman?"
-    n b1c mg ""
+    n b1c mg "¿Qué pasa? ¿Te refieres al muñequito de nieve?"
 
 # game/game_script_act2.rpy:3744
 translate spanish game_script_act2_b8ae55a1:
 
     # mc "No...the playground."
-    mc ""
+    mc "Eh, no. Me refería al parque."
 
 # game/game_script_act2.rpy:3745
 translate spanish game_script_act2_9e682f58:
 
     # n b1f mh "What about it?"
-    n b1f mh ""
+    n b1f mh "¿Qué le pasa al parque?"
 
 # game/game_script_act2.rpy:3747
 translate spanish game_script_act2_f5903828:
 
     # mc "Yuri pointed it out to me a few days ago, and I remembered it."
-    mc ""
+    mc "Hace unos días me lo enseñó Yuri y me acabo de acordar."
 
 # game/game_script_act2.rpy:3748
 translate spanish game_script_act2_afed65ca:
 
     # mc "I don't know, it's kinda...{nw}"
-    mc ""
+    mc "No sé, siento...{nw}"
 
 # game/game_script_act2.rpy:3750
 translate spanish game_script_act2_16c2af4b:
 
     # extend "nostalgic."
-    extend ""
+    extend " nostalgia."
 
 # game/game_script_act2.rpy:3751
 translate spanish game_script_act2_d23cd6c0:
 
     # n b1f e1d mg "Let me guess...{w=0.5}{nw}"
-    n b1f e1d mg ""
+    n b1f e1d mg "La pregunta del millón...{w=0.5} {nw}"
 
 # game/game_script_act2.rpy:3753
 translate spanish game_script_act2_d45bc816:
 
     # extend "you and Sayori used to come here as kids?"
-    extend ""
+    extend "¿ibas aquí con Sayori cuando eras un enano?"
 
 # game/game_script_act2.rpy:3755
 translate spanish game_script_act2_1dd3d855:
 
     # mc "I reminisce too much, don’t I?"
-    mc ""
+    mc "Me pongo muy pesado, ¿no?"
 
 # game/game_script_act2.rpy:3756
 translate spanish game_script_act2_a6095389:
 
     # n e1a b1c mi "Hey, I never said it was a bad thing!"
-    n e1a b1c mi ""
+    n e1a b1c mi "¡No, no! ¡No he dicho nada de eso!"
 
 # game/game_script_act2.rpy:3759
 translate spanish game_script_act2_ea3e9df3:
 
     # "Natsuki walks up to one of the swings, grabbing the chain to slow it to a crawl."
-    ""
+    "Natsuki se acerca a uno de los columpios y coge una de las cadenas para pararlo."
 
 # game/game_script_act2.rpy:3761
 translate spanish game_script_act2_e29d80ea:
 
     # n mg "Hell, I know this place too."
-    n mg ""
+    n mg "Si yo también tengo mis recuerdos aquí, leñe."
 
 # game/game_script_act2.rpy:3762
 translate spanish game_script_act2_f0493ab4:
 
     # n e1b mh "I can’t say Dad was the one who took me here, but yeah, I’ve been."
-    n e1b mh ""
+    n e1b mh "No es que papá haya sido el causante, pero sí: he estado aquí."
 
 # game/game_script_act2.rpy:3764
 translate spanish game_script_act2_ad1eaa57:
 
     # mc "Huh."
-    mc ""
+    mc "Ajá."
 
 # game/game_script_act2.rpy:3765
 translate spanish game_script_act2_7fd75169:
 
     # mc "Who knows, maybe we’ve run into each other before?"
-    mc ""
+    mc "Quién sabe, puede que nos hayamos encontrado de peques."
 
 # game/game_script_act2.rpy:3766
 translate spanish game_script_act2_fd2305cc:
 
     # n e1a b2a mb "Hah, I doubt it."
-    n e1a b2a mb ""
+    n e1a b2a mb "Ja, ja, ja. No lo creo."
 
 # game/game_script_act2.rpy:3767
 translate spanish game_script_act2_ea8b8058:
 
     # n e4a b3b rhip lhip zzz3 "‘Cause if I had, I probably would’ve shoved you off the swings."
-    n e4a b3b rhip lhip zzz3 ""
+    n e4a b3b rhip lhip zzz3 "Porque si fuese así... ya te hubiera echado de los columpios."
 
 # game/game_script_act2.rpy:3769
 translate spanish game_script_act2_f4420366:
 
     # mc "That sounds about right."
-    mc ""
+    mc "Te pega mucho."
 
 # game/game_script_act2.rpy:3770
 translate spanish game_script_act2_e2d50b1f:
 
     # mc "There's that, then there's the cars..."
-    mc ""
+    mc "Entre esto y los coches...,"
 
 # game/game_script_act2.rpy:3772
 translate spanish game_script_act2_b58d1418:
 
     # mc "You were an asshole, I was a pushover."
-    mc ""
+    mc "tú eras gilipollas y yo un muerto de hambre."
 
 # game/game_script_act2.rpy:3774
 translate spanish game_script_act2_43d7248c:
 
     # mc "It’s like it was meant to be."
-    mc ""
+    mc "Así estaba escrito."
 
 # game/game_script_act2.rpy:3783
 translate spanish game_script_act2_db6f93d5:
 
     # "Natsuki hits my arm while laughing."
-    ""
+    "Natsuki me pega en el brazo mientras se ríe."
 
 # game/game_script_act2.rpy:3785
 translate spanish game_script_act2_5099983c:
 
     # "I flinch back and she loses her balance."
-    ""
+    "Me achanto y pierde la estabilidad."
 
 # game/game_script_act2.rpy:3787
 translate spanish game_script_act2_c0538db2:
 
     # mc "Hey, watch it!"
-    mc ""
+    mc "¡Oye, ten cuidado!"
 
 # game/game_script_act2.rpy:3788
 translate spanish game_script_act2_22f6a946:
 
     # n b1f mg rdown "Watch what?"
-    n b1f mg rdown ""
+    n b1f mg rdown "¿Cuidado de qué?"
 
 # game/game_script_act2.rpy:3790
 translate spanish game_script_act2_60cece1a:
 
     # mc "You know this shoulder still kills."
-    mc ""
+    mc "Que aún me duele el hombro."
 
 # game/game_script_act2.rpy:3791
 translate spanish game_script_act2_3aa9934b:
 
     # n mg "Oh...oh yeah..."
-    n mg ""
+    n mg "A-Ah, sí, ya..."
 
 # game/game_script_act2.rpy:3793
 translate spanish game_script_act2_7eebca7e:
 
     # mc "It's fine, just...{w}go for the other arm next time you do your funny 'hit [player] whenever he says something mean' bit."
-    mc ""
+    mc "No pasa nada, pero...{w} dale al otro brazo cuando te dé por 'pegar a [player] cada vez que dice algo que me moleste', ¿vale?"
 
 # game/game_script_act2.rpy:3794
 translate spanish game_script_act2_861400e3:
 
     # n mg "...When you put it like that, it doesn’t sound so nice."
-    n mg ""
+    n mg "Si lo dices así, suena de todo menos bueno..."
 
 # game/game_script_act2.rpy:3795
 translate spanish game_script_act2_8748ff0e:
 
     # n e1a mh "Sorry."
-    n e1a mh ""
+    n e1a mh "Perdona."
 
 # game/game_script_act2.rpy:3798
 translate spanish game_script_act2_b6be63d6:

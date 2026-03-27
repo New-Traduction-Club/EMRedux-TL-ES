@@ -614,49 +614,49 @@ translate spanish game_script_act2_7e00e9ab:
 translate spanish game_script_act2_ab433a9b:
 
     # mc "I’ll be ready in a moment."
-    mc "estaré listo en un momento."
+    mc "no tardaré mucho."
 
 # game/game_script_act2.rpy:3628
 translate spanish game_script_act2_4dc16fe5:
 
     # "Shirt,{w=0.6} hoodie,{w=0.6} coat."
-    ""
+    "Camisa,{w=0.6} sudadera con capucha,{w=0.6} chaqueta..."
 
 # game/game_script_act2.rpy:3629
 translate spanish game_script_act2_b82ceed2:
 
     # "I hope the jeans will be enough."
-    ""
+    "Espero no necesitar más que unos vaqueros."
 
 # game/game_script_act2.rpy:3634
 translate spanish game_script_act2_9bfdd8e0:
 
     # "Idling at the front door, I see Natsuki heading down the stairs."
-    ""
+    "Yendo a la puerta de entrada, veo a Natsuki bajando las escaleras."
 
 # game/game_script_act2.rpy:3636
 translate spanish game_script_act2_037b77db:
 
     # mc "You look cozy."
-    mc ""
+    mc "Qué cómoda vas tú, ¿no?"
 
 # game/game_script_act2.rpy:3637
 translate spanish game_script_act2_3d3aa8ed:
 
     # n rhip b1a mb "You look like a survivalist."
-    n rhip b1a mb ""
+    n rhip b1a mb "Mejor eso a parecer un superviviente."
 
 # game/game_script_act2.rpy:3639
 translate spanish game_script_act2_d5ce3d6c:
 
     # mc "Funny. You good to go?"
-    mc ""
+    mc "Muy graciosa. ¿Estás lista?"
 
 # game/game_script_act2.rpy:3641
 translate spanish game_script_act2_2fe1bf98_1:
 
     # n "Yeah."
-    n ""
+    n "Sí."
 
 # game/game_script_act2.rpy:3644
 translate spanish game_script_act2_ef7cb72b:

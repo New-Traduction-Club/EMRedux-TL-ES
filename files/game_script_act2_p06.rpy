@@ -1022,139 +1022,139 @@ translate spanish game_script_act2_8748ff0e:
 translate spanish game_script_act2_b6be63d6:
 
     # mc "So...where to?"
-    mc ""
+    mc "En fin... ¿dónde vamos?"
 
 # game/game_script_act2.rpy:3799
 translate spanish game_script_act2_45e313fa:
 
     # n b1c mg "Uhh...I guess we keep walking and find out."
-    n b1c mg ""
+    n b1c mg "Pues... no sé, sigamos andando y ya pensaremos en algo."
 
 # game/game_script_act2.rpy:3801
 translate spanish game_script_act2_0627dd74:
 
     # mc "Well, lead the way."
-    mc ""
+    mc "Genial, tú primera."
 
 # game/game_script_act2.rpy:3812
 translate spanish game_script_act2_6b3b85dc:
 
     # "She does a little {nw}"
-    ""
+    "Natsuki {nw}"
 
 # game/game_script_act2.rpy:3814
 translate spanish game_script_act2_bfbbb983:
 
     # extend "leap back onto the pavement, continuing along the path."
-    extend ""
+    extend "salta hacia la carretera y seguimos nuestra marcha."
 
 # game/game_script_act2.rpy:3816
 translate spanish game_script_act2_7622a856:
 
     # "She starts walking on her tiptoes, just to shovel snow off the roof of an SUV that’s just a little too tall for her."
-    ""
+    "Se pone de cuclillas para intentar quitarle la nieve al capó de una camioneta, ya que es bastante alta para ella."
 
 # game/game_script_act2.rpy:3817
 translate spanish game_script_act2_9801f819:
 
     # "I catch up to her, nearly slipping on the icy step."
-    ""
+    "La alcanzo y casi me resbalo por la nieve."
 
 # game/game_script_act2.rpy:3819
 translate spanish game_script_act2_a98d3e47:
 
     # "However, I manage to right myself just as Natsuki turns to me."
-    ""
+    "De todas maneras, consigo enderezarme para cuando Natsuki me mira."
 
 # game/game_script_act2.rpy:3821
 translate spanish game_script_act2_c357e319:
 
     # n b1a e1d mb lhip "Smooth."
-    n b1a e1d mb lhip ""
+    n b1a e1d mb lhip "Muy suave."
 
 # game/game_script_act2.rpy:3823
 translate spanish game_script_act2_f46d8ec3:
 
     # mc "You know me, smoother than a baby's butt."
-    mc ""
+    mc "Ya me conoces, suave como el culito de un recién nacido."
 
 # game/game_script_act2.rpy:3824
 translate spanish game_script_act2_2385e083:
 
     # n b1d e1a ml "I-..."
-    n b1d e1a ml ""
+    n b1d e1a ml "E..."
 
 # game/game_script_act2.rpy:3825
 translate spanish game_script_act2_cfed444e:
 
     # n b1a mg "You know what?"
-    n b1a mg ""
+    n b1a mg "Mira, ¿sabes qué?"
 
 # game/game_script_act2.rpy:3826
 translate spanish game_script_act2_3c1f7da8:
 
     # n rhip mb "I'll just let that one go."
-    n rhip mb ""
+    n rhip mb "Esa te la paso."
 
 # game/game_script_act2.rpy:3828
 translate spanish game_script_act2_c63579b7:
 
     # mc "It's better that way. I'm pretty sure whatever snarky comeback you say would probably be worse."
-    mc ""
+    mc "Mejor así. Estoy seguro de que cualquier respuesta sarcástica que digas va a sonar peor."
 
 # game/game_script_act2.rpy:3829
 translate spanish game_script_act2_a2d65251:
 
     # n rdown b1a mb "You're such a loser."
-    n rdown b1a mb ""
+    n rdown b1a mb "Eres un inútil."
 
 # game/game_script_act2.rpy:3831
 translate spanish game_script_act2_d356b921:
 
     # mc "And here you are with me."
-    mc ""
+    mc "Pues aquí estás con el inútil."
 
 # game/game_script_act2.rpy:3832
 translate spanish game_script_act2_d0bb746b:
 
     # mc "What would that make you?{w=0.4} {nw}"
-    mc ""
+    mc "¿No te haría...{w=0.4} {nw}"
 
 # game/game_script_act2.rpy:3834
 translate spanish game_script_act2_8c5cb13c:
 
     # extend "Loser by extension?"
-    extend ""
+    extend "ser una inútil como yo?"
 
 # game/game_script_act2.rpy:3836
 translate spanish game_script_act2_5ca09ffd:
 
     # mc "Honourary loser?"
-    mc ""
+    mc "¿Inútil de época?"
 
 # game/game_script_act2.rpy:3837
 translate spanish game_script_act2_c2a856ea:
 
     # n mc "Shut up!"
-    n mc ""
+    n mc "¡Que te calles!"
 
 # game/game_script_act2.rpy:3839
 translate spanish game_script_act2_cc5da73c:
 
     # mc "...Loser Lite?"
-    mc ""
+    mc "¿Inútil en miniatura...?"
 
 # game/game_script_act2.rpy:3850
 translate spanish game_script_act2_e9b77931:
 
     # n mb "Oh my God."
-    n mb ""
+    n mb "Dios santo..."
 
 # game/game_script_act2.rpy:3852
 translate spanish game_script_act2_d578156d:
 
     # mc "Okay okay, I'll stop."
-    mc ""
+    mc "Vale, vale, ya paro."
 
 # game/game_script_act2.rpy:3854
 translate spanish game_script_act2_6640c001:

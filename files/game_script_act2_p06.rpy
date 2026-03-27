@@ -284,7 +284,7 @@ translate spanish game_script_act2_9153c51b:
 translate spanish game_script_act2_771b0764:
 
     # n "We should."
-    n "Eso mismo."
+    n "Exactamente."
 
 # game/game_script_act2.rpy:3518
 translate spanish game_script_act2_184c5fcb:

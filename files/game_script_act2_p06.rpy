@@ -812,7 +812,7 @@ translate spanish game_script_act2_7f6ac819:
 translate spanish game_script_act2_943e381a:
 
     # n b1a ldown mg "Dick."
-    n b1a ldown mg ""
+    n b1a ldown mg "Imbécil."
 
 # game/game_script_act2.rpy:3726
 translate spanish game_script_act2_36340650:

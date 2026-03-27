@@ -542,7 +542,7 @@ translate spanish game_script_act2_62296893:
 translate spanish game_script_act2_2d93affc:
 
     # n e1b mh "{size=-5}Well, not quite...{/size}"
-    n e1b mh "{size=-5}O quizás no...{/size}""
+    n e1b mh "{size=-5}O quizás no...{/size}"
 
 # game/game_script_act2.rpy:3598
 translate spanish game_script_act2_1e18f034:

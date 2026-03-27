@@ -236,7 +236,7 @@ translate spanish game_script_act2_8f4b5bc8:
 translate spanish game_script_act2_9fb805c7:
 
     # mc "I'd like to see you try."
-    mc "Ya te gustaría."
+    mc "Más quisieras tú."
 
 # game/game_script_act2.rpy:3506
 translate spanish game_script_act2_49b9f733:

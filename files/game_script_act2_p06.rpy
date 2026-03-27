@@ -266,7 +266,7 @@ translate spanish game_script_act2_8e6e9f72:
 translate spanish game_script_act2_2bdbe12b:
 
     # mc "I’m certainly not complaining, we’d be stupid not to take advantage of the weather."
-    mc "Siéndote sincero, no me quejo. Pobre del que esté en casa y no aproveche el tiempo que hace..."
+    mc "Siéndote sincero, no me quejo. Pobre del que esté encerrado en casa y no aproveche el tiempo que hace..."
 
 # game/game_script_act2.rpy:3514
 translate spanish game_script_act2_fe7b9b5c:

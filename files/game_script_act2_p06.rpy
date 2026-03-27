@@ -662,151 +662,151 @@ translate spanish game_script_act2_2fe1bf98_1:
 translate spanish game_script_act2_ef7cb72b:
 
     # "We take our leave."
-    ""
+    "Nos vamos."
 
 # game/game_script_act2.rpy:3670
 translate spanish game_script_act2_0ea15733:
 
     # "Entering into the street, I try to decide on a direction."
-    ""
+    "Ya en la calle, debato por la dirección que tomar."
 
 # game/game_script_act2.rpy:3673
 translate spanish game_script_act2_242e88b1:
 
     # mc "Which way d'you wanna go?"
-    mc ""
+    mc "¿Por dónde quieres ir?"
 
 # game/game_script_act2.rpy:3676
 translate spanish game_script_act2_b771bff2:
 
     # "Natsuki starts waving her hand back and forth."
-    ""
+    "Natsuki empieza a mover la mano de un lado a otro."
 
 # game/game_script_act2.rpy:3678
 translate spanish game_script_act2_d6d4ce27:
 
     # n b1f e1b mg "Eeny{w=-0.5} {nw}"
-    n b1f e1b mg ""
+    n b1f e1b mg "Pito{w=-0.5} {nw}"
 
 # game/game_script_act2.rpy:3680
 translate spanish game_script_act2_abe9e871:
 
     # extend "meeny{w=-0.5} {nw}"
-    extend ""
+    extend "pito{w=-0.5} {nw}"
 
 # game/game_script_act2.rpy:3682
 translate spanish game_script_act2_8becb9e6:
 
     # extend "miny{w=-0.5} {nw}"
-    extend ""
+    extend "gorgo{w=-0.5}{nw}"
 
 # game/game_script_act2.rpy:3684
 translate spanish game_script_act2_4cae4391:
 
     # extend "mo..."
-    extend ""
+    extend "rito..."
 
 # game/game_script_act2.rpy:3685
 translate spanish game_script_act2_04159b1e:
 
     # n rhip me "{i}Something something something...{/i}"
-    n rhip me ""
+    n rhip me "No sé qué, no sé cuántos..."
 
 # game/game_script_act2.rpy:3686
 translate spanish game_script_act2_4f18f241:
 
     # n e4a b3c zzz3 mf "Uhh..."
-    n e4a b3c zzz3 mf ""
+    n e4a b3c zzz3 mf "Eh..."
 
 # game/game_script_act2.rpy:3687
 translate spanish game_script_act2_3152bfd2:
 
     # n rdown ldown mh b1a e1a zzz1 "Oh, forget it. That way."
-    n rdown ldown mh b1a e1a zzz1 ""
+    n rdown ldown mh b1a e1a zzz1 "¡Ay, da igual! Por ahí mismo."
 
 # game/game_script_act2.rpy:3689
 translate spanish game_script_act2_f0c54518_1:
 
     # mc "Gotcha."
-    mc ""
+    mc "De fábula."
 
 # game/game_script_act2.rpy:3693
 translate spanish game_script_act2_9ee4423f:
 
     # "I follow her lead as she hooks a left, strolling down the sidewalk."
-    ""
+    "La sigo mientras va por la izquierda."
 
 # game/game_script_act2.rpy:3702
 translate spanish game_script_act2_25850ffb:
 
     # "Before long, I catch up and begin walking parallel to her."
-    ""
+    "En poco tiempo, ya estoy andando en paralelo a ella."
 
 # game/game_script_act2.rpy:3704
 translate spanish game_script_act2_38c38a2d:
 
     # "She’s absentmindedly holding her arm out, shovelling snow off the hoods of the parked cars we pass."
-    ""
+    "Va con el brazo extendido, tirando la nieve de los capós de los coches aparcados."
 
 # game/game_script_act2.rpy:3706
 translate spanish game_script_act2_f00bbe82:
 
     # mc "Bored already?"
-    mc ""
+    mc "¿Ya te aburres?"
 
 # game/game_script_act2.rpy:3708
 translate spanish game_script_act2_1c95f8ad:
 
     # n e1a me "Huh?"
-    n e1a me ""
+    n e1a me "¿Qué?"
 
 # game/game_script_act2.rpy:3709
 translate spanish game_script_act2_886473ff:
 
     # n mg "Ohh...dunno, wasn’t really thinking."
-    n mg ""
+    n mg "Ah, no sé... tenía la mente en blanco."
 
 # game/game_script_act2.rpy:3712
 translate spanish game_script_act2_8787153c:
 
     # "Without a word, Natsuki seems to take charge of the walk and steers us right, up an alleyway wedged between two houses."
-    ""
+    "Sin mediar palabra, Natsuki gira hacia la derecha y se mete por un callejón. Yo la sigo."
 
 # game/game_script_act2.rpy:3714
 translate spanish game_script_act2_5c54fcc6:
 
     # mc "I take it you have no idea where we're headed."
-    mc ""
+    mc "Supongo que no sabes dónde vamos."
 
 # game/game_script_act2.rpy:3715
 translate spanish game_script_act2_02c7aaf6:
 
     # n rhip b3c e4b mb zzz2 "Nope!"
-    n rhip b3c e4b mb zzz2 ""
+    n rhip b3c e4b mb zzz2 "¡Pues no!"
 
 # game/game_script_act2.rpy:3717
 translate spanish game_script_act2_80742264:
 
     # mc "Well, I guess we’ll see where the wind takes us."
-    mc ""
+    mc "Pues nada, vamos donde el viento nos lleve."
 
 # game/game_script_act2.rpy:3718
 translate spanish game_script_act2_0af2509f:
 
     # n lhip e1a b1c mh zzz1 "Literally. I feel like the wind’s gonna sweep me off my feet."
-    n lhip e1a b1c mh zzz1 ""
+    n lhip e1a b1c mh zzz1 "Literalmente. Voy donde el viento me empuja."
 
 # game/game_script_act2.rpy:3720
 translate spanish game_script_act2_da0cffd3:
 
     # mc "I can make those arrangements for you."
-    mc ""
+    mc "Pues puedo hacerte esos empujes sin viento."
 
 # game/game_script_act2.rpy:3721
 translate spanish game_script_act2_7f6ac819:
 
     # n b1d e1d mh "And I can make your funeral arrangements."
-    n b1d e1d mh ""
+    n b1d e1d mh "Y yo puedo empujarte a tu funeral."
 
 # game/game_script_act2.rpy:3722
 translate spanish game_script_act2_943e381a:

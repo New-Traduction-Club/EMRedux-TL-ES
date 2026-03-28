@@ -1796,7 +1796,7 @@ translate spanish game_script_act2_a6779843:
 translate spanish game_script_act2_2be3c936:
 
     # "Her face tilts away slowly."
-    "Su cabeza gira lentamente."
+    "Su cabeza se inclina lentamente."
 
 # game/game_script_act2.rpy:4107
 translate spanish game_script_act2_38a787c9:

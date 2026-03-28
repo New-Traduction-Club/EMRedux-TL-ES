@@ -1160,103 +1160,103 @@ translate spanish game_script_act2_d578156d:
 translate spanish game_script_act2_6640c001:
 
     # "We carry on walking along the path."
-    ""
+    "Seguimos andando por el mismo camino."
 
 # game/game_script_act2.rpy:3855
 translate spanish game_script_act2_65cd9aaf:
 
     # "So far, so cold."
-    ""
+    "Hace un frío que pela..."
 
 # game/game_script_act2.rpy:3858
 translate spanish game_script_act2_a014f926:
 
     # "I feel a gust of freezing wind happen upon us, throwing me off guard."
-    ""
+    "Una ráfaga de viento me impacta y me pilla desprevenido."
 
 # game/game_script_act2.rpy:3860
 translate spanish game_script_act2_a83ad246:
 
     # "We try to brave it out, maintaining our brisk pace."
-    ""
+    "Tratamos de aguantar lo máximo posible manteniendo el mismo ritmo al andar."
 
 # game/game_script_act2.rpy:3862
 translate spanish game_script_act2_87401ecf:
 
     # "The cold breeze starts picking up, attacking us directly."
-    ""
+    "Aunque la fría ventolera está empezando a intensificarse, atacándonos directamente."
 
 # game/game_script_act2.rpy:3864
 translate spanish game_script_act2_86c125c8:
 
     # "I see Natsuki shiver in her boots, her body tightening up trying to stave off the cold."
-    ""
+    "Veo a Natsuki tiritando y tratando de endurecer el cuerpo para apaciguar el frío."
 
 # game/game_script_act2.rpy:3865
 translate spanish game_script_act2_13e4c61c:
 
     # "I'm not faring much better as I start rubbing my arms, attempting to maintain an illusion of warmth."
-    ""
+    "Por mi parte, froto los brazos en mi cuerpo tratando de crear un ilusorio calorcito."
 
 # game/game_script_act2.rpy:3867
 translate spanish game_script_act2_033dc975:
 
     # n mg "H-hey, [player], is it just me or did it get a lot c-colder?"
-    n mg ""
+    n mg "U-Una cosa, [player], ¿soy yo o hace m-más f-frío?"
 
 # game/game_script_act2.rpy:3869
 translate spanish game_script_act2_24bba076:
 
     # mc "N-no, I f-feel i-it too."
-    mc ""
+    mc "N-No e-eres tú, es que h-hace m-más frío."
 
 # game/game_script_act2.rpy:3870
 translate spanish game_script_act2_50c2f829:
 
     # n b1f mh rdown "M-maybe we sh-should camp out s-somewhere warm?"
-    n b1f mh rdown ""
+    n b1f mh rdown "¿N-No sería m-mejor ir a un s-sitio más c-calentito?"
 
 # game/game_script_act2.rpy:3872
 translate spanish game_script_act2_b701f083:
 
     # mc "Y-yeah, let's go."
-    mc ""
+    mc "B-Buena idea..."
 
 # game/game_script_act2.rpy:3874
 translate spanish game_script_act2_3c3dc5e3:
 
     # "Jogging ahead, we ignore our previous apprehensions and head out to the main street."
-    ""
+    "Acabamos corriendo en dirección a las calles principales."
 
 # game/game_script_act2.rpy:3887
 translate spanish game_script_act2_9ad95b16:
 
     # "Suddenly, we're surrounded by crowds upon crowds of people making their daily commute."
-    ""
+    "En un instante, nos vemos rodeados de multitud de personas haciendo su habitual recorrido al trabajo."
 
 # game/game_script_act2.rpy:3911
 translate spanish game_script_act2_abe5b137:
 
     # "I look away for a moment, as the groups of what look like tourists separate us."
-    ""
+    "Miro hacia otro lado y los grupos de lo que parecen turistas nos acaban separando."
 
 # game/game_script_act2.rpy:3912
 translate spanish game_script_act2_69bedcb1:
 
     # "Looking around, I can't seem to catch a glimpse of Natsuki."
-    ""
+    "Por más que miro, no veo a Natsuki."
 
 # game/game_script_act2.rpy:3913
 translate spanish game_script_act2_4dd8e75c:
 
     # "She's gone."
-    ""
+    "Se ha ido."
 
 # game/game_script_act2.rpy:3915
 translate spanish game_script_act2_3489217a:
 
     # "My mind begins to race, thinking of all the worst possibilities."
-    ""
+    "Empiezo a pensar en todas las nefastas situaciones en las que se debe encontrar."
 
 # game/game_script_act2.rpy:3916
 translate spanish game_script_act2_80bec1a3:

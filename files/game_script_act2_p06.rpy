@@ -1814,7 +1814,7 @@ translate spanish game_script_act2_0dbd95e1:
 translate spanish game_script_act2_6e268f13:
 
     # "What's under all that aggression, Natsuki?"
-    "¿Qué hay más allá de esas agresiones, Natsuki?"
+    "¿Qué hay más allá toda esa agresividad, Natsuki?"
 
 # game/game_script_act2.rpy:4110
 translate spanish game_script_act2_328643d3:

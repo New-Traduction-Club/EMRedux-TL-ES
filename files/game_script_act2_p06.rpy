@@ -1262,571 +1262,571 @@ translate spanish game_script_act2_3489217a:
 translate spanish game_script_act2_80bec1a3:
 
     # "I walk ahead, trying to find her."
-    ""
+    "Voy hacia adelante intentando encontrarla."
 
 # game/game_script_act2.rpy:3918
 translate spanish game_script_act2_3d238ca7:
 
     # mc "Natsuki?"
-    mc ""
+    mc "¿Natsuki?"
 
 # game/game_script_act2.rpy:3920
 translate spanish game_script_act2_9850f53c:
 
     # "Nothing."
-    ""
+    "Nada."
 
 # game/game_script_act2.rpy:3921
 translate spanish game_script_act2_f49c285f:
 
     # "I begin to pick up the pace."
-    ""
+    "Acelero el paso."
 
 # game/game_script_act2.rpy:3923
 translate spanish game_script_act2_3a4aeb9b:
 
     # mc "Natsuki?!"
-    mc ""
+    mc "¡¿Natsuki?!"
 
 # game/game_script_act2.rpy:3924
 translate spanish game_script_act2_3ed754c3:
 
     # n "{size=-12}[player]?{/size}"
-    n ""
+    n "{size=-12}¿[player]?{/size}"
 
 # game/game_script_act2.rpy:3926
 translate spanish game_script_act2_315a7bca:
 
     # "That's her!"
-    ""
+    "¡Su voz!"
 
 # game/game_script_act2.rpy:3928
 translate spanish game_script_act2_9b3ccd9a:
 
     # mc "Natsuki!"
-    mc ""
+    mc "¡Natsuki!"
 
 # game/game_script_act2.rpy:3930
 translate spanish game_script_act2_48fc95e3:
 
     # n "[player]?"
-    n ""
+    n "¿[player]?"
 
 # game/game_script_act2.rpy:3933
 translate spanish game_script_act2_19a0470e:
 
     # "I see her being pulled into another group of tourists."
-    ""
+    "La veo mientras la empuja un grupo de turistas."
 
 # game/game_script_act2.rpy:3935
 translate spanish game_script_act2_e37d2cf1:
 
     # n mg "What's got you so--{nw}"
-    n mg ""
+    n mg "¿Qué mosca te ha pic...{nw}"
 
 # game/game_script_act2.rpy:3938
 translate spanish game_script_act2_060b823e:
 
     # "Before she gets swallowed by the crowd once again, I take a hold of her hand,{w=0.5} {nw}"
-    ""
+    "Antes de que se la lleven otra vez a empujones, le cojo la mano{w=0.5} {nw}"
 
 # game/game_script_act2.rpy:3942
 translate spanish game_script_act2_082b1194:
 
     # extend "pulling her close."
-    extend ""
+    extend "y la atraigo hacia mí."
 
 # game/game_script_act2.rpy:3945
 translate spanish game_script_act2_01a16d39:
 
     # mc "Jeez, Nat, stay close!"
-    mc ""
+    mc "¡Dios mío, Nat, quédate cerca mía!"
 
 # game/game_script_act2.rpy:3946
 translate spanish game_script_act2_89ef88f1:
 
     # n b1c mb "D-don't be such a worrywort, [player]."
-    n b1c mb ""
+    n b1c mb "¡No seas tan desosegado, [player]!"
 
 # game/game_script_act2.rpy:3948
 translate spanish game_script_act2_5e0d92de:
 
     # n "The people won't kill me."
-    n ""
+    n "Que no me van a asesinar."
 
 # game/game_script_act2.rpy:3950
 translate spanish game_script_act2_c15818e6:
 
     # mc "Y-yeah, right..."
-    mc ""
+    mc "Y-Ya, ya..."
 
 # game/game_script_act2.rpy:3951
 translate spanish game_script_act2_afffb4cd:
 
     # mc "Sorry, just...you know..."
-    mc ""
+    mc "Perdona, es que..."
 
 # game/game_script_act2.rpy:3952
 translate spanish game_script_act2_06f400d3:
 
     # n ldown e1a b2a mg "Yeah, I get it."
-    n ldown e1a b2a mg ""
+    n ldown e1a b2a mg "Ya, lo pillo."
 
 # game/game_script_act2.rpy:3954
 translate spanish game_script_act2_ebbb8596:
 
     # mc "Let's just find somewhere to chill for a bit."
-    mc ""
+    mc "Busquemos algún sitio en el que descansar."
 
 # game/game_script_act2.rpy:3955
 translate spanish game_script_act2_b07a42c0:
 
     # n e1d mb rdown lhip "I'm pretty sure chill is the opposite of what we want, right?"
-    n e1d mb rdown lhip ""
+    n e1d mb rdown lhip "Estoy al cien por cien segura de que 'descanso' es lo contrario a lo que queremos en realidad."
 
 # game/game_script_act2.rpy:3958
 translate spanish game_script_act2_688d93c5:
 
     # "I let out a tiny chuckle."
-    ""
+    "Suelto una carcajada."
 
 # game/game_script_act2.rpy:3960
 translate spanish game_script_act2_606e2d02:
 
     # mc "Sure."
-    mc ""
+    mc "Sí, seguro."
 
 # game/game_script_act2.rpy:3962
 translate spanish game_script_act2_71cef3e9:
 
     # "We walk along the sidewalk, surrounded by strangers on their phones."
-    ""
+    "Vamos por la acera y nos vuelven a rodear muchos desconocidos con sus teléfonos."
 
 # game/game_script_act2.rpy:3964
 translate spanish game_script_act2_cefbd75e:
 
     # "I feel a tickling sensation in my palm."
-    ""
+    "Siento un cosquilleo en la palma de mi mano."
 
 # game/game_script_act2.rpy:3965
 translate spanish game_script_act2_cf50c1de:
 
     # "I didn't notice."
-    ""
+    "No me he percatado,"
 
 # game/game_script_act2.rpy:3966
 translate spanish game_script_act2_5fcfaa3b:
 
     # "Her hand is still in mine."
-    ""
+    "pero sigo cogiendo su mano."
 
 # game/game_script_act2.rpy:3972
 translate spanish game_script_act2_9fbce2c3:
 
     # n mg ldown "There's a cafe over there. What do you think?"
-    n mg ldown ""
+    n mg ldown "Creo que hay una cafetería cerca, ¿te hace ir allí?"
 
 # game/game_script_act2.rpy:3974
 translate spanish game_script_act2_582359ea:
 
     # mc "Hm?"
-    mc ""
+    mc "¿Mmm?"
 
 # game/game_script_act2.rpy:3976
 translate spanish game_script_act2_2621ee35:
 
     # mc "Oh, umm...sure! I could go for some coffee."
-    mc ""
+    mc "¡Ah! Eh, sí, sí. Un café no me iría mal."
 
 # game/game_script_act2.rpy:3978
 translate spanish game_script_act2_35f6273b:
 
     # "She pulls me by my hand towards the entrance."
-    ""
+    "Esta vez, es ella la que tira de mí en dirección a la cafetería."
 
 # game/game_script_act2.rpy:3980
 translate spanish game_script_act2_492f8fc4:
 
     # n rhip b1a mi "God, you're heavy! Just pulling you is making me tired!"
-    n rhip b1a mi ""
+    n rhip b1a mi "Dios santo, pesas muchísimo. ¡Tirar de ti cansa!"
 
 # game/game_script_act2.rpy:3982
 translate spanish game_script_act2_d80510af:
 
     # mc "You know, you could let go of my hand."
-    mc ""
+    mc "No es por nada, pero siempre puedes soltarme la mano."
 
 # game/game_script_act2.rpy:3984
 translate spanish game_script_act2_cc598522:
 
     # n "I-..!"
-    n ""
+    n "¡E...!"
 
 # game/game_script_act2.rpy:3985
 translate spanish game_script_act2_edc3f8a6:
 
     # n mg "Well we need to keep track of each other, right?!"
-    n mg ""
+    n mg "Pero, ¡¿no necesitábamos estar los dos cerca para no perdernos?!"
 
 # game/game_script_act2.rpy:3986
 translate spanish game_script_act2_8371848a:
 
     # n b1a rdown mh "I don't want you to freak out just 'cause you can't keep your eyes on me all the time!"
-    n b1a rdown mh ""
+    n b1a rdown mh "¡No quiero que te emparanoies por no tenerme vigilada las veinticuatro horas del día!"
 
 # game/game_script_act2.rpy:3988
 translate spanish game_script_act2_254935ff:
 
     # mc "{i}Riiiiight.{/i}"
-    mc ""
+    mc "Yaaa..."
 
 # game/game_script_act2.rpy:3989
 translate spanish game_script_act2_49cb157e:
 
     # mc "That's totally it."
-    mc ""
+    mc "Seguuuro que es eso."
 
 # game/game_script_act2.rpy:3990
 translate spanish game_script_act2_817caf0c:
 
     # n b1d ml "Hey!"
-    n b1d ml ""
+    n b1d ml "¡Pero bueno!"
 
 # game/game_script_act2.rpy:3991
 translate spanish game_script_act2_c231da2d:
 
     # n b1e mh "Wipe that stupid grin off your stupid mug...{w=0.4}{nw}"
-    n b1e mh ""
+    n b1e mh "¡Borra esa estúpida sonrisita de esa estúpida boca...{w=0.4}{nw}"
 
 # game/game_script_act2.rpy:3993
 translate spanish game_script_act2_26859106:
 
     # extend "stupid!"
-    extend ""
+    extend " estúpido!"
 
 # game/game_script_act2.rpy:3995
 translate spanish game_script_act2_d3cdfc6a:
 
     # mc "That's a lot of stupids."
-    mc ""
+    mc "No sabía que se podían meter tantos 'estúpidos' en una frase."
 
 # game/game_script_act2.rpy:3996
 translate spanish game_script_act2_538673fe:
 
     # n b1a mg "When talking about you, I'll need every stupid I can get."
-    n b1a mg ""
+    n b1a mg "Cuando hablamos de ti, nunca son suficientes."
 
 # game/game_script_act2.rpy:3998
 translate spanish game_script_act2_b9deef87:
 
     # "When we finally make it to the cafe, she suddenly pulls her hand away from our grip."
-    ""
+    "Cuando llegamos a la cafetería, me suelta la mano."
 
 # game/game_script_act2.rpy:4007
 translate spanish game_script_act2_86f6b7e9:
 
     # "She then insultingly rubs the palm of her hand on her coat."
-    ""
+    "Ofendida, se frota la mano en la chaqueta."
 
 # game/game_script_act2.rpy:4010
 translate spanish game_script_act2_985172c2:
 
     # "She smugly struts into the cafe."
-    ""
+    "Entra en la cafetería con aires de vacile."
 
 # game/game_script_act2.rpy:4011
 translate spanish game_script_act2_e45febe8:
 
     # "I trail behind, clouded by my defeat."
-    ""
+    "La sigo, derrotado."
 
 # game/game_script_act2.rpy:4024
 translate spanish game_script_act2_f125db08:
 
     # "Once entering the cafe, our bodies visibly relax as the warm air of the interior touches our frozen skin."
-    ""
+    "Ya dentro, el aire templado hace mella en nuestra fría piel."
 
 # game/game_script_act2.rpy:4026
 translate spanish game_script_act2_873c1be2:
 
     # "On the way in, Natsuki dons the ridiculous pair of sunglasses that she got with her."
-    ""
+    "Natsuki se pone el ridículo par de gafas que trajo consigo."
 
 # game/game_script_act2.rpy:4027
 translate spanish game_script_act2_97201f44:
 
     # "Stopping at the counter, Natsuki looks at the menu's selection."
-    ""
+    "En el mostrador, mira el menú."
 
 # game/game_script_act2.rpy:4029
 translate spanish game_script_act2_a6595a15:
 
     # n lhip me "Hmmm...."
-    n lhip me ""
+    n lhip me "Mmm..."
 
 # game/game_script_act2.rpy:4030
 translate spanish game_script_act2_ae9cb7bf:
 
     # mc "What're you in the mood for?"
-    mc ""
+    mc "¿Qué se te apetece?"
 
 # game/game_script_act2.rpy:4031
 translate spanish game_script_act2_e7f50fc7:
 
     # n e2a mb "I could go for some hot chocolate!"
-    n e2a mb ""
+    n e2a mb "¡Algo de chocolate caliente!"
 
 # game/game_script_act2.rpy:4032
 translate spanish game_script_act2_b2085117:
 
     # n e1b mg "But, I did have that yesterday..."
-    n e1b mg ""
+    n e1b mg "Aunque ya me lo bebí ayer..."
 
 # game/game_script_act2.rpy:4034
 translate spanish game_script_act2_a483b8e8:
 
     # mc "Try something new?"
-    mc ""
+    mc "¿Quieres probar con algo diferente?"
 
 # game/game_script_act2.rpy:4037
 translate spanish game_script_act2_0c42cd11:
 
     # n e1a mg "Might as well."
-    n e1a mg ""
+    n e1a mg "Pues puede que sí."
 
 # game/game_script_act2.rpy:4038
 translate spanish game_script_act2_880d0cf0:
 
     # n mh "I guess I'll try the...{w=0.3}{nw}"
-    n mh ""
+    n mh "Supongo que pediré un...{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:4040
 translate spanish game_script_act2_3733a84e:
 
     # extend "caramel macchiato."
-    extend ""
+    extend "un Caramel Macchiato."
 
 # game/game_script_act2.rpy:4042
 translate spanish game_script_act2_fe3df4aa:
 
     # mc "Great, guess I'll go for a..."
-    mc ""
+    mc "Genial, pues entonces yo pediré un..."
 
 # game/game_script_act2.rpy:4044
 translate spanish game_script_act2_6009821f:
 
     # "Hindered by my lack of knowledge on coffee, I scan the menu above the counter for answers."
-    ""
+    "Como no tengo ni idea sobre cafés, empiezo a leer el menú que está por encima del mostrador."
 
 # game/game_script_act2.rpy:4046
 translate spanish game_script_act2_086d3d4f:
 
     # mc "Uh...{w=0.3}{nw}"
-    mc ""
+    mc "Un...{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:4048
 translate spanish game_script_act2_ff981345:
 
     # extend "mocha frappe."
-    extend ""
+    extend "Frappé Mocha."
 
 # game/game_script_act2.rpy:4049
 translate spanish game_script_act2_330dfccd:
 
     # mc "I'll go order, you'll find us a seat?"
-    mc ""
+    mc "Iré a pedir, ¿nos buscas un sitio para sentarnos?"
 
 # game/game_script_act2.rpy:4050
 translate spanish game_script_act2_6b6922ca:
 
     # n mb "Yup."
-    n mb ""
+    n mb "Síp."
 
 # game/game_script_act2.rpy:4051
 translate spanish game_script_act2_d2133d67:
 
     # n rhip mc "Don't mess it up!"
-    n rhip mc ""
+    n rhip mc "¡No la cagues!"
 
 # game/game_script_act2.rpy:4053
 translate spanish game_script_act2_b21541d8:
 
     # mc "No promises."
-    mc ""
+    mc "No te prometo nada."
 
 # game/game_script_act2.rpy:4055
 translate spanish game_script_act2_2d2cc8c6:
 
     # "She gently slaps my uninjured shoulder as she {nw}"
-    ""
+    "Me da un tortazo en mi hombro no dañado tal y como {nw}"
 
 # game/game_script_act2.rpy:4058
 translate spanish game_script_act2_cbbb460f:
 
     # extend "walks to the seating area."
-    extend ""
+    extend "va a buscarnos sitio."
 
 # game/game_script_act2.rpy:4059
 translate spanish game_script_act2_38e7a23d:
 
     # "I move to the back of the line and wait my turn."
-    ""
+    "Me pongo en la cola y espero a que me toque."
 
 # game/game_script_act2.rpy:4061
 translate spanish game_script_act2_c7886d31:
 
     # "Bored of waiting, I take out my phone and scroll through my list of notifications."
-    ""
+    "Ya cansado de tanto esperar, saco mi móvil y reviso las notificaciones."
 
 # game/game_script_act2.rpy:4064
 translate spanish game_script_act2_9c036d84:
 
     # "At the top, I see a message from Sayori from about three minutes ago."
-    ""
+    "La primera de ellas es un mensaje de Sayori de hace unos tres minutos."
 
 # game/game_script_act2.rpy:4071
 translate spanish game_script_act2_fb8068d1:
 
     # "Three exclamation marks."
-    ""
+    "Tres signos de exclamación."
 
 # game/game_script_act2.rpy:4072
 translate spanish game_script_act2_6b92456e:
 
     # "Now {i}that's{/i} a throwback."
-    ""
+    "Esto es nostalgia y lo demás son tonterías."
 
 # game/game_script_act2.rpy:4074
 translate spanish game_script_act2_6ab3898e:
 
     # "I open the message and send a reply."
-    ""
+    "Abro el mensaje y le contesto."
 
 # game/game_script_act2.rpy:4087
 translate spanish game_script_act2_0ba4cabc:
 
     # "I put the phone away and nonchalantly order."
-    ""
+    "Guardo el móvil y pido relajadamente."
 
 # game/game_script_act2.rpy:4088
 translate spanish game_script_act2_8d76c77f:
 
     # "It's nice to see that even after everything, Sayori's still okay."
-    ""
+    "Me alegra saber que, después de todo, Sayori está bien."
 
 # game/game_script_act2.rpy:4089
 translate spanish game_script_act2_613fee79:
 
     # "Well, not {i}okay{/i} okay but..."
-    ""
+    "A ver, no bien del todo, pero..."
 
 # game/game_script_act2.rpy:4090
 translate spanish game_script_act2_a20cefa7_6:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script_act2.rpy:4091
 translate spanish game_script_act2_56c3efb7:
 
     # "With all this stuff with Natsuki going on, I didn't have the chance to check up on how she's doing lately."
-    ""
+    "Con todo lo que le ha pasado a Natsuki, nl he tenido tiempo de ver cómo está ella."
 
 # game/game_script_act2.rpy:4092
 translate spanish game_script_act2_efaf9221:
 
     # "I guess I'll know the answer to that tomorrow."
-    ""
+    "Supongo que mañana lo sabré."
 
 # game/game_script_act2.rpy:4093
 translate spanish game_script_act2_d7a7fd08:
 
     # "The price comes up on the screen."
-    ""
+    "Veo el precio en la pantallita."
 
 # game/game_script_act2.rpy:4094
 translate spanish game_script_act2_171322dd:
 
     # "Ignore the price. The price of a hot coffee on a cold day is irrelevant."
-    ""
+    "Olvídate del precio. Lo que valga un chocolate caliente en un día de frío no importa."
 
 # game/game_script_act2.rpy:4095
 translate spanish game_script_act2_b40cce5d:
 
     # "I pay the ludicrously high bill, and carry our drinks over to the seating area."
-    ""
+    "Pago el ridículamente alto precio y me llevo las bebidas donde Natsuki."
 
 # game/game_script_act2.rpy:4099
 translate spanish game_script_act2_379b8266:
 
     # "Natsuki's taken a high seat by the window, coat slung over the back."
-    ""
+    "La veo sentada junto a la ventana con el abrigo en el respaldo."
 
 # game/game_script_act2.rpy:4100
 translate spanish game_script_act2_c45c2ffc:
 
     # "She's looking outside, her eyes fixated on the pearly white scenery."
-    ""
+    "Mira hacia fuera, embobada por el blanquecino escenario."
 
 # game/game_script_act2.rpy:4101
 translate spanish game_script_act2_3569e6c2:
 
     # "I can see the remnants of her cold breath leave her body as she takes another."
-    ""
+    "Puedo ver el aliento helado abandonar su cuerpo mientras que sale otro."
 
 # game/game_script_act2.rpy:4102
 translate spanish game_script_act2_c83ad162:
 
     # "Her pink hair stands in contrast to its surroundings."
-    ""
+    "Su pelo rosa contrasta con sus alrededores."
 
 # game/game_script_act2.rpy:4103
 translate spanish game_script_act2_deeb45fd:
 
     # "Maybe it's dumb of me, but I can't help but stand in awe."
-    ""
+    "Puede que sea cosa mía, pero no puedo evitar quedarme embobado."
 
 # game/game_script_act2.rpy:4104
 translate spanish game_script_act2_a6779843:
 
     # "Something about her..."
-    ""
+    "Hay algo en ella que..."
 
 # game/game_script_act2.rpy:4105
 translate spanish game_script_act2_2be3c936:
 
     # "Her face tilts away slowly."
-    ""
+    "Su cabeza gira lentamente."
 
 # game/game_script_act2.rpy:4107
 translate spanish game_script_act2_38a787c9:
 
     # "For a moment, I see an expression on her face that I never thought I'd see."
-    ""
+    "Por un momento, pude ver una expresión en su cara que nunca jamás pensé que vería."
 
 # game/game_script_act2.rpy:4108
 translate spanish game_script_act2_0dbd95e1:
 
     # "An almost melancholic longing."
-    ""
+    "Un casi añoro melancólico."
 
 # game/game_script_act2.rpy:4109
 translate spanish game_script_act2_6e268f13:
 
     # "What's under all that aggression, Natsuki?"
-    ""
+    "¿Qué hay más allá de esas agresiones, Natsuki?"
 
 # game/game_script_act2.rpy:4110
 translate spanish game_script_act2_328643d3:
 
     # "What do you feel...?"
-    ""
+    "¿Qué sientes...?"
 
 # game/game_script_act2.rpy:4113
 translate spanish game_script_act2_53581901:
 
     # "All of a sudden, her horrific glasses turn towards me."
-    ""
+    "De repente, sus horrorosas gafas me miran."
 
 # game/game_script_act2.rpy:4115
 translate spanish game_script_act2_041f28d9:

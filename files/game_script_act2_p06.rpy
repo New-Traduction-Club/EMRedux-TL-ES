@@ -1832,67 +1832,67 @@ translate spanish game_script_act2_53581901:
 translate spanish game_script_act2_041f28d9:
 
     # "Immediately, her face contorts and sports her usual cocky smile."
-    ""
+    "Casi al instante, su cara se vuelve la de siempre, mostrando su sonrisa de arrogancia."
 
 # game/game_script_act2.rpy:4118
 translate spanish game_script_act2_828768a4:
 
     # n rhip mi "Oi!"
-    n rhip mi ""
+    n rhip mi "¡'Cucha!"
 
 # game/game_script_act2.rpy:4119
 translate spanish game_script_act2_c86cf924:
 
     # n mb "You, sit, now."
-    n mb ""
+    n mb "¡Sí, el de ahí! ¡Siéntate ya!"
 
 # game/game_script_act2.rpy:4122
 translate spanish game_script_act2_a566440a:
 
     # "She waves widely at me, signaling me to come over to the table."
-    ""
+    "Mueve las manos en el aire, señalando su mesa."
 
 # game/game_script_act2.rpy:4123
 translate spanish game_script_act2_5a424d92:
 
     # "Shaking my head, a big dumb grin on my face, I place our drinks on the table and stab the straws into the lids."
-    ""
+    "Asintiendo y sonriendo como un tonto, voy hacia allí y dejo las bebidas."
 
 # game/game_script_act2.rpy:4125
 translate spanish game_script_act2_4b2110d3:
 
     # mc "Here ya go, ma'am! One caramel macchiato!"
-    mc ""
+    mc "¡Tenga usted, señorita! ¡Un Caramel Macchiato!"
 
 # game/game_script_act2.rpy:4127
 translate spanish game_script_act2_bf6e41ce:
 
     # "I take the seat opposite of hers."
-    ""
+    "Me siento justo delante de ella."
 
 # game/game_script_act2.rpy:4129
 translate spanish game_script_act2_fb900d75:
 
     # "Gripping her cup with both hands,{w=0.4}{nw} "
-    ""
+    "Natsuki coge su taza con las dos manos{w=0.4}{nw} "
 
 # game/game_script_act2.rpy:4131
 translate spanish game_script_act2_4184a218:
 
     # extend "she takes a sip of her drink."
-    extend ""
+    extend "y bebe de ella."
 
 # game/game_script_act2.rpy:4133
 translate spanish game_script_act2_15f6d46a:
 
     # "I lean over and sip mine."
-    ""
+    "Hago yo lo mismo con la mía."
 
 # game/game_script_act2.rpy:4134
 translate spanish game_script_act2_c94189f1:
 
     # "Yet, try as I might, I just can't pull my eyes away from her."
-    ""
+    "Y, aunque lo intente una y otra vez, no puedo dejar de mirar a Natsuki."
 
 # game/game_script_act2.rpy:4135
 translate spanish game_script_act2_b9c87228:

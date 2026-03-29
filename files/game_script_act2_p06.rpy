@@ -1898,19 +1898,19 @@ translate spanish game_script_act2_c94189f1:
 translate spanish game_script_act2_b9c87228:
 
     # "Man, I really am a loser."
-    ""
+    "Tío... estoy hecho un pringado."
 
 # game/game_script_act2.rpy:4137
 translate spanish game_script_act2_bb566092:
 
     # n mg "So, [player]..."
-    n mg ""
+    n mg "Y, [player]..."
 
 # game/game_script_act2.rpy:4139
 translate spanish game_script_act2_f49fff8f_3:
 
     # mc "Yeah?"
-    mc ""
+    mc "Dime."
 
 # game/game_script_act2.rpy:4140
 translate spanish game_script_act2_6bd3f37a:

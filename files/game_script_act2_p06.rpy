@@ -1916,82 +1916,82 @@ translate spanish game_script_act2_f49fff8f_3:
 translate spanish game_script_act2_6bd3f37a:
 
     # n ldown e1a zzz1 b1c mh "What's next on the agenda?"
-    n ldown e1a zzz1 b1c mh ""
+    n ldown e1a zzz1 b1c mh "¿Qué viene ahora?"
 
 # game/game_script_act2.rpy:4142
 translate spanish game_script_act2_251dc374:
 
     # mc "Hell if I know. You okay with just walking around some more?"
-    mc ""
+    mc "Pues ni pajolera idea. ¿Quieres seguir dando paseos?"
 
 # game/game_script_act2.rpy:4143
 translate spanish game_script_act2_60350c9d:
 
     # n b1a mi "It's freezing out there!"
-    n b1a mi ""
+    n b1a mi "¡Si está todo congelado!"
 
 # game/game_script_act2.rpy:4144
 translate spanish game_script_act2_480e427c:
 
     # n mg "I wanna go out with a purpose."
-    n mg ""
+    n mg "No quiero salir en vano."
 
 # game/game_script_act2.rpy:4146
 translate spanish game_script_act2_6def0e84:
 
     # mc "Yeah, but it's not like we can just loiter around here for the rest of the day."
-    mc ""
+    mc "Lo sé, pero no es plan de quedarnos vagueando aquí todo el santo día."
 
 # game/game_script_act2.rpy:4147
 translate spanish game_script_act2_5b4b16c1:
 
     # n rdown lhip b1f mb "We can't?"
-    n rdown lhip b1f mb ""
+    n rdown lhip b1f mb "¿Cómo que no?"
 
 # game/game_script_act2.rpy:4149
 translate spanish game_script_act2_3aa42c3b_1:
 
     # mc "Natsuki..."
-    mc ""
+    mc "Natsuki..."
 
 # game/game_script_act2.rpy:4150
 translate spanish game_script_act2_320ae9fd:
 
     # n b1d mi "It's warm here!"
-    n b1d mi ""
+    n b1d mi "¡Si hace calorcito aquí dentro!"
 
 # game/game_script_act2.rpy:4151
 translate spanish game_script_act2_a9a92249:
 
     # n b1a mg "Much better than catching a cold out there."
-    n b1a mg ""
+    n b1a mg "Prefiero esto a coger un resfriado."
 
 # game/game_script_act2.rpy:4153
 translate spanish game_script_act2_6a048105:
 
     # mc "It seems that the great Natsuki has finally met her match."
-    mc ""
+    mc "Parece que 'Natsuki la Valiente' ha encontrado por fin a un digno rival a su altura:"
 
 # game/game_script_act2.rpy:4154
 translate spanish game_script_act2_2a033a83:
 
     # mc "A light breeze."
-    mc ""
+    mc "una minúscula brisa."
 
 # game/game_script_act2.rpy:4155
 translate spanish game_script_act2_419635de:
 
     # n b1d mh "Oh, piss off!"
-    n b1d mh ""
+    n b1d mh "¡Venga ya, que te den!"
 
 # game/game_script_act2.rpy:4157
 translate spanish game_script_act2_5337e10a:
 
     # mc "Language."
-    mc ""
+    mc "Esa boca."
 
 # game/game_script_act2.rpy:4158
 translate spanish game_script_act2_c2f51530:
 
     # n b1f mb "What're you, my dad?"
-    n b1f mb ""
+    n b1f mb "Pero quién te crees, ¿mi padre?"

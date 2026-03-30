@@ -1832,7 +1832,7 @@ translate spanish game_script_act2_53581901:
 translate spanish game_script_act2_041f28d9:
 
     # "Immediately, her face contorts and sports her usual cocky smile."
-    "Casi al instante, su cara se vuelve la de siempre, mostrando su sonrisa de arrogancia."
+    "Casi al instante, su cara vuelve la de siempre, mostrando su sonrisa de arrogancia."
 
 # game/game_script_act2.rpy:4118
 translate spanish game_script_act2_828768a4:

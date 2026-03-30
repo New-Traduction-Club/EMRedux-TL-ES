@@ -1706,7 +1706,7 @@ translate spanish game_script_act2_6ab3898e:
 translate spanish game_script_act2_0ba4cabc:
 
     # "I put the phone away and nonchalantly order."
-    "Guardo el móvil y pido relajadamente."
+    "Guardo el móvil y pido las bebidas tranquilamente."
 
 # game/game_script_act2.rpy:4088
 translate spanish game_script_act2_8d76c77f:
@@ -1730,7 +1730,7 @@ translate spanish game_script_act2_a20cefa7_6:
 translate spanish game_script_act2_56c3efb7:
 
     # "With all this stuff with Natsuki going on, I didn't have the chance to check up on how she's doing lately."
-    "Con todo lo que le ha pasado a Natsuki, nl he tenido tiempo de ver cómo está ella."
+    "Con todo lo que le ha pasado a Natsuki, no he tenido tiempo de ver cómo está ella."
 
 # game/game_script_act2.rpy:4092
 translate spanish game_script_act2_efaf9221:

@@ -332,7 +332,7 @@ translate spanish game_script_act2_5e0e8d21:
 translate spanish game_script_act2_9e57c3d8:
 
     # mc "You got it outta your system yet?"
-    mc "¿Aún lo tienes integrado?"
+    mc "¿Vas a decirme algo más o...?"
 
 # game/game_script_act2.rpy:4273
 translate spanish game_script_act2_1e6289b2:

@@ -272,7 +272,7 @@ translate spanish game_script_act2_a81fb90a:
 translate spanish game_script_act2_3c4a3363:
 
     # mc "How about my inability to run properly?"
-    mc "Por ejemplo, mi incapacidad para correr."
+    mc "Por ejemplo, mi capacidad innata para correr."
 
 # game/game_script_act2.rpy:4243
 translate spanish game_script_act2_46fa73ff:

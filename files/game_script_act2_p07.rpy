@@ -2,493 +2,493 @@
 translate spanish game_script_act2_00dd93e3:
 
     # "An awkward silence washes over us."
-    ""
+    "Hay un silencio bastante incómodo entre nosotros."
 
 # game/game_script_act2.rpy:4168
 translate spanish game_script_act2_78238f2b:
 
     # "I itch the back of my ear, thinking of a way to salvage the conversation."
-    ""
+    "Me rasco nerviosamente la parte de atrás de la oreja en un intento de salvar la conversación."
 
 # game/game_script_act2.rpy:4169
 translate spanish game_script_act2_4a023f23:
 
     # "But, uhh..."
-    ""
+    "Pero, eh...,"
 
 # game/game_script_act2.rpy:4170
 translate spanish game_script_act2_58a68592:
 
     # "Nothing comes to mind."
-    ""
+    "nada. No se me ocurre nada."
 
 # game/game_script_act2.rpy:4172
 translate spanish game_script_act2_b3ae8984_1:
 
     # mc "Uhm..."
-    mc ""
+    mc "Eh..."
 
 # game/game_script_act2.rpy:4174
 translate spanish game_script_act2_ad991ddb:
 
     # "I gulp, before sipping on my delicious mocha frappe."
-    ""
+    "Trago saliva y le doy un sorbo al Frappé Mocha."
 
 # game/game_script_act2.rpy:4175
 translate spanish game_script_act2_16f4f7b5:
 
     # "She twiddles with her thumbs, telling me she's not faring any better."
-    ""
+    "Natsuki juega con sus pulgares, dándome a entender que no estoy arreglando nada."
 
 # game/game_script_act2.rpy:4177
 translate spanish game_script_act2_0e9ba6d1:
 
     # n e1a mf "I...{w=0.3}{nw}"
-    n e1a mf ""
+    n e1a mf "Pues...{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:4179
 translate spanish game_script_act2_52a68013:
 
     # extend "whoops."
-    extend ""
+    extend "ups."
 
 # game/game_script_act2.rpy:4181
 translate spanish game_script_act2_d09833c2:
 
     # mc "Yeah...{i}whoops{/i}."
-    mc ""
+    mc "Sí... ups."
 
 # game/game_script_act2.rpy:4182
 translate spanish game_script_act2_690ac911:
 
     # n e2a mg "I didn't mean that."
-    n e2a mg ""
+    n e2a mg "No quería que sonase así..."
 
 # game/game_script_act2.rpy:4184
 translate spanish game_script_act2_8e84bfe9:
 
     # mc "I figured."
-    mc ""
+    mc "Ya me he dado cuenta."
 
 # game/game_script_act2.rpy:4185
 translate spanish game_script_act2_d3c6267c:
 
     # mc "It’s alright."
-    mc ""
+    mc "No pasa nada."
 
 # game/game_script_act2.rpy:4186
 translate spanish game_script_act2_e0b546d6:
 
     # n e4a b2c zzz3 me "Sorry for...y’know..."
-    n e4a b2c zzz3 me ""
+    n e4a b2c zzz3 me "Perdona por... por eso,"
 
 # game/game_script_act2.rpy:4187
 translate spanish game_script_act2_81861948:
 
     # n mg "Ruining the vibe, I guess."
-    n mg ""
+    n mg "por joder el buen ambiente que teníamos, supongo."
 
 # game/game_script_act2.rpy:4190
 translate spanish game_script_act2_6407d0d3:
 
     # "I think I found a way to salvage this."
-    ""
+    "Creo que tengo una idea para rescatar esto."
 
 # game/game_script_act2.rpy:4192
 translate spanish game_script_act2_698d7569:
 
     # mc "Wow."
-    mc ""
+    mc "Guau."
 
 # game/game_script_act2.rpy:4193
 translate spanish game_script_act2_c649f316:
 
     # n e1a b2a me zzz1 "What?"
-    n e1a b2a me zzz1 ""
+    n e1a b2a me zzz1 "¿Qué?"
 
 # game/game_script_act2.rpy:4195
 translate spanish game_script_act2_2eb96c95:
 
     # mc "Just...wow!"
-    mc ""
+    mc "Es que... ¡guau!"
 
 # game/game_script_act2.rpy:4196
 translate spanish game_script_act2_0898858f:
 
     # n b1f mh "What is it?"
-    n b1f mh ""
+    n b1f mh "¿'Guau' qué?"
 
 # game/game_script_act2.rpy:4198
 translate spanish game_script_act2_2adf6c8d:
 
     # mc "Did you, Natsuki, just {i}apologize{/i}?"
-    mc ""
+    mc "Natsuki, ¿acabas de... disculparte?"
 
 # game/game_script_act2.rpy:4200
 translate spanish game_script_act2_dbd39d08:
 
     # mc "How the mighty have fallen."
-    mc ""
+    mc "Se me ha caído un ídolo."
 
 # game/game_script_act2.rpy:4201
 translate spanish game_script_act2_249ab3ce:
 
     # n rhip mg "Oh, har har. Stuff it, asshat."
-    n rhip mg ""
+    n rhip mg "Ah, qué gracioso. Juas, juas. Corta el rollo, capullazo."
 
 # game/game_script_act2.rpy:4202
 translate spanish game_script_act2_ee1d2641:
 
     # n b1d mh "At least I only apologize when I need to."
-    n b1d mh ""
+    n b1d mh "Por lo menos me disculpo cuando toca,"
 
 # game/game_script_act2.rpy:4203
 translate spanish game_script_act2_84c83764:
 
     # n b1e mb "Not every six seconds, like a blubbering idiot."
-    n b1e mb ""
+    n b1e mb "no como alguien que yo me sé, que cada seis segundos tiene el 'perdón' en la boca como un llorica."
 
 # game/game_script_act2.rpy:4205
 translate spanish game_script_act2_03b345a4:
 
     # mc "Sor-..."
-    mc ""
+    mc "Pe..."
 
 # game/game_script_act2.rpy:4206
 translate spanish game_script_act2_985571ed:
 
     # mc "...Point taken."
-    mc ""
+    mc "Déjalo, esa ha sido muy buena."
 
 # game/game_script_act2.rpy:4220
 translate spanish game_script_act2_092dd5e0:
 
     # "And just like that, we're back to laughing at ourselves."
-    ""
+    "Y así como así, volvemos a reír."
 
 # game/game_script_act2.rpy:4221
 translate spanish game_script_act2_fa96fa18:
 
     # "Conversation salvaged."
-    ""
+    "Conversación completamente rescatada."
 
 # game/game_script_act2.rpy:4222
 translate spanish game_script_act2_78f8fe81:
 
     # "As we sip our drinks, I look back out through the door, getting a better look of the area we're in."
-    ""
+    "Mientras seguimos bebiendo, miro por la puerta para reconocer mejor la zona en la que estamos."
 
 # game/game_script_act2.rpy:4224
 translate spanish game_script_act2_07c1ee9c:
 
     # mc "Whoa, we're in the fancy part of town."
-    mc ""
+    mc "Vaya, si estamos en la parte pijita de la ciudad."
 
 # game/game_script_act2.rpy:4225
 translate spanish game_script_act2_4b4b2bf4:
 
     # mc "We were in such a rush, I hadn’t really picked up on where we were."
-    mc ""
+    mc "Como teníamos tanta prisa, ni me he dado cuenta."
 
 # game/game_script_act2.rpy:4226
 translate spanish game_script_act2_ba3c149f:
 
     # mc "Explains the eye-gouging prices."
-    mc ""
+    mc "Eso explica los precios tan absurdamente altos."
 
 # game/game_script_act2.rpy:4227
 translate spanish game_script_act2_ead4cf72:
 
     # n b1f mg "'Eye-gouging'?"
-    n b1f mg ""
+    n b1f mg "¿'Absurdamente altos'?"
 
 # game/game_script_act2.rpy:4229
 translate spanish game_script_act2_48c9bc40:
 
     # mc "Yeah, like, I want to gouge my eyes out just from looking at the prices."
-    mc ""
+    mc "Pues sí, con solo verlos me dan ganas de sacarme los ojos."
 
 # game/game_script_act2.rpy:4230
 translate spanish game_script_act2_ca45e9e3:
 
     # n me "Uh...huh."
-    n me ""
+    n me "A-Ah, ya..."
 
 # game/game_script_act2.rpy:4231
 translate spanish game_script_act2_fb6c850b:
 
     # n rdown b1c mh "I'm surprised you could even afford it."
-    n rdown b1c mh ""
+    n rdown b1c mh "Me sorprende que te hayas podido permitir esto."
 
 # game/game_script_act2.rpy:4233
 translate spanish game_script_act2_122718f7:
 
     # mc "I’m surprised I could too."
-    mc ""
+    mc "Y a mí también me sorprende."
 
 # game/game_script_act2.rpy:4234
 translate spanish game_script_act2_99604e54:
 
     # mc "I think the very last thing I want to do right now is check my bank balance."
-    mc ""
+    mc "Creo que lo último que quiero ahora mismo es mirar la cuenta bancaria."
 
 # game/game_script_act2.rpy:4235
 translate spanish game_script_act2_51b65e38:
 
     # n b2a e1d mb "Slow down there, Mr. Financially Responsible."
-    n b2a e1d mb ""
+    n b2a e1d mb "Para el carro, Señor Financieramente Responsable."
 
 # game/game_script_act2.rpy:4237
 translate spanish game_script_act2_38e056b2:
 
     # mc "Only the best from me."
-    mc ""
+    mc "Ya sabes cómo soy."
 
 # game/game_script_act2.rpy:4238
 translate spanish game_script_act2_c3285034:
 
     # n b1f mb "Like your amazing sewing?"
-    n b1f mb ""
+    n b1f mb "¿Como cosiendo?"
 
 # game/game_script_act2.rpy:4239
 translate spanish game_script_act2_1e30184a:
 
     # n ldown mc "And cooking?"
-    n ldown mc ""
+    n ldown mc "¿O cocinando?"
 
 # game/game_script_act2.rpy:4240
 translate spanish game_script_act2_dd16a746:
 
     # n rhip mo "And baking?"
-    n rhip mo ""
+    n rhip mo "¿Y horneando?"
 
 # game/game_script_act2.rpy:4241
 translate spanish game_script_act2_a81fb90a:
 
     # mc "No please, lay it on me some more."
-    mc ""
+    mc "Pon más cualidades, que no son suficientes."
 
 # game/game_script_act2.rpy:4242
 translate spanish game_script_act2_3c4a3363:
 
     # mc "How about my inability to run properly?"
-    mc ""
+    mc "Por ejemplo, mi incapacidad para correr."
 
 # game/game_script_act2.rpy:4243
 translate spanish game_script_act2_46fa73ff:
 
     # n e1a mh "Wait, you can't run properly...?"
-    n e1a mh ""
+    n e1a mh "Un momento, ¿no sabes correr bien...?"
 
 # game/game_script_act2.rpy:4246
 translate spanish game_script_act2_ed52a0a8:
 
     # "Oh God, I’ve opened Pandora’s box."
-    ""
+    "Mierda, he abierto la caja de Pandora."
 
 # game/game_script_act2.rpy:4254
 translate spanish game_script_act2_0c72f498:
 
     # n lhip "Oh yeah, I remember! You totally run weird!"
-    n lhip ""
+    n lhip "¡Es verdad, ya me acuerdo! ¡Corres muy raro!"
 
 # game/game_script_act2.rpy:4255
 translate spanish game_script_act2_7175cda1:
 
     # n mb "You always flail your arms and stuff!"
-    n mb ""
+    n mb "¡Agitas mucho los brazos y esas cosas!"
 
 # game/game_script_act2.rpy:4256
 translate spanish game_script_act2_dfacba78:
 
     # n ldown "And you have this funny waddle!"
-    n ldown ""
+    n ldown "¡Y andando tampoco te salvas!"
 
 # game/game_script_act2.rpy:4257
 translate spanish game_script_act2_a1463cc4:
 
     # n b2a mg "I wasn’t really in a position to make fun of you then, but..."
-    n b2a mg ""
+    n b2a mg "No es que yo fuera la más indicada para reírme de ti, pero...,"
 
 # game/game_script_act2.rpy:4258
 translate spanish game_script_act2_1124fde4:
 
     # n b1c mb "It’s fair game now!"
-    n b1c mb ""
+    n b1c mb "¡ahora estamos a empate!"
 
 # game/game_script_act2.rpy:4268
 translate spanish game_script_act2_57b0b1cc:
 
     # "She starts laughing maniacally."
-    ""
+    "Se ríe como una psicópata."
 
 # game/game_script_act2.rpy:4270
 translate spanish game_script_act2_5e0e8d21:
 
     # n mc "Man, you run like a penguin!"
-    n mc ""
+    n mc "Si es que corres como un pingüino, tío."
 
 # game/game_script_act2.rpy:4272
 translate spanish game_script_act2_9e57c3d8:
 
     # mc "You got it outta your system yet?"
-    mc ""
+    mc "¿Aún lo tienes integrado?"
 
 # game/game_script_act2.rpy:4273
 translate spanish game_script_act2_1e6289b2:
 
     # n mb "One more, then I’m done."
-    n mb ""
+    n mb "Espera, espera. Una más. Una más y paro."
 
 # game/game_script_act2.rpy:4275
 translate spanish game_script_act2_76a041bd:
 
     # mc "Alright, hit me."
-    mc ""
+    mc "Venga, dispara."
 
 # game/game_script_act2.rpy:4276
 translate spanish game_script_act2_94e64a54:
 
     # n b1c e1a mc zzz1 "You run like Yuri!"
-    n b1c e1a mc zzz1 ""
+    n b1c e1a mc zzz1 "¡Corres como Yuri!"
 
 # game/game_script_act2.rpy:4278
 translate spanish game_script_act2_28cdd0a7:
 
     # mc "Yuri runs?"
-    mc ""
+    mc "Ah, pero... ¿Yuri corre!"
 
 # game/game_script_act2.rpy:4295
 translate spanish game_script_act2_7a41cedf:
 
     # n mb "Oh, you son of a bitch, I'm actually crying."
-    n mb ""
+    n mb "Qué cabrón, estoy hasta llorando."
 
 # game/game_script_act2.rpy:4297
 translate spanish game_script_act2_8392c514:
 
     # mc "What? That was a serious question!"
-    mc ""
+    mc "¿Por qué? ¡Iba completamente en serio!"
 
 # game/game_script_act2.rpy:4298
 translate spanish game_script_act2_1f8f1bfc:
 
     # mc "I just didn't think she'd be the type to run."
-    mc ""
+    mc "Es que no la veo corriendo mucho."
 
 # game/game_script_act2.rpy:4299
 translate spanish game_script_act2_fa30eb73:
 
     # n mb "Well, there was this time in gym class where we had to run a mile around the school, and uhh..."
-    n mb ""
+    n mb "Bueno, había una vez, en clase de Educación Física, en la que había que correr un kilómetro y medio y...,"
 
 # game/game_script_act2.rpy:4300
 translate spanish game_script_act2_e263c9d0:
 
     # n b1c e1d mc "She ran kinda like you did."
-    n b1c e1d mc ""
+    n b1c e1d mc "su forma de correr era idéntica a la tuya."
 
 # game/game_script_act2.rpy:4301
 translate spanish game_script_act2_4cdd15d2:
 
     # n lhip mb b2a "And unlike you, she has an excuse."
-    n lhip mb b2a ""
+    n lhip mb b2a "Y, a diferencia de ti, ella tiene excusa."
 
 # game/game_script_act2.rpy:4303
 translate spanish game_script_act2_1d30b201:
 
     # mc "You're killing me here, Natsuki."
-    mc ""
+    mc "Aquí me dejas fuera de juego, Natsuki."
 
 # game/game_script_act2.rpy:4304
 translate spanish game_script_act2_e073997d:
 
     # n mb "I know."
-    n mb ""
+    n mb "Ya lo sé."
 
 # game/game_script_act2.rpy:4305
 translate spanish game_script_act2_a39c5b55:
 
     # n e4b b2a zzz2 "I'm on a roll right now."
-    n e4b b2a zzz2 ""
+    n e4b b2a zzz2 "Si es que estoy en racha ya."
 
 # game/game_script_act2.rpy:4307
 translate spanish game_script_act2_a406fbfc:
 
     # mc "At least you found your mojo again."
-    mc ""
+    mc "Por lo menos... has recuperado ese brillo otra vez."
 
 # game/game_script_act2.rpy:4308
 translate spanish game_script_act2_b222a567:
 
     # mc "You were letting me get too many hits in."
-    mc ""
+    mc "Ya me estaba dejando mucho."
 
 # game/game_script_act2.rpy:4309
 translate spanish game_script_act2_1d7e6dec:
 
     # n b1f e1d mn zzz1 "Had to show you your place, right?"
-    n b1f e1d mn zzz1 ""
+    n b1f e1d mn zzz1 "Te he tenido que enseñar cómo se las gasta Natsuki."
 
 # game/game_script_act2.rpy:4311
 translate spanish game_script_act2_dde18ea8:
 
     # mc "Sure did, Natsuki. You sure showed me."
-    mc ""
+    mc "Y tanto que sí, chica. Y tanto que sí..."
 
 # game/game_script_act2.rpy:4314
 translate spanish game_script_act2_a28f8f22:
 
     # "We laugh in unison, while we finish off our drinks."
-    ""
+    "Nos reímos a la vez mientras terminamos las bebidas."
 
 # game/game_script_act2.rpy:4318
 translate spanish game_script_act2_cb70afb1_1:
 
     # mc "So..."
-    mc ""
+    mc "Pues...,"
 
 # game/game_script_act2.rpy:4319
 translate spanish game_script_act2_8680da0c:
 
     # mc "Ready to brave the Arctic winds again?"
-    mc ""
+    mc "¿lista para enfrentarte a los vientos Árticos otra vez?"
 
 # game/game_script_act2.rpy:4320
 translate spanish game_script_act2_e93ae0c9:
 
     # n b1f mg "Do we have to?"
-    n b1f mg ""
+    n b1f mg "¿Es que hace falta?"
 
 # game/game_script_act2.rpy:4322
 translate spanish game_script_act2_3fa74652:
 
     # mc "Come on, Natsuki, it can't be that bad."
-    mc ""
+    mc "Vamos, Natsuki. No puede ser tan malo."
 
 # game/game_script_act2.rpy:4323
 translate spanish game_script_act2_8a26383b:
 
     # n me "Hmm...{w=0.3}"
-    n me ""
+    n me "Mmm...{w=0.3}"
 
 # game/game_script_act2.rpy:4325
 translate spanish game_script_act2_ad348b80:
 
     # extend "I guess you're right."
-    extend ""
+    extend " pues supongo que tienes razón..."
 
 # game/game_script_act2.rpy:4329
 translate spanish game_script_act2_a38284e3:
 
     # "Natsuki pulls her coat back on."
-    ""
+    "Natsuki se pone la chaqueta."
 
 # game/game_script_act2.rpy:4330
 translate spanish game_script_act2_c1eb8e04:
 
     # "Pushing in our seats, we head outside to the highstreet."
-    ""
+    "Pegando las sillas a la mesa, salimos de la cafetería."
 
 # game/game_script_act2.rpy:4345
 translate spanish game_script_act2_0b9e310c:

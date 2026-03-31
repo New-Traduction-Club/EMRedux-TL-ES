@@ -452,7 +452,7 @@ translate spanish game_script_act2_cb70afb1_1:
 translate spanish game_script_act2_8680da0c:
 
     # mc "Ready to brave the Arctic winds again?"
-    mc "¿lista para enfrentarte a los vientos Árticos otra vez?"
+    mc "¿lista para enfrentarte otra vez a los vientos del Ártico?"
 
 # game/game_script_act2.rpy:4320
 translate spanish game_script_act2_e93ae0c9:

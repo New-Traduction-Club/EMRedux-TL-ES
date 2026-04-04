@@ -776,7 +776,7 @@ translate spanish game_script_act2_c304ccd4:
 translate spanish game_script_act2_60160cc7:
 
     # "Scanning the shelves, I take notice of a sky-blue beanie fitted comfortably atop a mannequin."
-    ""
+    "Rebuscando en las estanterías, veo un gorro de color azul claro que le queda de lujo al maniquí que lo lleva."
 
 # game/game_script_act2.rpy:4443
 translate spanish game_script_act2_398e8c3d:

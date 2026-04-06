@@ -1844,154 +1844,154 @@ translate spanish game_script_act2_fc1d1c17:
 translate spanish game_script_act2_a98533a4:
 
     # "Before lunging forward and--{nw}"
-    "se abalanza sobre mí y..."
+    "se abalanza sobre mí y...{nw}"
 
 # game/game_script_act2.rpy:4936
 translate spanish game_script_act2_97645536:
 
     # "Okay..."
-    ""
+    "Genial."
 
 # game/game_script_act2.rpy:4937
 translate spanish game_script_act2_3f748718:
 
     # "She's kissing me."
-    ""
+    "Me está besando."
 
 # game/game_script_act2.rpy:4939
 translate spanish game_script_act2_064521a8:
 
     # "This is an interesting development."
-    ""
+    "Vaya desarrollo más interesante está tomando el asunto..."
 
 # game/game_script_act2.rpy:4942
 translate spanish game_script_act2_7b5cb2e3:
 
     # "Oh, who am I kidding? This is fucking amazing."
-    ""
+    "Vale, a quién quiero engañar: esto está de puta madre."
 
 # game/game_script_act2.rpy:4953
 translate spanish game_script_act2_83d676e8:
 
     # "She backs away, still giggly."
-    ""
+    "Retrocede, aún risueña."
 
 # game/game_script_act2.rpy:4955
 translate spanish game_script_act2_acf10848:
 
     # "But then, Natsuki turns and goes to wipe her eyes."
-    ""
+    "Aunque, esta vez, Natsuki se da la vuelta y se seca los ojos."
 
 # game/game_script_act2.rpy:4959
 translate spanish game_script_act2_14f3a6a5:
 
     # n "Oh, you asshole, you made me cry."
-    n ""
+    n "Serás gilipollas... ¡me has hecho llorar!"
 
 # game/game_script_act2.rpy:4961
 translate spanish game_script_act2_812c3d5a:
 
     # mc "Oh, uhm...{w}good tears, right?"
-    mc ""
+    mc "Ah, eh...{w} ¿son lágrimas buenas?"
 
 # game/game_script_act2.rpy:4963
 translate spanish game_script_act2_ba3e3d30:
 
     # n "Of course they’re good tears, idiot!"
-    n ""
+    n "¡Pues claro que lo son, idiota!"
 
 # game/game_script_act2.rpy:4965
 translate spanish game_script_act2_88b4cc97:
 
     # n "This is just a really exciting thing for me!"
-    n ""
+    n "¡Es que me siento muy emocionada!"
 
 # game/game_script_act2.rpy:4967
 translate spanish game_script_act2_26778276:
 
     # mc "Okay, okay, sorry."
-    mc ""
+    mc "Vale, vale. Perdona entonces."
 
 # game/game_script_act2.rpy:4969
 translate spanish game_script_act2_e50bc983:
 
     # "Even though it’s happy tears, I still instinctively put a hand on her shoulder."
-    ""
+    "Aunque sean lágrimas de felicidad, mi mano, por instinto, acaba en su hombro."
 
 # game/game_script_act2.rpy:4972
 translate spanish game_script_act2_3363f785:
 
     # mc "So, uh, forgive me for asking..."
-    mc ""
+    mc "Perdona por la preguntita, pero...,"
 
 # game/game_script_act2.rpy:4974
 translate spanish game_script_act2_4980aa05:
 
     # mc "But does this make us..?"
-    mc ""
+    mc "¿quiere decir que ahora somos...?"
 
 # game/game_script_act2.rpy:4975
 translate spanish game_script_act2_085811f6:
 
     # mc "Y’know..."
-    mc ""
+    mc "Ya sabes...,"
 
 # game/game_script_act2.rpy:4977
 translate spanish game_script_act2_398793d1:
 
     # mc "A couple?"
-    mc ""
+    mc "¿una parejita?"
 
 # game/game_script_act2.rpy:4979
 translate spanish game_script_act2_27962c49:
 
     # n "Y’know what?"
-    n ""
+    n "Pues, ¿sabes qué?"
 
 # game/game_script_act2.rpy:4981
 translate spanish game_script_act2_7e6fa6b7:
 
     # n "I think it might!"
-    n ""
+    n "¡Puede ser!"
 
 # game/game_script_act2.rpy:4983
 translate spanish game_script_act2_85785fdb:
 
     # mc "Perfect."
-    mc ""
+    mc "Perfecto."
 
 # game/game_script_act2.rpy:4986
 translate spanish game_script_act2_5f4f8981:
 
     # "Clearly already bored of our new relationship,{w=0.3}{nw} "
-    ""
+    "Claramente aburrida de nuestra recién formada relación,{w=0.3}{nw} "
 
 # game/game_script_act2.rpy:4988
 translate spanish game_script_act2_7924a1af:
 
     # extend "Natsuki turns away and starts shovelling snow off a nearby parked car."
-    extend ""
+    extend "Natsuki se da la vuelta y empieza a coger un poco de nieve amontonada en un coche aparcado."
 
 # game/game_script_act2.rpy:4989
 translate spanish game_script_act2_b707e95e:
 
     # "Damn...'relationship'..."
-    ""
+    "Vaya... una 'relación'..."
 
 # game/game_script_act2.rpy:4991
 translate spanish game_script_act2_8fb48eb7:
 
     # "That’s gonna take a while to wrap my head aroun--{nw}"
-    ""
+    "Me va a costar asimil...{nw}"
 
 # game/game_script_act2.rpy:5002
 translate spanish game_script_act2_45c87191:
 
     # "{i}POFF-!{/i}"
-    ""
+    "¡POFFF!"
 
 # game/game_script_act2.rpy:5004
 translate spanish game_script_act2_c10c31bb:
 
     # "From what seems to be thin air, however, a snowball hits me square in the face."
-    ""
+    "De lo que parece ser el aire, una bola de nieve se estampa en toda mi cara."

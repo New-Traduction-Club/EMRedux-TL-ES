@@ -1838,13 +1838,13 @@ translate spanish game_script_act2_b7eb9d9c:
 translate spanish game_script_act2_fc1d1c17:
 
     # "Natsuki backs away for a second..."
-    ""
+    "Natsuki da un paso hacia atrás,"
 
 # game/game_script_act2.rpy:4930
 translate spanish game_script_act2_a98533a4:
 
     # "Before lunging forward and--{nw}"
-    ""
+    "se abalanza sobre mí y..."
 
 # game/game_script_act2.rpy:4936
 translate spanish game_script_act2_97645536:

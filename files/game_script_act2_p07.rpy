@@ -944,487 +944,487 @@ translate spanish game_script_act2_f07eeb5a:
 translate spanish game_script_act2_7f3eedb6:
 
     # "Instead, I pull the beanie over my head, scarf sandwiched between my head and the hat."
-    ""
+    "¿Lo que acabo haciendo? Ponerme el gorro con la bufanda dentro."
 
 # game/game_script_act2.rpy:4502
 translate spanish game_script_act2_719e7e66:
 
     # n b1a me "Huh."
-    n b1a me ""
+    n b1a me "Eh..."
 
 # game/game_script_act2.rpy:4503
 translate spanish game_script_act2_168f7818:
 
     # n rdown rg1 mg "I figured the hat would {i}suit{/i} you, but it doesn’t seem to fit you properly."
-    n rdown rg1 mg ""
+    n rdown rg1 mg "Pensaba que te quedaría mejor, pero ni de coña."
 
 # game/game_script_act2.rpy:4504
 translate spanish game_script_act2_7447f09e:
 
     # n b1c mh "Then again, maybe you just have a huge head..."
-    n b1c mh ""
+    n b1c mh "Será que tienes un cabezón exponencial..."
 
 # game/game_script_act2.rpy:4506
 translate spanish game_script_act2_fa69c17f:
 
     # mc "Bulbous?"
-    mc ""
+    mc "¿Abombado?"
 
 # game/game_script_act2.rpy:4507
 translate spanish game_script_act2_e3405728:
 
     # n mb "Bulbous."
-    n mb ""
+    n mb "Sí, abombado."
 
 # game/game_script_act2.rpy:4509
 translate spanish game_script_act2_ca168818:
 
     # n "In fact, gimme your phone."
-    n ""
+    n "De hecho, ¿me das tu móvil?"
 
 # game/game_script_act2.rpy:4511
 translate spanish game_script_act2_05500ff6_2:
 
     # mc "Huh?"
-    mc ""
+    mc "¿Qué?"
 
 # game/game_script_act2.rpy:4513
 translate spanish game_script_act2_25773401:
 
     # n "I'll show you."
-    n ""
+    n "Te lo voy a enseñar."
 
 # game/game_script_act2.rpy:4515
 translate spanish game_script_act2_49c2664c:
 
     # mc "Err...alright."
-    mc ""
+    mc "Eh... bueno, vale."
 
 # game/game_script_act2.rpy:4517
 translate spanish game_script_act2_d9a861b4:
 
     # "I hand it off to her."
-    ""
+    "Se lo doy."
 
 # game/game_script_act2.rpy:4527
 translate spanish game_script_act2_87fa9b6e:
 
     # n "There you go."
-    n ""
+    n "¡Ahí lo llevas!"
 
 # game/game_script_act2.rpy:4529
 translate spanish game_script_act2_d984d72f:
 
     # n "Bulbous!"
-    n ""
+    n "¡Abombado!"
 
 # game/game_script_act2.rpy:4531
 translate spanish game_script_act2_ce3d382c:
 
     # mc "Gee, thanks..."
-    mc ""
+    mc "Sí, gracias..."
 
 # game/game_script_act2.rpy:4533
 translate spanish game_script_act2_593ad290:
 
     # "The cold, while still frigid, is made more bearable with our new purchases."
-    ""
+    "Aunque el frío sigue igual de intenso, se hace más llevadero con esto encima."
 
 # game/game_script_act2.rpy:4536
 translate spanish game_script_act2_b6be63d6_1:
 
     # mc "So...where to?"
-    mc ""
+    mc "¿Dónde vamos?"
 
 # game/game_script_act2.rpy:4537
 translate spanish game_script_act2_546b5f26:
 
     # n b1a e1d mb "Let’s see where the wind takes us."
-    n b1a e1d mb ""
+    n b1a e1d mb "Veamos hacia dónde nos lleva el viento."
 
 # game/game_script_act2.rpy:4539
 translate spanish game_script_act2_39f77eaf:
 
     # mc "...That was an awful pun."
-    mc ""
+    mc "Los juegos de palabras no son lo tuyo."
 
 # game/game_script_act2.rpy:4540
 translate spanish game_script_act2_3af4e783:
 
     # n e4b b2a rhip rg2 mo zzz2 "I know."
-    n e4b b2a rhip rg2 mo zzz2 ""
+    n e4b b2a rhip rg2 mo zzz2 "Lo sé."
 
 # game/game_script_act2.rpy:4684
 translate spanish game_script_act2_bce9991d:
 
     # "Wow."
-    ""
+    "Guau."
 
 # game/game_script_act2.rpy:4685
 translate spanish game_script_act2_bb00d7cc:
 
     # "Just...wow."
-    ""
+    "Es que... guau."
 
 # game/game_script_act2.rpy:4686
 translate spanish game_script_act2_9cb5a53f:
 
     # "After a hell of a day out, we make our way back to my house."
-    ""
+    "Después de todo este día, parece imposible que estemos ya prácticamente en casa."
 
 # game/game_script_act2.rpy:4687
 translate spanish game_script_act2_e5fdaa94:
 
     # "We haven’t made much conversation on the walk home, instead opting to take in the beautiful scenery around us."
-    ""
+    "No es que hayamos sido los más habladores durante el camino. Nos hemos limitado a observar el paisaje que nos rodea."
 
 # game/game_script_act2.rpy:4688
 translate spanish game_script_act2_922e6a21:
 
     # "Mounds of soft, glistening snow cover swathes of ground and lay delicately on the leaves."
-    ""
+    "Los montones de la muy suave y brillante nieve que hay alrededor cubren grandes superficies en el suelo y pintan las hojas de blanco."
 
 # game/game_script_act2.rpy:4689
 translate spanish game_script_act2_183401b3:
 
     # "The light whirl of the cool, crisp breeze lightly grazes our faces - a welcome change from the hellish winds earlier."
-    ""
+    "Ya no hay vientos infernales, solo una leve y dulce brisa que nos acaricia la cara."
 
 # game/game_script_act2.rpy:4690
 translate spanish game_script_act2_d1aa336d:
 
     # "It’s really a beautiful sight to behold."
-    ""
+    "Ciego es aquel que no quiere ver... y esto se ve increíble."
 
 # game/game_script_act2.rpy:4691
 translate spanish game_script_act2_596d7758:
 
     # "Considering...everything...now would be the perfect time to spring my surprise."
-    ""
+    "Sabiendo... sabiendo todo esto... es hora de darle mi regalo."
 
 # game/game_script_act2.rpy:4692
 translate spanish game_script_act2_738c0597:
 
     # "I reach up and slowly pull the beanie off my head."
-    ""
+    "Me quito el gorro con lentitud."
 
 # game/game_script_act2.rpy:4694
 translate spanish game_script_act2_0c8d941b:
 
     # "Natsuki gives me a curious look."
-    ""
+    "Natsuki me mira con más preguntas que respuestas."
 
 # game/game_script_act2.rpy:4696
 translate spanish game_script_act2_c0fc9823:
 
     # mc "Hey, guess what?"
-    mc ""
+    mc "¿Sabes qué?"
 
 # game/game_script_act2.rpy:4697
 translate spanish game_script_act2_6d2c46d7:
 
     # n b1f mg "What?"
-    n b1f mg ""
+    n b1f mg "Dime."
 
 # game/game_script_act2.rpy:4700
 translate spanish game_script_act2_fb46d64e:
 
     # "I pull the scarf out of the beanie like I’m a magician pulling a rabbit out of a top hat."
-    ""
+    "Saco la bufanda del gorrito como si fuese un mago sacando un conejo de la chistera."
 
 # game/game_script_act2.rpy:4703
 translate spanish game_script_act2_3dfed1c6:
 
     # mc "You said this was your favourite colour, so..."
-    mc ""
+    mc "Como es tu color favorito..."
 
 # game/game_script_act2.rpy:4704
 translate spanish game_script_act2_06d36dc4:
 
     # n b1c me "You didn’t..."
-    n b1c me ""
+    n b1c me "No me..."
 
 # game/game_script_act2.rpy:4705
 translate spanish game_script_act2_8d3cd0bf:
 
     # n mg "Oh my God."
-    n mg ""
+    n mg "Dios santo..."
 
 # game/game_script_act2.rpy:4706
 translate spanish game_script_act2_21f95210:
 
     # n lhip rhip lg2 rg2 mb "Oh, you beautiful bastard."
-    n lhip rhip lg2 rg2 mb ""
+    n lhip rhip lg2 rg2 mb "Eres un cabronazo de los grandes."
 
 # game/game_script_act2.rpy:4709
 translate spanish game_script_act2_1cd5c6e5:
 
     # "She immediately wraps me in a warm embrace."
-    ""
+    "Casi al instante, me abraza con mucha fuerza."
 
 # game/game_script_act2.rpy:4711
 translate spanish game_script_act2_6ee1287b:
 
     # n mb "You didn’t have to, y’know."
-    n mb ""
+    n mb "Sabes que no tenías que hacerlo, ¿no?"
 
 # game/game_script_act2.rpy:4713
 translate spanish game_script_act2_c1eb4095:
 
     # mc "Hey, I wanted to."
-    mc ""
+    mc "No tenía... pero quería."
 
 # game/game_script_act2.rpy:4714
 translate spanish game_script_act2_c6fd1467:
 
     # mc "It was pricey, but worth it to be called a 'beautiful bastard'."
-    mc ""
+    mc "No ha sido barato, pero me vale si me llamas 'cabronazo de los grandes'."
 
 # game/game_script_act2.rpy:4715
 translate spanish game_script_act2_5c10c8b1:
 
     # n b1c e2a zzz1 mg "How much money do I have to feel guilty over you spending on me?"
-    n b1c e2a zzz1 mg ""
+    n b1c e2a zzz1 mg "¿Cuánto ha costado? Para sentirme culpable lo suficiente por tener que gastar en mí."
 
 # game/game_script_act2.rpy:4717
 translate spanish game_script_act2_dfd81e46_1:
 
     # mc "Uhh..."
-    mc ""
+    mc "Eh..."
 
 # game/game_script_act2.rpy:4720
 translate spanish game_script_act2_88356e36:
 
     # "I separate from Natsuki, looking for the price tag on the scarf."
-    ""
+    "Me aparto de ella y busco el precio de la bufanda."
 
 # game/game_script_act2.rpy:4721
 translate spanish game_script_act2_d80629c9:
 
     # "Oh, that doesn’t look right."
-    ""
+    "Oh, oh."
 
 # game/game_script_act2.rpy:4723
 translate spanish game_script_act2_5b8ff50a:
 
     # mc "Wait a second..."
-    mc ""
+    mc "Un momento..."
 
 # game/game_script_act2.rpy:4726
 translate spanish game_script_act2_d125eb85:
 
     # "I dig into my pocket, looking for the discarded price tag for the beanie."
-    ""
+    "Busco en el bolsillo del pantalón por si tengo ahí la etiqueta con el precio."
 
 # game/game_script_act2.rpy:4727
 translate spanish game_script_act2_5e1cb89f:
 
     # "That’s the exact price I paid..."
-    ""
+    "Conque esto es lo que he pagado..."
 
 # game/game_script_act2.rpy:4728
 translate spanish game_script_act2_9d8a2c49:
 
     # "Oh no."
-    ""
+    "Mierda."
 
 # game/game_script_act2.rpy:4730
 translate spanish game_script_act2_707cb473:
 
     # mc "Err...none, apparently."
-    mc ""
+    mc "Pues... no he pagado, parece ser."
 
 # game/game_script_act2.rpy:4731
 translate spanish game_script_act2_a7445489:
 
     # n e1a b1f me "Huh?"
-    n e1a b1f me ""
+    n e1a b1f me "¿Cómo?"
 
 # game/game_script_act2.rpy:4732
 translate spanish game_script_act2_8f725f32:
 
     # mc "You know how I hid it in my hat to surprise you with it?"
-    mc ""
+    mc "¿Te has fijado en que la tenía metida dentro del gorro?"
 
 # game/game_script_act2.rpy:4733
 translate spanish game_script_act2_c1dafb90:
 
     # n mg "Yeah..?"
-    n mg ""
+    n mg "Sí."
 
 # game/game_script_act2.rpy:4735
 translate spanish game_script_act2_c65ecbe0:
 
     # mc "Well...I guess the cashier didn’t know it was there."
-    mc ""
+    mc "Pues la he escondido tan bien que ni la propia cajera se ha dado cuenta."
 
 # game/game_script_act2.rpy:4736
 translate spanish game_script_act2_0cc85962:
 
     # mc "And I was too distracted to notice."
-    mc ""
+    mc "Y yo no me he dado cuenta, por lo que no pude avisar de que ahí había una bufanda."
 
 # game/game_script_act2.rpy:4742
 translate spanish game_script_act2_ac917f42:
 
     # "Natsuki does a double take."
-    ""
+    "Natsuki se queda boquiabierta."
 
 # game/game_script_act2.rpy:4744
 translate spanish game_script_act2_5b44f0cd:
 
     # n ml "You shoplifted the scarf?!"
-    n ml ""
+    n ml "¿Acabas de tangar la bufanda, [player]?"
 
 # game/game_script_act2.rpy:4745
 translate spanish game_script_act2_075f9bbd:
 
     # mc "Accidentally!"
-    mc ""
+    mc "¡No ha sido aposta!"
 
 # game/game_script_act2.rpy:4746
 translate spanish game_script_act2_ff58810f:
 
     # mc "Oh, God."
-    mc ""
+    mc "Dios mío..."
 
 # game/game_script_act2.rpy:4751
 translate spanish game_script_act2_fbc38e9d:
 
     # n b1a e1a mc zzz1 "You idiot!"
-    n b1a e1a mc zzz1 ""
+    n b1a e1a mc zzz1 "¡Serás imbécil!"
 
 # game/game_script_act2.rpy:4752
 translate spanish game_script_act2_83b4a560:
 
     # n rhip rg2 b1d mb "Only you could {i}accidentally{/i} steal something!"
-    n rhip rg2 b1d mb ""
+    n rhip rg2 b1d mb "¡Cuando digo que eres el único es que eres 'el único' que roba 'sin querer' de una tienda!"
 
 # game/game_script_act2.rpy:4754
 translate spanish game_script_act2_a75a7dfb:
 
     # mc "I have to take it back!"
-    mc ""
+    mc "¡Hay que ir a devolverla!"
 
 # game/game_script_act2.rpy:4756
 translate spanish game_script_act2_186f1a9d:
 
     # mc "Or at least go back and pay for it."
-    mc ""
+    mc "O pagar por ella al menos..."
 
 # game/game_script_act2.rpy:4759
 translate spanish game_script_act2_87ec32f1:
 
     # "Natsuki goes silent."
-    ""
+    "Natsuki se queda pensativa."
 
 # game/game_script_act2.rpy:4761
 translate spanish game_script_act2_3346145f:
 
     # n mg "Wait..."
-    n mg ""
+    n mg "Espera...,"
 
 # game/game_script_act2.rpy:4762
 translate spanish game_script_act2_4f45900e:
 
     # n rdown rg1 mh "If you do...what if they call the police?"
-    n rdown rg1 mh ""
+    n rdown rg1 mh "¿y si vas... y llaman a la poli?"
 
 # game/game_script_act2.rpy:4763
 translate spanish game_script_act2_7c4ca734:
 
     # n b2b "I don’t think you should risk getting yourself in trouble over this, [player]."
-    n b2b ""
+    n b2b "No creo que arriesgarte por esto y meterte en problemas sea la mejor opción, [player]."
 
 # game/game_script_act2.rpy:4765
 translate spanish game_script_act2_da383750:
 
     # mc "God, I don’t know."
-    mc ""
+    mc "Joder, no tengo ni idea..."
 
 # game/game_script_act2.rpy:4766
 translate spanish game_script_act2_2fdc94e8:
 
     # mc "It {i}was{/i} a mistake."
-    mc ""
+    mc "Ha sido sin querer, eso es innegable."
 
 # game/game_script_act2.rpy:4767
 translate spanish game_script_act2_5f0c9b89:
 
     # mc "Crap..."
-    mc ""
+    mc "Mierda..."
 
 # game/game_script_act2.rpy:4768
 translate spanish game_script_act2_188f81a5:
 
     # mc "Do we keep it?"
-    mc ""
+    mc "¿Nos la quedamos?"
 
 # game/game_script_act2.rpy:4770
 translate spanish game_script_act2_f5b132ba:
 
     # "I look to her for advice."
-    ""
+    "La miro buscando ayuda."
 
 # game/game_script_act2.rpy:4772
 translate spanish game_script_act2_66827d67:
 
     # n e1b mg "It’d be safer to, right?"
-    n e1b mg ""
+    n e1b mg "Creo que es lo más seguro."
 
 # game/game_script_act2.rpy:4774
 translate spanish game_script_act2_280754bf:
 
     # mc "I...should at least pay."
-    mc ""
+    mc "Creo que... al menos podría pagarla."
 
 # game/game_script_act2.rpy:4775
 translate spanish game_script_act2_e697dd62:
 
     # mc "But I don’t know if I could even afford it after our dinner."
-    mc ""
+    mc "Aunque no creo que me llegue."
 
 # game/game_script_act2.rpy:4776
 translate spanish game_script_act2_3695c6cb:
 
     # n e1a mg "Maybe we should...y’know..."
-    n e1a mg ""
+    n e1a mg "Puede que... no sé...,"
 
 # game/game_script_act2.rpy:4782
 translate spanish game_script_act2_ac719898:
 
     # "She dons her ill-gotten scarf."
-    ""
+    "Se pone la bufanda robada sin querer."
 
 # game/game_script_act2.rpy:4784
 translate spanish game_script_act2_fe4271b1:
 
     # n e1b mh "...forget about it?"
-    n e1b mh ""
+    n e1b mh "podamos pasar un tupido velo."
 
 # game/game_script_act2.rpy:4786
 translate spanish game_script_act2_813271bf:
 
     # mc "I suppose..."
-    mc ""
+    mc "Ah, ya..."
 
 # game/game_script_act2.rpy:4788
 translate spanish game_script_act2_7d8f2ac8:
 
     # mc "Hey, at least it looks nice on you."
-    mc ""
+    mc "Bueno, por lo menos te queda bien."
 
 # game/game_script_act2.rpy:4790
 translate spanish game_script_act2_f1db25be:
 
     # "Crime has never been so pretty."
-    ""
+    "Cometer un crimen nunca había sido tan bonito."
 
 # game/game_script_act2.rpy:4792
 translate spanish game_script_act2_40e5bbe4:
 
     # n e1a mg "Thanks, [player]."
-    n e1a mg ""
+    n e1a mg "Gracias, [player]."
 
 # game/game_script_act2.rpy:4793
 translate spanish game_script_act2_8d80a35f:

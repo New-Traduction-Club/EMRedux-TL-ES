@@ -782,163 +782,163 @@ translate spanish game_script_act2_60160cc7:
 translate spanish game_script_act2_398e8c3d:
 
     # "It’s also got a matching scarf draped around its neck."
-    ""
+    "Lo gracioso es que, junto al gorro, hay una bufanda que va a conjunto."
 
 # game/game_script_act2.rpy:4444
 translate spanish game_script_act2_fc314cf9:
 
     # "Yanking the hat off, I hold it over my head as if it were a crown."
-    ""
+    "Pongo el gorrito encima de mi cabeza cual corona."
 
 # game/game_script_act2.rpy:4447
 translate spanish game_script_act2_719aa6b2:
 
     # mc "Hey Nat, whadda you think of this?"
-    mc ""
+    mc "Nat, ¿te mola?"
 
 # game/game_script_act2.rpy:4448
 translate spanish game_script_act2_0cb4c105:
 
     # n e2a b1c mc "Oooh, that’s like, my favourite colour!"
-    n e2a b1c mc ""
+    n e2a b1c mc "¡Anda, si es mi color favorito!"
 
 # game/game_script_act2.rpy:4450
 translate spanish game_script_act2_bee17a36:
 
     # mc "Huh, I always assumed your favourite colour was pink."
-    mc ""
+    mc "Ah, pues yo siempre te agenciaba el rosa."
 
 # game/game_script_act2.rpy:4451
 translate spanish game_script_act2_30cd44a3:
 
     # n b1f e1d mo "{i}I actually hate pink, in case you couldn't tell.{/i}"
-    n b1f e1d mo ""
+    n b1f e1d mo "De hecho, odio el rosa... si es que no te has dado cuenta aún."
 
 # game/game_script_act2.rpy:4455
 translate spanish game_script_act2_6305a087:
 
     # "Her favourite colour, huh?"
-    ""
+    "Conque su color favorito, ¿eh?"
 
 # game/game_script_act2.rpy:4456
 translate spanish game_script_act2_f811104a:
 
     # "I impulsively unwrap the scarf and take it with me, stuffing it into the hat as I do so."
-    ""
+    "Le quito la bufanda al maniquí y la meto dentro del gorro a presión."
 
 # game/game_script_act2.rpy:4457
 translate spanish game_script_act2_c8f23a1e:
 
     # "Approaching the other till, I hand the hat to the cashier."
-    ""
+    "En la otra caja, le doy a la cajera mi gorrito."
 
 # game/game_script_act2.rpy:4459
 translate spanish game_script_act2_c0bfe202:
 
     # "Natsuki calls to me from her till."
-    ""
+    "Desde su caja, Natsuki me llama."
 
 # game/game_script_act2.rpy:4461
 translate spanish game_script_act2_8593fcf8:
 
     # n mh "Hey [player], d’you think you could afford these?"
-    n mh ""
+    n mh "¿Cómo vas de dinero para llevártelos, [player]?"
 
 # game/game_script_act2.rpy:4464
 translate spanish game_script_act2_39e8a6d6:
 
     # "She triumphantly waves around a pair of bright purple earmuffs."
-    ""
+    "Aletea un par de orejeras de color morado con brillitos."
 
 # game/game_script_act2.rpy:4466
 translate spanish game_script_act2_9ae0b4e0:
 
     # mc "Didn’t you just tell me you were done spending my money, not two minutes ago?"
-    mc ""
+    mc "¿No habías dicho hace no menos de dos minutos que ya se había acabado el gastar de mi dinero?"
 
 # game/game_script_act2.rpy:4467
 translate spanish game_script_act2_3ecef411:
 
     # n b1c e1d mg "Hey, I never asked you to buy them!"
-    n b1c e1d mg ""
+    n b1c e1d mg "¡No te he pedido que los compres!"
 
 # game/game_script_act2.rpy:4468
 translate spanish game_script_act2_7e07433c:
 
     # n b2a mb "I just wanted to know if you could afford them."
-    n b2a mb ""
+    n b2a mb "Quería saber si te llegaba."
 
 # game/game_script_act2.rpy:4469
 translate spanish game_script_act2_91558db6:
 
     # n mg "Y'know, being financially responsible and all."
-    n mg ""
+    n mg "Ya sabes, económicamente responsable."
 
 # game/game_script_act2.rpy:4471
 translate spanish game_script_act2_c156a907:
 
     # mc "Very funny."
-    mc ""
+    mc "Qué graciosa."
 
 # game/game_script_act2.rpy:4473
 translate spanish game_script_act2_e640d4d1:
 
     # "She places the earmuffs back in place on its mannequin."
-    ""
+    "Deja las orejeras en el maniquí del que procedían."
 
 # game/game_script_act2.rpy:4476
 translate spanish game_script_act2_0896c7a4:
 
     # "Looking back to my till, I glance at the price I’m in the process of paying and immediately gulp."
-    ""
+    "De vuelta a mi caja, echo un vistazo al precio que estoy a punto de pagar y tragar saliva es mi única opción."
 
 # game/game_script_act2.rpy:4478
 translate spanish game_script_act2_5f066c24:
 
     # "My contactless card beeps, signalling my imminent bankruptcy."
-    ""
+    "Mi tarjeta contactless se acerca al datáfono y se escucha un pitido, indicando que me queda entre poco y nada de dinero."
 
 # game/game_script_act2.rpy:4479
 translate spanish game_script_act2_b40f33fa:
 
     # "The cashier bags my hat, before sending me on my way."
-    ""
+    "La cajera mete mi gorrito en una bolsa antes de dármelo."
 
 # game/game_script_act2.rpy:4493
 translate spanish game_script_act2_6d381d62:
 
     # "Natsuki follows,{w=0.3} {nw}"
-    ""
+    "Natsuki va detrás,{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:4495
 translate spanish game_script_act2_18aaab9b:
 
     # extend "already pulling her gloves on."
-    extend ""
+    extend "ya poniéndose los guantes."
 
 # game/game_script_act2.rpy:4496
 translate spanish game_script_act2_5bdb2376:
 
     # "She hands my pair to me."
-    ""
+    "Me da mi par."
 
 # game/game_script_act2.rpy:4497
 translate spanish game_script_act2_be938c22:
 
     # "I have to awkwardly push up my jacket’s sleeves in order to pull the gloves on properly."
-    ""
+    "Tengo que subirme las mangas de la chaqueta para ponérmelos."
 
 # game/game_script_act2.rpy:4498
 translate spanish game_script_act2_17ca7148:
 
     # "I consider handing the scarf to her right now, but I think I’ll wait."
-    ""
+    "Había pensado en darle la bufanda ya, pero creo que me voy a esperar."
 
 # game/game_script_act2.rpy:4499
 translate spanish game_script_act2_f07eeb5a:
 
     # "There's gotta be a better moment."
-    ""
+    "Debe de haber un momento más óptimo para hacerlo."
 
 # game/game_script_act2.rpy:4500
 translate spanish game_script_act2_7f3eedb6:

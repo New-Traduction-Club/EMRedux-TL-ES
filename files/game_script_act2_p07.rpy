@@ -1496,7 +1496,7 @@ translate spanish game_script_act2_f386db0d:
 translate spanish game_script_act2_d13c9369:
 
     # n mg "I love you."
-    n mg "Te quiero."
+    n mg "Me gustas."
 
 # game/game_script_act2.rpy:4817
 translate spanish game_script_act2_824f7e0a:
@@ -1514,325 +1514,325 @@ translate spanish game_script_act2_62431680:
 translate spanish game_script_act2_e8f41437:
 
     # mc "Nat?"
-    mc ""
+    mc "¿Nat?"
 
 # game/game_script_act2.rpy:4825
 translate spanish game_script_act2_967188b6:
 
     # n "Y-yeah...that's me."
-    n ""
+    n "Esa... esa soy yo."
 
 # game/game_script_act2.rpy:4827
 translate spanish game_script_act2_1cd98efc:
 
     # mc "Did you just-"
-    mc ""
+    mc "¿Acabas de...?"
 
 # game/game_script_act2.rpy:4829
 translate spanish game_script_act2_ea2b7727:
 
     # n "Mhm."
-    n ""
+    n "Ajá."
 
 # game/game_script_act2.rpy:4831
 translate spanish game_script_act2_1770d496:
 
     # mc "I, uhh...huh."
-    mc ""
+    mc "Yo... eh, verás..."
 
 # game/game_script_act2.rpy:4833
 translate spanish game_script_act2_962ceed0:
 
     # mc "Natsuki...?"
-    mc ""
+    mc "¿Nat... suki...?"
 
 # game/game_script_act2.rpy:4835
 translate spanish game_script_act2_eb0f3486:
 
     # n "I had to get it off my chest at some point."
-    n ""
+    n "Tenía que soltarlo antes o después."
 
 # game/game_script_act2.rpy:4837
 translate spanish game_script_act2_2c9a23fd:
 
     # mc "Wow..."
-    mc ""
+    mc "Vaya..."
 
 # game/game_script_act2.rpy:4839
 translate spanish game_script_act2_b2a4eb12:
 
     # "I step back for a moment, still trying to register what I've just heard."
-    ""
+    "Doy un paso atrás e intento procesar lo que acabo de escuchar."
 
 # game/game_script_act2.rpy:4840
 translate spanish game_script_act2_df426c39:
 
     # "My body, ignoring the layers of warmth put onto it, begins to shiver."
-    ""
+    "Siento mi cuerpo temblar, ignorando las capas de ropa que lleva encima."
 
 # game/game_script_act2.rpy:4841
 translate spanish game_script_act2_bc3effc2:
 
     # "My heart is pounding against the edges of my ribcage."
-    ""
+    "Mi corazón late tan fuerte que golpea una y otra vez con brusquedad la caja torácica."
 
 # game/game_script_act2.rpy:4844
 translate spanish game_script_act2_7386c4cb:
 
     # n "Don't look so surprised!"
-    n ""
+    n "¡No te hagas el sorprendido!"
 
 # game/game_script_act2.rpy:4846
 translate spanish game_script_act2_bc72158e:
 
     # n "After everything that's happened..."
-    n ""
+    n "Después de todo lo ocurrido...,"
 
 # game/game_script_act2.rpy:4847
 translate spanish game_script_act2_7297b92e:
 
     # n "After everything that, y’know, {nw}"
-    n ""
+    n "y después de todo lo que has... {nw}"
 
 # game/game_script_act2.rpy:4849
 translate spanish game_script_act2_22417eed:
 
     # extend "{i}you've{/i} done for me..."
-    extend ""
+    extend "has hecho por mí...,"
 
 # game/game_script_act2.rpy:4851
 translate spanish game_script_act2_5d386dae:
 
     # n "Anyone in my position would be stupid not to."
-    n ""
+    n "creo que cualquiera que se encuentre en mi postura haría lo mismo."
 
 # game/game_script_act2.rpy:4853
 translate spanish game_script_act2_883d21ff:
 
     # n "So yeah..."
-    n ""
+    n "Así que...,"
 
 # game/game_script_act2.rpy:4855
 translate spanish game_script_act2_77dfc928:
 
     # n "Fuck...I think I might actually love you."
-    n ""
+    n "sí, joder, me gustas."
 
 # game/game_script_act2.rpy:4857
 translate spanish game_script_act2_c242c75b:
 
     # mc "I'm s-sorry..."
-    mc ""
+    mc "L-Lo siento..."
 
 # game/game_script_act2.rpy:4859
 translate spanish game_script_act2_0383ff47:
 
     # n "Oh my God, do you ever stop apologizing?"
-    n ""
+    n "Dios santo, ¿quieres parar de disculparte de una vez?"
 
 # game/game_script_act2.rpy:4861
 translate spanish game_script_act2_a102ba46:
 
     # n "Just say you don't like me back and let's get this over with."
-    n ""
+    n "Con que me digas que no te gusto es más que suficiente."
 
 # game/game_script_act2.rpy:4863
 translate spanish game_script_act2_2d5a22f2:
 
     # n "Better than leaving me in suspense."
-    n ""
+    n "Mejor eso a dejarme en ascuas."
 
 # game/game_script_act2.rpy:4865
 translate spanish game_script_act2_c616546f:
 
     # mc "W-wait! Wait!"
-    mc ""
+    mc "¡U-Un momento!"
 
 # game/game_script_act2.rpy:4866
 translate spanish game_script_act2_b2472b88:
 
     # mc "I didn't mean..."
-    mc ""
+    mc "No quería..."
 
 # game/game_script_act2.rpy:4868
 translate spanish game_script_act2_a3dc5fe1:
 
     # mc "I didn't mean it like that!"
-    mc ""
+    mc "¡No pretendía que sonase así!"
 
 # game/game_script_act2.rpy:4869
 translate spanish game_script_act2_fa948eec:
 
     # mc "Oh God, uhm, just give me a second."
-    mc ""
+    mc "Por dios, quiero... déjame un momentito."
 
 # game/game_script_act2.rpy:4871
 translate spanish game_script_act2_025cb402:
 
     # "My mind can barely process what just happened."
-    ""
+    "No puedo procesar lo que está ocurriendo."
 
 # game/game_script_act2.rpy:4872
 translate spanish game_script_act2_e795ad5b:
 
     # "Natsuki just confessed to me."
-    ""
+    "¿Se me acaba de confesar Natsuki?"
 
 # game/game_script_act2.rpy:4874
 translate spanish game_script_act2_5b0c379d:
 
     # "I didn't even think for a second that she might reciprocate."
-    ""
+    "Ni siquiera tenía claro que yo pudiese gustarle a ella."
 
 # game/game_script_act2.rpy:4875
 translate spanish game_script_act2_a34da9e3:
 
     # "But here I am, standing here {i}not saying anything{/i} when she made the first move!"
-    ""
+    "¡Y aquí estoy yo, sin decirle NADA a la chica que acaba de dar el primer paso!"
 
 # game/game_script_act2.rpy:4876
 translate spanish game_script_act2_46f3b77d:
 
     # "I have to say something..."
-    ""
+    "Di algo, vamos..."
 
 # game/game_script_act2.rpy:4878
 translate spanish game_script_act2_7136c946:
 
     # mc "I mean..."
-    mc ""
+    mc "Es que...,"
 
 # game/game_script_act2.rpy:4880
 translate spanish game_script_act2_83078e78:
 
     # mc "I love you."
-    mc ""
+    mc "a mí también me gustas."
 
 # game/game_script_act2.rpy:4882
 translate spanish game_script_act2_a2baaf17:
 
     # mc "{i}Too{/i}, I love you too."
-    mc ""
+    mc "T-Tambien me gustas. Me gustas también."
 
 # game/game_script_act2.rpy:4883
 translate spanish game_script_act2_7e0d6ffc:
 
     # mc "Obviously."
-    mc ""
+    mc "Eso, sí."
 
 # game/game_script_act2.rpy:4885
 translate spanish game_script_act2_415dc081:
 
     # n "You...do?"
-    n ""
+    n "¿En... en serio?"
 
 # game/game_script_act2.rpy:4887
 translate spanish game_script_act2_7ee22fb4:
 
     # mc "Of course I do!"
-    mc ""
+    mc "¡Pues claro!"
 
 # game/game_script_act2.rpy:4888
 translate spanish game_script_act2_3f742102:
 
     # mc "I’m just kinda stumbling over my words because..."
-    mc ""
+    mc "Es que me estoy tropezando con mis propias palabras porque...,"
 
 # game/game_script_act2.rpy:4889
 translate spanish game_script_act2_aaaf2e84:
 
     # mc "I mean, really?"
-    mc ""
+    mc "¿es en serio, Natsuki?"
 
 # game/game_script_act2.rpy:4890
 translate spanish game_script_act2_81709362:
 
     # mc "You do?"
-    mc ""
+    mc "¿Te gusto de verdad?"
 
 # game/game_script_act2.rpy:4892
 translate spanish game_script_act2_eefa66cd:
 
     # n "Of course I do, I’ve said it twice now!"
-    n ""
+    n "¡Pues claro, idiota! Me has hecho decirlo dos veces "
 
 # game/game_script_act2.rpy:4894
 translate spanish game_script_act2_cd421601:
 
     # mc "Well...great!"
-    mc ""
+    mc "Pues... ¡genial!"
 
 # game/game_script_act2.rpy:4896
 translate spanish game_script_act2_844ffc46:
 
     # "I throw my hands up in the air."
-    ""
+    "Levanto las manos."
 
 # game/game_script_act2.rpy:4898
 translate spanish game_script_act2_7d10d5de:
 
     # mc "I love you?"
-    mc ""
+    mc "¿Te quiero entonces?"
 
 # game/game_script_act2.rpy:4900
 translate spanish game_script_act2_5d11804e:
 
     # n "I love you too?!"
-    n ""
+    n "¡¿Yo también te quiero?!"
 
 # game/game_script_act2.rpy:4902
 translate spanish game_script_act2_91366f40:
 
     # n "Holy shit!"
-    n ""
+    n "¡Jodeeer!"
 
 # game/game_script_act2.rpy:4904
 translate spanish game_script_act2_619e3ead:
 
     # n "IloveyouIloveyouIloveyou!"
-    n ""
+    n "¡Te quiero, te quiero, te quiero, te quiero, te quiero, te quiero!"
 
 # game/game_script_act2.rpy:4906
 translate spanish game_script_act2_8407f6d5:
 
     # mc "It feels weird to say anything else now!"
-    mc ""
+    mc "¡Decir algo distinto quedaría fuera de lugar!"
 
 # game/game_script_act2.rpy:4907
 translate spanish game_script_act2_a450bdf9:
 
     # mc "I mean, 'I love you' just sounds so natural!"
-    mc ""
+    mc "En plan, ¡'te quiero' suena de lujo!"
 
 # game/game_script_act2.rpy:4909
 translate spanish game_script_act2_f02114e4:
 
     # n "Why are we, well not {i}shouting{/i}, but sort of raising our voices?!"
-    n ""
+    n "¡¿Y por qué estamos, aunque no gritando, alzando las voces de esta manera?!"
 
 # game/game_script_act2.rpy:4911
 translate spanish game_script_act2_9c7caffd:
 
     # mc "I don’t know! Should we stop?!"
-    mc ""
+    mc "¡Pues ni idea! ¡¿Paramos de hacerlo?!"
 
 # game/game_script_act2.rpy:4913
 translate spanish game_script_act2_b38208ef:
 
     # n "Might be an idea!"
-    n ""
+    n "¡Estaría interesante!"
 
 # game/game_script_act2.rpy:4915
 translate spanish game_script_act2_a3ef5b48:
 
     # mc "Okay!"
-    mc ""
+    mc "¡Vale!"
 
 # game/game_script_act2.rpy:4926
 translate spanish game_script_act2_b7eb9d9c:
 
     # "Our game of...whatever this is...concludes in laughter."
-    ""
+    "Nuestro jueguecito de... 'lo que sea', ja concluido en reírnos a carcajadas."
 
 # game/game_script_act2.rpy:4928
 translate spanish game_script_act2_fc1d1c17:

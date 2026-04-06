@@ -1430,85 +1430,85 @@ translate spanish game_script_act2_40e5bbe4:
 translate spanish game_script_act2_8d80a35f:
 
     # n e1d mh "Even if you did accidentally steal it...{w=0.4}{nw}"
-    n e1d mh ""
+    n e1d mh "Aunque lo hayas robado 'sin querer'...{w=0.4} {nw}"
 
 # game/game_script_act2.rpy:4795
 translate spanish game_script_act2_88104b47:
 
     # extend "it’s a nice gesture."
-    extend ""
+    extend "ha sido un gesto precioso."
 
 # game/game_script_act2.rpy:4799
 translate spanish game_script_act2_19d930a1:
 
     # "She gives me a grin, and we resume our walk back home."
-    ""
+    "Me sonríe y seguimos nuestro habitual recorrido a casa."
 
 # game/game_script_act2.rpy:4800
 translate spanish game_script_act2_a7f9e7fe:
 
     # "Bracing for the cold, I pull the beanie back over my head."
-    ""
+    "Con el frío que hace, me vuelvo a poner el gorrito en la cabeza."
 
 # game/game_script_act2.rpy:4802
 translate spanish game_script_act2_708b8896:
 
     # "I consider trying to carry the conversation further, but the silence is nice too."
-    ""
+    "Aunque he pensado en seguir hablando de lo mismo... el silencio sabe hablar muy bien también."
 
 # game/game_script_act2.rpy:4803
 translate spanish game_script_act2_ed06300d:
 
     # "At least I can weigh up my options regarding the scarf."
-    ""
+    "Gracias a eso, puedo pensar con tranquilidad qué hacer con respecto a la bufanda."
 
 # game/game_script_act2.rpy:4805
 translate spanish game_script_act2_b25eaa7a:
 
     # "I {i}could{/i} return it, or at least pay for it and apologize."
-    ""
+    "Podría devolverla... o pagarla y disculparme."
 
 # game/game_script_act2.rpy:4806
 translate spanish game_script_act2_b2c547e3:
 
     # "But on the off-chance that the police get involved..."
-    ""
+    "Pero en el improbable caso de que la policía se meta en el asunto...,"
 
 # game/game_script_act2.rpy:4807
 translate spanish game_script_act2_5c9d5e33:
 
     # "I’d be fine with it normally, but considering Natsuki’s..."
-    ""
+    "siendo yo no me importaría, pero ahora está Natsuki..."
 
 # game/game_script_act2.rpy:4809
 translate spanish game_script_act2_a1efac39:
 
     # "Yeah, I probably shouldn’t."
-    ""
+    "Pues nada, que se quede todo como está."
 
 # game/game_script_act2.rpy:4811
 translate spanish game_script_act2_f386db0d:
 
     # "At least for her sake, it’d be better in the long ru--{nw}"
-    ""
+    "Con esto nos evitamos problemas a corto y a largo pl{nw}"
 
 # game/game_script_act2.rpy:4815
 translate spanish game_script_act2_d13c9369:
 
     # n mg "I love you."
-    n mg ""
+    n mg "Te quiero."
 
 # game/game_script_act2.rpy:4817
 translate spanish game_script_act2_824f7e0a:
 
     # mc "Awww, that's--{i}wait, what{/i}?"
-    mc ""
+    mc "Aiii, pero qué cos... espera, ¡¿qué?!"
 
 # game/game_script_act2.rpy:4820
 translate spanish game_script_act2_62431680:
 
     # "I stare at her, my expression filled with bewilderment."
-    ""
+    "Me la quedo mirando, completamente aturdido."
 
 # game/game_script_act2.rpy:4823
 translate spanish game_script_act2_e8f41437:

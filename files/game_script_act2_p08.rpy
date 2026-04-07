@@ -2,517 +2,517 @@
 translate spanish game_script_act2_d8f38b12:
 
     # "I recoil, stunned."
-    ""
+    "Retrocedo por el aturdimiento."
 
 # game/game_script_act2.rpy:5009
 translate spanish game_script_act2_c190fc0b:
 
     # mc "Oh, you son of a--"
-    mc ""
+    mc "Serás hija de pu..."
 
 # game/game_script_act2.rpy:5010
 translate spanish game_script_act2_a6305aec:
 
     # n e1a mc "HA! Right in your dumb face!"
-    n e1a mc ""
+    n e1a mc "¡TA! ¡En tu cara, pringao!"
 
 # game/game_script_act2.rpy:5013
 translate spanish game_script_act2_78eb1774:
 
     # "That's it. If she wants a snowball fight, I'll give her a snowball fight."
-    ""
+    "La has cagado. ¿Quieres pelea con bolas de nieve? Tendrás pelea con bolas de nieve."
 
 # game/game_script_act2.rpy:5020
 translate spanish game_script_act2_0a840e3f:
 
     # "I duck for cover behind a bush, as she’s already packing another."
-    ""
+    "Busco cobertura tras un arbusto mientras trata de recargar otra bola."
 
 # game/game_script_act2.rpy:5021
 translate spanish game_script_act2_f28388e8:
 
     # "I begin to collect my own."
-    ""
+    "No me quedo atrás y aprovecho para cargar una."
 
 # game/game_script_act2.rpy:5029
 translate spanish game_script_act2_267b2f40:
 
     # "Her footsteps crunch in the snow as she creeps toward me."
-    ""
+    "Sus pasos crujen por la nieve y es por eso que noto que se acerca."
 
 # game/game_script_act2.rpy:5037
 translate spanish game_script_act2_6a99d6cb:
 
     # "As I poke my head around, I’m clipped by Natsuki’s next snowball."
-    ""
+    "Tal y como saco la cabeza, me impacta otra bola de Natsuki."
 
 # game/game_script_act2.rpy:5038
 translate spanish game_script_act2_cfb6f690:
 
     # "Returning fire on her, I hit her square in the back as she retreats towards the back of the car."
-    ""
+    "Le disparo la mía al mismo tiempo, dándole justo en la espalda, y la veo retroceder hacia el coche."
 
 # game/game_script_act2.rpy:5045
 translate spanish game_script_act2_2294c62e:
 
     # "Natsuki lets out a yelp, and falls to the ground."
-    ""
+    "Suelta un grito y se cae al suelo."
 
 # game/game_script_act2.rpy:5046
 translate spanish game_script_act2_52fb81ec:
 
     # "Natsuki, now on her hands and knees holds her back in pain."
-    ""
+    "Veo a Natsuki en el suelo, de rodillas, con las manos en la espalda y una expresión de dolor muy fuerte."
 
 # game/game_script_act2.rpy:5048
 translate spanish game_script_act2_f8e655e2:
 
     # mc "Oh God, are you okay?!"
-    mc ""
+    mc "Ay, Dios, ¡¿estás bien?!"
 
 # game/game_script_act2.rpy:5050
 translate spanish game_script_act2_9e5d1ce9:
 
     # "Oh shit oh shit oh shit."
-    ""
+    "Mierda, mierda, mierda, mierda, mierda."
 
 # game/game_script_act2.rpy:5051
 translate spanish game_script_act2_02fb360a:
 
     # "I rush over to her side, taking a knee to make sure she’s not injured."
-    ""
+    "Corro hacia su posición y me arrodillo al lado suya para asegurarme de no haberla herido."
 
 # game/game_script_act2.rpy:5054
 translate spanish game_script_act2_d61eb1f7:
 
     # mc "Natsuki, I’m so sorr--{nw}"
-    mc ""
+    mc "Natsuki, lo sien...{nw}"
 
 # game/game_script_act2.rpy:5065
 translate spanish game_script_act2_bb511293:
 
     # "Natsuki scoops a mound of snow up and throws it at my face."
-    ""
+    "Natsuki me tira a la cara un montón de nieve."
 
 # game/game_script_act2.rpy:5066
 translate spanish game_script_act2_f596855a:
 
     # "She hops back onto her feet and backs away, giggling."
-    ""
+    "Mientras se ríe, pega un saltito para ponerse en pie y sale a correr."
 
 # game/game_script_act2.rpy:5067
 translate spanish game_script_act2_5f23bdf4:
 
     # "Stunned and covered in snow, I trip backwards and knock into the--{nw}"
-    ""
+    "Aturdido y con nieve hasta en el alma, tropiezo y voy a parar justo en el...{nw}"
 
 # game/game_script_act2.rpy:5076
 translate spanish game_script_act2_2e0004e5:
 
     # "The car's alarm blares out, and Natsuki and I trade 'oh shit' looks."
-    ""
+    "Empieza a sonar la alarma del coche y Natsuki me mira, al igual que yo a ella, con cara de 'mierda, corre'."
 
 # game/game_script_act2.rpy:5077
 translate spanish game_script_act2_a5a27146:
 
     # "In unison, we bolt down the street, leaving behind the fruits of our mischief."
-    ""
+    "Nuestra travesura debe quedar atrás, por lo que nuestro primer pensamiento es salir corriendo calle abajo."
 
 # game/game_script_act2.rpy:5093
 translate spanish game_script_act2_c0101c13:
 
     # "After a couple of minutes, I slow down, practically gasping for air."
-    ""
+    "Tras un par de minutos corriendo, bajamos el ritmo porque empezábamos a suplicar ya por un poco de aire en los pulmones."
 
 # game/game_script_act2.rpy:5095
 translate spanish game_script_act2_9f5b2393:
 
     # mc "You {i}knew{/i} that would get my guard down, didn’t you?"
-    mc ""
+    mc "Sabías cómo hacer que baje la guardia, ¿no?"
 
 # game/game_script_act2.rpy:5096
 translate spanish game_script_act2_a5f07dd1:
 
     # n b2a e1a mg zzz1 "You’re too predictable, [player]."
-    n b2a e1a mg zzz1 ""
+    n b2a e1a mg zzz1 "Te leo como un libro abierto, [player]."
 
 # game/game_script_act2.rpy:5097
 translate spanish game_script_act2_40f9fe48:
 
     # n b1c ldown lg1 mb "But hey, that’s why I love you!"
-    n b1c ldown lg1 mb ""
+    n b1c ldown lg1 mb "Pero, ¡es justo por eso que te quiero tanto!"
 
 # game/game_script_act2.rpy:5099
 translate spanish game_script_act2_28f6d6bc:
 
     # "We stand silent for a second, unsure of what to do or say now."
-    ""
+    "Nos quedamos callados porque no sabemos cómo seguir con la conversación."
 
 # game/game_script_act2.rpy:5101
 translate spanish game_script_act2_f6ef0537:
 
     # mc "Well...home?"
-    mc ""
+    mc "Pues, eh... ¿a casa ya?"
 
 # game/game_script_act2.rpy:5102
 translate spanish game_script_act2_2cecba84:
 
     # n b2a mb "Yeah."
-    n b2a mb ""
+    n b2a mb "Claro."
 
 # game/game_script_act2.rpy:5103
 translate spanish game_script_act2_aec29ad1:
 
     # n mg "Quickly would be good."
-    n mg ""
+    n mg "Rápido, a poder ser."
 
 # game/game_script_act2.rpy:5104
 translate spanish game_script_act2_d9ca360d:
 
     # n b1c mh "Fun as it was, my gloves are soaked now."
-    n b1c mh ""
+    n b1c mh "Tengo los guantes chorreando, aunque me lo he pasado genial."
 
 # game/game_script_act2.rpy:5106
 translate spanish game_script_act2_79cdf4f3:
 
     # mc "Good idea."
-    mc ""
+    mc "Pues vamos."
 
 # game/game_script_act2.rpy:5109
 translate spanish game_script_act2_47973f80:
 
     # "She holds out her soggy hand for me, and I take it graciously."
-    ""
+    "Me extiende su mano empapada y se la cojo mientras me río."
 
 # game/game_script_act2.rpy:5111
 translate spanish game_script_act2_a3820ad9:
 
     # "We walk the last leg of our journey home together, with a hefty weight off our chests."
-    ""
+    "El último tramo a casa lo hicimos despacio y con un peso menos en nuestras espaldas."
 
 # game/game_script_act2.rpy:5125
 translate spanish game_script_act2_054eaae8:
 
     # "Finally turning back onto our street, I sigh in relief."
-    ""
+    "Cuando empiezo a reconocer nuestra calle, profiero un suspiro de alivio."
 
 # game/game_script_act2.rpy:5126
 translate spanish game_script_act2_d3a9e2dc:
 
     # "My left hand feels as though it’s about to fall off due to frostbite."
-    ""
+    "Siento la mano izquierda tan congelada... que puede caerse en cualquier momento."
 
 # game/game_script_act2.rpy:5127
 translate spanish game_script_act2_8a1a4531:
 
     # "However, my right hand is comfortable in Natsuki’s."
-    ""
+    "Mi mano derecha... se siente en una nube estando junto a la de ella."
 
 # game/game_script_act2.rpy:5128
 translate spanish game_script_act2_475aa92f:
 
     # "Well, comfortable enough, given her iron grip..."
-    ""
+    "Aunque tiene un agarre de acero."
 
 # game/game_script_act2.rpy:5129
 translate spanish game_script_act2_a4b94f76:
 
     # "But I don’t mind."
-    ""
+    "Pero me da igual."
 
 # game/game_script_act2.rpy:5131
 translate spanish game_script_act2_42d42c93:
 
     # "Approaching my front door, I muster all my strength turning the key and opening the door."
-    ""
+    "Me acerco a la puerta de entrada y pongo la llave en la cerradura con las pocas fuerzas que me quedan."
 
 # game/game_script_act2.rpy:5132
 translate spanish game_script_act2_86eece16:
 
     # "However, I manage it just fine, and hear the reassuring click of the lock...unlocking."
-    ""
+    "Escucho el 'clic' que tanto me ha satisfecho y la abro."
 
 # game/game_script_act2.rpy:5133
 translate spanish game_script_act2_280c486e:
 
     # "Before I can retreat into the safety and warmth {nw}"
-    ""
+    "Antes de poder sentir el calorcito y la seguridad {nw}"
 
 # game/game_script_act2.rpy:5135
 translate spanish game_script_act2_0640656b:
 
     # extend "of my own home--{nw}"
-    extend ""
+    extend "de mi propia casa...{nw}"
 
 # game/game_script_act2.rpy:5144
 translate spanish game_script_act2_f36c23e9:
 
     # "I’m blindsided by a snow-fist to the face."
-    ""
+    "Me pilla desprevenido un puñetazo nevado en toda la cara."
 
 # game/game_script_act2.rpy:5148
 translate spanish game_script_act2_e22a8ba8:
 
     # "Natsuki shoves past me, immediately shedding her coat and making a beeline for the couch."
-    ""
+    "Veo a Natsuki pasar corriendo por al lado mía, dejando su chaqueta y yendo hacia el sofá."
 
 # game/game_script_act2.rpy:5156
 translate spanish game_script_act2_d66b6e74:
 
     # mc "Was that last one for luck?"
-    mc ""
+    mc "¿Esa última era de regalo?"
 
 # game/game_script_act2.rpy:5157
 translate spanish game_script_act2_c0b76899:
 
     # n e4a b3b mc zzz3 "Nah. Just felt like it."
-    n e4a b3b mc zzz3 ""
+    n e4a b3b mc zzz3 "Qué va, me ha dado la gana y te he lanzado otra."
 
 # game/game_script_act2.rpy:5159
 translate spanish game_script_act2_fc37f68e:
 
     # mc "You’re being a real gremlin today, aren’t you?"
-    mc ""
+    mc "Vaya traviesa que estás hecha."
 
 # game/game_script_act2.rpy:5160
 translate spanish game_script_act2_efd2cbb0:
 
     # n e1a b2a mb zzz1 "It’s what I do, [player]."
-    n e1a b2a mb zzz1 ""
+    n e1a b2a mb zzz1 "Así soy yo, [player]."
 
 # game/game_script_act2.rpy:5163
 translate spanish game_script_act2_f94d2fd7:
 
     # "Sighing in defeat, I head straight for the radiator and turn it up to what I can only imagine is the literal fires-of-hell setting."
-    ""
+    "Suspiro derrotado y voy directo al radiador, que enciendo y subo la potencia a lo que puede considerarse como 'infierno'."
 
 # game/game_script_act2.rpy:5164
 translate spanish game_script_act2_935f0f10:
 
     # "Comfy."
-    ""
+    "Qué relajación..."
 
 # game/game_script_act2.rpy:5165
 translate spanish game_script_act2_3f63011c:
 
     # "Picking up Natsuki’s hastily-discarded jacket, I hang it over the living room door, followed by my own."
-    ""
+    "Cojo la chaqueta que Natsuki ha tirado y la cuelgo, junto a la mía, sobre la puerta del salón."
 
 # game/game_script_act2.rpy:5169
 translate spanish game_script_act2_60815275:
 
     # "From behind me, I can hear Natsuki’s flipping through channels on the TV, before stopping at the jingle of a show I haven’t thought of since I last visited grandma."
-    ""
+    "Escucho detrás mía a Natsuki zapeando en la tele hasta pararse en un programa cuya sintonía no escuchaba desde la última vez que visité a mi abuela."
 
 # game/game_script_act2.rpy:5170
 translate spanish game_script_act2_129c2868:
 
     # "I groan."
-    ""
+    "Suelto un quejido."
 
 # game/game_script_act2.rpy:5172
 translate spanish game_script_act2_a31340dd:
 
     # mc "Really?"
-    mc ""
+    mc "¿En serio?"
 
 # game/game_script_act2.rpy:5173
 translate spanish game_script_act2_d94f70a0:
 
     # n b1c e1a mg "I’m too tired to watch something high-brow."
-    n b1c e1a mg ""
+    n b1c e1a mg "Ahora mismo, con el cansancio que tengo, no me entra un programa de listos."
 
 # game/game_script_act2.rpy:5174
 translate spanish game_script_act2_676f25fd:
 
     # n mh "And you look about the same."
-    n mh ""
+    n mh "Y tú tienes que estar igual."
 
 # game/game_script_act2.rpy:5176
 translate spanish game_script_act2_d81f8e62:
 
     # mc "Well, you’re not wrong. I {i}am{/i} exhausted."
-    mc ""
+    mc "No te equivocas."
 
 # game/game_script_act2.rpy:5179
 translate spanish game_script_act2_e04ceee4:
 
     # "Natsuki pats the free space next to her on the couch."
-    ""
+    "Natsuki pone su mano justo al lado indicándome que me siente."
 
 # game/game_script_act2.rpy:5181
 translate spanish game_script_act2_748ea823:
 
     # n mb "Well, why don’t you come watch some garbage TV with me then?"
-    n mb ""
+    n mb "¿Por qué no vienes a ver telebasura conmigo?"
 
 # game/game_script_act2.rpy:5183
 translate spanish game_script_act2_93526a07:
 
     # mc "Hey, if I wasn’t watching it with you..."
-    mc ""
+    mc "Oye, que si no la estuviera viendo contigo..."
 
 # game/game_script_act2.rpy:5185
 translate spanish game_script_act2_e7fd5b0c:
 
     # "Accepting defeat, I sit down next to her."
-    ""
+    "Asimilando la derrota, me siento al lado suya."
 
 # game/game_script_act2.rpy:5189
 translate spanish game_script_act2_aabf361a:
 
     # "Catching me by surprise, she puts her arm around my shoulder."
-    ""
+    "Natsuki pasa su brazo por mi hombro, lo cual me coge por sorpresa."
 
 # game/game_script_act2.rpy:5190
 translate spanish game_script_act2_424d8c53:
 
     # "I struggle to reciprocate, but eventually find a comfortable spot."
-    ""
+    "No encuentro manera de hacerle lo mismo, pero consigo acomodarme."
 
 # game/game_script_act2.rpy:5191
 translate spanish game_script_act2_5bdd48cc:
 
     # "The TV is neck-deep into the awful soap opera, as far as I can tell anyway."
-    ""
+    "Por lo que veo, esto está infestado de telenovelas...,"
 
 # game/game_script_act2.rpy:5192
 translate spanish game_script_act2_486a3b9d:
 
     # "Not like I’m really paying it much mind."
-    ""
+    "aunque tampoco es que les ponga mucha atención."
 
 # game/game_script_act2.rpy:5211
 translate spanish game_script_act2_16b0be81:
 
     # "Natsuki yawns."
-    ""
+    "Natsuki bosteza."
 
 # game/game_script_act2.rpy:5212
 translate spanish game_script_act2_758cded6:
 
     # "Like catching a bad cough, I can’t help but do the same."
-    ""
+    "Como si estuviera guionizado, hago lo mismo."
 
 # game/game_script_act2.rpy:5213
 translate spanish game_script_act2_7d2e6c79:
 
     # "Man, I’m really tired."
-    ""
+    "Estoy cansadísimo, tío..."
 
 # game/game_script_act2.rpy:5214
 translate spanish game_script_act2_304c6b5b:
 
     # "Really, {size=-5}really, {size=-5}really, {size=-5}really, {size=-5}really...{/size}"
-    ""
+    "Muy, {size=-5}muy, {size=-5}muy, {size=-5}muy, {size=-5}muy cansado...{/size}"
 
 # game/game_script_act2.rpy:5236
 translate spanish game_script_act2_7fcc8c20:
 
     # "Waking slowly from my nap, I turn to realise that Natsuki is still fast asleep next to me."
-    ""
+    "Me despierto y veo a Natsuki dormida a mi lado."
 
 # game/game_script_act2.rpy:5237
 translate spanish game_script_act2_45bdcffe:
 
     # "Groaning, I realize what day it is."
-    ""
+    "Bostezando, me doy cuenta del día que es."
 
 # game/game_script_act2.rpy:5238
 translate spanish game_script_act2_13c2f32c:
 
     # "Monday."
-    ""
+    "Lunes,"
 
 # game/game_script_act2.rpy:5239
 translate spanish game_script_act2_66105c85:
 
     # "A school day."
-    ""
+    "día lectivo."
 
 # game/game_script_act2.rpy:5249
 translate spanish game_script_act2_500ccb50:
 
     # "Turning to Natsuki, who's loudly snoring, I can't help but notice her black eye."
-    ""
+    "Vuelvo a mirar a Natsuki, que ronca como nunca, y me doy cuenta del moretón de su ojo."
 
 # game/game_script_act2.rpy:5250
 translate spanish game_script_act2_0debe608:
 
     # "While miles better than it was when I first saw it, it's still a little worse for wear."
-    ""
+    "Aunque está mucho mejor que la primera vez que lo vi, sigue viéndose."
 
 # game/game_script_act2.rpy:5251
 translate spanish game_script_act2_f030538b:
 
     # "I just wonder if she'll be able to cover it up well enough to risk school."
-    ""
+    "A saber si es capaz de cubrirlo correctamente para ir al instituto..."
 
 # game/game_script_act2.rpy:5252
 translate spanish game_script_act2_6cd59af4:
 
     # "I have to hope so, because either of us missing {i}another{/i} school day would be bad news."
-    ""
+    "Y tengo que rezar para que lo consiga. No podemos permitirnos faltar otro día más."
 
 # game/game_script_act2.rpy:5253
 translate spanish game_script_act2_f25ee3be:
 
     # "Crap..."
-    ""
+    "Mierda..."
 
 # game/game_script_act2.rpy:5254
 translate spanish game_script_act2_0882f3a0:
 
     # "Well...if we're not already too late, that is."
-    ""
+    "Eso otra, hay que ver si no es demasiado tarde como para ir."
 
 # game/game_script_act2.rpy:5255
 translate spanish game_script_act2_dd4efece:
 
     # "I clumsily reach over towards the coffee table, trying to pinch my phone without disturbing Natsuki too much."
-    ""
+    "Estiro la mano torpemente para coger mi móvil sin molestar mucho a Natsuki."
 
 # game/game_script_act2.rpy:5256
 translate spanish game_script_act2_74874a35:
 
     # "7:03 A.M."
-    ""
+    "Las 7:03 de la mañana."
 
 # game/game_script_act2.rpy:5257
 translate spanish game_script_act2_5602189e:
 
     # "Yeah, we're definitely going."
-    ""
+    "Hoy vamos por narices."
 
 # game/game_script_act2.rpy:5258
 translate spanish game_script_act2_8033dca2:
 
     # "Well, now's as good a time as any to get myself ready."
-    ""
+    "Pues nada, aprovecho y me preparo."
 
 # game/game_script_act2.rpy:5259
 translate spanish game_script_act2_53d3f4c5:
 
     # "First things first though..."
-    ""
+    "Aunque vamos por partes..."
 
 # game/game_script_act2.rpy:5260
 translate spanish game_script_act2_e44ff74e:
 
     # "I have a pink furball latched to me, that I don't dare wake."
-    ""
+    "Tengo una bola de pelo de color rosa pegada a mí y no quiero despertarla."
 
 # game/game_script_act2.rpy:5266
 translate spanish game_script_act2_7a17b739:
 
     # "With the precision of a bull in a china shop, I slip away from her grasp and rush upstairs."
-    ""
+    "Con la precisión de un toro en una tienda de porcelana, consigo quitármela de encima y subir las escaleras."
 
 # game/game_script_act2.rpy:5267
 translate spanish game_script_act2_772f1bf6:
 
     # "Maybe she didn't notice."
-    ""
+    "Puede que no se haya dado cuenta."
 
 # game/game_script_act2.rpy:5273
 translate spanish game_script_act2_95c6a295:

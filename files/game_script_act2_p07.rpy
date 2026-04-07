@@ -1862,7 +1862,7 @@ translate spanish game_script_act2_3f748718:
 translate spanish game_script_act2_064521a8:
 
     # "This is an interesting development."
-    "Vaya desarrollo más interesante el está cogiendo el asunto..."
+    "Vaya desarrollo más interesante el que está cogiendo el asunto..."
 
 # game/game_script_act2.rpy:4942
 translate spanish game_script_act2_7b5cb2e3:

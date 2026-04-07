@@ -1376,13 +1376,13 @@ translate spanish game_script_act2_66827d67:
 translate spanish game_script_act2_280754bf:
 
     # mc "I...should at least pay."
-    mc "Creo que... al menos podría pagarla."
+    mc "Creo que... al menos podría abonar la cantidad."
 
 # game/game_script_act2.rpy:4775
 translate spanish game_script_act2_e697dd62:
 
     # mc "But I don’t know if I could even afford it after our dinner."
-    mc "Aunque no creo que me llegue."
+    mc "Aunque no creo que me llegue después de habernos pagado la cena..."
 
 # game/game_script_act2.rpy:4776
 translate spanish game_script_act2_3695c6cb:

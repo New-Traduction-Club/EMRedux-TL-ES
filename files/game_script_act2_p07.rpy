@@ -1862,13 +1862,13 @@ translate spanish game_script_act2_3f748718:
 translate spanish game_script_act2_064521a8:
 
     # "This is an interesting development."
-    "Vaya desarrollo más interesante está tomando el asunto..."
+    "Vaya desarrollo más interesante el está cogiendo el asunto..."
 
 # game/game_script_act2.rpy:4942
 translate spanish game_script_act2_7b5cb2e3:
 
     # "Oh, who am I kidding? This is fucking amazing."
-    "Vale, a quién quiero engañar: esto está de puta madre."
+    "¿Sabes qué? Que a quién quiero engañar: esto está de puta madre."
 
 # game/game_script_act2.rpy:4953
 translate spanish game_script_act2_83d676e8:
@@ -1940,7 +1940,7 @@ translate spanish game_script_act2_085811f6:
 translate spanish game_script_act2_398793d1:
 
     # mc "A couple?"
-    mc "¿una parejita?"
+    mc "¿pareja?"
 
 # game/game_script_act2.rpy:4979
 translate spanish game_script_act2_27962c49:

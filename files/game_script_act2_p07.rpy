@@ -1832,7 +1832,7 @@ translate spanish game_script_act2_a3ef5b48:
 translate spanish game_script_act2_b7eb9d9c:
 
     # "Our game of...whatever this is...concludes in laughter."
-    "Nuestro jueguecito de... 'lo que sea', ja concluido en reírnos a carcajadas."
+    "Nuestro jueguecito de... 'lo que sea', ha concluido en reírnos a carcajadas."
 
 # game/game_script_act2.rpy:4928
 translate spanish game_script_act2_fc1d1c17:

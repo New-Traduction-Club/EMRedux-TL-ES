@@ -1202,127 +1202,127 @@ translate spanish game_script_act2_1bf60051:
 translate spanish game_script_act2_e7e65075:
 
     # "The two of us sit in silence for a few moments, letting the atmosphere soak in."
-    ""
+    "Nos quedamos en silencio, dejando que la atmósfera nos atrape."
 
 # game/game_script_act2.rpy:5490
 translate spanish game_script_act2_3c251f3b:
 
     # "But before long, I interrupt."
-    ""
+    "Al rato, hablo."
 
 # game/game_script_act2.rpy:5492
 translate spanish game_script_act2_dd9ab35d:
 
     # mc "Well...wanna pass the time?"
-    mc ""
+    mc "En fin... ¿te apetece hacer algo para matar el tiempo?"
 
 # game/game_script_act2.rpy:5495
 translate spanish game_script_act2_32fc63d9:
 
     # "I wave Parfait Girls around."
-    ""
+    "Cojo Parfait Girls y lo agito en el aire."
 
 # game/game_script_act2.rpy:5497
 translate spanish game_script_act2_2ffeae86:
 
     # n b1a mb "Sure."
-    n b1a mb ""
+    n b1a mb "Claro."
 
 # game/game_script_act2.rpy:5498
 translate spanish game_script_act2_5af4fa5e:
 
     # n mh "Beats doing nothing."
-    n mh ""
+    n mh "Mejor eso a no hacer nada."
 
 # game/game_script_act2.rpy:5501
 translate spanish game_script_act2_2ca928be:
 
     # "Hopping off the desk, {nw}"
-    ""
+    "Pega un salto del escritorio {nw}"
 
 # game/game_script_act2.rpy:5503
 translate spanish game_script_act2_8905aa84:
 
     # extend "she pulls out the chair next to mine and takes a seat."
-    extend ""
+    extend "y coge una silla, que coloca justo a mi lado, y se sienta."
 
 # game/game_script_act2.rpy:5504
 translate spanish game_script_act2_9cce1bd6:
 
     # "Just as we find our page, {nw}"
-    ""
+    "En el mismo instante en el que encontramos por donde nos quedamos, {nw}"
 
 # game/game_script_act2.rpy:5507
 translate spanish game_script_act2_5cf6ee91:
 
     # extend "Monika stumbles through the clubroom door."
-    extend ""
+    extend "Monika tropieza al entrar al aula del club."
 
 # game/game_script_act2.rpy:5509
 translate spanish game_script_act2_2f7883c7:
 
     # m e1c mb "Hey, guys!"
-    m e1c mb ""
+    m e1c mb "¡Hola, compis!"
 
 # game/game_script_act2.rpy:5511
 translate spanish game_script_act2_d37922fe:
 
     # n e1b mh "Oh, hey Monika. You need any help with that?"
-    n e1b mh ""
+    n e1b mh "Ah, Monika, ¿te ayudamos?"
 
 # game/game_script_act2.rpy:5513
 translate spanish game_script_act2_0cc13647:
 
     # "Looking over at the clubroom entrance, I notice Monika carrying a surprisingly large, and seemingly heavy bag into the room."
-    ""
+    "Miro donde se encuentra Monika y la veo cargando en peso una bolsa grande y, o eso parece, pesada."
 
 # game/game_script_act2.rpy:5515
 translate spanish game_script_act2_0e4cabe2:
 
     # "She nods her head promptly, her red face displaying some sort of annoyance."
-    ""
+    "Asiente con la cabeza y su cara, completamente roja, empieza a mostrar gestos de dolor."
 
 # game/game_script_act2.rpy:5517
 translate spanish game_script_act2_9c06a25b:
 
     # "Like when I last saw her, she seems pretty stressed out."
-    ""
+    "Tal y como la otra vez, parece estresada."
 
 # game/game_script_act2.rpy:5520
 translate spanish game_script_act2_a5b00515:
 
     # n e1a mb "I’ll give you a hand."
-    n e1a mb ""
+    n e1a mb "Deja que te ayude."
 
 # game/game_script_act2.rpy:5521
 translate spanish game_script_act2_e23bef5d:
 
     # m mb "Sure! Just be careful, it's fragile..."
-    m mb ""
+    m mb "¡Gracias! Pero ten cuidado, que hay cosas frágiles..."
 
 # game/game_script_act2.rpy:5535
 translate spanish game_script_act2_6edace3e:
 
     # "Natsuki assists Monika in carrying the bag into the clubroom, and placing it on the teacher’s desk."
-    ""
+    "Natsuki ayuda a Monika a dejar la bolsa en la mesa del profesor."
 
 # game/game_script_act2.rpy:5538
 translate spanish game_script_act2_e4295f4d:
 
     # n b1f mh "What’ve you got in there, cinderblocks?"
-    n b1f mh ""
+    n b1f mh "Por Dios, qué llevas ahí dentro, ¿bloques de cemento armado?"
 
 # game/game_script_act2.rpy:5541
 translate spanish game_script_act2_26336ed8:
 
     # m e2 m3 "Actually..."
-    m e2 m3 ""
+    m e2 m3 "En realidad...,"
 
 # game/game_script_act2.rpy:5543
 translate spanish game_script_act2_6e08ad4c:
 
     # "She unzips the bag, unveiling..."
-    ""
+    "Abre la bolsa y hay...,"
 
 # game/game_script_act2.rpy:5557
 translate spanish game_script_act2_5b0369ea:

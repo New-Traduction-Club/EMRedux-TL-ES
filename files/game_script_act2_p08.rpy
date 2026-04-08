@@ -944,37 +944,37 @@ translate spanish game_script_act2_ab5353c7:
 translate spanish game_script_act2_0bb36eff:
 
     # "I idle for a second, just taking in the fact that Natsuki actually just kissed me on the cheek."
-    ""
+    "Y ahí estoy yo, plantado en medio del pasillo asimilando el hecho de que Natsuki acaba de darme un beso en la mejilla."
 
 # game/game_script_act2.rpy:5396
 translate spanish game_script_act2_d105ec68:
 
     # "Hell, she hugged me."
-    ""
+    "Joder, si hasta me ha abrazado."
 
 # game/game_script_act2.rpy:5397
 translate spanish game_script_act2_1427dd25:
 
     # "The fact that we’re actually together now is still a little mind-boggling."
-    ""
+    "Me sigue desconcertando el hecho de que ella y yo estemos oficialmente juntos."
 
 # game/game_script_act2.rpy:5398
 translate spanish game_script_act2_a1154d70:
 
     # "But I stop dawdling."
-    ""
+    "Debería parar de perder el tiempo."
 
 # game/game_script_act2.rpy:5399
 translate spanish game_script_act2_7144170e:
 
     # "That toast isn’t gonna make itself."
-    ""
+    "No creo que esas tostadas se vayan a hacer solas."
 
 # game/game_script_act2.rpy:5412
 translate spanish game_script_act2_2360f863:
 
     # "The final bell rings, signalling the end of the school day."
-    ""
+    "El último timbre suena y eso indica que la jornada ha finalizado con éxito."
 
 # game/game_script_act2.rpy:5413
 translate spanish game_script_act2_8694848b:

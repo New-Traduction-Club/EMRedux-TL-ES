@@ -506,7 +506,7 @@ translate spanish game_script_act2_e44ff74e:
 translate spanish game_script_act2_7a17b739:
 
     # "With the precision of a bull in a china shop, I slip away from her grasp and rush upstairs."
-    "Con la precisión de un toro en una tienda de porcelana, consigo quitármela de encima y subir las escaleras."
+    "Con la precisión de un elefante en una cristalería, consigo quitármela de encima y subir las escaleras."
 
 # game/game_script_act2.rpy:5267
 translate spanish game_script_act2_772f1bf6:

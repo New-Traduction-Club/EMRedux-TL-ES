@@ -776,115 +776,115 @@ translate spanish game_script_act2_9488a742:
 translate spanish game_script_act2_b31098fa:
 
     # "Heading over to my desk, I unzip my school bag and shove my stationery into it, followed by my reading materials for today's lessons..."
-    ""
+    "Ya en mi escritorio, abro la mochila del instituto y meto los materiales necesarios para rendir el día de hoy...,"
 
 # game/game_script_act2.rpy:5337
 translate spanish game_script_act2_66a59c5f:
 
     # "...and the fourth and fifth volumes of Parfait Girls, for good measure."
-    ""
+    "seguido del cuarto y quinto tomo de Parfait Girls... por si acaso."
 
 # game/game_script_act2.rpy:5338
 translate spanish game_script_act2_f84b8467:
 
     # "Lastly, I come across the poem I wrote for today."
-    ""
+    "En última instancia, voy a por el poema que tenía preparado para hoy."
 
 # game/game_script_act2.rpy:5339
 translate spanish game_script_act2_8ee791f8:
 
     # "I fold it in half, then neatly tuck it away in my bag before slinging it over my back."
-    ""
+    "Lo doblo por la mitad y lo meto con cuidado en la mochila antes de llevármela a la espalda."
 
 # game/game_script_act2.rpy:5340
 translate spanish game_script_act2_49d5fbdc:
 
     # "That should be everything."
-    ""
+    "Creo que lo llevo todo."
 
 # game/game_script_act2.rpy:5343
 translate spanish game_script_act2_0c78a92e:
 
     # "Heading out into the hall, I rap on the bathroom door a couple of times."
-    ""
+    "Ya en el pasillo, pego un par de veces en la puerta del baño."
 
 # game/game_script_act2.rpy:5345
 translate spanish game_script_act2_5dc790d0:
 
     # n "Just a sec!"
-    n ""
+    n "¡Un momentín!"
 
 # game/game_script_act2.rpy:5347
 translate spanish game_script_act2_613343c3:
 
     # "After a moment, Natsuki pokes her head through the door."
-    ""
+    "Tras ese momentín, Natsuki asoma la cabeza por la puerta."
 
 # game/game_script_act2.rpy:5350
 translate spanish game_script_act2_724902a1:
 
     # n "Okay, how's it look?"
-    n ""
+    n "Mira, ¿queda bien?"
 
 # game/game_script_act2.rpy:5353
 translate spanish game_script_act2_c51330c9:
 
     # "I'm taken aback by how well she's covered up the fading bruise."
-    ""
+    "Me asusta lo bien que ha sido capaz de cubrir la zona morada..."
 
 # game/game_script_act2.rpy:5355
 translate spanish game_script_act2_165dbecf:
 
     # mc "Well, for a second, I forgot it was even there."
-    mc ""
+    mc "¿Me creerías si te digo que parece no haber nada?"
 
 # game/game_script_act2.rpy:5357
 translate spanish game_script_act2_135a7724:
 
     # mc "It looks great."
-    mc ""
+    mc "Está más que bien."
 
 # game/game_script_act2.rpy:5358
 translate spanish game_script_act2_5f1b9fd4:
 
     # n b1c lhip mb "Thank God."
-    n b1c lhip mb ""
+    n b1c lhip mb "Gracias a Dios..."
 
 # game/game_script_act2.rpy:5359
 translate spanish game_script_act2_dc80d57a:
 
     # n e1b "I was worried it wasn't enough."
-    n e1b ""
+    n e1b "Me preocupaba no haber puesto suficiente maquillaje."
 
 # game/game_script_act2.rpy:5364
 translate spanish game_script_act2_c001bed4:
 
     # n mh "Well, looks like I'm going to school after all."
-    n mh ""
+    n mh "Pues al final sí que voy a tener que ir."
 
 # game/game_script_act2.rpy:5367
 translate spanish game_script_act2_1a2bbfde:
 
     # "She exits the door, only to pull me into a short but sweet half-hug, presumably to avoid the make-up smudging."
-    ""
+    "Sale del baño únicamente para darme un medio abrazo, que comprendo que es 'medio' porque no quiere desmaquillarse."
 
 # game/game_script_act2.rpy:5369
 translate spanish game_script_act2_faf36535:
 
     # n e1b mb b2a "Thanks."
-    n e1b mb b2a ""
+    n e1b mb b2a "Gracias."
 
 # game/game_script_act2.rpy:5372
 translate spanish game_script_act2_ef55af10:
 
     # "What for?"
-    ""
+    "¿Por?"
 
 # game/game_script_act2.rpy:5374
 translate spanish game_script_act2_d96b7392:
 
     # mc "Uh, it’s no problem."
-    mc ""
+    mc "Eh... vale, no te preocupes."
 
 # game/game_script_act2.rpy:5376
 translate spanish game_script_act2_3119784c:

@@ -890,55 +890,55 @@ translate spanish game_script_act2_d96b7392:
 translate spanish game_script_act2_3119784c:
 
     # mc "Well, I’ll be waiting downstairs."
-    mc ""
+    mc "Bueno, te espero abajo."
 
 # game/game_script_act2.rpy:5377
 translate spanish game_script_act2_3d4072aa:
 
     # mc "You want some toast or something?"
-    mc ""
+    mc "¿Quieres algo para desayunar?"
 
 # game/game_script_act2.rpy:5378
 translate spanish game_script_act2_7df95f6f:
 
     # n b1c e1a me "Ooh,{w=0.3} {nw}"
-    n b1c e1a me ""
+    n b1c e1a me "Pues...{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:5380
 translate spanish game_script_act2_4a01b158:
 
     # extend "that’d be nice."
-    extend ""
+    extend "sí, unas tostaditas."
 
 # game/game_script_act2.rpy:5385
 translate spanish game_script_act2_40fe2561:
 
     # "She pecks me on the cheek."
-    ""
+    "Me da un besito en la mejilla."
 
 # game/game_script_act2.rpy:5387
 translate spanish game_script_act2_0d27d55b:
 
     # n rdown mg "I’d better get ready then."
-    n rdown mg ""
+    n rdown mg "Me preparo rápido entonces."
 
 # game/game_script_act2.rpy:5388
 translate spanish game_script_act2_409fcfb9:
 
     # n b1c mh "Don’t want to be late on the first day back."
-    n b1c mh ""
+    n b1c mh "¡No querría perderme el primer día de vuelta a clases!"
 
 # game/game_script_act2.rpy:5391
 translate spanish game_script_act2_7be1b3bd:
 
     # "I nod, as she {nw}"
-    ""
+    "Asiento mientras Natsuki {nw}"
 
 # game/game_script_act2.rpy:5394
 translate spanish game_script_act2_ab5353c7:
 
     # extend "slinks into her room."
-    extend ""
+    extend "se encierra en su cuarto."
 
 # game/game_script_act2.rpy:5395
 translate spanish game_script_act2_0bb36eff:

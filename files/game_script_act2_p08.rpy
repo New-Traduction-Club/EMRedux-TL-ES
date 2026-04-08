@@ -518,259 +518,259 @@ translate spanish game_script_act2_772f1bf6:
 translate spanish game_script_act2_95c6a295:
 
     # "With a towel around my waist, I vigorously scrub my hair with another as I enter my bedroom."
-    ""
+    "Con una toalla rodeando mi cintura, cojo otra para secarme el pelo mientras voy de camino a mi cuarto."
 
 # game/game_script_act2.rpy:5274
 translate spanish game_script_act2_5b26ce2f:
 
     # "After drying my hair, I dig through drawers for my school uniform."
-    ""
+    "Tras secarlo del todo, busco mi uniforme en el armario."
 
 # game/game_script_act2.rpy:5275
 translate spanish game_script_act2_f978f6d6:
 
     # "Bingo."
-    ""
+    "Bingo."
 
 # game/game_script_act2.rpy:5276
 translate spanish game_script_act2_fae77ebe:
 
     # "As I get myself dressed, I hear the ever-familiar creaking of my stairs."
-    ""
+    "Me termino de vestir y escucho el crujido de las escaleras."
 
 # game/game_script_act2.rpy:5277
 translate spanish game_script_act2_7d31a80b:
 
     # "Maybe she did notice."
-    ""
+    "Pues al final se ha dado cuenta."
 
 # game/game_script_act2.rpy:5278
 translate spanish game_script_act2_0678abe9:
 
     # "Just as I finish fiddling with my tie, Natsuki pokes her head through the door."
-    ""
+    "Tras colocarme la corbata correctamente, Natsuki asoma la cabeza."
 
 # game/game_script_act2.rpy:5280
 translate spanish game_script_act2_a8c4b004:
 
     # n "Hey."
-    n ""
+    n "Ey."
 
 # game/game_script_act2.rpy:5282
 translate spanish game_script_act2_669664cb:
 
     # mc "Hey."
-    mc ""
+    mc "Ey."
 
 # game/game_script_act2.rpy:5283
 translate spanish game_script_act2_772212a4:
 
     # mc "How're you feeling?"
-    mc ""
+    mc "¿Cómo estás?"
 
 # game/game_script_act2.rpy:5285
 translate spanish game_script_act2_c71bcfcc:
 
     # n b1f e1a mh "In general?"
-    n b1f e1a mh ""
+    n b1f e1a mh "¿Que cómo estoy en general, o...?"
 
 # game/game_script_act2.rpy:5287
 translate spanish game_script_act2_5890e50a:
 
     # mc "Well, that too, but I was more asking about your thoughts on heading to school today."
-    mc ""
+    mc "También me refiero a eso, pero hacía énfasis en si vas o no a clase conmigo."
 
 # game/game_script_act2.rpy:5291
 translate spanish game_script_act2_25868040:
 
     # "She takes a second to answer."
-    ""
+    "No me responde al momento, le toma algo de tiempo para pensarlo."
 
 # game/game_script_act2.rpy:5293
 translate spanish game_script_act2_1a348ff8:
 
     # n mg "I could try."
-    n mg ""
+    n mg "Podría intentarlo, sí."
 
 # game/game_script_act2.rpy:5295
 translate spanish game_script_act2_ce9bc67e:
 
     # mc "What about your eye? And your dad?"
-    mc ""
+    mc "Y tu ojo qué. ¿Y tu padre?"
 
 # game/game_script_act2.rpy:5296
 translate spanish game_script_act2_459d8fec:
 
     # n e1a mg "Well, it mostly depends how well I can cover up {i}this{/i}."
-    n e1a mg ""
+    n e1a mg "Bueno, todo depende de lo bien que me lo pueda tapar, ¿sabes?"
 
 # game/game_script_act2.rpy:5299
 translate spanish game_script_act2_a6e1c4b7:
 
     # "She points towards her eye."
-    ""
+    "Se apunta al ojo."
 
 # game/game_script_act2.rpy:5301
 translate spanish game_script_act2_51fcafb0:
 
     # mc "Yeah...the swelling isn't nearly as bad, right?"
-    mc ""
+    mc "Claro, porque el moretón ya no está tan mal."
 
 # game/game_script_act2.rpy:5302
 translate spanish game_script_act2_2f6909e8:
 
     # mc "Think you can cover it up?"
-    mc ""
+    mc "¿Podrás conseguirlo?"
 
 # game/game_script_act2.rpy:5303
 translate spanish game_script_act2_365281ca:
 
     # n e1a mg "I can make a decent effort."
-    n e1a mg ""
+    n e1a mg "Puedo intentar hacer algo más que decente, sí."
 
 # game/game_script_act2.rpy:5304
 translate spanish game_script_act2_45325b6d:
 
     # n b1c mh "I've gotten pretty good with makeup the past few years."
-    n b1c mh ""
+    n b1c mh "Hace años que hago esta clase de cosas con el maquillaje y una va mejorando."
 
 # game/game_script_act2.rpy:5305
 translate spanish game_script_act2_25db3884:
 
     # n e1b b2a "And as for my dad..."
-    n e1b b2a ""
+    n e1b b2a "Y por la parte de mi padre...,"
 
 # game/game_script_act2.rpy:5306
 translate spanish game_script_act2_bcf9817c:
 
     # n mg "I dunno. I don't think he'll go as far as to confront me at school."
-    n mg ""
+    n mg "pues ni idea. A ver, no creo que vaya a buscarme al instituto y armar jaleo."
 
 # game/game_script_act2.rpy:5307
 translate spanish game_script_act2_a3ad45a1:
 
     # n e1a "Too many witnesses. Dad always liked to behave in public."
-    n e1a ""
+    n e1a "Hay muchos testigos y a papá se le da muy bien comportarse en público."
 
 # game/game_script_act2.rpy:5308
 translate spanish game_script_act2_0eee1f03:
 
     # n b1d mi "'Our family is nobody's business' or whatever."
-    n b1d mi ""
+    n b1d mi "'A nadie le interesa lo que ocurra en esta casa', o cosas así suelta por la boca."
 
 # game/game_script_act2.rpy:5309
 translate spanish game_script_act2_e94a41b8:
 
     # n b2b mh "But if something is up, we can always hole up here and get our work somehow."
-    n b2b mh ""
+    n b2b mh "Y si pasa algo... nos encerramos aquí y ya haremos los deberes como sea."
 
 # game/game_script_act2.rpy:5312
 translate spanish game_script_act2_a20cefa7_7:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script_act2.rpy:5313
 translate spanish game_script_act2_0689817d:
 
     # "I quickly regain composure before she can notice my demeanor shift."
-    ""
+    "Trato de espabilarme antes de que note mi cambio de actitud."
 
 # game/game_script_act2.rpy:5315
 translate spanish game_script_act2_ff5adebd:
 
     # mc "A-and you've got all your uniform, right?"
-    mc ""
+    mc "Y t-tienes el uniforme completo aquí, ¿no?"
 
 # game/game_script_act2.rpy:5316
 translate spanish game_script_act2_45d51f48:
 
     # mc "Nothing missing?"
-    mc ""
+    mc "¿No te falta nada?"
 
 # game/game_script_act2.rpy:5317
 translate spanish game_script_act2_6f803854:
 
     # n mh "I checked."
-    n mh ""
+    n mh "Ya he mirado."
 
 # game/game_script_act2.rpy:5318
 translate spanish game_script_act2_39356be3:
 
     # n e1a mg rdown "Jacket looks good enough."
-    n e1a mg rdown ""
+    n e1a mg rdown "La chaqueta parece presentable."
 
 # game/game_script_act2.rpy:5320
 translate spanish game_script_act2_69c25b65_3:
 
     # mc "Yeah..."
-    mc ""
+    mc "Sí..."
 
 # game/game_script_act2.rpy:5321
 translate spanish game_script_act2_8d2aa306:
 
     # n e1c me "Mhm..."
-    n e1c me ""
+    n e1c me "Ajá..."
 
 # game/game_script_act2.rpy:5322
 translate spanish game_script_act2_2abe73af:
 
     # n md "..."
-    n md ""
+    n md "..."
 
 # game/game_script_act2.rpy:5323
 translate spanish game_script_act2_2b35b6fe_4:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/game_script_act2.rpy:5324
 translate spanish game_script_act2_e925600f:
 
     # n mg lhip "Oh, and by the way..."
-    n mg lhip ""
+    n mg lhip "Ay, y antes de que se me olvide...,"
 
 # game/game_script_act2.rpy:5325
 translate spanish game_script_act2_a26633f4:
 
     # n e1a b1c mb "I'm feeling pretty alright."
-    n e1a b1c mb ""
+    n e1a b1c mb "me encuentro bien, sí."
 
 # game/game_script_act2.rpy:5327
 translate spanish game_script_act2_c27dc01e:
 
     # mc "Well, that's great!"
-    mc ""
+    mc "¡Anda! Pues... ¡es genial!"
 
 # game/game_script_act2.rpy:5328
 translate spanish game_script_act2_c6772166_1:
 
     # n mb "Thanks."
-    n mb ""
+    n mb "Gracias."
 
 # game/game_script_act2.rpy:5329
 translate spanish game_script_act2_2e9deb35:
 
     # n mh "Talk to you when I'm done."
-    n mh ""
+    n mh "Te diré cuando termine."
 
 # game/game_script_act2.rpy:5333
 translate spanish game_script_act2_bb90114c:
 
     # "She disappears, and I hear the bathroom door lock from across the hallway."
-    ""
+    "Se esfuma por el pasillo y escucho el pestillo del baño cerrarse."
 
 # game/game_script_act2.rpy:5334
 translate spanish game_script_act2_dd4567b8:
 
     # "Interesting that neither of us addressed the elephant in the room."
-    ""
+    "Es curioso como no hemos sido capaces de hablar de lo que ya es obvio."
 
 # game/game_script_act2.rpy:5335
 translate spanish game_script_act2_9488a742:
 
     # "I shrug it off, and resume my preparation."
-    ""
+    "Niego con la cabeza y sigo preparándome."
 
 # game/game_script_act2.rpy:5336
 translate spanish game_script_act2_b31098fa:

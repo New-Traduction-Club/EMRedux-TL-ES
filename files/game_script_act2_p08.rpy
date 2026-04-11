@@ -1328,7 +1328,7 @@ translate spanish game_script_act2_6e08ad4c:
 translate spanish game_script_act2_5b0369ea:
 
     # "A new tea set."
-    "Un juego de té completamente nuevo."
+    "un juego de té completamente nuevo."
 
 # game/game_script_act2.rpy:5558
 translate spanish game_script_act2_0a6862f6:

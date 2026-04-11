@@ -1610,85 +1610,85 @@ translate spanish game_script_act2_a499ad8e:
 translate spanish game_script_act2_e13349bf:
 
     # "The three of us sit in silence, waiting for Sayori and Yuri."
-    ""
+    "Mientras esperamos a Sayori y a Yuri, nos quedamos en absoluto silencio."
 
 # game/game_script_act2.rpy:5652
 translate spanish game_script_act2_fb553421:
 
     # m "Oh, no!"
-    m ""
+    m "¡Ay, no!"
 
 # game/game_script_act2.rpy:5653
 translate spanish game_script_act2_d3603963:
 
     # m lsur om oe "The snacks!"
-    m lsur om oe ""
+    m lsur om oe "¡Se me han olvidado las chucherías!"
 
 # game/game_script_act2.rpy:5655
 translate spanish game_script_act2_d611d975:
 
     # n lhip b1f e1c me "Huh?"
-    n lhip b1f e1c me ""
+    n lhip b1f e1c me "¿Qué?"
 
 # game/game_script_act2.rpy:5659
 translate spanish game_script_act2_74f475a1:
 
     # "Monika rises from the chair, heading towards the door."
-    ""
+    "Monika se levanta de la silla y va hacia la puerta de entrada."
 
 # game/game_script_act2.rpy:5661
 translate spanish game_script_act2_fe2104ee:
 
     # m m2 "I’ll be right back, guys."
-    m m2 ""
+    m m2 "Vuelvo en un momento, chicos."
 
 # game/game_script_act2.rpy:5662
 translate spanish game_script_act2_7062e8c6:
 
     # m e2 m3 "I gotta go get the snacks from my locker."
-    m e2 m3 ""
+    m e2 m3 "Tengo las chucherías en la taquilla y tengo que ir a por ellas."
 
 # game/game_script_act2.rpy:5664
 translate spanish game_script_act2_9fe8b17f:
 
     # mc "Oh, uh, okay."
-    mc ""
+    mc "Ah, eh... vale, supongo."
 
 # game/game_script_act2.rpy:5666
 translate spanish game_script_act2_1496d8fd:
 
     # "Just as Monika pulls the door open, {nw}"
-    ""
+    "Tal y como Monika abre la puerta, {nw}"
 
 # game/game_script_act2.rpy:5674
 translate spanish game_script_act2_a19b9372:
 
     # extend "Sayori and Yuri appear."
-    extend ""
+    extend "Sayori y Yuri aparecen."
 
 # game/game_script_act2.rpy:5676
 translate spanish game_script_act2_8ab6e6a8:
 
     # s om "...that’s what I’m--{w=0.4}{nw}"
-    s om ""
+    s om "porque iba a...{w=0.4} {nw}"
 
 # game/game_script_act2.rpy:5679
 translate spanish game_script_act2_f45d1dba:
 
     # extend "oh, hey Monika!!"
-    extend ""
+    extend "¡anda, Monika! ¡Hola!"
 
 # game/game_script_act2.rpy:5685
 translate spanish game_script_act2_c32cdca8:
 
     # "Monika passes by them without a word, disappearing down the hall."
-    ""
+    "Monika pasa al lado de ellos y desaparece."
 
 # game/game_script_act2.rpy:5688
 translate spanish game_script_act2_449e0553:
 
     # s e2b mg "Where’s she..?"
-    s e2b mg ""
+    s e2b mg "¿Dónde...?"
 
 # game/game_script_act2.rpy:5693
 translate spanish game_script_act2_63578106:

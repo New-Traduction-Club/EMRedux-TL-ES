@@ -1148,7 +1148,7 @@ translate spanish game_script_act2_86bc88c3:
 translate spanish game_script_act2_3102c0d7:
 
     # extend "the party."
-    extend "no me acordaba de la fiesta."
+    extend " no me acordaba de la fiesta."
 
 # game/game_script_act2.rpy:5476
 translate spanish game_script_act2_a5e3c366:

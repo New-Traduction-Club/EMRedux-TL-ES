@@ -1370,7 +1370,7 @@ translate spanish game_script_act2_c1ed0f38:
 translate spanish game_script_act2_c632ad53:
 
     # "Is this really a gift for Sayori?"
-    "pero la verdadera preguna es... si es esto lo que realmente quiere Sayori."
+    "pero lo que me preocupa es... si es esto lo que realmente quiere Sayori."
 
 # game/game_script_act2.rpy:5565
 translate spanish game_script_act2_c93a1716:

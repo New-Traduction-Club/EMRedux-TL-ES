@@ -1430,7 +1430,7 @@ translate spanish game_script_act2_02ae31a3:
 translate spanish game_script_act2_418e69a5:
 
     # "Looking over to Natsuki, her expression screams 'too much'."
-    "Miro a Natsuki y su cara me dice 'es demasiado'."
+    "Miro a Natsuki y su cara me dice 'ni de coña'."
 
 # game/game_script_act2.rpy:5594
 translate spanish game_script_act2_e1c3afb6:

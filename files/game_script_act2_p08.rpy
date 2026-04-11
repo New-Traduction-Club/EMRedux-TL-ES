@@ -1496,7 +1496,7 @@ translate spanish game_script_act2_4fa2b395:
 translate spanish game_script_act2_e93edc23:
 
     # extend "Monika folds it shut and slots it into the envelope."
-    extend "y Monika la dobla por la mitad, metiéndola en un sobre."
+    extend "Monika la dobla por la mitad y la mete en un sobre."
 
 # game/game_script_act2.rpy:5616
 translate spanish game_script_act2_3205d81d:

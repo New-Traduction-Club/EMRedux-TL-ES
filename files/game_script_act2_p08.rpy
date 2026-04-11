@@ -1502,7 +1502,7 @@ translate spanish game_script_act2_e93edc23:
 translate spanish game_script_act2_3205d81d:
 
     # "She neatly puts the card back in its place, wedged between two cups."
-    "Entre dos tazas, Monika pone el sobre con cuidado."
+    "Pone el sobre entre dos tazas con cuidado."
 
 # game/game_script_act2.rpy:5618
 translate spanish game_script_act2_eae8338c:

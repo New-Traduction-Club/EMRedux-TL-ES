@@ -1466,145 +1466,145 @@ translate spanish game_script_act2_8935c9a4:
 translate spanish game_script_act2_e020d853:
 
     # "Handing it over to Natsuki, I nod to her."
-    ""
+    "Se lo doy a Natsuki y le asiento."
 
 # game/game_script_act2.rpy:5605
 translate spanish game_script_act2_82172880:
 
     # "She scrawls her name down."
-    ""
+    "Escribe su nombre."
 
 # game/game_script_act2.rpy:5608
 translate spanish game_script_act2_4be4da70:
 
     # m mb "Thanks, guys!"
-    m mb ""
+    m mb "¡Muchas gracias, chicos!"
 
 # game/game_script_act2.rpy:5609
 translate spanish game_script_act2_e605eacf:
 
     # m rhip b1a e1b "I’m sure she’ll really appreciate it coming from all of us."
-    m rhip b1a e1b ""
+    m rhip b1a e1b "Estoy segura de que agradecerá el detalle viniendo de todo el club."
 
 # game/game_script_act2.rpy:5612
 translate spanish game_script_act2_4fa2b395:
 
     # "Taking the card back, {nw}"
-    ""
+    "Natsuki le da la tarjeta, {nw}"
 
 # game/game_script_act2.rpy:5614
 translate spanish game_script_act2_e93edc23:
 
     # extend "Monika folds it shut and slots it into the envelope."
-    extend ""
+    extend "y Monika la dobla por la mitad, metiéndola en un sobre."
 
 # game/game_script_act2.rpy:5616
 translate spanish game_script_act2_3205d81d:
 
     # "She neatly puts the card back in its place, wedged between two cups."
-    ""
+    "Entre dos tazas, Monika pone el sobre con cuidado."
 
 # game/game_script_act2.rpy:5618
 translate spanish game_script_act2_eae8338c:
 
     # "Turning back, she gives us a double thumbs up, before zipping the bag back up, hiding the tea set from view."
-    ""
+    "Se da la vuelta, nos da el visto bueno levantando dos pulgares, cierra su bolso y esconde el juego de té."
 
 # game/game_script_act2.rpy:5620
 translate spanish game_script_act2_32a3693c:
 
     # n rdown lhip e1a b1f mg "So...where {i}is{/i} Sayori?"
-    n rdown lhip e1a b1f mg ""
+    n rdown lhip e1a b1f mg "Pero... ¿y Sayori?"
 
 # game/game_script_act2.rpy:5622
 translate spanish game_script_act2_6be96620:
 
     # m e4a b2b mb "Oh, aha..."
-    m e4a b2b mb ""
+    m e4a b2b mb "Ah, pues..."
 
 # game/game_script_act2.rpy:5623
 translate spanish game_script_act2_3ddd1cf3:
 
     # m nerv oe rdown "Yuri took her the long way around, since, y’know...{w=0.3}{nw}"
-    m nerv oe rdown ""
+    m nerv oe rdown "Yuri se la ha llevado a dar una vuelta porque, bueno...{w=0.3} {nw}"
 
 # game/game_script_act2.rpy:5626
 translate spanish game_script_act2_9e9cc8a4:
 
     # extend "I needed some time to catch up with you!"
-    extend ""
+    extend "¡tenía que buscaros y necesitaba tiempo!"
 
 # game/game_script_act2.rpy:5627
 translate spanish game_script_act2_521cbcd7:
 
     # m vsur cm oe "Oh! {w=0.5}{nw}"
-    m vsur cm oe ""
+    m vsur cm oe "¡Ay! {w=0.5}{nw}"
 
 # game/game_script_act2.rpy:5629
 translate spanish game_script_act2_ce992851:
 
     # extend "How could I forget?"
-    extend ""
+    extend "¡Vaya despiste!"
 
 # game/game_script_act2.rpy:5630
 translate spanish game_script_act2_24040488:
 
     # m rhip curi oe mh "You two brought your poems, right?"
-    m rhip curi oe mh ""
+    m rhip curi oe mh "Habéis traído vuestrod poemas, ¿no?"
 
 # game/game_script_act2.rpy:5633
 translate spanish game_script_act2_57733b93:
 
     # "For once, I have an answer."
-    ""
+    "Por primera vez desde que han llegado, puedo responder a algo. "
 
 # game/game_script_act2.rpy:5635
 translate spanish game_script_act2_478084d5:
 
     # mc "In my bag, yeah."
-    mc ""
+    mc "Sí, en mi mochila."
 
 # game/game_script_act2.rpy:5636
 translate spanish game_script_act2_9b595fdf:
 
     # n b1c e1a mg "Same here."
-    n b1c e1a mg ""
+    n b1c e1a mg "Y yo también lo traigo."
 
 # game/game_script_act2.rpy:5639
 translate spanish game_script_act2_8e0037a0:
 
     # m "Oh, perfect!"
-    m ""
+    m "¡Genial!"
 
 # game/game_script_act2.rpy:5641
 translate spanish game_script_act2_71dee927:
 
     # m lpoint e1a b2a "Well, it looks like this is gonna go off without a hitch!"
-    m lpoint e1a b2a ""
+    m lpoint e1a b2a "Entonces... ¡parece que esto va a ir como la seda!"
 
 # game/game_script_act2.rpy:5644
 translate spanish game_script_act2_d2b281d8:
 
     # "I hope so."
-    ""
+    "Pues eso espero..."
 
 # game/game_script_act2.rpy:5645
 translate spanish game_script_act2_c936e1d0:
 
     # "Natsuki takes notice that I'm motioning towards Parfait Girls, and {nw}"
-    ""
+    "Natsuki se percata de que le estoy señalando hacia Parfait girls {nw}"
 
 # game/game_script_act2.rpy:5646
 translate spanish game_script_act2_eaed2f68:
 
     # extend "returns to her page."
-    extend ""
+    extend "y vuelve a leer."
 
 # game/game_script_act2.rpy:5647
 translate spanish game_script_act2_a499ad8e:
 
     # "Monika takes a seat at the teacher’s desk, tapping her fingers on the desk."
-    ""
+    "Monika se sienta en la mesa del profesor mientras tamborilea con los dedos."
 
 # game/game_script_act2.rpy:5648
 translate spanish game_script_act2_e13349bf:

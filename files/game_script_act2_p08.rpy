@@ -1328,139 +1328,139 @@ translate spanish game_script_act2_6e08ad4c:
 translate spanish game_script_act2_5b0369ea:
 
     # "A new tea set."
-    ""
+    "Un juego de té completamente nuevo."
 
 # game/game_script_act2.rpy:5558
 translate spanish game_script_act2_0a6862f6:
 
     # m "Just a little something for Sayori!"
-    m ""
+    m "¡Un detallito para Sayori!"
 
 # game/game_script_act2.rpy:5559
 translate spanish game_script_act2_86173f52:
 
     # m "O-oh, and the rest of us, of course."
-    m ""
+    m "Y p-para el resto, claro."
 
 # game/game_script_act2.rpy:5560
 translate spanish game_script_act2_617ec330:
 
     # "The new set has five cups."
-    ""
+    "El juego tiene cinco tazas."
 
 # game/game_script_act2.rpy:5561
 translate spanish game_script_act2_bb9d6614:
 
     # "One for each of us, our names painted on each in a different colour."
-    ""
+    "Por lo que veo, es una para cada uno porque tiene nuestros nombres escritos en un color distinto."
 
 # game/game_script_act2.rpy:5562
 translate spanish game_script_act2_15544ffa:
 
     # "The new teapot has 'Literature Club' written in script across the middle on each side."
-    ""
+    "La tetera reza 'club de literatura' en letra cursiva en el centro de cada lado."
 
 # game/game_script_act2.rpy:5563
 translate spanish game_script_act2_c1ed0f38:
 
     # "I mean, it's nice and all, but..."
-    ""
+    "A ver, no está mal...,"
 
 # game/game_script_act2.rpy:5564
 translate spanish game_script_act2_c632ad53:
 
     # "Is this really a gift for Sayori?"
-    ""
+    "pero la verdadera preguna es... si es esto lo que realmente quiere Sayori."
 
 # game/game_script_act2.rpy:5565
 translate spanish game_script_act2_c93a1716:
 
     # "I don't think I've ever seen her show an overt interest in tea."
-    ""
+    "Nunca la he visto interesarse por el té."
 
 # game/game_script_act2.rpy:5573
 translate spanish game_script_act2_06e03d3b:
 
     # n "Sweet."
-    n ""
+    n "Qué bonito."
 
 # game/game_script_act2.rpy:5575
 translate spanish game_script_act2_a3405925:
 
     # mc "It looks great, Monika."
-    mc ""
+    mc "Está genial, Monika."
 
 # game/game_script_act2.rpy:5576
 translate spanish game_script_act2_e8f283b9:
 
     # mc "What’s that for?"
-    mc ""
+    mc "¿Y eso? ¿Para qué es?"
 
 # game/game_script_act2.rpy:5578
 translate spanish game_script_act2_617818a2:
 
     # m lpoint b1f mb "Oh, this?"
-    m lpoint b1f mb ""
+    m lpoint b1f mb "Ah, ¿esto?"
 
 # game/game_script_act2.rpy:5581
 translate spanish game_script_act2_6d69d251:
 
     # "She pulls a decorated card out of the bag, handing it our way alongside her pen."
-    ""
+    "Saca una tarjeta tematizada de su bolso y nos la da junto con un bolígrafo."
 
 # game/game_script_act2.rpy:5583
 translate spanish game_script_act2_fd7f454d:
 
     # m mb "This...{w}{nw}"
-    m mb ""
+    m mb "Pues esto es...{w} {nw}"
 
 # game/game_script_act2.rpy:5586
 translate spanish game_script_act2_bf6297b6:
 
     # extend "is actually something I needed to catch up with you two on."
-    extend ""
+    extend "algo que quería hacer con vosotros dos aquí."
 
 # game/game_script_act2.rpy:5587
 translate spanish game_script_act2_02ae31a3:
 
     # m ldown e4b b3c "Yuri and I have already signed it."
-    m ldown e4b b3c ""
+    m ldown e4b b3c "Nosotras ya firmamos."
 
 # game/game_script_act2.rpy:5593
 translate spanish game_script_act2_418e69a5:
 
     # "Looking over to Natsuki, her expression screams 'too much'."
-    ""
+    "Miro a Natsuki y su cara me dice 'es demasiado'."
 
 # game/game_script_act2.rpy:5594
 translate spanish game_script_act2_e1c3afb6:
 
     # "But knowing what happened with the festival, her big day..."
-    ""
+    "Aunque sabiendo lo que pasó con el festival, que era su día especial...,"
 
 # game/game_script_act2.rpy:5595
 translate spanish game_script_act2_c6f2d58c:
 
     # "Not to mention, the sporadic-at-best club meetings last week..."
-    ""
+    "y sin olvidar las pobres reuniones del club de la semana pasada...,"
 
 # game/game_script_act2.rpy:5597
 translate spanish game_script_act2_cb4e7d96:
 
     # "It seems Monika’s praying for something to go her way."
-    ""
+    "parece que Monika implora que las cosas vayan a su favor."
 
 # game/game_script_act2.rpy:5600
 translate spanish game_script_act2_b5d60e7b:
 
     # mc "Oh, sure. I'll sign."
-    mc ""
+    mc "Ah, claro. Te firmo en un momento."
 
 # game/game_script_act2.rpy:5602
 translate spanish game_script_act2_8935c9a4:
 
     # "Taking her pen, I sign off on it."
-    ""
+    "Cojo el boli y echo una firma."
 
 # game/game_script_act2.rpy:5603
 translate spanish game_script_act2_e020d853:

@@ -1550,7 +1550,7 @@ translate spanish game_script_act2_ce992851:
 translate spanish game_script_act2_24040488:
 
     # m rhip curi oe mh "You two brought your poems, right?"
-    m rhip curi oe mh "Habéis traído vuestrod poemas, ¿no?"
+    m rhip curi oe mh "Habéis traído vuestros poemas, ¿no?"
 
 # game/game_script_act2.rpy:5633
 translate spanish game_script_act2_57733b93:

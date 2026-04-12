@@ -20,7 +20,7 @@ translate spanish game_script_act2_8f3df05f:
 translate spanish game_script_act2_fc2da0a3:
 
     # s rup e1b b2a mg "Oh...thanks..."
-    s rup e1b b2a mg "Ah, gracias.. "
+    s rup e1b b2a mg "Ah, gracias..."
 
 # game/game_script_act2.rpy:5850
 translate spanish game_script_act2_4cc39b83:

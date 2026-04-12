@@ -26,7 +26,7 @@ translate spanish game_script_act2_fc2da0a3:
 translate spanish game_script_act2_4cc39b83:
 
     # m e1a b2a me "It’s no problem!"
-    m e1a b2a me "¡Ni las des!"
+    m e1a b2a me "Ni las des."
 
 # game/game_script_act2.rpy:5851
 translate spanish game_script_act2_a3b58aa5:

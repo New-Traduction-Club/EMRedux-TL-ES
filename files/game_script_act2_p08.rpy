@@ -1808,190 +1808,190 @@ translate spanish game_script_act2_e449a4ee:
 translate spanish game_script_act2_345bcb3c:
 
     # "Monika strides over to the teacher’s desk, and unzips the backpack lying in wait."
-    ""
+    "Monika se acerca a la mesa del profesor y abre la bolsa."
 
 # game/game_script_act2.rpy:5754
 translate spanish game_script_act2_ac3d92e5:
 
     # "The new tea set is revealed to everyone."
-    ""
+    "Nos enseña el nuevo juego de té."
 
 # game/game_script_act2.rpy:5757
 translate spanish game_script_act2_187c293d:
 
     # "I feign surprise."
-    ""
+    "Finjo sorprenderme."
 
 # game/game_script_act2.rpy:5759
 translate spanish game_script_act2_a8c7bf87:
 
     # y e1b rdown mg "I-it’s not much, but I thought it’d be nice to share."
-    y e1b rdown mg ""
+    y e1b rdown mg "N-No es mucho, pero es un detallito..."
 
 # game/game_script_act2.rpy:5761
 translate spanish game_script_act2_9c64f81d:
 
     # s mi "Ooooohh~!"
-    s mi ""
+    s mi "¡Ayyy...!"
 
 # game/game_script_act2.rpy:5762
 translate spanish game_script_act2_dd538ab2:
 
     # s e1a mg "This looks so...{w=0.5}{nw}"
-    s e1a mg ""
+    s e1a mg "¡Qué...{w=0.5}{nw}"
 
 # game/game_script_act2.rpy:5765
 translate spanish game_script_act2_e04b1a4f:
 
     # extend "elegant!"
-    extend ""
+    extend " elegante!"
 
 # game/game_script_act2.rpy:5767
 translate spanish game_script_act2_96299db2:
 
     # s mc "Thanks, Yuri!"
-    s mc ""
+    s mc "¡Gracias, Yuri!"
 
 # game/game_script_act2.rpy:5769
 translate spanish game_script_act2_567b21a4:
 
     # y blus e2b rup mb "Th-thank you."
-    y blus e2b rup mb ""
+    y blus e2b rup mb "Muchas g-gracias..."
 
 # game/game_script_act2.rpy:5771
 translate spanish game_script_act2_cebe4372:
 
     # n rhip mb e1a "And hey, the cups are bigger! Thanks, Yuri!"
-    n rhip mb e1a ""
+    n rhip mb e1a "¡Si las tazas son más grandes y todo! ¡Gracias, Yuri!"
 
 # game/game_script_act2.rpy:5774
 translate spanish game_script_act2_419c9b8d:
 
     # mc "This must have taken a lot of preparation."
-    mc ""
+    mc "Te debe haber costado mucho hacerlas."
 
 # game/game_script_act2.rpy:5777
 translate spanish game_script_act2_a64e8bc0_1:
 
     # mc "Thanks."
-    mc ""
+    mc "Muchas gracias."
 
 # game/game_script_act2.rpy:5783
 translate spanish game_script_act2_4ec200ed:
 
     # "It seems Yuri can hardly contain her excitement."
-    ""
+    "A Yuri parece costarle aguantar tanta felicidad."
 
 # game/game_script_act2.rpy:5785
 translate spanish game_script_act2_e9a99c97:
 
     # y om "O-oh, it’s nothing..."
-    y om ""
+    y om "G-Gracias..."
 
 # game/game_script_act2.rpy:5787
 translate spanish game_script_act2_165a008e:
 
     # y "Uh..."
-    y ""
+    y "Y..."
 
 # game/game_script_act2.rpy:5789
 translate spanish game_script_act2_ff587075:
 
     # y "I-I couldn’t have done it without Monika, though!"
-    y ""
+    y "¡T-Tampoco he sido yo sola, Monika también ha aportado mucho!"
 
 # game/game_script_act2.rpy:5792
 translate spanish game_script_act2_98e4b167:
 
     # m lean happ om ce "Oh, don’t mention it, Yuri!"
-    m lean happ om ce ""
+    m lean happ om ce "¡Venga ya, Yuri, no ha sido nada!"
 
 # game/game_script_act2.rpy:5797
 translate spanish game_script_act2_87f9f194:
 
     # y "So..."
-    y ""
+    y "Entonces...,"
 
 # game/game_script_act2.rpy:5801
 translate spanish game_script_act2_833e39cb:
 
     # y lup e1a b2a mb "Would anyone care for some tea?"
-    y lup e1a b2a mb ""
+    y lup e1a b2a mb "¿os animáis a beber algo de té?"
 
 # game/game_script_act2.rpy:5804
 translate spanish game_script_act2_31dfd02f:
 
     # m "That’d be lovely."
-    m ""
+    m "Me encantaría."
 
 # game/game_script_act2.rpy:5807
 translate spanish game_script_act2_7d87b4df:
 
     # s lup e1a mb "Oo, yes please!"
-    s lup e1a mb ""
+    s lup e1a mb "¡Oooh! ¡Sí, sí, porfi!"
 
 # game/game_script_act2.rpy:5810
 translate spanish game_script_act2_cb478a17:
 
     # n e1a mg "Ditto."
-    n e1a mg ""
+    n e1a mg "Y yo también quiero."
 
 # game/game_script_act2.rpy:5813
 translate spanish game_script_act2_ccb5bfd2:
 
     # mc "Yeah, thank you."
-    mc ""
+    mc "Claro, gracias."
 
 # game/game_script_act2.rpy:5815
 translate spanish game_script_act2_b445abe0:
 
     # "Noting the reception, Yuri carefully {nw}"
-    ""
+    "Habiendo recibido tantos síes, Yuri {nw}"
 
 # game/game_script_act2.rpy:5821
 translate spanish game_script_act2_484e7cf9:
 
     # extend "whisks the Literature Club’s new teapot away."
-    extend ""
+    extend "se lleva la nueva tetera del club."
 
 # game/game_script_act2.rpy:5822
 translate spanish game_script_act2_01f5e1ab:
 
     # "I can't help but smile."
-    ""
+    "No puedo evitar sonreír."
 
 # game/game_script_act2.rpy:5823
 translate spanish game_script_act2_dd1ee414:
 
     # "It’s been a while since I last saw everyone in the club all gathered together and happy."
-    ""
+    "Hace la tira que no veía a las chicas tan contentas."
 
 # game/game_script_act2.rpy:5824
 translate spanish game_script_act2_34438634:
 
     # "As the thought crosses my mind, {nw}"
-    ""
+    "Tal y como pienso en ello, {nw}"
 
 # game/game_script_act2.rpy:5827
 translate spanish game_script_act2_c1a87e59:
 
     # extend "Monika reaches into the bag, pulling out the card from earlier."
-    extend ""
+    extend "Monika parece pensarlo igual y saca la tarjetita de antes."
 
 # game/game_script_act2.rpy:5831
 translate spanish game_script_act2_26cc54c1:
 
     # m "Sayori?"
-    m ""
+    m "Eh..., ¿Sayori?"
 
 # game/game_script_act2.rpy:5833
 translate spanish game_script_act2_e4041408:
 
     # s ldown b1f e1c me "Hm?"
-    s ldown b1f e1c me ""
+    s ldown b1f e1c me "¿Mmm?"
 
 # game/game_script_act2.rpy:5835
 translate spanish game_script_act2_304c04bc:
 
     # m lpoint b1b mg "It’s for you."
-    m lpoint b1b mg ""
+    m lpoint b1b mg "Para ti."

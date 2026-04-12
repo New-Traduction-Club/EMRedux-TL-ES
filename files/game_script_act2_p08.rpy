@@ -1694,115 +1694,115 @@ translate spanish game_script_act2_449e0553:
 translate spanish game_script_act2_63578106:
 
     # "The four of us gather around some desks that have been pushed together."
-    ""
+    "Nos ponemos los cuatro alrededor de unas mesas que se habían unido antes."
 
 # game/game_script_act2.rpy:5695
 translate spanish game_script_act2_7a23a7dd:
 
     # n cross uniformb b1c mg "She said something about going to get some snacks."
-    n cross uniformb b1c mg ""
+    n cross uniformb b1c mg "Dijo que iba a por chucherías."
 
 # game/game_script_act2.rpy:5699
 translate spanish game_script_act2_06107bf4:
 
     # s "Ooh, snacks!"
-    s ""
+    s "¡Uy, chuches!"
 
 # game/game_script_act2.rpy:5701
 translate spanish game_script_act2_e6d75dd0:
 
     # mc "Yeah, hopefully, she won’t be gone for long."
-    mc ""
+    mc "Sí, y espero que no tarde mucho."
 
 # game/game_script_act2.rpy:5707
 translate spanish game_script_act2_21ed0e0d:
 
     # "Luckily, it only takes a minute or two for Monika to return, with a frankly ridiculous supply of snacks."
-    ""
+    "Por suerte, solo ha necesitado un par de minutos para volver con una cantidad francamente ridícula de chucherías."
 
 # game/game_script_act2.rpy:5708
 translate spanish game_script_act2_d2a40ee6:
 
     # "She’s standing in the doorway, arms filled with chocolate bars, cookies and peanut butter crackers, all of which I recognize from the store."
-    ""
+    "Está en la puerta con los brazos llenos de tabletas de chocolate, galletas normales y galletas de mantequilla de cacahuete... que me suenan bastante del súper en el que me la encontré."
 
 # game/game_script_act2.rpy:5710
 translate spanish game_script_act2_2800f574:
 
     # "Sure enough, I can spot the white chocolate bar buried somewhere in there."
-    ""
+    "Y sí, ha comprado el chocolate blanco porque lo he visto enterrado entre tantas cosas."
 
 # game/game_script_act2.rpy:5712
 translate spanish game_script_act2_1a159820:
 
     # y mh "O-oh, wow..."
-    y mh ""
+    y mh "A-Ah, vaya..."
 
 # game/game_script_act2.rpy:5714
 translate spanish game_script_act2_5fe3596c:
 
     # n b1c mb "You weren’t lying when you said 'snacks', Monika."
-    n b1c mb ""
+    n b1c mb "Veo que decías la verdad con las chucherías, Monika."
 
 # game/game_script_act2.rpy:5717
 translate spanish game_script_act2_5566dfc8:
 
     # m lpoint e4b b3c mb "Well, it wouldn't be a proper welcome back without them!"
-    m lpoint e4b b3c mb ""
+    m lpoint e4b b3c mb "¡No sería una grata bienvenida sin ellas, Natsuki!"
 
 # game/game_script_act2.rpy:5720
 translate spanish game_script_act2_a5fa50ea:
 
     # "Monika empties her arms onto the desks, before taking her own seat, opposite Natsuki and I."
-    ""
+    "Monika vacía el contenido de sus brazos en las mesas antes de sentarse en el sitio opuesto a Natsuki y al mío."
 
 # game/game_script_act2.rpy:5721
 translate spanish game_script_act2_4f8f992a:
 
     # n b1f e1d mb "Careful Monika, you nearly spilled the goods."
-    n b1f e1d mb ""
+    n b1f e1d mb "Tranquila, Monika, que te cargas la mercancía."
 
 # game/game_script_act2.rpy:5723
 translate spanish game_script_act2_f191516f:
 
     # m ldown e4b b2a mb "Sorry~"
-    m ldown e4b b2a mb ""
+    m ldown e4b b2a mb "Perdona..."
 
 # game/game_script_act2.rpy:5726
 translate spanish game_script_act2_e03bd5cd:
 
     # m e1a "I'm just excited to have our vice president back!"
-    m e1a ""
+    m e1a "¡Es que me alegra mucho que nuestra vicepresidenta esté de vuelta con nosotros!"
 
 # game/game_script_act2.rpy:5729
 translate spanish game_script_act2_dd7dd26f:
 
     # m lean happ om ce "I really want this to be a special occasion~!"
-    m lean happ om ce ""
+    m lean happ om ce "¡Quería que este día fuese especial...!"
 
 # game/game_script_act2.rpy:5733
 translate spanish game_script_act2_eeb0bb7b:
 
     # m oe "So, Yuri, do you want to do the honours?"
-    m oe ""
+    m oe "Así que... Yuri, ¿haces los honores?"
 
 # game/game_script_act2.rpy:5735
 translate spanish game_script_act2_85c30198:
 
     # y flus oe cm "O-oh, of course..."
-    y flus oe cm ""
+    y flus oe cm "C-Claro, faltaría más..."
 
 # game/game_script_act2.rpy:5739
 translate spanish game_script_act2_94fc867f:
 
     # y "Well, now that everyone’s here..."
-    y ""
+    y "Bueno, ya que todo el mundo está presente...,"
 
 # game/game_script_act2.rpy:5743
 translate spanish game_script_act2_e449a4ee:
 
     # y rup ce "Monika and I have actually prepared, erm, a surprise for everyone!"
-    y rup ce ""
+    y rup ce "¡Monika y yo hemos prep... eh, preparado una sorpresa para el club!"
 
 # game/game_script_act2.rpy:5750
 translate spanish game_script_act2_345bcb3c:

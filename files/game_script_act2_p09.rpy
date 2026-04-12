@@ -68,73 +68,73 @@ translate spanish game_script_act2_1a1c68c8:
 translate spanish game_script_act2_49c9008a:
 
     # extend "but as long as I'm here, I'm as comfy as I can be!"
-    extend " ¡pero este sitio YA me da comodidad de por sí!"
+    extend " ¡pero este sitio ya me da esa comodidad de por sí!"
 
 # game/game_script_act2.rpy:5867
 translate spanish game_script_act2_3b2d1cc7:
 
     # m b3c e4a mb "I’m really relieved to hear that..."
-    m b3c e4a mb ""
+    m b3c e4a mb "Me alegra que lo digas..."
 
 # game/game_script_act2.rpy:5870
 translate spanish game_script_act2_bbe6f5d4:
 
     # m rhip e1a b2a mh "Oh, hold that thought."
-    m rhip e1a b2a mh ""
+    m rhip e1a b2a mh "¡Ah, espera!"
 
 # game/game_script_act2.rpy:5873
 translate spanish game_script_act2_6cffde88:
 
     # "Before Sayori can get another word in, Monika motions towards the mountain of snacks."
-    ""
+    "Antes de que Sayori diga algo más, Monika señala con energía la montaña de chucherías."
 
 # game/game_script_act2.rpy:5875
 translate spanish game_script_act2_67002154:
 
     # m b1a mg "I don’t mean to change the subject so quickly,{w=0.5} {nw}"
-    m b1a mg ""
+    m b1a mg "No quiero cortarte el rollo de esta manera...{w=0.5} {nw}"
 
 # game/game_script_act2.rpy:5879
 translate spanish game_script_act2_bc1c0dc2:
 
     # extend "but take your pick!"
-    extend ""
+    extend "¡pero no se van a comer solas!"
 
 # game/game_script_act2.rpy:5881
 translate spanish game_script_act2_07a5bacc:
 
     # m ce "We're celebrating {i}your{/i} return, after all."
-    m ce ""
+    m ce "Estamos celebrando que estás aquí con nosotros, ¿sabes?"
 
 # game/game_script_act2.rpy:5885
 translate spanish game_script_act2_9e08af1c:
 
     # "Sayori shifts in her seat a little, but smiles anyway."
-    ""
+    "Sayori se mueve un poco en su silla y sonríe."
 
 # game/game_script_act2.rpy:5887
 translate spanish game_script_act2_47703141:
 
     # s mb "These look really nice."
-    s mb ""
+    s mb "Vaya pintaza."
 
 # game/game_script_act2.rpy:5889
 translate spanish game_script_act2_73478581:
 
     # m e1 m2 "And, just for you..."
-    m e1 m2 ""
+    m e1 m2 "Y, en exclusiva...,"
 
 # game/game_script_act2.rpy:5893
 translate spanish game_script_act2_80cb8735:
 
     # "From the pile, Monika recovers the white chocolate bar, offering it to her."
-    ""
+    "Del montón, Monika coge la tableta de chocolate blanco y se la da."
 
 # game/game_script_act2.rpy:5896
 translate spanish game_script_act2_ffaf1cbe:
 
     # s rdown mg "Thanks..."
-    s rdown mg ""
+    s rdown mg "Ah, gracias..."
 
 # game/game_script_act2.rpy:5898
 translate spanish game_script_act2_80bd5c05:

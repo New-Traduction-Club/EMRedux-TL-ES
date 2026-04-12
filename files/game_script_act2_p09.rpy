@@ -2,73 +2,73 @@
 translate spanish game_script_act2_3522234b:
 
     # m b2b e1c mh "From all of us."
-    m b2b e1c mh ""
+    m b2b e1c mh "De parte del club."
 
 # game/game_script_act2.rpy:5845
 translate spanish game_script_act2_ef1fee0c:
 
     # "Sayori carefully opens it, taking care to avoid ripping the envelope apart."
-    ""
+    "Sayori lo abre con sumo cuidado tratando de no romper el sobre."
 
 # game/game_script_act2.rpy:5847
 translate spanish game_script_act2_8f3df05f:
 
     # "She takes a moment to read, before closing it back up and slipping the card back into the envelope."
-    ""
+    "Antes de volverla a doblar y meterla dentro otra vez, la ha estado leyendo un rato."
 
 # game/game_script_act2.rpy:5848
 translate spanish game_script_act2_fc2da0a3:
 
     # s rup e1b b2a mg "Oh...thanks..."
-    s rup e1b b2a mg ""
+    s rup e1b b2a mg "Ah, gracias.. "
 
 # game/game_script_act2.rpy:5850
 translate spanish game_script_act2_4cc39b83:
 
     # m e1a b2a me "It’s no problem!"
-    m e1a b2a me ""
+    m e1a b2a me "¡Ni las des!"
 
 # game/game_script_act2.rpy:5851
 translate spanish game_script_act2_a3b58aa5:
 
     # m b2b mg "We just wanted you to know that we care."
-    m b2b mg ""
+    m b2b mg "Queríamos que supieses lo mucho que nos importas."
 
 # game/game_script_act2.rpy:5854
 translate spanish game_script_act2_0971f045:
 
     # m rhip b2b mh "And we’re here, whenever you need it."
-    m rhip b2b mh ""
+    m rhip b2b mh "Y, por supuesto, que estamos para lo que necesites."
 
 # game/game_script_act2.rpy:5856
 translate spanish game_script_act2_aa9ddcee:
 
     # s e1a b2b me "That...means a lot..."
-    s e1a b2b me ""
+    s e1a b2b me "Es... un detalle muy bonito."
 
 # game/game_script_act2.rpy:5857
 translate spanish game_script_act2_0e7daaef:
 
     # s b2a mg "But it’s okay, you don’t need to worry about me."
-    s b2a mg ""
+    s b2a mg "Aunque no necesito que os preocupéis por mí, en serio."
 
 # game/game_script_act2.rpy:5860
 translate spanish game_script_act2_e51d9439:
 
     # m awkw b2b e1b mb rdown "Oh, I just want to make sure you’re comfortable here!"
-    m awkw b2b e1b mb rdown ""
+    m awkw b2b e1b mb rdown "¡Solo quería asegurarme de que estés cómoda con nosotras!"
 
 # game/game_script_act2.rpy:5862
 translate spanish game_script_act2_1a1c68c8:
 
     # s mg "Thanks, Monika...{w=0.4}{nw}"
-    s mg ""
+    s mg "Gracias, Monika...{w=0.4}{nw}"
 
 # game/game_script_act2.rpy:5865
 translate spanish game_script_act2_49c9008a:
 
     # extend "but as long as I'm here, I'm as comfy as I can be!"
-    extend ""
+    extend " ¡pero este sitio YA me da comodidad de por sí!"
 
 # game/game_script_act2.rpy:5867
 translate spanish game_script_act2_3b2d1cc7:

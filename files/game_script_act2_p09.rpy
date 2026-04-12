@@ -8,13 +8,13 @@ translate spanish game_script_act2_3522234b:
 translate spanish game_script_act2_ef1fee0c:
 
     # "Sayori carefully opens it, taking care to avoid ripping the envelope apart."
-    "Sayori lo abre con sumo cuidado tratando de no romper el sobre."
+    "Sayori abre el sobrecito con cuidado intentando no romperlo."
 
 # game/game_script_act2.rpy:5847
 translate spanish game_script_act2_8f3df05f:
 
     # "She takes a moment to read, before closing it back up and slipping the card back into the envelope."
-    "Antes de volverla a doblar y meterla dentro otra vez, la ha estado leyendo un rato."
+    "Antes de volver a doblar la tarjeta y meterla dentro otra vez, la ha estado leyendo un rato."
 
 # game/game_script_act2.rpy:5848
 translate spanish game_script_act2_fc2da0a3:

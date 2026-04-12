@@ -1724,7 +1724,7 @@ translate spanish game_script_act2_21ed0e0d:
 translate spanish game_script_act2_d2a40ee6:
 
     # "She’s standing in the doorway, arms filled with chocolate bars, cookies and peanut butter crackers, all of which I recognize from the store."
-    "Está en la puerta con los brazos llenos de tabletas de chocolate, galletas normales y galletas de mantequilla de cacahuete... que me suenan bastante del súper en el que me la encontré."
+    "Tiene los brazos llenos de tabletas de chocolate, galletas normales y galletas de mantequilla de cacahuete... que me suenan bastante del súper en el que me la encontré."
 
 # game/game_script_act2.rpy:5710
 translate spanish game_script_act2_2800f574:

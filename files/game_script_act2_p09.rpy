@@ -458,7 +458,7 @@ translate spanish game_script_act2_c8a64454:
 translate spanish game_script_act2_082fffd9:
 
     # y e4a "This blend has organic rooibos, honeybush, and blueberries."
-    y e4a "Esta mezcla lleva rooibos orgánicos, arbusto de miel y moras azules."
+    y e4a "Esta mezcla lleva rooibos orgánicos, arbusto de miel y arándanos."
 
 # game/game_script_act2.rpy:6067
 translate spanish game_script_act2_39096123:
@@ -506,73 +506,73 @@ translate spanish game_script_act2_ce31c138:
 translate spanish game_script_act2_fca3e19c:
 
     # "She turns away, trying to avoid her gaze."
-    "Se da la vuelta tratando de evitar que la mire."
+    "Se da la vuelta tratando de evitar que Yuri la mire."
 
 # game/game_script_act2.rpy:6090
 translate spanish game_script_act2_b8708202:
 
     # "Natsuki glances towards me, clearly irritated by Monika’s coddling."
-    ""
+    "Natsuki me mira y está más que claro que lo hace porque está harta de los mimos de Monika hacia Sayori."
 
 # game/game_script_act2.rpy:6092
 translate spanish game_script_act2_942c2592:
 
     # "Yuri, noticing this, turns to Monika."
-    ""
+    "Yuri se acaba dando cuenta y mira a Monika."
 
 # game/game_script_act2.rpy:6094
 translate spanish game_script_act2_b9587a83:
 
     # y e1a mh "Monika, I take it you must have a guess..?"
-    y e1a mh ""
+    y e1a mh "Entonces, Monika... ¿tienes idea de lo que puede ser...?"
 
 # game/game_script_act2.rpy:6098
 translate spanish game_script_act2_5297983b:
 
     # m m2 "O-oh!"
-    m m2 ""
+    m m2 "¡A-Ah!"
 
 # game/game_script_act2.rpy:6099
 translate spanish game_script_act2_8a1f2e4b:
 
     # m e2 m3 "Maybe!"
-    m e2 m3 ""
+    m e2 m3 "¡Puede!"
 
 # game/game_script_act2.rpy:6101
 translate spanish game_script_act2_9c112946:
 
     # m e4 "Is it...blueberry cheesecake?"
-    m e4 ""
+    m e4 "¿Puede ser... tarta de queso con arándanos?"
 
 # game/game_script_act2.rpy:6103
 translate spanish game_script_act2_3a3d94ae:
 
     # y b1a e1c mh "That’s...correct."
-    y b1a e1c mh ""
+    y b1a e1c mh "Pues... sí, estás en lo cierto."
 
 # game/game_script_act2.rpy:6104
 translate spanish game_script_act2_603971fd:
 
     # y e4a "It's supposed to taste like blueberry cheesecake."
-    y e4a ""
+    y e4a "Debería saber a tarta de queso con arándanos, sí."
 
 # game/game_script_act2.rpy:6106
 translate spanish game_script_act2_a4c681fe:
 
     # s b1b e1b mb "Oh, uh...good job, Monika!"
-    s b1b e1b mb ""
+    s b1b e1b mb "Ah, eh... ¡buen trabajo, Monika!"
 
 # game/game_script_act2.rpy:6108
 translate spanish game_script_act2_299e4c03:
 
     # mc "Yeah...well done."
-    mc ""
+    mc "Sí... lo mismo digo."
 
 # game/game_script_act2.rpy:6110
 translate spanish game_script_act2_a0695203:
 
     # n b1d mh e1c "‘Grats."
-    n b1d mh e1c ""
+    n b1d mh e1c "Bien."
 
 # game/game_script_act2.rpy:6115
 translate spanish game_script_act2_55c5c7c0:

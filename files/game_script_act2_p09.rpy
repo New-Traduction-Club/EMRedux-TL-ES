@@ -848,217 +848,217 @@ translate spanish game_script_act2_f9c20819:
 translate spanish game_script_act2_e53568ad:
 
     # s e1a mi "But all I’ve wanted to do since I got home was come back here."
-    s e1a mi ""
+    s e1a mi "Que sepas que todo lo que quería, desde que llegué a mi casa, era venir aquí."
 
 # game/game_script_act2.rpy:6214
 translate spanish game_script_act2_4df128a1:
 
     # m e1b mh "Sorry, Sayori. I didn't mean to assume."
-    m e1b mh ""
+    m e1b mh "Perdona, Sayori. No quería dar las cosas por sentadas."
 
 # game/game_script_act2.rpy:6215
 translate spanish game_script_act2_53b5e825:
 
     # m b1a e4a "Well, erm...in that case..."
-    m b1a e4a ""
+    m b1a e4a "Bueno, eh... en ese caso,"
 
 # game/game_script_act2.rpy:6218
 translate spanish game_script_act2_d99ed807:
 
     # m rhip "Guys, if you wanna pack them back up, maybe we’ll do this another time?"
-    m rhip ""
+    m rhip "¿os importa si os lo guardáis y seguimos otro día?"
 
 # game/game_script_act2.rpy:6219
 translate spanish game_script_act2_3ab8f925:
 
     # m e1c "When Sayori can join in--"
-    m e1c ""
+    m e1c "Cuando Sayori escriba uno, po..."
 
 # game/game_script_act2.rpy:6221
 translate spanish game_script_act2_152caffc:
 
     # s mh "Oh, no, it’s alright!"
-    s mh ""
+    s mh "¡No, no, seguid!"
 
 # game/game_script_act2.rpy:6223
 translate spanish game_script_act2_c6dfe1dd:
 
     # s rup b2a e4b mb "I’d still be happy to read the others’ poems!"
-    s rup b2a e4b mb ""
+    s rup b2a e4b mb "¡Yo soy feliz leyendo lo que han escrito las demás!"
 
 # game/game_script_act2.rpy:6224
 translate spanish game_script_act2_0ec3750d:
 
     # s b1b e1b n4 "Besides, I wouldn’t want to be the reason for holding everyone else up..."
-    s b1b e1b n4 ""
+    s b1b e1b n4 "Y no me gustaría ser la razón de haberos fastidiado todo..."
 
 # game/game_script_act2.rpy:6226
 translate spanish game_script_act2_bce954a3:
 
     # m lpoint b1b mh "But I don’t want you to feel left out, Sayori."
-    m lpoint b1b mh ""
+    m lpoint b1b mh "Es que no quiero que te sientas fuera de esto, Sayori."
 
 # game/game_script_act2.rpy:6227
 translate spanish game_script_act2_55f20662:
 
     # m mi "I’m sure they don’t mind holding their poems back until--"
-    m mi ""
+    m mi "No creo que les importe espe..."
 
 # game/game_script_act2.rpy:6229
 translate spanish game_script_act2_d7b7cd4c:
 
     # y rup b1d e1b mh "Monika, I really think you should let Sayori make the decision."
-    y rup b1d e1b mh ""
+    y rup b1d e1b mh "La decisión la debería tomar ella, Monika."
 
 # game/game_script_act2.rpy:6232
 translate spanish game_script_act2_561f44ca:
 
     # n b1e mh "Yeah, it should be up to her."
-    n b1e mh ""
+    n b1e mh "Estoy de acuerdo con Yuri."
 
 # game/game_script_act2.rpy:6234
 translate spanish game_script_act2_d447e505:
 
     # m b1b e1b mi n4 "Uhm..."
-    m b1b e1b mi n4 ""
+    m b1b e1b mi n4 "Eh..."
 
 # game/game_script_act2.rpy:6236
 translate spanish game_script_act2_415b0a58:
 
     # "Monika finally seems to notice that all eyes are on her."
-    ""
+    "Monika parece percatarse de que todas las miradas van hacia ella misma."
 
 # game/game_script_act2.rpy:6238
 translate spanish game_script_act2_0ebd080d:
 
     # "Natsuki looks like she could tear her to shreds."
-    ""
+    "Y Natsuki casi parece que la vaya a descuartizar."
 
 # game/game_script_act2.rpy:6239
 translate spanish game_script_act2_f74ee161:
 
     # "Before Monika can pick up her sentence, however, Sayori takes a stand."
-    ""
+    "Antes de que Monika pueda seguir con lo que estaba diciendo, Sayori habla."
 
 # game/game_script_act2.rpy:6243
 translate spanish game_script_act2_68de56ad:
 
     # s e1c mg "You know..."
-    s e1c mg ""
+    s e1c mg "¿Sabes...?"
 
 # game/game_script_act2.rpy:6245
 translate spanish game_script_act2_b9156a2d:
 
     # s rdown ldown mh "It probably {i}is{/i} best if we leave the poems for tomorrow..."
-    s rdown ldown mh ""
+    s rdown ldown mh "Puede que sea mejor que dejemos esto para mañana..."
 
 # game/game_script_act2.rpy:6247
 translate spanish game_script_act2_29557403:
 
     # y rup b1b e1b mh "O-oh..."
-    y rup b1b e1b mh ""
+    y rup b1b e1b mh "A-Ah..."
 
 # game/game_script_act2.rpy:6249
 translate spanish game_script_act2_48dd0d16:
 
     # m rhip e1b mg "W-well, if that’s what you want..."
-    m rhip e1b mg ""
+    m rhip e1b mg "B-Bueno, si es lo que has decidido..."
 
 # game/game_script_act2.rpy:6253
 translate spanish game_script_act2_2b91bdca:
 
     # "Once again, we’re all at a loss for words."
-    ""
+    "Una vez más, nos hemos quedado sin palabras."
 
 # game/game_script_act2.rpy:6254
 translate spanish game_script_act2_d577dbb1:
 
     # "The silence is so deafening, it’s honestly difficult to handle."
-    ""
+    "Cuesta aguantar este silencio."
 
 # game/game_script_act2.rpy:6255
 translate spanish game_script_act2_40f50160:
 
     # "I can only imagine how much pressure Sayori’s under."
-    ""
+    "Es que es imposible determinar la presión a la que está sometida Sayori ahora mismo."
 
 # game/game_script_act2.rpy:6258
 translate spanish game_script_act2_a4611043:
 
     # "Eager to remedy the situation, I contemplate heading over to her to ask how she’s doing."
-    ""
+    "Desesperado por no saber cómo manejar esta situación, considero acercarme a Sayori y preguntarle qué tal le va...,"
 
 # game/game_script_act2.rpy:6259
 translate spanish game_script_act2_33503dd9:
 
     # "{i}But something tells me that’s the last thing she’d want...{/i}"
-    ""
+    "pero creo que es lo último que querría oír..."
 
 # game/game_script_act2.rpy:6260
 translate spanish game_script_act2_4693a182:
 
     # "Besides, she’s already talking quietly with Yuri."
-    ""
+    "Aparte, se ha ido a hablar con Yuri tranquilamente."
 
 # game/game_script_act2.rpy:6261
 translate spanish game_script_act2_8dc36a0c:
 
     # "And now the two are packing up together."
-    ""
+    "Y ahora las veo recoger las cosas juntas."
 
 # game/game_script_act2.rpy:6265
 translate spanish game_script_act2_fac3291b:
 
     # "They’re already halfway out the door when Monika notices."
-    ""
+    "Están ya a medio camino de salir por la puerta cuando Monika se da cuenta."
 
 # game/game_script_act2.rpy:6271
 translate spanish game_script_act2_61ca2ca1:
 
     # m e1b mg "Uh, guys??"
-    m e1b mg ""
+    m e1b mg "¿¿Eh??"
 
 # game/game_script_act2.rpy:6274
 translate spanish game_script_act2_427e6dd0:
 
     # "She rushes over, presumably to ask her what’s up."
-    ""
+    "Corre hacia ellas para preguntar, probablemente, qué es lo que ocurre."
 
 # game/game_script_act2.rpy:6275
 translate spanish game_script_act2_a87848f8:
 
     # "They both disappear into the hallway."
-    ""
+    "Desaparecen ambas en el pasillo."
 
 # game/game_script_act2.rpy:6277
 translate spanish game_script_act2_adbb3b87:
 
     # "Natsuki stares me down with the same guilty expression I can feel forming on my face."
-    ""
+    "Natsuki me mira con la misma expresión de culpa que siento que empieza a formarse en mi cara."
 
 # game/game_script_act2.rpy:6278
 translate spanish game_script_act2_ad8bc134:
 
     # "I feel a lump in my throat."
-    ""
+    "Siento un nudo en la garganta."
 
 # game/game_script_act2.rpy:6284
 translate spanish game_script_act2_30c9d2bf:
 
     # n mg "Right, screw this."
-    n mg ""
+    n mg "Muy bien, a la mierda con todo esto."
 
 # game/game_script_act2.rpy:6285
 translate spanish game_script_act2_89c31506:
 
     # n e1a mh "I’m gonna go talk some sense into Monika."
-    n e1a mh ""
+    n e1a mh "Voy a hacerla entrar en razón."
 
 # game/game_script_act2.rpy:6287
 translate spanish game_script_act2_4c0aa191:
 
     # mc "A-are you sure?"
-    mc ""
+    mc "E-Espera, ¿estás segura?"
 
 # game/game_script_act2.rpy:6289
 translate spanish game_script_act2_be73ce58:

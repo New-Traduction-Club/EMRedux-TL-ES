@@ -578,211 +578,211 @@ translate spanish game_script_act2_a0695203:
 translate spanish game_script_act2_55c5c7c0:
 
     # "We all share an awkward moment of silence after the half-hearted celebration."
-    ""
+    "Hay un silencio muy incómodo después de medio celebrar haber adivinado de qué sabor es el té."
 
 # game/game_script_act2.rpy:6116
 translate spanish game_script_act2_646aa74e:
 
     # "The tension in the air is palpable."
-    ""
+    "La tensión se palpa en el aire."
 
 # game/game_script_act2.rpy:6117
 translate spanish game_script_act2_45bce77f:
 
     # "Everybody saw what Monika tried to do..."
-    ""
+    "Todo el mundo ha visto lo que ha intentado Monika...,"
 
 # game/game_script_act2.rpy:6118
 translate spanish game_script_act2_55cf9d6c:
 
     # "It just seems nobody wants to address it."
-    ""
+    "pero nadie quiere hablar de ello."
 
 # game/game_script_act2.rpy:6120
 translate spanish game_script_act2_b2029cb6:
 
     # "Even Monika can sense that she messed up."
-    ""
+    "Creo que hasta ella misma sabe lo mucho que ha metido la pata."
 
 # game/game_script_act2.rpy:6122
 translate spanish game_script_act2_1e2a22bf:
 
     # "Sayori crumples the chocolate bar wrapper."
-    ""
+    "Sayori arruga el envoltorio de la tableta."
 
 # game/game_script_act2.rpy:6124
 translate spanish game_script_act2_c2b1dba5:
 
     # "Desperate to salvage the moment, Monika approaches her."
-    ""
+    "Desesperada, tratando de rescatar el momento, Monika se acerca a ella."
 
 # game/game_script_act2.rpy:6128
 translate spanish game_script_act2_ef4e65ac:
 
     # m e4 n4 m3 "Oh, don’t worry Sayori."
-    m e4 n4 m3 ""
+    m e4 n4 m3 "No te preocupes, Sayori."
 
 # game/game_script_act2.rpy:6129
 translate spanish game_script_act2_02eb0ad0:
 
     # m forward lpoint rhip e4b mb "I can get those for you."
-    m forward lpoint rhip e4b mb ""
+    m forward lpoint rhip e4b mb "Ya me encargo yo de eso."
 
 # game/game_script_act2.rpy:6131
 translate spanish game_script_act2_235306fa:
 
     # "With the smile of a caring mother, she outstretches her hand, waiting for Sayori to give up her garbage."
-    ""
+    "Sonriendo con dulzura, cual tierna madre, Monika estira el brazo, abre la mano y espera que Sayori le dé el envoltorio."
 
 # game/game_script_act2.rpy:6133
 translate spanish game_script_act2_48d88bf5:
 
     # s b1b e1b mb "Oh, well...{w}alright."
-    s b1b e1b mb ""
+    s b1b e1b mb "Ah, pues... eh,{w} vale."
 
 # game/game_script_act2.rpy:6143
 translate spanish game_script_act2_65d6e30e:
 
     # "Monika trots over to the door and hastily exits the classroom, likely in search of the trash cans down the hall."
-    ""
+    "Monika trota hacia la puerta y sale con prisas del aula. Lo más probable es que vaya a buscar los cubos de basura que están al final del pasillo."
 
 # game/game_script_act2.rpy:6149
 translate spanish game_script_act2_26084bd2:
 
     # "Taking this moment of solace, Yuri and Sayori seem to quietly convene."
-    ""
+    "Aprovechando este silencio consolador, Sayori y Yuri hablan entre ellas."
 
 # game/game_script_act2.rpy:6150
 translate spanish game_script_act2_f72de37e:
 
     # "It’s no wonder who they’re talking about."
-    ""
+    "Y no necesito cotillear para saber de quién hablan y de qué situación trata la conversación."
 
 # game/game_script_act2.rpy:6152
 translate spanish game_script_act2_da35a8ed:
 
     # "Giving them their privacy, I turn to Natsuki."
-    ""
+    "Dándoles privacidad, miro a Natsuki."
 
 # game/game_script_act2.rpy:6154
 translate spanish game_script_act2_592c40dc:
 
     # n b1d e1b mh "We need to do {i}something{/i}."
-    n b1d e1b mh ""
+    n b1d e1b mh "Hay que hacer algo. Los dos."
 
 # game/game_script_act2.rpy:6156
 translate spanish game_script_act2_a5b088a6:
 
     # mc "Oh...uhh..."
-    mc ""
+    mc "Ah, eh..."
 
 # game/game_script_act2.rpy:6157
 translate spanish game_script_act2_de224dbd:
 
     # "I rack my brain, before..."
-    ""
+    "Comiéndome la cabeza, lo que me sale decir es...,"
 
 # game/game_script_act2.rpy:6159
 translate spanish game_script_act2_345b923e:
 
     # mc "Poems?"
-    mc ""
+    mc "¿poemas?"
 
 # game/game_script_act2.rpy:6161
 translate spanish game_script_act2_5ad7b316:
 
     # n e1b mg "Yeah..."
-    n e1b mg ""
+    n e1b mg "Sí..."
 
 # game/game_script_act2.rpy:6163
 translate spanish game_script_act2_89fa587d:
 
     # extend "yeah, okay."
-    extend ""
+    extend " sí, digo yo."
 
 # game/game_script_act2.rpy:6164
 translate spanish game_script_act2_15089ac4:
 
     # n e1d b1d "You bring it up."
-    n e1d b1d ""
+    n e1d b1d "Dilo en alto."
 
 # game/game_script_act2.rpy:6165
 translate spanish game_script_act2_7189881c:
 
     # n e1b "I might burst a blood vessel if I have to deal with her crap for another minute."
-    n e1b ""
+    n e1b "Como tenga que escuchar más gilipolleces de las suyas, me revienta algo por dentro."
 
 # game/game_script_act2.rpy:6167
 translate spanish game_script_act2_02908b4b:
 
     # mc "Hey, she’s trying...even if she is, uh..."
-    mc ""
+    mc "Tampoco seas así. Está haciéndolo lo mejor que puede, aunque esté...,"
 
 # game/game_script_act2.rpy:6168
 translate spanish game_script_act2_1b2c1a9f:
 
     # n e1d b1e mh "Screwing it up at every turn?"
-    n e1d b1e mh ""
+    n e1d b1e mh "¿fastidiando todo cada vez que abre la boca?"
 
 # game/game_script_act2.rpy:6170
 translate spanish game_script_act2_69c25b65_4:
 
     # mc "Yeah..."
-    mc ""
+    mc "Puede..."
 
 # game/game_script_act2.rpy:6174
 translate spanish game_script_act2_a320e394:
 
     # "Right on cue, Monika returns empty-handed."
-    ""
+    "Al rato, Monika vuelve con las manos vacías."
 
 # game/game_script_act2.rpy:6175
 translate spanish game_script_act2_5afd428c:
 
     # "I suppose now is as good a time as any to bring it up."
-    ""
+    "Me parece que ahora es un buen momento para decírselo."
 
 # game/game_script_act2.rpy:6177
 translate spanish game_script_act2_55a7ff5a:
 
     # mc "Uh, Monika..?"
-    mc ""
+    mc "¿Monika?"
 
 # game/game_script_act2.rpy:6178
 translate spanish game_script_act2_48713e80:
 
     # mc "We were thinking...maybe it’s a good time to exchange poems."
-    mc ""
+    mc "Hemos pensado que quizá ahora... podríamos compartir los poemas."
 
 # game/game_script_act2.rpy:6179
 translate spanish game_script_act2_b95907e8:
 
     # m e1b mb b1b n4 "Oh...yeah, good idea, [player]!"
-    m e1b mb b1b n4 ""
+    m e1b mb b1b n4 "Ah... ¡buena idea, [player]!"
 
 # game/game_script_act2.rpy:6181
 translate spanish game_script_act2_3ae1774c:
 
     # "As if she’s just been blessed by God, Monika snaps back to her usual confident self."
-    ""
+    "Como si cambiase de personaje, Monika vuelve a su típica actitud confiada."
 
 # game/game_script_act2.rpy:6183
 translate spanish game_script_act2_10f49f10:
 
     # m b1a e4b n1 mb "O-okay, everyone!"
-    m b1a e4b n1 mb ""
+    m b1a e4b n1 mb "¡V-Vale, compis!"
 
 # game/game_script_act2.rpy:6188
 translate spanish game_script_act2_db9f08af:
 
     # m e1a "We’ve not read each other’s poems in a while, right?"
-    m e1a ""
+    m e1a "Hace la tira que no tenemos en el club nada relacionado con los poemas, ¿verdad?"
 
 # game/game_script_act2.rpy:6189
 translate spanish game_script_act2_71489a70:
 
     # m "Well, how about we do that now?"
-    m ""
+    m "Pues creo que ya es hora de hacer algo."
 
 # game/game_script_act2.rpy:6190
 translate spanish game_script_act2_0096265c:

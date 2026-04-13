@@ -512,7 +512,7 @@ translate spanish game_script_act2_fca3e19c:
 translate spanish game_script_act2_b8708202:
 
     # "Natsuki glances towards me, clearly irritated by Monika’s coddling."
-    "Natsuki me mira y está más que claro que lo hace porque está harta de los mimos de Monika hacia Sayori."
+    "Natsuki me mira porque está harta de los mimos de Monika hacia Sayori."
 
 # game/game_script_act2.rpy:6092
 translate spanish game_script_act2_942c2592:

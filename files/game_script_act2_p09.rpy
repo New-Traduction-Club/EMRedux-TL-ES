@@ -140,373 +140,373 @@ translate spanish game_script_act2_ffaf1cbe:
 translate spanish game_script_act2_80bd5c05:
 
     # m mg oe "Don’t thank me;{w=0.4} {nw}"
-    m mg oe ""
+    m mg oe "Mejor dale las gracias a [player], ya que...{w=0.4} {nw}"
 
 # game/game_script_act2.rpy:5901
 translate spanish game_script_act2_a3eb5239:
 
     # extend "[player] steered me in the right direction!"
-    extend ""
+    extend "¡fue él el que supo guiarme correctamente!"
 
 # game/game_script_act2.rpy:5905
 translate spanish game_script_act2_fb394ba8:
 
     # "Sayori turns to me, giving me a strained smile, before {nw}"
-    ""
+    "Sayori me mira, me dedica una sonrisa forzada y {nw}"
 
 # game/game_script_act2.rpy:5908
 translate spanish game_script_act2_a5fc0669:
 
     # extend "quietly tearing the wrapping and taking a nibble."
-    extend ""
+    extend "empieza a romper en silencio el envoltorio de la tableta para darle un bocado."
 
 # game/game_script_act2.rpy:5913
 translate spanish game_script_act2_d76421d8:
 
     # "Before long, Yuri returns, teapot in hand."
-    ""
+    "Al cabo de un rato, Yuri vuelve con la tetera."
 
 # game/game_script_act2.rpy:5914
 translate spanish game_script_act2_cd437e1e:
 
     # "Judging by the steam emanating from the spout, and the fact that Yuri’s protecting her hands with a dishcloth, I assume it’s boiled too hot to hold."
-    ""
+    "A juzgar por el vapor que sale de la misma y que Yuri lleva un paño de cocina alrededor para no quemarse...,"
 
 # game/game_script_act2.rpy:5916
 translate spanish game_script_act2_447197c5:
 
     # "She looks like she’s trying to handle a bomb."
-    ""
+    "casi parece que lleva una bomba a punto de estallar."
 
 # game/game_script_act2.rpy:5918
 translate spanish game_script_act2_872dfc91:
 
     # "Carefully setting the teapot down on the desk, she begins filling each cup with water."
-    ""
+    "Dejando la tetera en la mesa con sumo cuidado, Yuri coge las tazas y empieza a llenarlas de agua."
 
 # game/game_script_act2.rpy:5920
 translate spanish game_script_act2_d2e04153:
 
     # "She then rummages through her bag some more, and pulls out a small box of teabags."
-    ""
+    "Tras hacerlo, va hacia su bolso y saca una cajita de bolsitas de té."
 
 # game/game_script_act2.rpy:5922
 translate spanish game_script_act2_48233e1f:
 
     # "However, this time she seems to have a surprise in store."
-    ""
+    "Sin embargo, parece tener un as bajo la manga."
 
 # game/game_script_act2.rpy:5924
 translate spanish game_script_act2_7c5ccaa6:
 
     # y mg "Oh, one thing."
-    y mg ""
+    y mg "Ah, por cierto...,"
 
 # game/game_script_act2.rpy:5925
 translate spanish game_script_act2_b4614605:
 
     # y mh "This isn’t just any old tea."
-    y mh ""
+    y mh "este té no es un té viejo cualquiera."
 
 # game/game_script_act2.rpy:5929
 translate spanish game_script_act2_f92e4161:
 
     # y e1a mb b2a rup "This...is a mystery blend."
-    y e1a mb b2a rup ""
+    y e1a mb b2a rup "Digamos que es... un mezclado de hierbas misterioso."
 
 # game/game_script_act2.rpy:5934
 translate spanish game_script_act2_5399449e:
 
     # "She gently swills the teabag around in the cup, playing up the 'mystery' element."
-    ""
+    "Yuri mueve la bolsita de té en una de las tazas tratando de realzar el 'misterioso' del té."
 
 # game/game_script_act2.rpy:5936
 translate spanish game_script_act2_25ba2ff3:
 
     # "Taking four more, she carefully dips each into the water."
-    ""
+    "Coge cuatro más y las echa en las tazas con agua hirviendo."
 
 # game/game_script_act2.rpy:5937
 translate spanish game_script_act2_935d00af:
 
     # "Once she’s finished, she distributes our individual cups, one by one."
-    ""
+    "Una vez acaba, nos da las tazas a cada uno."
 
 # game/game_script_act2.rpy:5939
 translate spanish game_script_act2_8b09a3c3:
 
     # "Monika raises her teacup."
-    ""
+    "Monika levanta la suya."
 
 # game/game_script_act2.rpy:5944
 translate spanish game_script_act2_f2dbb15e:
 
     # m mb e4b b3c "To our vice president!"
-    m mb e4b b3c ""
+    m mb e4b b3c "¡Por nuestra vicepresidenta!"
 
 # game/game_script_act2.rpy:5946
 translate spanish game_script_act2_409d6c9f:
 
     # "We all awkwardly join her in her impromptu toast to Sayori."
-    ""
+    "Vergonzosos, nos unimos al brindis improvisado de Monika."
 
 # game/game_script_act2.rpy:5949
 translate spanish game_script_act2_51f4f58a:
 
     # "This is...{w}weird."
-    ""
+    "Qué...{w} raro."
 
 # game/game_script_act2.rpy:5950
 translate spanish game_script_act2_b0191bb1:
 
     # "I can tell that Monika’s really trying to pep her up..."
-    ""
+    "A ver, se ve a leguas que trata de animar a Sayori...,"
 
 # game/game_script_act2.rpy:5951
 translate spanish game_script_act2_d3a7affc:
 
     # "But it’s coming across as forced."
-    ""
+    "pero esto ya es forzarlo más allá."
 
 # game/game_script_act2.rpy:5953
 translate spanish game_script_act2_d9b9cc96:
 
     # "And even I can tell that Sayori doesn’t seem to enjoy the attention."
-    ""
+    "Y otra cosa que se ve a leguas es que a Sayori no le está gustando un pelo."
 
 # game/game_script_act2.rpy:5954
 translate spanish game_script_act2_485c5498:
 
     # "But I keep the observation to myself, and join the other club members in taking a sip."
-    ""
+    "Me guardo el pensamiento para mí y me uno a las chicas."
 
 # game/game_script_act2.rpy:5972
 translate spanish game_script_act2_979af96c:
 
     # "The tea is very...{w}tart..?"
-    ""
+    "¿No noto el té...{w} ácido...?"
 
 # game/game_script_act2.rpy:5974
 translate spanish game_script_act2_d403852d:
 
     # "But also oddly sweet."
-    ""
+    "Ahora que lo pienso, también lo noto dulce."
 
 # game/game_script_act2.rpy:5975
 translate spanish game_script_act2_74f7733c:
 
     # "I can’t for the life of me figure out {i}what{/i} it is..."
-    ""
+    "Ni en mil años sabría decir qué sabor es con exactitud...,"
 
 # game/game_script_act2.rpy:5976
 translate spanish game_script_act2_06083dd8:
 
     # "But it tastes great."
-    ""
+    "pero sabe genial."
 
 # game/game_script_act2.rpy:5978
 translate spanish game_script_act2_62b807b4:
 
     # mc "This is really nice, Yuri."
-    mc ""
+    mc "Está muy bueno, Yuri."
 
 # game/game_script_act2.rpy:5981
 translate spanish game_script_act2_0a03ee62:
 
     # s mb "Yeah!"
-    s mb ""
+    s mb "¡Sí!"
 
 # game/game_script_act2.rpy:5983
 translate spanish game_script_act2_aa2fe1c8:
 
     # m mb "Absolutely."
-    m mb ""
+    m mb "Muy, muy bueno."
 
 # game/game_script_act2.rpy:5985
 translate spanish game_script_act2_354155fa:
 
     # n e2b b2c mb "Uh...{w}y-yeah, it's good."
-    n e2b b2c mb ""
+    n e2b b2c mb "Eh...{w}, s-sí, buenísimo, buenísimo."
 
 # game/game_script_act2.rpy:5987
 translate spanish game_script_act2_def0ad19:
 
     # mc "What is it?"
-    mc ""
+    mc "¿Qué lleva?"
 
 # game/game_script_act2.rpy:5991
 translate spanish game_script_act2_11d38b58:
 
     # "Yuri, pleased with her selection, sits more relaxed in her seat."
-    ""
+    "Yuri, satisfecha con nuestra reacción, se sienta más relajada en su silla."
 
 # game/game_script_act2.rpy:5997
 translate spanish game_script_act2_51d6dc8c:
 
     # y "It’s a {i}mystery{/i} blend for a reason, [player]."
-    y ""
+    y "El 'misterioso' está por algo, [player]."
 
 # game/game_script_act2.rpy:6001
 translate spanish game_script_act2_7d2acf44:
 
     # mc "Damnit."
-    mc ""
+    mc "Mierda."
 
 # game/game_script_act2.rpy:6002
 translate spanish game_script_act2_dfd81e46_2:
 
     # mc "Uhh..."
-    mc ""
+    mc "Pues, eh...,"
 
 # game/game_script_act2.rpy:6003
 translate spanish game_script_act2_ee23cd3f:
 
     # mc "Nah, I got nothing."
-    mc ""
+    mc "nada, no tengo ni idea de lo que es."
 
 # game/game_script_act2.rpy:6008
 translate spanish game_script_act2_2ddbcff6:
 
     # "Natsuki shrugs, surmising the same."
-    ""
+    "Natsuki se encoge de hombros, dando a entender que le ocurre lo mismo que a mí."
 
 # game/game_script_act2.rpy:6012
 translate spanish game_script_act2_66f151ed:
 
     # y "Hmm..."
-    y ""
+    y "Mmm..."
 
 # game/game_script_act2.rpy:6017
 translate spanish game_script_act2_84547b41:
 
     # y "Why don't you all guess a flavor, and I'll let you know if you get it?"
-    y ""
+    y "¿Y si lanzáis sabores al aire y os digo si estáis, o no, en lo cierto?"
 
 # game/game_script_act2.rpy:6024
 translate spanish game_script_act2_38c1e422:
 
     # m "You're on."
-    m ""
+    m "Eso quiero ver yo."
 
 # game/game_script_act2.rpy:6029
 translate spanish game_script_act2_085478e8:
 
     # "Predictably, Sayori is up for the challenge."
-    ""
+    "Como si estuviera guionizado, Sayori ya está preparándose para el reto."
 
 # game/game_script_act2.rpy:6033
 translate spanish game_script_act2_7c3a948f:
 
     # "She takes a long sip from her cup."
-    ""
+    "Le da un gran sorbo al té."
 
 # game/game_script_act2.rpy:6037
 translate spanish game_script_act2_5063aea9:
 
     # "Monika and I follow."
-    ""
+    "Monika y yo hacemos lo mismo."
 
 # game/game_script_act2.rpy:6038
 translate spanish game_script_act2_bde2bd31:
 
     # "I'm still not sure what it is."
-    ""
+    "Sigo sin tener ni idea de lo que puede ser..."
 
 # game/game_script_act2.rpy:6041
 translate spanish game_script_act2_d04637a5:
 
     # s "Ugh, this is driving me crazy!"
-    s ""
+    s "¡Ayyy, me voy a volver loca!"
 
 # game/game_script_act2.rpy:6043
 translate spanish game_script_act2_a36c8289:
 
     # s "Like, it’s right on the tip of my tongue, but I just can’t figure it out!"
-    s ""
+    s "¡Tengo la solución en la punta de la lengua, pero es que no me sale!"
 
 # game/game_script_act2.rpy:6049
 translate spanish game_script_act2_11d7b1fb:
 
     # y "Uhuhu..."
-    y ""
+    y "Ju, ju, ju..."
 
 # game/game_script_act2.rpy:6051
 translate spanish game_script_act2_7c38300f:
 
     # y "Puppy eyes aren't going to win me over, Sayori."
-    y ""
+    y "Ponerme ojitos no te va a dar la victoria en esta ocasión, Sayori."
 
 # game/game_script_act2.rpy:6057
 translate spanish game_script_act2_df1644cb:
 
     # s "Ugh! This is impossible!"
-    s ""
+    s "¡Es imposible entonces!"
 
 # game/game_script_act2.rpy:6058
 translate spanish game_script_act2_de81260b:
 
     # s e1a mk "Can we get a little hint?"
-    s e1a mk ""
+    s e1a mk "¿Qué tal si nos das una pista?"
 
 # game/game_script_act2.rpy:6061
 translate spanish game_script_act2_c8a64454:
 
     # y om oe "Okay..."
-    y om oe ""
+    y om oe "Vale..."
 
 # game/game_script_act2.rpy:6062
 translate spanish game_script_act2_082fffd9:
 
     # y e4a "This blend has organic rooibos, honeybush, and blueberries."
-    y e4a ""
+    y e4a "Esta mezcla lleva rooibos orgánicos, arbusto de miel y moras azules."
 
 # game/game_script_act2.rpy:6067
 translate spanish game_script_act2_39096123:
 
     # "That wasn't much of a hint."
-    ""
+    "De 'pista' no ha tenido mucho..."
 
 # game/game_script_act2.rpy:6069
 translate spanish game_script_act2_2389fb56:
 
     # "It seems it’s lost on everyone else, too."
-    ""
+    "Se ve que las chicas están igual que yo."
 
 # game/game_script_act2.rpy:6071
 translate spanish game_script_act2_6f61c386:
 
     # "Everyone, except..."
-    ""
+    "Excepto..."
 
 # game/game_script_act2.rpy:6075
 translate spanish game_script_act2_bd443e85:
 
     # "Out of the corner of my eye, I notice a grin spread across Monika’s face."
-    ""
+    "Por el rabillo del ojo, noto una sonrisa enorme en la cara de Monika."
 
 # game/game_script_act2.rpy:6076
 translate spanish game_script_act2_aa31743f:
 
     # "She’s definitely figured it out."
-    ""
+    "Creo que lo sabe."
 
 # game/game_script_act2.rpy:6080
 translate spanish game_script_act2_a9457fe3:
 
     # y "A-any guesses?"
-    y ""
+    y "¿Lo h-habéis adivinado?"
 
 # game/game_script_act2.rpy:6087
 translate spanish game_script_act2_ce31c138:
 
     # "Unusually, Monika begins mouthing something, seemingly in Sayori’s direction."
-    ""
+    "Monika empieza a susurrarle algo a Sayori."
 
 # game/game_script_act2.rpy:6089
 translate spanish game_script_act2_fca3e19c:
 
     # "She turns away, trying to avoid her gaze."
-    ""
+    "Se da la vuelta tratando de evitar que la mire."
 
 # game/game_script_act2.rpy:6090
 translate spanish game_script_act2_b8708202:

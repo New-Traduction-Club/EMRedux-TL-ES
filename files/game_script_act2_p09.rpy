@@ -782,67 +782,67 @@ translate spanish game_script_act2_db9f08af:
 translate spanish game_script_act2_71489a70:
 
     # m "Well, how about we do that now?"
-    m "Pues creo que ya es hora de hacer algo."
+    m "Pues creo que ya es hora de hacerlo."
 
 # game/game_script_act2.rpy:6190
 translate spanish game_script_act2_0096265c:
 
     # m "If you’d like to get yours ready, then we can pass them amongst each other, and..."
-    m ""
+    m "Si lo tenéis preparado, se lo podéis dar al que tenéis al lado y..."
 
 # game/game_script_act2.rpy:6195
 translate spanish game_script_act2_fef47bb0:
 
     # "As if like clockwork, Yuri, Natsuki and myself all begin digging through our bags."
-    ""
+    "Como si nos controlasen, Yuri, Natsuki y yo vamos a nuestros respectivos sitios para buscar nuestros poemas."
 
 # game/game_script_act2.rpy:6196
 translate spanish game_script_act2_ac9cb1d4:
 
     # "Oh no..."
-    ""
+    "Oh, oh..."
 
 # game/game_script_act2.rpy:6198
 translate spanish game_script_act2_ba9be83c:
 
     # "Sayori lingers around, unsure of what to do with herself."
-    ""
+    "Sayori se queda en su sitio sin tener ni idea de qué hacer."
 
 # game/game_script_act2.rpy:6202
 translate spanish game_script_act2_6d3eaef8:
 
     # "Monika, having gotten her poem ready, notices Sayori."
-    ""
+    "Monika, con su poema preparado, mira a Sayori."
 
 # game/game_script_act2.rpy:6204
 translate spanish game_script_act2_3bcea606:
 
     # "I hastily mouth a 'sorry' to her."
-    ""
+    "Le digo 'lo siento' con los labios."
 
 # game/game_script_act2.rpy:6206
 translate spanish game_script_act2_c0f091d7:
 
     # m b1b mh "Sayori, have you got a poem?"
-    m b1b mh ""
+    m b1b mh "¿No te has traído el poema?"
 
 # game/game_script_act2.rpy:6207
 translate spanish game_script_act2_a05df440:
 
     # m e1b mb n3 "I mean- I totally understand if you haven’t, I know the club might’ve been a low priority--"
-    m e1b mb n3 ""
+    m e1b mb n3 "En plan, es algo comprensible sabiendo que el club no ha sido tu máxima prioridad y..."
 
 # game/game_script_act2.rpy:6210
 translate spanish game_script_act2_2402c25f:
 
     # s e4a mh "Guys, you haven’t been low priority."
-    s e4a mh ""
+    s e4a mh "Sois mi prioridad,"
 
 # game/game_script_act2.rpy:6211
 translate spanish game_script_act2_f9c20819:
 
     # s e1b "I didn’t really think to write a poem..."
-    s e1b ""
+    s e1b "pero no he pensado en escribir nada."
 
 # game/game_script_act2.rpy:6212
 translate spanish game_script_act2_e53568ad:

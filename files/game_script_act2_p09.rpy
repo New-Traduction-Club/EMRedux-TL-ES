@@ -1052,7 +1052,7 @@ translate spanish game_script_act2_30c9d2bf:
 translate spanish game_script_act2_89c31506:
 
     # n e1a mh "I’m gonna go talk some sense into Monika."
-    n e1a mh "Voy a hacerla entrar en razón."
+    n e1a mh "Le voy a cantar las cuarenta."
 
 # game/game_script_act2.rpy:6287
 translate spanish game_script_act2_4c0aa191:
@@ -1064,121 +1064,121 @@ translate spanish game_script_act2_4c0aa191:
 translate spanish game_script_act2_be73ce58:
 
     # n e2a b1e mi "Well, are you gonna do it?"
-    n e2a b1e mi ""
+    n e2a b1e mi "¿Te vas a encargar tú entonces?"
 
 # game/game_script_act2.rpy:6291
 translate spanish game_script_act2_2e62c469_1:
 
     # mc "I--"
-    mc ""
+    mc "Pue..."
 
 # game/game_script_act2.rpy:6296
 translate spanish game_script_act2_bd698f07:
 
     # "Before I can get a word in, Natsuki’s already stormed off after them."
-    ""
+    "Antes de siquiera terminar de hablar, Natsuki ya se ha ido pitando tras de ellas."
 
 # game/game_script_act2.rpy:6297
 translate spanish game_script_act2_a5883d94:
 
     # "I consider following...but I think my face is the last one that any of them would want to see."
-    ""
+    "He pensado en ir también... pero mi cara es lo último que querrían ver ahora."
 
 # game/game_script_act2.rpy:6298
 translate spanish game_script_act2_f43a14cb:
 
     # "A few minutes pass by, with no sign of anybody."
-    ""
+    "Pasan unos pocos minutos en los que no hay señal de vida."
 
 # game/game_script_act2.rpy:6300
 translate spanish game_script_act2_62ae8149:
 
     # "Natsuki’s right."
-    ""
+    "Natsuki tiene razón."
 
 # game/game_script_act2.rpy:6301
 translate spanish game_script_act2_dea39bdb:
 
     # "Why didn’t I speak up sooner?"
-    ""
+    "¿Por qué no me he metido antes?"
 
 # game/game_script_act2.rpy:6302
 translate spanish game_script_act2_43298cfa:
 
     # "She’s going out of her way to try and fix things..."
-    ""
+    "Ahí va ella a intentar solucionar las cosas..., "
 
 # game/game_script_act2.rpy:6303
 translate spanish game_script_act2_f8c6f652:
 
     # "I mean, even {i}Yuri{/i} had to intervene."
-    ""
+    "y hasta Yuri ha hablado, que ya es decir...,"
 
 # game/game_script_act2.rpy:6304
 translate spanish game_script_act2_f38ef795:
 
     # "{i}What a great job I did sticking up for my friend there...{/i}"
-    ""
+    "¿y no he sido capaz de salir ahí a defender a mi amiga?"
 
 # game/game_script_act2.rpy:6305
 translate spanish game_script_act2_92ddac5a:
 
     # "I take a sip of my now-lukewarm tea to try and calm my nerves."
-    ""
+    "Le doy un sorbo al té, que está casi frío ya, para intentar calmarme."
 
 # game/game_script_act2.rpy:6306
 translate spanish game_script_act2_fdbee1bb:
 
     # "Maybe I should."
-    ""
+    "Debería..."
 
 # game/game_script_act2.rpy:6307
 translate spanish game_script_act2_52d083a3:
 
     # "Maybe I sh--{nw}"
-    ""
+    "Deberí{nw}"
 
 # game/game_script_act2.rpy:6311
 translate spanish game_script_act2_9b261ff2:
 
     # m "[player]..."
-    m ""
+    m "[player]..."
 
 # game/game_script_act2.rpy:6314
 translate spanish game_script_act2_8f11b288:
 
     # "Monika’s back...{w}alone."
-    ""
+    "Ha vuelto...{w} sola."
 
 # game/game_script_act2.rpy:6317
 translate spanish game_script_act2_87f95734:
 
     # m "I...{w}I think that’ll do it for the club today, [player]."
-    m ""
+    m "Creo que...{w} ya te puedes ir, [player]. La reunión ha acabado ya."
 
 # game/game_script_act2.rpy:6319
 translate spanish game_script_act2_00800a21:
 
     # m "Don’t worry, I’ll clean up the mess..."
-    m ""
+    m "No te preocupes por cómo está todo, ya lo limpiaré yo..."
 
 # game/game_script_act2.rpy:6322
 translate spanish game_script_act2_ed626cb2:
 
     # "It’s clear Monika is shaken by Sayori’s abrupt exit."
-    ""
+    "Está más que claro que le ha afectado lo de Sayori."
 
 # game/game_script_act2.rpy:6323
 translate spanish game_script_act2_91b2ce02:
 
     # "I don’t think I’ve ever seen her this stressed out."
-    ""
+    "No creo haberla visto así nunca."
 
 # game/game_script_act2.rpy:6324
 translate spanish game_script_act2_d18d0eb4:
 
     # "But, I take her at her word, and begin packing up my things."
-    ""
+    "Le hago caso y empiezo a recoger mis cosas."
 
 # game/game_script_act2.rpy:6325
 translate spanish game_script_act2_39b402e9:

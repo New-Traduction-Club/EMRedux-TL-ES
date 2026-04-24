@@ -1592,406 +1592,406 @@ translate spanish game_script_act2_bb30dded:
 translate spanish game_script_act2_e9a7c092:
 
     # n "You explain that you’re very sorry for leaving her high and dry like you did, {w=0.6}{nw}"
-    n ""
+    n "No sé, dile que lo sientes mucho por haberla dejado plantada,{w=0.6} {nw}"
 
 # game/game_script_act2.rpy:6485
 translate spanish game_script_act2_fb2059a5:
 
     # extend "that you want to make up for it, {w=0.6}{nw}"
-    extend ""
+    extend "que se lo vas a compensar,{w=0.6} {nw}"
 
 # game/game_script_act2.rpy:6487
 translate spanish game_script_act2_d3770db6:
 
     # extend "and {i}you do whatever you can to make it up to her.{/i}"
-    extend ""
+    extend "y que harás lo que sea. No sé, algo de eso."
 
 # game/game_script_act2.rpy:6489
 translate spanish game_script_act2_97a6ac9a:
 
     # n "If she still wants anything to do with me, then I’ll help too."
-    n ""
+    n "Y si quiere incluirme, me meto yo también."
 
 # game/game_script_act2.rpy:6497
 translate spanish game_script_act2_ffd379a6:
 
     # n "And, a touch of advice:{w} {nw}"
-    n ""
+    n "Ah, y te lo voy diciendo desde ya:{w} {nw}"
 
 # game/game_script_act2.rpy:6499
 translate spanish game_script_act2_dcc402f6:
 
     # extend "don’t try to justify Monika’s actions to her."
-    extend ""
+    extend "no intentes justificar nada de lo que haya hecho Monika."
 
 # game/game_script_act2.rpy:6501
 translate spanish game_script_act2_3f5f0363:
 
     # n "{i}You{/i} should’ve been the one to stick up for her."
-    n ""
+    n "Porque tendrías que haber sido tú quien diese la cara por Sayori."
 
 # game/game_script_act2.rpy:6503
 translate spanish game_script_act2_cfcc2293:
 
     # mc "I know."
-    mc ""
+    mc "Ya."
 
 # game/game_script_act2.rpy:6505
 translate spanish game_script_act2_97b54d25:
 
     # n "To tell Monika to knock that shit off."
-    n ""
+    n "Y haberle dicho a Monika que se deje de tantas mierdas."
 
 # game/game_script_act2.rpy:6507
 translate spanish game_script_act2_53d1c43e:
 
     # n "I doubt she’ll want to hear it. At least not now."
-    n ""
+    n "Dudo que quiera escucharlo ahora mismo, pero bueno."
 
 # game/game_script_act2.rpy:6509
 translate spanish game_script_act2_7b928e33:
 
     # mc "{i}I know{/i}."
-    mc ""
+    mc "Lo sé, Natsuki."
 
 # game/game_script_act2.rpy:6510
 translate spanish game_script_act2_ef925e03:
 
     # mc "And I will, tonight."
-    mc ""
+    mc "Esta noche hablaré con ella."
 
 # game/game_script_act2.rpy:6512
 translate spanish game_script_act2_83d7be5c:
 
     # mc "I guess I figured...{w}I dunno, everytime I wanted to pipe up, I got caught up in the fact that Monika was just doing what she thought was right."
-    mc ""
+    mc "No sé, en ese momento...{w} supuse que Monika hacía lo correcto y me dejé llevar por ello."
 
 # game/game_script_act2.rpy:6514
 translate spanish game_script_act2_e16d3c04:
 
     # n "Yeah, sure, she was 'trying to do the right thing'."
-    n ""
+    n "Uy, sí, 'lo correcto'..."
 
 # game/game_script_act2.rpy:6516
 translate spanish game_script_act2_c758090d:
 
     # n "[player], that doesn’t matter when 'the right thing' in her head is making Sayori even feel worse than she already does!"
-    n ""
+    n "¡Pero vamos a ver, [player], que da igual que lo haga bien o mal si 'lo correcto' en su cabeza era hacer sentir a Sayori peor de lo que estaba!"
 
 # game/game_script_act2.rpy:6518
 translate spanish game_script_act2_1157cdb9:
 
     # n "I mean, God, did you see her face?"
-    n ""
+    n "¿Te fijaste en la cara que tenía?"
 
 # game/game_script_act2.rpy:6520
 translate spanish game_script_act2_0303184f:
 
     # n "She was like a rabbit in the headlights."
-    n ""
+    n "¡Si estaba patidifusa!"
 
 # game/game_script_act2.rpy:6522
 translate spanish game_script_act2_8c916dc7:
 
     # mc "Yeah, but she {i}thought{/i} it was right!"
-    mc ""
+    mc "¡Lo sé, pero nadie le decía que estaba mal y se pensaba que era lo correcto!"
 
 # game/game_script_act2.rpy:6523
 translate spanish game_script_act2_a02aec37:
 
     # mc "I'm not going to rip into her just because she didn't know any better!"
-    mc ""
+    mc "¡No voy a rajar de ella solo porque lo desconocía!"
 
 # game/game_script_act2.rpy:6524
 translate spanish game_script_act2_148e10e2:
 
     # mc "Because, well...look what happened."
-    mc ""
+    mc "Mira lo que ha pasado por... por hacerlo."
 
 # game/game_script_act2.rpy:6526
 translate spanish game_script_act2_8f5a6a82:
 
     # n "Are you trying to blame me for this?!"
-    n ""
+    n "¡¿Eso iba con segundillas?!"
 
 # game/game_script_act2.rpy:6528
 translate spanish game_script_act2_062d90b1:
 
     # mc "I'm not blaming anyone here, alright?"
-    mc ""
+    mc "No iba con segundillas porque no le he echado la culpa a nadie, ¿vale?"
 
 # game/game_script_act2.rpy:6529
 translate spanish game_script_act2_e8293d7d:
 
     # mc "I'm just saying, this isn't as black and white as you're trying to make it out to be."
-    mc ""
+    mc "Solo digo que no es 'blanco' o 'negro', tal y como tratas de hacerme ver."
 
 # game/game_script_act2.rpy:6531
 translate spanish game_script_act2_f6c5760e:
 
     # mc "Monika had good intentions. You shouldn't have been so...aggressive with her!"
-    mc ""
+    mc "Las intenciones de Monika eran buenas... ¡no tendrías que haberte puesto tan... así!"
 
 # game/game_script_act2.rpy:6533
 translate spanish game_script_act2_2678c04e:
 
     # n "Then what should I have done?! Just sit there and let it happen?!"
-    n ""
+    n "¡¿Y qué querías que hiciera entonces?! ¡¿Quedarme sentadita esperando a que todo se vaya a la mierda?!"
 
 # game/game_script_act2.rpy:6535
 translate spanish game_script_act2_e55f318d:
 
     # mc "Let Sayori talk to her when she felt the time was right."
-    mc ""
+    mc "Tú deja que Sayori hable con ella cuando lo crea conveniente."
 
 # game/game_script_act2.rpy:6536
 translate spanish game_script_act2_3823467c:
 
     # mc "Aren't you the one so concerned about treating Sayori like a big girl?"
-    mc ""
+    mc "¿No decías que había que tratar a Sayori como lo que es, una persona adulta?"
 
 # game/game_script_act2.rpy:6538
 translate spanish game_script_act2_544ab417:
 
     # n "So, what, you wanted me to sit around and wait until it blew up again?"
-    n ""
+    n "Genial, ¿y me quedo sentadita esperando a que se líe parda otra vez?"
 
 # game/game_script_act2.rpy:6540
 translate spanish game_script_act2_3c425194:
 
     # n "Just because good ol' Monika thought she was doing the right thing?!"
-    n ""
+    n "¡¿Todo porque la buenaza de Monika creía que hacía las cosas bien?!"
 
 # game/game_script_act2.rpy:6542
 translate spanish game_script_act2_994fd293:
 
     # n "{cps=14}Of course you'd say that.{/cps}"
-    n ""
+    n "{cps=14}Totalmente esperable viniendo de ti.{/cps}"
 
 # game/game_script_act2.rpy:6544
 translate spanish game_script_act2_b2b9e19d_1:
 
     # mc "What do you mean?"
-    mc ""
+    mc "¿A qué te refieres?"
 
 # game/game_script_act2.rpy:6550
 translate spanish game_script_act2_ffc9b4eb:
 
     # n "This is no different to...{w}to Thursday."
-    n ""
+    n "Es lo mismo que...{w} que el jueves."
 
 # game/game_script_act2.rpy:6552
 translate spanish game_script_act2_431ebc0d:
 
     # mc "Wait, what’re you on about?"
-    mc ""
+    mc "Un momento, ¿qué dices?"
 
 # game/game_script_act2.rpy:6555
 translate spanish game_script_act2_16f5fa11:
 
     # n "You thought you were doing the right thing, right?"
-    n ""
+    n "Te creías que hacías lo correcto, ¿no?"
 
 # game/game_script_act2.rpy:6557
 translate spanish game_script_act2_b12653da:
 
     # n "When you broke me out of there."
-    n ""
+    n "Ya sabes, sacándome de allí."
 
 # game/game_script_act2.rpy:6559
 translate spanish game_script_act2_70520f35:
 
     # n "I mean hell, I thought you were too."
-    n ""
+    n "Joder, si hasta yo me lo he creído."
 
 # game/game_script_act2.rpy:6561
 translate spanish game_script_act2_6705ceca:
 
     # n "But now, sleeping with one eye open, waiting for Dad to show up any second?"
-    n ""
+    n "Y ahora qué, ¿tengo que dormir con un ojo abierto porque sé que mi padre vendrá de un momento a otro?"
 
 # game/game_script_act2.rpy:6563
 translate spanish game_script_act2_a6e31c74:
 
     # n "I don’t think it was."
-    n ""
+    n "No creo que fuese lo correcto."
 
 # game/game_script_act2.rpy:6567
 translate spanish game_script_act2_cb890049:
 
     # n "I should’ve realized this was a bad idea."
-    n ""
+    n "Debí haber caído en la mala idea que es."
 
 # game/game_script_act2.rpy:6569
 translate spanish game_script_act2_491ed017:
 
     # n "...I shouldn’t have listened to you."
-    n ""
+    n "No... debí haberte escuchado."
 
 # game/game_script_act2.rpy:6571
 translate spanish game_script_act2_2485f494_2:
 
     # mc "I..."
-    mc ""
+    mc "Eh..."
 
 # game/game_script_act2.rpy:6573
 translate spanish game_script_act2_60ff8d11:
 
     # n "I should have just waited out the like, month until my eighteenth."
-    n ""
+    n "Debí haber esperado ese mes para tener los dieciocho,"
 
 # game/game_script_act2.rpy:6575
 translate spanish game_script_act2_8e0a43df:
 
     # n "Done my time."
-    n ""
+    n "y dar por cumplida mi condena."
 
 # game/game_script_act2.rpy:6578
 translate spanish game_script_act2_17df0a8d:
 
     # "I swallow."
-    ""
+    "Trago saliva."
 
 # game/game_script_act2.rpy:6579
 translate spanish game_script_act2_0833ae89:
 
     # "I’m at a loss for words."
-    ""
+    "No tengo palabras ahora mismo para poder contestar siquiera a algo de lo que me haya dicho."
 
 # game/game_script_act2.rpy:6580
 translate spanish game_script_act2_b7d173f4:
 
     # "Every time I try to speak, my mind draws a complete blank."
-    ""
+    "Si trato de pensar en algo, mi mente lo borra."
 
 # game/game_script_act2.rpy:6583
 translate spanish game_script_act2_d3368a41:
 
     # n "I mean, look! You still don’t have anything!"
-    n ""
+    n "¡Es que mírate! ¡Ni siquiera has pensado en algo!"
 
 # game/game_script_act2.rpy:6590
 translate spanish game_script_act2_5c417d5e:
 
     # n "If you can’t stick up for your best friend, how are you supposed to help me?!"
-    n ""
+    n "¡¿Cómo coño vas a ayudarme a mí si has dejado tirada a tu mejor amiga?!"
 
 # game/game_script_act2.rpy:6592
 translate spanish game_script_act2_63116983:
 
     # mc "W-we can figure it out, then."
-    mc ""
+    mc "T-Tendremos que pensar en algo...,"
 
 # game/game_script_act2.rpy:6593
 translate spanish game_script_act2_48ffe5b8:
 
     # mc "Right now."
-    mc ""
+    mc "y cuanto antes, mejor."
 
 # game/game_script_act2.rpy:6595
 translate spanish game_script_act2_1c616c4e:
 
     # n "Don’t worry."
-    n ""
+    n "Déjalo."
 
 # game/game_script_act2.rpy:6601
 translate spanish game_script_act2_12302866:
 
     # n "I think I already have it figured out."
-    n ""
+    n "Creo que ya me ha quedado claro lo que tengo que hacer."
 
 # game/game_script_act2.rpy:6604
 translate spanish game_script_act2_76ffef7a:
 
     # "What does she..?"
-    ""
+    "¿A qué se ref...?"
 
 # game/game_script_act2.rpy:6606
 translate spanish game_script_act2_eabe0753:
 
     # mc "What are you...huh?"
-    mc ""
+    mc "¿Qué vas a...?"
 
 # game/game_script_act2.rpy:6609
 translate spanish game_script_act2_0013aa96:
 
     # "Her gaze pierces into my soul."
-    ""
+    "Sus ojos penetran mi alma."
 
 # game/game_script_act2.rpy:6610
 translate spanish game_script_act2_b5b947de:
 
     # "She can't possibly mean..."
-    ""
+    "No creo que vaya a..."
 
 # game/game_script_act2.rpy:6613
 translate spanish game_script_act2_fd22e77e:
 
     # mc "...No."
-    mc ""
+    mc "No..."
 
 # game/game_script_act2.rpy:6614
 translate spanish game_script_act2_6e936bad:
 
     # mc "No, no, no..."
-    mc ""
+    mc "No, no, no..."
 
 # game/game_script_act2.rpy:6615
 translate spanish game_script_act2_f6f310f0:
 
     # mc "No. You can’t, you ca--"
-    mc ""
+    mc "No. Qué haces, no pu..."
 
 # game/game_script_act2.rpy:6617
 translate spanish game_script_act2_4602b5ad:
 
     # n "Why not?"
-    n ""
+    n "¿Por qué no?"
 
 # game/game_script_act2.rpy:6619
 translate spanish game_script_act2_b44b5faf:
 
     # n "I’m screwed either way."
-    n ""
+    n "En la mierda estoy haga lo que haga."
 
 # game/game_script_act2.rpy:6621
 translate spanish game_script_act2_09c13241:
 
     # n "And at least I know where I stand with Dad."
-    n ""
+    n "Por lo menos... con mi padre sé dónde estoy y en la situación en la que me encuentro."
 
 # game/game_script_act2.rpy:6623
 translate spanish game_script_act2_07420947:
 
     # mc "Why, though?"
-    mc ""
+    mc "¿Por qué, Natsuki?"
 
 # game/game_script_act2.rpy:6624
 translate spanish game_script_act2_652bae71:
 
     # mc "It’s just one month, we can wait it out."
-    mc ""
+    mc "Si es apenas un mes, podemos esperarlo."
 
 # game/game_script_act2.rpy:6626
 translate spanish game_script_act2_c4e3f856:
 
     # mc "We can do it."
-    mc ""
+    mc "Sé que podemos."
 
 # game/game_script_act2.rpy:6628
 translate spanish game_script_act2_93993aed:
 
     # n "Are you telling {i}me{/i} that, or are you telling yourself?"
-    n ""
+    n "¿ME lo dices o TE lo dices?"
 
 # game/game_script_act2.rpy:6630
 translate spanish game_script_act2_147d152b:
 
     # n "Because you don’t sound as sure of it as you think you do."
-    n ""
+    n "Porque no me suena muy convincente, que digamos."
 
 # game/game_script_act2.rpy:6632
 translate spanish game_script_act2_e6690b6b:
 
     # n "And...{w}{nw}"
-    n ""
+    n "Y...{w} {nw}"

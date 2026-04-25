@@ -1868,7 +1868,7 @@ translate spanish game_script_act2_064521a8:
 translate spanish game_script_act2_7b5cb2e3:
 
     # "Oh, who am I kidding? This is fucking amazing."
-    "¿Sabes qué? Que a quién quiero engañar: esto está de puta madre."
+    "¿Sabes...? A quién quiero engañar: esto está de puta madre."
 
 # game/game_script_act2.rpy:4953
 translate spanish game_script_act2_83d676e8:

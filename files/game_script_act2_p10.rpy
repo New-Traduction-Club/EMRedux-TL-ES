@@ -2,313 +2,313 @@
 translate spanish game_script_act2_e2582d20:
 
     # extend "can you {i}please{/i} stop telling me what to think, [player]?!"
-    extend ""
+    extend "¡¿te importaría dejar de decirme lo que tengo que pensar, [player]?!"
 
 # game/game_script_act2.rpy:6636
 translate spanish game_script_act2_ea1dbcf7:
 
     # mc "I...what?"
-    mc ""
+    mc "Que yo... ¿qué?"
 
 # game/game_script_act2.rpy:6638
 translate spanish game_script_act2_e6a431d2:
 
     # n "You keep on telling me everything will be alright..."
-    n ""
+    n "No paras de decirme una y otra vez que todo irá bien...,"
 
 # game/game_script_act2.rpy:6640
 translate spanish game_script_act2_f12a35e0:
 
     # n "But you have no idea what you're doing."
-    n ""
+    n "¡pero no tienes ni idea de lo que estás haciendo!"
 
 # game/game_script_act2.rpy:6643
 translate spanish game_script_act2_1bfe1958:
 
     # "What in the world is she saying?"
-    ""
+    "¿Qué narices está diciendo?"
 
 # game/game_script_act2.rpy:6647
 translate spanish game_script_act2_9d469299:
 
     # "Fuck."
-    ""
+    "Me cago en..."
 
 # game/game_script_act2.rpy:6649
 translate spanish game_script_act2_ac630d21:
 
     # "I feel like I’m gonna suffocate in here."
-    ""
+    "Siento que me voy a asfixiar aquí..."
 
 # game/game_script_act2.rpy:6650
 translate spanish game_script_act2_f623b3ba:
 
     # "I need to get out."
-    ""
+    "Tengo que salir."
 
 # game/game_script_act2.rpy:6651
 translate spanish game_script_act2_2a4e60c0:
 
     # "I need space."
-    ""
+    "Necesito respirar."
 
 # game/game_script_act2.rpy:6653
 translate spanish game_script_act2_a20cefa7_8:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script_act2.rpy:6656
 translate spanish game_script_act2_b18de6ed:
 
     # n "Hey, hey, wait, where are you going?"
-    n ""
+    n "Oye, oye, espera, ¿dónde vas?"
 
 # game/game_script_act2.rpy:6658
 translate spanish game_script_act2_a261a9df:
 
     # mc "I need a few hours."
-    mc ""
+    mc "A tomar el aire un par de horas."
 
 # game/game_script_act2.rpy:6659
 translate spanish game_script_act2_cdd97dff:
 
     # mc "Some fresh air."
-    mc ""
+    mc "Lo necesito."
 
 # game/game_script_act2.rpy:6661
 translate spanish game_script_act2_170cc4d6:
 
     # n "I-..."
-    n ""
+    n "Pe..."
 
 # game/game_script_act2.rpy:6663
 translate spanish game_script_act2_568de5ca:
 
     # n "Wait, [player]..."
-    n ""
+    n "Espera, [player]..."
 
 # game/game_script_act2.rpy:6666
 translate spanish game_script_act2_283f1f25:
 
     # "I grab my jacket from the rack on the front door."
-    ""
+    "Cojo mi chaqueta del perchero de la puerta de entrada."
 
 # game/game_script_act2.rpy:6669
 translate spanish game_script_act2_8486fad9:
 
     # mc "I have my keys, and I’m gonna lock the door behind me once I’m out."
-    mc ""
+    mc "Me llevo las llaves, por lo que voy a cerrar la puerta del todo cuando me vaya."
 
 # game/game_script_act2.rpy:6671
 translate spanish game_script_act2_f3ffcadb:
 
     # n "[player], just wait a second..."
-    n ""
+    n "Espera un momento, [player]..."
 
 # game/game_script_act2.rpy:6673
 translate spanish game_script_act2_661205cf:
 
     # mc "Answer for nobody."
-    mc ""
+    mc "No le abras a nadie."
 
 # game/game_script_act2.rpy:6675
 translate spanish game_script_act2_cf7ec9d2:
 
     # mc "I’ll let myself back in."
-    mc ""
+    mc "Cuando venga, seré yo mismo el que abra."
 
 # game/game_script_act2.rpy:6677
 translate spanish game_script_act2_4f6d761f:
 
     # n "[player], isn’t talking the one thing you need to do?"
-    n ""
+    n "¿No es hablar lo que necesitas hacer, [player]?"
 
 # game/game_script_act2.rpy:6679
 translate spanish game_script_act2_bf157e1a:
 
     # mc "I can’t talk if I can’t think, Natsuki."
-    mc ""
+    mc "No puedo hablarte si no puedo razonar, Natsuki,"
 
 # game/game_script_act2.rpy:6680
 translate spanish game_script_act2_1996c7cd:
 
     # mc "And I need time to do that."
-    mc ""
+    mc "y necesito tiempo para hacerlo."
 
 # game/game_script_act2.rpy:6689
 translate spanish game_script_act2_39a49f53:
 
     # n "...Fine."
-    n ""
+    n "Vale..."
 
 # game/game_script_act2.rpy:6693
 translate spanish game_script_act2_09cbdb8d:
 
     # "The word lingers in the air as I reach the exit."
-    ""
+    "Siento esa respuesta de flotar en el aire mientras abro la puerta."
 
 # game/game_script_act2.rpy:6694
 translate spanish game_script_act2_4f9b0715:
 
     # "Pulling the door to, I let myself out into the chilly street."
-    ""
+    "Tal y como la abro del todo, salgo a la calle."
 
 # game/game_script_act2.rpy:6703
 translate spanish game_script_act2_a20cefa7_9:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script_act2.rpy:6704
 translate spanish game_script_act2_0e98cbc6:
 
     # "I should talk to her."
-    ""
+    "Tendría que ir a hablar con ella."
 
 # game/game_script_act2.rpy:6705
 translate spanish game_script_act2_1166e3e9:
 
     # "Next door."
-    ""
+    "Siguiente puerta."
 
 # game/game_script_act2.rpy:6707
 translate spanish game_script_act2_688c10c0:
 
     # "I rap on the door harshly."
-    ""
+    "Llamo a la puerta con brusquedad."
 
 # game/game_script_act2.rpy:6708
 translate spanish game_script_act2_8ca41c14:
 
     # "Weather being what it is, I dig into my pocket for my gloves."
-    ""
+    "Sabiendo el frío que hace, voy en busca de mis guantes."
 
 # game/game_script_act2.rpy:6710
 translate spanish game_script_act2_389dcd71:
 
     # "As I pull them on, I’m greeted by Sayori."
-    ""
+    "Al sacarlos, me saluda Sayori."
 
 # game/game_script_act2.rpy:6711
 translate spanish game_script_act2_56af384a:
 
     # s lup e1a mh "[player]..."
-    s lup e1a mh ""
+    s lup e1a mh "[player]..."
 
 # game/game_script_act2.rpy:6713
 translate spanish game_script_act2_1bdd7039:
 
     # mc "Can we talk?"
-    mc ""
+    mc "¿Te importa que hablemos?"
 
 # game/game_script_act2.rpy:6714
 translate spanish game_script_act2_b122f478:
 
     # mc "Like, now?"
-    mc ""
+    mc "En plan..., ¿ya?"
 
 # game/game_script_act2.rpy:6715
 translate spanish game_script_act2_f158fcfc:
 
     # s b1b e4a mh "I...what?"
-    s b1b e4a mh ""
+    s b1b e4a mh "Que... ¿qué?"
 
 # game/game_script_act2.rpy:6716
 translate spanish game_script_act2_02489ac0:
 
     # s e1a rup mi "Are you coming inside or what? It's freezing out here!"
-    s e1a rup mi ""
+    s e1a rup mi "Escúchame, ¡entra de una vez porque aquí hace un frío que pela!"
 
 # game/game_script_act2.rpy:6718
 translate spanish game_script_act2_de30146a:
 
     # mc "Are you okay with going for a walk?"
-    mc ""
+    mc "¿Te importa que demos un paseo mejor?"
 
 # game/game_script_act2.rpy:6719
 translate spanish game_script_act2_8b192f63:
 
     # mc "I need some fresh air."
-    mc ""
+    mc "Necesito algo de aire."
 
 # game/game_script_act2.rpy:6720
 translate spanish game_script_act2_4fca3e7a:
 
     # s mg "Now? It's after dark!"
-    s mg ""
+    s mg "¿Cómo que un paseo? ¡Si ya ha caído la noche!"
 
 # game/game_script_act2.rpy:6721
 translate spanish game_script_act2_af98ad7e:
 
     # s e1b mi "Jeez, uhh...{w=0.6}{nw}"
-    s e1b mi ""
+    s e1b mi "Dios, eh...{w=0.6} {nw}"
 
 # game/game_script_act2.rpy:6723
 translate spanish game_script_act2_e5d3c9c4:
 
     # extend "I-I guess."
-    extend ""
+    extend "s-supongo."
 
 # game/game_script_act2.rpy:6724
 translate spanish game_script_act2_78f66776:
 
     # s ldown rdown mh "I’ll grab my coat."
-    s ldown rdown mh ""
+    s ldown rdown mh "Deja que coja mi abrigo."
 
 # game/game_script_act2.rpy:6725
 translate spanish game_script_act2_3119bd22:
 
     # s e1b mg "Mum’s asleep, so I think I can sneak out for an hour."
-    s e1b mg ""
+    s e1b mg "Como tengo a mamá dormida, creo que podré escabullirme una horita."
 
 # game/game_script_act2.rpy:6726
 translate spanish game_script_act2_c9452c49:
 
     # s e1a mi "Do you know where we're...?"
-    s e1a mi ""
+    s e1a mi "¿Quieres ir a algún sitio en especí...?"
 
 # game/game_script_act2.rpy:6728
 translate spanish game_script_act2_4d4733c6:
 
     # mc "I don’t have a clue."
-    mc ""
+    mc "Ni pajolera idea, Sayori."
 
 # game/game_script_act2.rpy:6729
 translate spanish game_script_act2_92d12aba:
 
     # mc "I just want to walk."
-    mc ""
+    mc "Quiero pasear, ya está."
 
 # game/game_script_act2.rpy:6730
 translate spanish game_script_act2_ca03651a:
 
     # s b1a e1c mh "Okay, okay, uh..."
-    s b1a e1c mh ""
+    s b1a e1c mh "Vale, vale, eh..."
 
 # game/game_script_act2.rpy:6731
 translate spanish game_script_act2_e181da23:
 
     # s e1a mb "How about I take you on my little route?"
-    s e1a mb ""
+    s e1a mb "¿Y si te hago de guía en mi ruta?"
 
 # game/game_script_act2.rpy:6733
 translate spanish game_script_act2_655d341d:
 
     # mc "Your...route...?"
-    mc ""
+    mc "Tu... ¿ruta...?"
 
 # game/game_script_act2.rpy:6734
 translate spanish game_script_act2_93e8c8ca:
 
     # s ldown rdown b1c e1c mb "Yeah. Y'know...to clear my head."
-    s ldown rdown b1c e1c mb ""
+    s ldown rdown b1c e1c mb "Claro, la que hago para despejar mi cabeza."
 
 # game/game_script_act2.rpy:6735
 translate spanish game_script_act2_8c4013c5:
 
     # s e1a mi "By the sounds of things, that’s what you need too."
-    s e1a mi ""
+    s e1a mi "Creo que es lo mismo que necesitas tú."
 
 # game/game_script_act2.rpy:6739
 translate spanish game_script_act2_435dd62a:

@@ -314,193 +314,193 @@ translate spanish game_script_act2_8c4013c5:
 translate spanish game_script_act2_435dd62a:
 
     # "Sayori reaches over to her door, pulling a coat off the rack before trudging outside"
-    ""
+    "Sayori coge su abrigo, cierra la puerta y empieza a andar con rapidez."
 
 # game/game_script_act2.rpy:6741
 translate spanish game_script_act2_dbcc696f:
 
     # s lup e1b mi "Taking a left."
-    s lup e1b mi ""
+    s lup e1b mi "Mano izquierda."
 
 # game/game_script_act2.rpy:6743
 translate spanish game_script_act2_606e2d02_1:
 
     # mc "Sure."
-    mc ""
+    mc "Te sigo."
 
 # game/game_script_act2.rpy:6744
 translate spanish game_script_act2_1802c363:
 
     # "We walk past my house."
-    ""
+    "Pasamos por al lado de mi casa."
 
 # game/game_script_act2.rpy:6745
 translate spanish game_script_act2_f35e0755:
 
     # "I don’t see Natsuki in the window."
-    ""
+    "No veo a Natsuki en la ventana."
 
 # game/game_script_act2.rpy:6746
 translate spanish game_script_act2_60ee963e:
 
     # "Down the street, Sayori takes another left."
-    ""
+    "Bajando la calle, Sayori vuelve a ir por la izquierda."
 
 # game/game_script_act2.rpy:6747
 translate spanish game_script_act2_fd6adbe5:
 
     # "I follow."
-    ""
+    "La sigo a su paso."
 
 # game/game_script_act2.rpy:6756
 translate spanish game_script_act2_0ce80094:
 
     # s "So...you’re here to talk, right?"
-    s ""
+    s "Has venido a hablar, ¿no?"
 
 # game/game_script_act2.rpy:6758
 translate spanish game_script_act2_cf1adef2_2:
 
     # mc "Yeah."
-    mc ""
+    mc "Claro."
 
 # game/game_script_act2.rpy:6759
 translate spanish game_script_act2_0d9fd654:
 
     # s b1b mg "Well, I’m listening."
-    s b1b mg ""
+    s b1b mg "Pues te escucho."
 
 # game/game_script_act2.rpy:6760
 translate spanish game_script_act2_dddacb5c:
 
     # s b1a mh "What’s up?"
-    s b1a mh ""
+    s b1a mh "¿Qué ocurre?"
 
 # game/game_script_act2.rpy:6762
 translate spanish game_script_act2_61d5d75a:
 
     # mc "Well...I think it goes without saying, but I’m sorry for not sticking up for you."
-    mc ""
+    mc "Creo que... que no hace falta decirlo, pero siento no haberte defendido en el club."
 
 # game/game_script_act2.rpy:6763
 translate spanish game_script_act2_f12d719f:
 
     # mc "I just...didn’t know how."
-    mc ""
+    mc "Es que no sabía cómo hacerlo..."
 
 # game/game_script_act2.rpy:6764
 translate spanish game_script_act2_3da6886c:
 
     # mc "And I want to make up for it, however I can."
-    mc ""
+    mc "Quiero compensarte mi error haciendo lo que sea."
 
 # game/game_script_act2.rpy:6765
 translate spanish game_script_act2_c4189b9b:
 
     # s lup rup b1c e4a mb "[player], don’t worry about it."
-    s lup rup b1c e4a mb ""
+    s lup rup b1c e4a mb "No te preocupes, [player]."
 
 # game/game_script_act2.rpy:6766
 translate spanish game_script_act2_9d81cd70:
 
     # s b1b e1b "I don’t think anyone really knew what to say."
-    s b1b e1b ""
+    s b1b e1b "Creo que nadie en esa situación tendría algo que decir."
 
 # game/game_script_act2.rpy:6767
 translate spanish game_script_act2_1cb5ef42:
 
     # s e1a mi "And, for what it’s worth..."
-    s e1a mi ""
+    s e1a mi "Y sé, si sirve de algo...,"
 
 # game/game_script_act2.rpy:6768
 translate spanish game_script_act2_4cdf1e73:
 
     # s e4a "I know Monika was just trying to help."
-    s e4a ""
+    s e4a "que Monika quería ayudar."
 
 # game/game_script_act2.rpy:6770
 translate spanish game_script_act2_4bb18e59:
 
     # mc "She came off a little strong."
-    mc ""
+    mc "Lo único es que se pasó un poquito."
 
 # game/game_script_act2.rpy:6771
 translate spanish game_script_act2_03f1fc53:
 
     # s e1b mg "I’m not upset with her because of that."
-    s e1b mg ""
+    s e1b mg "No estoy enfadada con ella por eso, ¿sabes?"
 
 # game/game_script_act2.rpy:6772
 translate spanish game_script_act2_a6d35066:
 
     # s "I understand why she’s trying so hard."
-    s ""
+    s "Entiendo perfectamente la razón por la que ha puesto toda la carne en el asador."
 
 # game/game_script_act2.rpy:6773
 translate spanish game_script_act2_c2fd79ce:
 
     # s b1d e4a mh "It’s just..."
-    s b1d e4a mh ""
+    s b1d e4a mh "El verdadero problema era que...,"
 
 # game/game_script_act2.rpy:6774
 translate spanish game_script_act2_adce41fe:
 
     # s e1d mi "Even despite her intentions, it doesn’t feel good to be...babied like that."
-    s e1d mi ""
+    s e1d mi "a pesar de sus intenciones, no sienta bien que te mimen como a un bebé... de esa forma."
 
 # game/game_script_act2.rpy:6775
 translate spanish game_script_act2_7eef6e03:
 
     # s "It’s like...{w=0.7}{nw}"
-    s ""
+    s "Es que...{w=0.7} {nw}"
 
 # game/game_script_act2.rpy:6777
 translate spanish game_script_act2_3269f86d:
 
     # extend "argh,{w=0.8}{nw}"
-    extend ""
+    extend "aish,{w=0.8} {nw}"
 
 # game/game_script_act2.rpy:6779
 translate spanish game_script_act2_2ca54e06:
 
     # extend " it’s not that hard to just treat me like she always used to."
-    extend ""
+    extend "no era tan complicado que me tratase como siempre lo ha hecho."
 
 # game/game_script_act2.rpy:6781
 translate spanish game_script_act2_0cf86cd0:
 
     # s "It makes me feel like {i}I’ve{/i} done something wrong."
-    s ""
+    s "Me hace sentir que he hecho algo mal."
 
 # game/game_script_act2.rpy:6783
 translate spanish game_script_act2_2ccc5d3f:
 
     # mc "...yeah."
-    mc ""
+    mc "Ya..."
 
 # game/game_script_act2.rpy:6784
 translate spanish game_script_act2_e1782971:
 
     # mc "That’s why I want to apologize."
-    mc ""
+    mc "Por eso quería pedirte disculpas."
 
 # game/game_script_act2.rpy:6787
 translate spanish game_script_act2_f74a48c8:
 
     # s e1a b2a mh "You really don’t have to, [player]."
-    s e1a b2a mh ""
+    s e1a b2a mh "No hacía falta, [player]."
 
 # game/game_script_act2.rpy:6788
 translate spanish game_script_act2_faef59f2:
 
     # s e1b "It was pretty awkward for everyone. I get why you couldn’t speak up."
-    s e1b ""
+    s e1b "Todos estábamos igual, así que entiendo que no hayas podido decir nada."
 
 # game/game_script_act2.rpy:6790
 translate spanish game_script_act2_2d481a11:
 
     # mc "It’s not just that."
-    mc ""
+    mc "No es solamente por eso."
 
 # game/game_script_act2.rpy:6792
 translate spanish game_script_act2_c1ae2470:

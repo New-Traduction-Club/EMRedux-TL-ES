@@ -506,85 +506,85 @@ translate spanish game_script_act2_2d481a11:
 translate spanish game_script_act2_c1ae2470:
 
     # mc "I ran into Monika way back on Friday while she was getting supplies for everything."
-    mc ""
+    mc "Me encontré a Monika el viernes pasado mientras compraba todo lo necesario para la sorpresa que quería hacerte."
 
 # game/game_script_act2.rpy:6794
 translate spanish game_script_act2_9b6a2557:
 
     # mc "I didn’t think much of it at the time."
-    mc ""
+    mc "No tenía la cabeza en mi sitio en ese momento...,"
 
 # game/game_script_act2.rpy:6795
 translate spanish game_script_act2_fedc4909:
 
     # mc "I should’ve told her to be careful not to overdo it.{w=0.8}{nw}"
-    mc ""
+    mc "pero es que si le hubiese dicho de no exagerarlo todo...{w=0.8}{nw}"
 
 # game/game_script_act2.rpy:6797
 translate spanish game_script_act2_73957609:
 
     # s b1c mh "Well, it’s not like you could’ve known."
-    s b1c mh ""
+    s b1c mh "A ver, no te culpo porque nadie sabía lo que iba a hacer en realidad."
 
 # game/game_script_act2.rpy:6800
 translate spanish game_script_act2_d226b549:
 
     # "We make our way down another side street."
-    ""
+    "Seguimos andando por otro callejón."
 
 # game/game_script_act2.rpy:6807
 translate spanish game_script_act2_6c03b9f6:
 
     # "Noticing the look I gave her, she continues."
-    ""
+    "Se da cuenta de cómo estoy mirándola y sigue hablando."
 
 # game/game_script_act2.rpy:6812
 translate spanish game_script_act2_1547deaf:
 
     # s "[player], it’s not your fault."
-    s ""
+    s "Te lo he dicho antes, [player]: no es culpa tuya."
 
 # game/game_script_act2.rpy:6815
 translate spanish game_script_act2_253d37f5:
 
     # s mh "It’s not anyone’s fault."
-    s mh ""
+    s mh "De hecho, no es culpa de nadie."
 
 # game/game_script_act2.rpy:6817
 translate spanish game_script_act2_7b4eeb4a:
 
     # mc "You’ve been my best friend for years, I should’ve known better."
-    mc ""
+    mc "Llevas siendo mi mejor amiga desde hace muchos años, tendría que haberlo supuesto."
 
 # game/game_script_act2.rpy:6819
 translate spanish game_script_act2_e878a4f6:
 
     # s "Don’t beat yourself up so much."
-    s ""
+    s "No te castigues tanto."
 
 # game/game_script_act2.rpy:6820
 translate spanish game_script_act2_afafeb60:
 
     # s b1b mb "I’m okay, really."
-    s b1b mb ""
+    s b1b mb "Como ves, estoy bien."
 
 # game/game_script_act2.rpy:6821
 translate spanish game_script_act2_226725b3:
 
     # s mh "It may have been the most tense, uncomfortable ten minutes since, erm..."
-    s mh ""
+    s mh "No quita que hayan sido los diez minutos más incómodos que haya pasado desde... eh...,"
 
 # game/game_script_act2.rpy:6824
 translate spanish game_script_act2_419e28d6:
 
     # s e1b mh b1c "{i}...thinking about it, it hasn’t really been a very good week...{/i}"
-    s e1b mh b1c ""
+    s e1b mh b1c "pensándolo bien, no ha sido una muy buena semana...,"
 
 # game/game_script_act2.rpy:6825
 translate spanish game_script_act2_7de584fc:
 
     # s b2b mh "But still, it was just that, ten minutes."
-    s b2b mh ""
+    s b2b mh "pero no dejan de ser eso, diez minutos."
 
 # game/game_script_act2.rpy:6826
 translate spanish game_script_act2_f066653f:

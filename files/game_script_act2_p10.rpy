@@ -302,7 +302,7 @@ translate spanish game_script_act2_655d341d:
 translate spanish game_script_act2_93e8c8ca:
 
     # s ldown rdown b1c e1c mb "Yeah. Y'know...to clear my head."
-    s ldown rdown b1c e1c mb "Claro, la que hago para despejar mi cabeza."
+    s ldown rdown b1c e1c mb "Claro, la que hago para despejarme."
 
 # game/game_script_act2.rpy:6735
 translate spanish game_script_act2_8c4013c5:

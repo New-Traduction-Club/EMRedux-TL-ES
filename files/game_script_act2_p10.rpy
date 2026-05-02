@@ -752,7 +752,7 @@ translate spanish game_script_act2_8c392915:
 translate spanish game_script_act2_99b27efd:
 
     # s "For once, I enjoy the silence, even if it’s just around the block, y’know?"
-    s ""
+    s "Por primera vez puedo decir que el silencio es relajante, ¿sabes? Aunque solamente esté dando una vuelta por el barrio."
 
 # game/game_script_act2.rpy:6875
 translate spanish game_script_act2_22f875f8:

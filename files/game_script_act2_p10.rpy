@@ -620,133 +620,133 @@ translate spanish game_script_act2_b7a6f757:
 translate spanish game_script_act2_247a1d41:
 
     # mc "You do know you can talk to me if you’re ever feeling down, right?"
-    mc ""
+    mc "Sayori, sabes que puedes contar conmigo si te encuentras mal, ¿verdad?"
 
 # game/game_script_act2.rpy:6835
 translate spanish game_script_act2_912690e6:
 
     # s e1a b1a mh "Of course, [player]. I don't need to be reminded every three seconds, y'know."
-    s e1a b1a mh ""
+    s e1a b1a mh "Que sí, [player]. No necesito que me lo repitas cada tres segundos."
 
 # game/game_script_act2.rpy:6836
 translate spanish game_script_act2_6697a428:
 
     # s b1f mg "Heck, you were the first person I ever opened up to about what I was going through."
-    s b1f mg ""
+    s b1f mg "Jolín, si fuiste el primero en enterarte de todo esto."
 
 # game/game_script_act2.rpy:6837
 translate spanish game_script_act2_ffcf4259:
 
     # s ldown b1c e1b mh "If it wasn't for you..."
-    s ldown b1c e1b mh ""
+    s ldown b1c e1b mh "Y si no fuese por ti..."
 
 # game/game_script_act2.rpy:6839
 translate spanish game_script_act2_69c25b65_5:
 
     # mc "Yeah..."
-    mc ""
+    mc "Sí, ya..."
 
 # game/game_script_act2.rpy:6840
 translate spanish game_script_act2_efb67818:
 
     # s mh "Besides,{w=0.8}{nw}"
-    s mh ""
+    s mh "Además,{w=0.8} {nw}"
 
 # game/game_script_act2.rpy:6842
 translate spanish game_script_act2_586b3d65:
 
     # extend " isn’t that what I’m doing now?"
-    extend ""
+    extend "¿no es justamente eso lo que estoy haciendo ahora?"
 
 # game/game_script_act2.rpy:6844
 translate spanish game_script_act2_539f5b77:
 
     # mc "Huh,{w=0.7} yeah."
-    mc ""
+    mc "Pues...{w=0.7} supongo."
 
 # game/game_script_act2.rpy:6847
 translate spanish game_script_act2_b38b347f:
 
     # "Time to change the subject..."
-    ""
+    "A otra cosa, mariposa...,"
 
 # game/game_script_act2.rpy:6848
 translate spanish game_script_act2_a641ba71:
 
     # "...but not to her."
-    ""
+    "aunque mejor no. Con ella aquí no."
 
 # game/game_script_act2.rpy:6849
 translate spanish game_script_act2_0cb4820a:
 
     # "Not yet."
-    ""
+    "Aún no."
 
 # game/game_script_act2.rpy:6852
 translate spanish game_script_act2_1d470c62:
 
     # mc "So, how long have you been taking these walks?"
-    mc ""
+    mc "Eh... ¿cuánto llevas yendo a caminar de esta manera?"
 
 # game/game_script_act2.rpy:6854
 translate spanish game_script_act2_7dc4d7e9:
 
     # s "I used to only walk when I couldn't sleep, but my therapist recommended I do it more often."
-    s ""
+    s "Suelo hacerme estas caminatas cuando no puedo pegar ojo, pero mi terapeuta me recomendó hacerlo con más frecuencia."
 
 # game/game_script_act2.rpy:6856
 translate spanish game_script_act2_2343775d:
 
     # s "So, now I just do it whenever I feel like I need it."
-    s ""
+    s "Así que ahora salgo a andar cuando siento que lo necesito."
 
 # game/game_script_act2.rpy:6858
 translate spanish game_script_act2_e1b484ca:
 
     # mc "Never really took you for a big walker."
-    mc ""
+    mc "No te tenía por una correcaminos, Sayori."
 
 # game/game_script_act2.rpy:6860
 translate spanish game_script_act2_69cc66e2:
 
     # s "That’s probably because you were still asleep."
-    s ""
+    s "Porque estás dormido para ese entonces."
 
 # game/game_script_act2.rpy:6862
 translate spanish game_script_act2_3ef75c4a:
 
     # s "I'd be up until, like, I don’t even know when."
-    s ""
+    s "Estuve desvelada hasta... ni me acuerdo ya."
 
 # game/game_script_act2.rpy:6864
 translate spanish game_script_act2_70ab539b:
 
     # s e1b "And I was sick of doing nothing with that time, so I just...{w=0.5}walked."
-    s e1b ""
+    s e1b "Como no pude matar ese tiempo haciendo 'nada' en mi cuarto, pues...{w=0.5} me fui a andar."
 
 # game/game_script_act2.rpy:6865
 translate spanish game_script_act2_ed8b0af4:
 
     # s e1a "At, like, five in the morning."
-    s e1a ""
+    s e1a "Eran las cinco de la mañana, creo."
 
 # game/game_script_act2.rpy:6867
 translate spanish game_script_act2_624b43d6:
 
     # s "I was probably only out for ten minutes the first time."
-    s ""
+    s "El primer día salí unos diez minutos."
 
 # game/game_script_act2.rpy:6869
 translate spanish game_script_act2_e28cc183:
 
     # s "And yeah...{w=0.5}{nw}"
-    s ""
+    s "Por si te lo preguntas... sí,{w=0.5} {nw}"
 
 # game/game_script_act2.rpy:6871
 translate spanish game_script_act2_8c392915:
 
     # extend "it helps."
-    extend ""
+    extend "me ayudó muchísimo."
 
 # game/game_script_act2.rpy:6873
 translate spanish game_script_act2_99b27efd:

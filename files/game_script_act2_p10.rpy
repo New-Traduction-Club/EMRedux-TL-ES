@@ -584,37 +584,37 @@ translate spanish game_script_act2_419e28d6:
 translate spanish game_script_act2_7de584fc:
 
     # s b2b mh "But still, it was just that, ten minutes."
-    s b2b mh "pero no dejan de ser eso, diez minutos."
+    s b2b mh "pero no dejan de ser diez minutos."
 
 # game/game_script_act2.rpy:6826
 translate spanish game_script_act2_f066653f:
 
     # s b1a e1a "It’s over now."
-    s b1a e1a ""
+    s b1a e1a "Ya está."
 
 # game/game_script_act2.rpy:6827
 translate spanish game_script_act2_af212fa6:
 
     # s mb "So don’t worry about it."
-    s mb ""
+    s mb "Deja de preocuparte por eso, ¿vale?"
 
 # game/game_script_act2.rpy:6829
 translate spanish game_script_act2_4a6c41c0:
 
     # mc "Alright, if you say so."
-    mc ""
+    mc "Vale, si tú lo dices..."
 
 # game/game_script_act2.rpy:6830
 translate spanish game_script_act2_09759a9e:
 
     # s mh "But if it’ll make you feel better,{w=0.7}{nw}"
-    s mh ""
+    s mh "Si te hace sentir mejor,{w=0.7} {nw}"
 
 # game/game_script_act2.rpy:6832
 translate spanish game_script_act2_b7a6f757:
 
     # extend " I accept your apology."
-    extend ""
+    extend "acepto tus disculpas."
 
 # game/game_script_act2.rpy:6834
 translate spanish game_script_act2_247a1d41:

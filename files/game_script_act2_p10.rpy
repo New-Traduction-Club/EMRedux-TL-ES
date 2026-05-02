@@ -818,7 +818,7 @@ translate spanish game_script_act2_cef51896:
 translate spanish game_script_act2_f579cb01:
 
     # s "[player], waking up at six in the morning on a Saturday, to go for a walk?"
-    s "¿Sí? ¿Levantarte un sábado a las seis de la mañana... para ir a dar un paseo?"
+    s "¿Sí? ¿Te vas a levantar un sábado a las seis de la mañana... para ir a dar un paseo conmigo?"
 
 # game/game_script_act2.rpy:6896
 translate spanish game_script_act2_ef59a989:

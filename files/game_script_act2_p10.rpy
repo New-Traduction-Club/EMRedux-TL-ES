@@ -776,103 +776,103 @@ translate spanish game_script_act2_00a42f7d:
 translate spanish game_script_act2_007637f5:
 
     # s "You didn't, [player]."
-    s "No, [player]."
+    s "No has dicho ni has hecho nada, [player]."
 
 # game/game_script_act2.rpy:6883
 translate spanish game_script_act2_4b44194b:
 
     # s "Well...you didn’t mean to."
-    s ""
+    s "O bueno... no eran tus intenciones."
 
 # game/game_script_act2.rpy:6885
 translate spanish game_script_act2_07380894:
 
     # s "I still have a hard time thinking otherwise..."
-    s ""
+    s "Aún me cuesta dejar de sobrepensar..."
 
 # game/game_script_act2.rpy:6887
 translate spanish game_script_act2_9736da5d:
 
     # s "But these walks usually help take some of the edge off."
-    s ""
+    s "Pero irme a pasear me ayuda en el proceso."
 
 # game/game_script_act2.rpy:6889
 translate spanish game_script_act2_f0af06d2:
 
     # mc "Well, if you ever get bored of the silence..."
-    mc ""
+    mc "Si el silencio te llega a aburrir alguna vez...,"
 
 # game/game_script_act2.rpy:6891
 translate spanish game_script_act2_cfd28ab8:
 
     # mc "I could always make things a little more interesting."
-    mc ""
+    mc "podría encargarme yo de eso."
 
 # game/game_script_act2.rpy:6892
 translate spanish game_script_act2_cef51896:
 
     # mc "Plus, it’s the opportune time to just...hash stuff out, y’know."
-    mc ""
+    mc "Suma a eso que sería una buena oportunidad para... aclarar cosas, ya sabes."
 
 # game/game_script_act2.rpy:6894
 translate spanish game_script_act2_f579cb01:
 
     # s "[player], waking up at six in the morning on a Saturday, to go for a walk?"
-    s ""
+    s "¿Sí? ¿Levantarte un sábado a las seis de la mañana... para ir a dar un paseo?"
 
 # game/game_script_act2.rpy:6896
 translate spanish game_script_act2_ef59a989:
 
     # mc "Er..."
-    mc ""
+    mc "Eh..."
 
 # game/game_script_act2.rpy:6897
 translate spanish game_script_act2_10486bd2:
 
     # mc "When you put it that way..."
-    mc ""
+    mc "Ahí estamos hablando de palabras mayores..."
 
 # game/game_script_act2.rpy:6899
 translate spanish game_script_act2_c98e38ed:
 
     # s "Ehehe~"
-    s ""
+    s "Je, je, je..."
 
 # game/game_script_act2.rpy:6902
 translate spanish game_script_act2_1fbf4869:
 
     # "It’s been a while since I’ve heard her laugh."
-    ""
+    "Hace la tira que no la escuchaba reírse."
 
 # game/game_script_act2.rpy:6903
 translate spanish game_script_act2_bd9643ba:
 
     # "It’s refreshing, and a little relieving too."
-    ""
+    "Me alivia y reconforta al mismo tiempo."
 
 # game/game_script_act2.rpy:6905
 translate spanish game_script_act2_5e0b6997:
 
     # "We start making our way up a pretty steep incline."
-    ""
+    "Ahora nos toca subir una cuesta muy pronunciada."
 
 # game/game_script_act2.rpy:6908
 translate spanish game_script_act2_c9334a65:
 
     # s "It’s not like I wouldn’t have enjoyed your company."
-    s ""
+    s "No es que no hubiese disfrutado de tu compañía,"
 
 # game/game_script_act2.rpy:6910
 translate spanish game_script_act2_225ad1e8:
 
     # s "It’s just, the earlier I got out, the better."
-    s ""
+    s "pero es que... cuanto antes saliese, mejor."
 
 # game/game_script_act2.rpy:6912
 translate spanish game_script_act2_f729e061:
 
     # s "Especially when I could catch the sunrise."
-    s ""
+    s "Sobre todo si consigo ver el amanecer."
 
 # game/game_script_act2.rpy:6914
 translate spanish game_script_act2_357efc9f:

@@ -806,7 +806,7 @@ translate spanish game_script_act2_f0af06d2:
 translate spanish game_script_act2_cfd28ab8:
 
     # mc "I could always make things a little more interesting."
-    mc "podría encargarme yo de eso."
+    mc "podría encargarme yo de que no te aburra tanto."
 
 # game/game_script_act2.rpy:6892
 translate spanish game_script_act2_cef51896:

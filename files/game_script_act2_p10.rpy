@@ -866,13 +866,13 @@ translate spanish game_script_act2_c9334a65:
 translate spanish game_script_act2_225ad1e8:
 
     # s "It’s just, the earlier I got out, the better."
-    s "pero es que... cuanto antes saliese, mejor."
+    s "pero es que... cuanto antes salga de casa, mejor."
 
 # game/game_script_act2.rpy:6912
 translate spanish game_script_act2_f729e061:
 
     # s "Especially when I could catch the sunrise."
-    s "Sobre todo si consigo ver el amanecer."
+    s "Sobre todo porque así consigo ver el amanecer."
 
 # game/game_script_act2.rpy:6914
 translate spanish game_script_act2_357efc9f:

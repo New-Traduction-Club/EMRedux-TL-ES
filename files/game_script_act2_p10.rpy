@@ -176,7 +176,7 @@ translate spanish game_script_act2_1166e3e9:
 translate spanish game_script_act2_688c10c0:
 
     # "I rap on the door harshly."
-    "Llamo a la puerta con brusquedad."
+    "Llamo con brusquedad."
 
 # game/game_script_act2.rpy:6708
 translate spanish game_script_act2_8ca41c14:

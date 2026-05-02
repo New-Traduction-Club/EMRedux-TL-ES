@@ -758,25 +758,25 @@ translate spanish game_script_act2_99b27efd:
 translate spanish game_script_act2_22f875f8:
 
     # s "And I feel like I can get through the next twelve hours without feeling like a burden to everyone."
-    s ""
+    s "Siento que las siguientes doce horas puedo aguantarlas sin sentirme una molestia para nadie."
 
 # game/game_script_act2.rpy:6877
 translate spanish game_script_act2_39314698:
 
     # mc "I feel like it goes without saying now, but you have {i}never{/i} been a burden, Sayori."
-    mc ""
+    mc "Creo que no es necesario decirlo, pero nunca has sido una molestia para alguien, Sayori."
 
 # game/game_script_act2.rpy:6879
 translate spanish game_script_act2_00a42f7d:
 
     # mc "If I ever did or said something that made you feel that way..."
-    mc ""
+    mc "Si he dicho o hecho algo que te lo haya dado a entender..."
 
 # game/game_script_act2.rpy:6881
 translate spanish game_script_act2_007637f5:
 
     # s "You didn't, [player]."
-    s ""
+    s "No, [player]."
 
 # game/game_script_act2.rpy:6883
 translate spanish game_script_act2_4b44194b:

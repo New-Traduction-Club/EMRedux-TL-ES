@@ -782,19 +782,19 @@ translate spanish game_script_act2_007637f5:
 translate spanish game_script_act2_4b44194b:
 
     # s "Well...you didn’t mean to."
-    s "O bueno... no eran tus intenciones."
+    s "O bueno... si lo has hecho, no serían tus intenciones."
 
 # game/game_script_act2.rpy:6885
 translate spanish game_script_act2_07380894:
 
     # s "I still have a hard time thinking otherwise..."
-    s "Aún me cuesta dejar de sobrepensar..."
+    s "Aún me cuesta dejar de sobrepensar...,"
 
 # game/game_script_act2.rpy:6887
 translate spanish game_script_act2_9736da5d:
 
     # s "But these walks usually help take some of the edge off."
-    s "Pero irme a pasear me ayuda en el proceso."
+    s "pero irme a pasear me ayuda en el proceso."
 
 # game/game_script_act2.rpy:6889
 translate spanish game_script_act2_f0af06d2:
@@ -818,7 +818,7 @@ translate spanish game_script_act2_cef51896:
 translate spanish game_script_act2_f579cb01:
 
     # s "[player], waking up at six in the morning on a Saturday, to go for a walk?"
-    s "¿Sí? ¿Te vas a levantar un sábado a las seis de la mañana... para ir a dar un paseo conmigo?"
+    s "¿Ah, sí? ¿Te vas a levantar un sábado a las seis de la mañana... para ir a dar un paseo conmigo?"
 
 # game/game_script_act2.rpy:6896
 translate spanish game_script_act2_ef59a989:
@@ -878,151 +878,151 @@ translate spanish game_script_act2_f729e061:
 translate spanish game_script_act2_357efc9f:
 
     # s "That room to think...{w=0.7}"
-    s ""
+    s "Ese espacio para pensar y aclararme...,{w=0.7}"
 
 # game/game_script_act2.rpy:6916
 translate spanish game_script_act2_a6dbf834:
 
     # extend "I guess it finally gave me the push I needed to finish Dear Sunshine."
-    extend ""
+    extend " digo yo que fue el empujón que necesitaba para terminar 'Querido rayo de sol'...,"
 
 # game/game_script_act2.rpy:6918
 translate spanish game_script_act2_d02b3504:
 
     # s "If you remember that."
-    s ""
+    s "si es que aún te acuerdas de lo que es eso."
 
 # game/game_script_act2.rpy:6920
 translate spanish game_script_act2_fa447891:
 
     # mc "God, yeah. It feels like a million years ago now."
-    mc ""
+    mc "Dios mío, claro que me acuerdo. Parece como si hubiesen transcurrido años desde aquel día."
 
 # game/game_script_act2.rpy:6922
 translate spanish game_script_act2_bcf728f6:
 
     # mc "But, you weren’t worried about some random creeps that could be lurking around?"
-    mc ""
+    mc "Aunque... ¿no te preocupan los bichos raros que merodean por aquí?"
 
 # game/game_script_act2.rpy:6924
 translate spanish game_script_act2_ce81144b:
 
     # s "What, a prowler, in this neighborhood?"
-    s ""
+    s "¿Un merodeador por aquí?"
 
 # game/game_script_act2.rpy:6926
 translate spanish game_script_act2_528831dc:
 
     # mc "Just being out so early with no one else around..."
-    mc ""
+    mc "Que salgas a la calle tú sola y tan temprano...,"
 
 # game/game_script_act2.rpy:6927
 translate spanish game_script_act2_c3209ddd:
 
     # mc "Seems like the perfect recipe for trouble."
-    mc ""
+    mc "es como ponerte un cartel en la frente que diga 'Secuéstrame'."
 
 # game/game_script_act2.rpy:6929
 translate spanish game_script_act2_0f4d3430:
 
     # s "You watch way too much anime."
-    s ""
+    s "Deja el anime, te está friendo el cerebro."
 
 # game/game_script_act2.rpy:6931
 translate spanish game_script_act2_882fa2aa:
 
     # mc "What’s that saying?"
-    mc ""
+    mc "Cómo era ese refrán...,"
 
 # game/game_script_act2.rpy:6932
 translate spanish game_script_act2_cdced73f:
 
     # mc "Art imitates life?"
-    mc ""
+    mc "¿el arte imita a la vida?"
 
 # game/game_script_act2.rpy:6934
 translate spanish game_script_act2_935bb805:
 
     # s "Isn’t it the other way around?"
-    s ""
+    s "¿No era justamente al contrario?"
 
 # game/game_script_act2.rpy:6936
 translate spanish game_script_act2_e1bd7e57:
 
     # s "'Life imitates art.'"
-    s ""
+    s "La vida imita al arte."
 
 # game/game_script_act2.rpy:6938
 translate spanish game_script_act2_2034c056_1:
 
     # mc "Maybe."
-    mc ""
+    mc "Puede."
 
 # game/game_script_act2.rpy:6939
 translate spanish game_script_act2_1a3da628:
 
     # mc "Am I wrong though?"
-    mc ""
+    mc "Aún así, ¿me equivoco?"
 
 # game/game_script_act2.rpy:6941
 translate spanish game_script_act2_aa0deb9c:
 
     # s "I know better than to go down any dark alleys, [player]."
-    s ""
+    s "Sé de sobra que no debo meterme en callejones oscuros ni nada de eso, [player]."
 
 # game/game_script_act2.rpy:6943
 translate spanish game_script_act2_eb3ff8d2:
 
     # s "I’ve never had to deal with any 'random creeps.'"
-    s ""
+    s "En mi vida he lidiado con un 'bicho raro' de esos que dices."
 
 # game/game_script_act2.rpy:6945
 translate spanish game_script_act2_c58552ae:
 
     # s "But I don’t have to worry about any of that now."
-    s ""
+    s "Y ahora no es que eso me importe mucho."
 
 # game/game_script_act2.rpy:6947
 translate spanish game_script_act2_be988cc3:
 
     # mc "Because you’re doing these walks at a reasonable time now?"
-    mc ""
+    mc "¿Porque ahora sales a andar a horas medianamente razonables?"
 
 # game/game_script_act2.rpy:6949
 translate spanish game_script_act2_09af4990:
 
     # s "Well, that, but also..."
-    s ""
+    s "Sí, supongo, pero...,"
 
 # game/game_script_act2.rpy:6952
 translate spanish game_script_act2_b8bfe173:
 
     # "Sayori jumps up, and pulls me into a quick tight hug."
-    ""
+    "Sayori pega uno de sus saltitos y me abraza con fuerza."
 
 # game/game_script_act2.rpy:6954
 translate spanish game_script_act2_fb2e5377_1:
 
     # mc "Eh?"
-    mc ""
+    mc "¿Eh?"
 
 # game/game_script_act2.rpy:6957
 translate spanish game_script_act2_1fa58565:
 
     # s "Because I have my best friend to protect me, obviously!"
-    s ""
+    s "¡tengo aquí a mi mejor amigo para protegerme, claro está!"
 
 # game/game_script_act2.rpy:6959
 translate spanish game_script_act2_d32be044:
 
     # mc "Oh yeah, me and my big manly muscles."
-    mc ""
+    mc "Uy, sí, con mis prominentes y varoniles músculos."
 
 # game/game_script_act2.rpy:6961
 translate spanish game_script_act2_ace863bc:
 
     # "I return the hug, and set her down."
-    ""
+    "La abrazo también y la bajo."
 
 # game/game_script_act2.rpy:6963
 translate spanish game_script_act2_32c9af6c:

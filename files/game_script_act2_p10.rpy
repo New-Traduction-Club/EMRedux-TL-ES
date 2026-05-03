@@ -692,7 +692,7 @@ translate spanish game_script_act2_1d470c62:
 translate spanish game_script_act2_7dc4d7e9:
 
     # s "I used to only walk when I couldn't sleep, but my therapist recommended I do it more often."
-    s "Suelo hacerme estas caminatas cuando no puedo pegar ojo, pero mi terapeuta me recomendó hacerlo con más frecuencia."
+    s "Solía hacerme estas caminatas cuando no podía pegar ojo, pero mi terapeuta me recomendó hacerlas con más frecuencia."
 
 # game/game_script_act2.rpy:6856
 translate spanish game_script_act2_2343775d:
@@ -710,7 +710,7 @@ translate spanish game_script_act2_e1b484ca:
 translate spanish game_script_act2_69cc66e2:
 
     # s "That’s probably because you were still asleep."
-    s "Porque estás dormido para ese entonces."
+    s "Porque estarías dormido para ese entonces."
 
 # game/game_script_act2.rpy:6862
 translate spanish game_script_act2_3ef75c4a:
@@ -728,25 +728,25 @@ translate spanish game_script_act2_70ab539b:
 translate spanish game_script_act2_ed8b0af4:
 
     # s e1a "At, like, five in the morning."
-    s e1a "Eran las cinco de la mañana, creo."
+    s e1a "Eran las cinco de la mañana cuando salí, creo."
 
 # game/game_script_act2.rpy:6867
 translate spanish game_script_act2_624b43d6:
 
     # s "I was probably only out for ten minutes the first time."
-    s "El primer día salí unos diez minutos."
+    s "El primer día anduve unos diez minutos."
 
 # game/game_script_act2.rpy:6869
 translate spanish game_script_act2_e28cc183:
 
     # s "And yeah...{w=0.5}{nw}"
-    s "Por si te lo preguntas... sí,{w=0.5} {nw}"
+    s "Y por si te lo preguntas... sí,{w=0.5} {nw}"
 
 # game/game_script_act2.rpy:6871
 translate spanish game_script_act2_8c392915:
 
     # extend "it helps."
-    extend "me ayudó muchísimo."
+    extend "fue de ayuda."
 
 # game/game_script_act2.rpy:6873
 translate spanish game_script_act2_99b27efd:
@@ -758,13 +758,13 @@ translate spanish game_script_act2_99b27efd:
 translate spanish game_script_act2_22f875f8:
 
     # s "And I feel like I can get through the next twelve hours without feeling like a burden to everyone."
-    s "Siento que las siguientes doce horas puedo aguantarlas sin sentirme una molestia para nadie."
+    s "Y siento que las siguientes doce horas puedo aguantarlas sin sentirme una molestia para nadie."
 
 # game/game_script_act2.rpy:6877
 translate spanish game_script_act2_39314698:
 
     # mc "I feel like it goes without saying now, but you have {i}never{/i} been a burden, Sayori."
-    mc "Creo que no es necesario decirlo, pero nunca has sido una molestia para alguien, Sayori."
+    mc "Creo que no es necesario decirlo, pero nunca has sido una molestia para nadie, Sayori."
 
 # game/game_script_act2.rpy:6879
 translate spanish game_script_act2_00a42f7d:

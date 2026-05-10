@@ -1028,25 +1028,25 @@ translate spanish game_script_act2_ace863bc:
 translate spanish game_script_act2_32c9af6c:
 
     # "We continue walking along the sidewalk, until we reach the top of the incline."
-    ""
+    "Seguimos nuestro camino por la acera hasta arriba de la cuesta."
 
 # game/game_script_act2.rpy:6974
 translate spanish game_script_act2_76f53b7c:
 
     # "We’re greeted by a clifftop road, winding along the edge of the cliff."
-    ""
+    "Nos recibe un camino serpenteante en la cima."
 
 # game/game_script_act2.rpy:6975
 translate spanish game_script_act2_7e53bd2b:
 
     # "Guardrails fence us in."
-    ""
+    "Hay barandillas que nos resguardan de caer."
 
 # game/game_script_act2.rpy:6976
 translate spanish game_script_act2_5b905094:
 
     # "I can hear the crashing of waves against the cliff face far below."
-    ""
+    "Puedo "
 
 # game/game_script_act2.rpy:6979
 translate spanish game_script_act2_c95a304a:

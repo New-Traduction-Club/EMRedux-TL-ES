@@ -1520,73 +1520,73 @@ translate spanish game_script_act2_c37121e0:
 translate spanish game_script_act2_1395e79f:
 
     # "I exhale and nod after a moment."
-    ""
+    "Exhalo y asiento."
 
 # game/game_script_act2.rpy:7141
 translate spanish game_script_act2_cc1d3839:
 
     # mc "Yeah. A lot."
-    mc ""
+    mc "Sí, mucho."
 
 # game/game_script_act2.rpy:7143
 translate spanish game_script_act2_4437aef9:
 
     # s "Then I think you should sit down with her and talk."
-    s ""
+    s "Pues creo que deberías sentarte y hablar con ella."
 
 # game/game_script_act2.rpy:7145
 translate spanish game_script_act2_6d09a384:
 
     # s "Really listen to her issues."
-    s ""
+    s "Escucharla contarte sus problemas."
 
 # game/game_script_act2.rpy:7147
 translate spanish game_script_act2_5fea8f67:
 
     # mc "But I do listen to her."
-    mc ""
+    mc "Pero si ya lo hago, Sayori."
 
 # game/game_script_act2.rpy:7148
 translate spanish game_script_act2_085e0efb:
 
     # mc "I’ve done nothing bu--"
-    mc ""
+    mc "No he hecho más qu..."
 
 # game/game_script_act2.rpy:7150
 translate spanish game_script_act2_95885265:
 
     # s "She has to {i}feel{/i} like she’s being listened to, [player]."
-    s ""
+    s "Se tiene que sentir escuchada, [player]."
 
 # game/game_script_act2.rpy:7152
 translate spanish game_script_act2_95f7e4e7:
 
     # s "Otherwise neither of you are going to get anywhere."
-    s ""
+    s "Como no lo consigas, no vais a llegar a ninguna parte."
 
 # game/game_script_act2.rpy:7161
 translate spanish game_script_act2_167e16b9:
 
     # "Sayori draws a deep breath and looks out towards the sea."
-    ""
+    "Sayori respira hondo y mira hacia el mar."
 
 # game/game_script_act2.rpy:7164
 translate spanish game_script_act2_54b64958:
 
     # s "I certainly didn’t feel listened to back then."
-    s ""
+    s "Para aquel entonces tampoco me sentí escuchada."
 
 # game/game_script_act2.rpy:7166
 translate spanish game_script_act2_a9471407:
 
     # s "And I know now that everyone was, but..."
-    s ""
+    s "Sé que estabais haciéndolo, pero...,"
 
 # game/game_script_act2.rpy:7168
 translate spanish game_script_act2_aad536f7:
 
     # s "It’s really hard to focus on that in the moment."
-    s ""
+    s "era difícil darme cuenta de ello en el momento."
 
 # game/game_script_act2.rpy:7170
 translate spanish game_script_act2_79bec6c6:

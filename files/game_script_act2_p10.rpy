@@ -1784,91 +1784,91 @@ translate spanish game_script_act2_e5bd6e40:
 translate spanish game_script_act2_240bb9e4:
 
     # s "....yes, I’m wearing a jacket."
-    s ""
+    s "Sí, voy abrigada..."
 
 # game/game_script_act2.rpy:7243
 translate spanish game_script_act2_7fd79bca:
 
     # s "Yes, yes, I’ll be okay."
-    s ""
+    s "Sí, sí, estaré bien."
 
 # game/game_script_act2.rpy:7245
 translate spanish game_script_act2_5adfc810:
 
     # s "Bye, bye bye bye."
-    s ""
+    s "Adiós, adiósadiósadiósadiós."
 
 # game/game_script_act2.rpy:7254
 translate spanish game_script_act2_e6075eb4:
 
     # "She hangs up, before sighing."
-    ""
+    "Cuelga y suspira."
 
 # game/game_script_act2.rpy:7256
 translate spanish game_script_act2_f0967178:
 
     # mc "She wants you home?"
-    mc ""
+    mc "¿Quiere que vuelvas a casa?"
 
 # game/game_script_act2.rpy:7258
 translate spanish game_script_act2_ec564a7e:
 
     # s "Yeah. After...{w=0.5}{nw}"
-    s ""
+    s "Sí. Después de...{w=0.5} {nw}"
 
 # game/game_script_act2.rpy:7260
 translate spanish game_script_act2_c5237f41:
 
     # extend "last week...she’s started to worry about me a lot."
-    extend ""
+    extend "de lo de la semana pasada, se ha estado preocupando por mí mucho más."
 
 # game/game_script_act2.rpy:7262
 translate spanish game_script_act2_6b040d1d:
 
     # s "And I have to take my evening medication on time."
-    s ""
+    s "Y tengo que tomarme la medicación nocturna a tiempo."
 
 # game/game_script_act2.rpy:7264
 translate spanish game_script_act2_453fcf68:
 
     # s "You think you’re gonna be able to handle this?"
-    s ""
+    s "¿Te ves capaz de encargarte tú de todo esto?"
 
 # game/game_script_act2.rpy:7267
 translate spanish game_script_act2_2e5180fc:
 
     # "I audibly sigh, unsure of how to answer."
-    ""
+    "Suspiro, ya que estoy bastante dudoso acerca de lo que voy a responder."
 
 # game/game_script_act2.rpy:7269
 translate spanish game_script_act2_21348e62:
 
     # mc "I suppose so..."
-    mc ""
+    mc "Pues supongo yo..."
 
 # game/game_script_act2.rpy:7270
 translate spanish game_script_act2_07d90001:
 
     # mc "It’s just a little touch-and-go with Natsuki right now."
-    mc ""
+    mc "La cosa está un poquiiito delicada con Natsuki ahora mismo."
 
 # game/game_script_act2.rpy:7272
 translate spanish game_script_act2_1a81f4a2:
 
     # s "Yeah..."
-    s ""
+    s "Ya..."
 
 # game/game_script_act2.rpy:7274
 translate spanish game_script_act2_e1554201_3:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/game_script_act2.rpy:7277
 translate spanish game_script_act2_3268fa0d:
 
     # "We soak in the silence, both uneasy."
-    ""
+    "Nos vuelve a hundir el silencio, inseguros de cómo continuar hablando."
 
 # game/game_script_act2.rpy:7280
 translate spanish game_script_act2_0f82a055:

@@ -1196,7 +1196,7 @@ translate spanish game_script_act2_8ffe0009:
 translate spanish game_script_act2_da42e785:
 
     # s "Trouble in paradise, huh?"
-    s "No todo es color rosa, ¿eh?"
+    s "No todo es de color rosa, ¿eh?"
 
 # game/game_script_act2.rpy:7029
 translate spanish game_script_act2_8ce61eb8:

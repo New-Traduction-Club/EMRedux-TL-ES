@@ -1874,25 +1874,25 @@ translate spanish game_script_act2_3268fa0d:
 translate spanish game_script_act2_0f82a055:
 
     # s "Anyway, I {i}do{/i} have to get home, so..."
-    s ""
+    s "En fin, tengo que ir ya a casa, así que..."
 
 # game/game_script_act2.rpy:7282
 translate spanish game_script_act2_51c6b5b9:
 
     # mc "Yeah, of course."
-    mc ""
+    mc "Sí, claro."
 
 # game/game_script_act2.rpy:7288
 translate spanish game_script_act2_6ab7504f:
 
     # "Sayori takes off in a hurry."
-    ""
+    "Sayori sale corriendo."
 
 # game/game_script_act2.rpy:7289
 translate spanish game_script_act2_1316d8ef:
 
     # "Struggling to my feet, I catch up with her."
-    ""
+    "Me levanto com dificultad y la sigo."
 
 # game/game_script_act2.rpy:7290
 translate spanish game_script_act2_158034ac:

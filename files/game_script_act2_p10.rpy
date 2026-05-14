@@ -1274,37 +1274,37 @@ translate spanish game_script_act2_4e88ac24:
 translate spanish game_script_act2_2772e2e6:
 
     # s "Why?"
-    s ""
+    s "¿Qué ha pasado?"
 
 # game/game_script_act2.rpy:7053
 translate spanish game_script_act2_d78fe8ec:
 
     # mc "Because I need to grow a backbone."
-    mc ""
+    mc "Porque necesito sacar pecho, Sayori."
 
 # game/game_script_act2.rpy:7054
 translate spanish game_script_act2_649341ca:
 
     # mc "She said something like, 'if you can’t even stick up for Sayori, how can you protect me?'."
-    mc ""
+    mc "Me dijo algo en plan: 'Si no puedes defender a Sayori, ¿cómo esperas protegerme a mí?'"
 
 # game/game_script_act2.rpy:7057
 translate spanish game_script_act2_0bfac73a:
 
     # "Sayori doesn’t respond."
-    ""
+    "Sayori no dice nada."
 
 # game/game_script_act2.rpy:7059
 translate spanish game_script_act2_0e4d0f2a:
 
     # mc "I know she’s right."
-    mc ""
+    mc "Sé que tiene razón."
 
 # game/game_script_act2.rpy:7060
 translate spanish game_script_act2_298a9ccc:
 
     # mc "I just need to prove to her that I can."
-    mc ""
+    mc "Pero necesito demostrarle que puedo hacerlo."
 
 # game/game_script_act2.rpy:7062
 translate spanish game_script_act2_93f8ec4b:

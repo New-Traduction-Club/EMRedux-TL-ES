@@ -1208,25 +1208,25 @@ translate spanish game_script_act2_8ce61eb8:
 translate spanish game_script_act2_39018b77:
 
     # s "How...is she?"
-    s "¿Cómo... es ella?"
+    s "¿Cómo... es Natsuki?"
 
 # game/game_script_act2.rpy:7034
 translate spanish game_script_act2_4cb8c8db:
 
     # mc "Oh, y’know..."
-    mc "Ah, pues verás...,"
+    mc "Ah, pues...,"
 
 # game/game_script_act2.rpy:7035
 translate spanish game_script_act2_2c1476c1:
 
     # mc "Well, you saw how she blew up."
-    mc "ya has visto lo rápido que ha reaccionado en el club."
+    mc "ya has visto lo que ha tardado en reventar en el club."
 
 # game/game_script_act2.rpy:7036
 translate spanish game_script_act2_7a00ef4e:
 
     # mc "You tell me."
-    mc "Tú sabrás."
+    mc "Tú lo sabes mejor que yo."
 
 # game/game_script_act2.rpy:7038
 translate spanish game_script_act2_5891b815:

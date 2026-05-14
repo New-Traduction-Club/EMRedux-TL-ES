@@ -1976,67 +1976,67 @@ translate spanish game_script_act2_9ec8a810:
 translate spanish game_script_act2_56a7120b:
 
     # mc "I’m glad we cleared the air."
-    mc ""
+    mc "Me alegro de que hayamos solucionado todo esto."
 
 # game/game_script_act2.rpy:7324
 translate spanish game_script_act2_aa4f4cb7:
 
     # mc "And now I know how I can approach-..."
-    mc ""
+    mc "Y ahora sé cómo pued..."
 
 # game/game_script_act2.rpy:7332
 translate spanish game_script_act2_fc3a7bc0:
 
     # "From the end of the street, a car slowly pulls around the corner."
-    ""
+    "Veo al final de la calle un coche girando la esquina."
 
 # game/game_script_act2.rpy:7333
 translate spanish game_script_act2_8f28c303:
 
     # "The headlights disorient me, and I raise my arm to my face to blot it out."
-    ""
+    "Las luces delanteras me ciegan, por lo que levanto el brazo a la altura de mis ojos para contrarrestarlo."
 
 # game/game_script_act2.rpy:7334
 translate spanish game_script_act2_d6972742:
 
     # "As the headlights swing back to the centre of the road, I get a good look at it."
-    ""
+    "Cuando las luces se van acercando y dejan de cegarme, pude ver bien al conduc..."
 
 # game/game_script_act2.rpy:7339
 translate spanish game_script_act2_382f3c4d:
 
     # "My blood runs cold as ice."
-    ""
+    "Se me hiela la sangre."
 
 # game/game_script_act2.rpy:7340
 translate spanish game_script_act2_322d1eeb:
 
     # "Time slows to a crawl."
-    ""
+    "Se detiene el tiempo."
 
 # game/game_script_act2.rpy:7341
 translate spanish game_script_act2_7072f3b4:
 
     # "No..."
-    ""
+    "No..."
 
 # game/game_script_act2.rpy:7342
 translate spanish game_script_act2_46afccce:
 
     # "No no no, this can’t be happening."
-    ""
+    "No, no, no, no puede estar pasando esto."
 
 # game/game_script_act2.rpy:7343
 translate spanish game_script_act2_6fa13d79:
 
     # "It can’t."
-    ""
+    "Es imposible."
 
 # game/game_script_act2.rpy:7348
 translate spanish game_script_act2_6176d94b:
 
     # "An old vintage muscle car."
-    ""
+    "Un muscle de lujo antiguo."
 
 # game/game_script_act2.rpy:7349
 translate spanish game_script_act2_3b060df1:

@@ -1592,193 +1592,193 @@ translate spanish game_script_act2_aad536f7:
 translate spanish game_script_act2_79bec6c6:
 
     # s "I think Nats feels the same way, is all."
-    s ""
+    s "Creo que ella se siente igual, es todo."
 
 # game/game_script_act2.rpy:7173
 translate spanish game_script_act2_ad48ff2e:
 
     # "I internally shudder at what she, however unintentionally, implied."
-    ""
+    "Me asusto al darme cuenta de lo que, de manera involuntaria, ha querido decir."
 
 # game/game_script_act2.rpy:7174
 translate spanish game_script_act2_fefcef00:
 
     # "She pauses for a moment, before {nw}"
-    ""
+    "Para de hablar un momento, antes de {nw}"
 
 # game/game_script_act2.rpy:7176
 translate spanish game_script_act2_e16f3857:
 
     # extend "bringing her gaze back to me."
-    extend ""
+    extend "dejar de mirar al mar y mirarme a mí."
 
 # game/game_script_act2.rpy:7178
 translate spanish game_script_act2_8b599e8a:
 
     # "She holds my hand and squeezes it."
-    ""
+    "Coge mi mano y la aplasta."
 
 # game/game_script_act2.rpy:7180
 translate spanish game_script_act2_7cb15084:
 
     # "Jeez, she’s freezing."
-    ""
+    "Jolín, está congelada."
 
 # game/game_script_act2.rpy:7181
 translate spanish game_script_act2_9d7ba99f:
 
     # "I can even feel it through my gloves."
-    ""
+    "Hasta con guantes puedo sentirlo."
 
 # game/game_script_act2.rpy:7184
 translate spanish game_script_act2_f582d74e:
 
     # s "I know that your first thought is to help and protect your friends."
-    s ""
+    s "Sé que el primer pensamiento que se te pasa por la cabeza es ayudar y proteger a tus amigos..."
 
 # game/game_script_act2.rpy:7186
 translate spanish game_script_act2_f7781dd1:
 
     # s "{i}I{/i}, of all people, know that."
-    s ""
+    s "Yo, más que cualquiera, lo sé."
 
 # game/game_script_act2.rpy:7188
 translate spanish game_script_act2_900136f5:
 
     # s "It’s one of the reasons you’re my best friend."
-    s ""
+    s "Es uno de los motivos por los que eres mi mejor amigo,"
 
 # game/game_script_act2.rpy:7190
 translate spanish game_script_act2_7c873ecf:
 
     # s "But I think...you need to turn it off once in a while, y’know?"
-    s ""
+    s "pero creo que... necesitas relajarte de vez en cuando, ¿sabes?"
 
 # game/game_script_act2.rpy:7192
 translate spanish game_script_act2_997b361a:
 
     # s "We don’t all need saving all the time."
-    s ""
+    s "No necesitamos que nos salven a cada instante."
 
 # game/game_script_act2.rpy:7194
 translate spanish game_script_act2_2a3b37c2:
 
     # s "And..."
-    s ""
+    s "Y...,"
 
 # game/game_script_act2.rpy:7196
 translate spanish game_script_act2_a198e209:
 
     # extend "I think you’re being more of a protector to her than a friend."
-    extend ""
+    extend "creo que estás siendo más un guardaespaldas que un amiguete...,"
 
 # game/game_script_act2.rpy:7198
 translate spanish game_script_act2_231e9f73:
 
     # s "Well, {i}boy{/i}friend."
-    s ""
+    s "o bueno, noviete."
 
 # game/game_script_act2.rpy:7200
 translate spanish game_script_act2_f4cb6141:
 
     # s "And I’m not sure if that’s what she needs."
-    s ""
+    s "Y creo que no es eso lo que ella necesita."
 
 # game/game_script_act2.rpy:7202
 translate spanish game_script_act2_ecf63de4:
 
     # s "If that makes se--{w=0.5}{nw}"
-    s ""
+    s "Si con eso te acla...{w=0.5}{nw}"
 
 # game/game_script_act2.rpy:7207
 translate spanish game_script_act2_3803204e:
 
     # "A low-pitched rumble interrupts her."
-    ""
+    "Un sonido acompañado de una vibración la interrumpe."
 
 # game/game_script_act2.rpy:7209
 translate spanish game_script_act2_194f1e3d:
 
     # "She lets go of my hand before reaching into her pants pocket."
-    ""
+    "Suelta mi mano y mete la suya en el bolsillo del pantalón."
 
 # game/game_script_act2.rpy:7212
 translate spanish game_script_act2_35d79351:
 
     # s "Sorry, I’ve gotta take this."
-    s ""
+    s "Perdona, tengo que cogerlo."
 
 # game/game_script_act2.rpy:7215
 translate spanish game_script_act2_8daa3196:
 
     # "Sayori exits the bus stop, presumably for some privacy."
-    ""
+    "Sayori se aleja un poco de la parada para buscar algo de privacidad."
 
 # game/game_script_act2.rpy:7218
 translate spanish game_script_act2_d380bba2:
 
     # "She’s quick to answer the call."
-    ""
+    "Coge la llamada con rapidez."
 
 # game/game_script_act2.rpy:7221
 translate spanish game_script_act2_f623548f:
 
     # s "Hi, Mum."
-    s ""
+    s "Hola, mami."
 
 # game/game_script_act2.rpy:7223
 translate spanish game_script_act2_9f710f48:
 
     # s "I’m with [player]."
-    s ""
+    s "Sí, estoy con [player]."
 
 # game/game_script_act2.rpy:7225
 translate spanish game_script_act2_0b2181d7:
 
     # s "We were just going for..."
-    s ""
+    s "Estamos..."
 
 # game/game_script_act2.rpy:7227
 translate spanish game_script_act2_e1554201_1:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/game_script_act2.rpy:7229
 translate spanish game_script_act2_60f65ecd:
 
     # s "Right now?"
-    s ""
+    s "¿Ahora?"
 
 # game/game_script_act2.rpy:7231
 translate spanish game_script_act2_e8ae6a55:
 
     # s "But it’s..."
-    s ""
+    s "Pero si..."
 
 # game/game_script_act2.rpy:7233
 translate spanish game_script_act2_e1554201_2:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/game_script_act2.rpy:7235
 translate spanish game_script_act2_204b91e9:
 
     # s "Okay, Mum."
-    s ""
+    s "Vale, mami."
 
 # game/game_script_act2.rpy:7237
 translate spanish game_script_act2_e1a4c22d:
 
     # s "Yeah, I’ll be back soon."
-    s ""
+    s "Sí, ya mismo estoy en casa."
 
 # game/game_script_act2.rpy:7239
 translate spanish game_script_act2_e5bd6e40:
 
     # s "No, Mum, it’s {i}him{/i}, we’ll be fine."
-    s ""
+    s "No, mami, estoy con él, no pasa nada."
 
 # game/game_script_act2.rpy:7241
 translate spanish game_script_act2_240bb9e4:

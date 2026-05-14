@@ -2042,19 +2042,19 @@ translate spanish game_script_act2_6176d94b:
 translate spanish game_script_act2_3b060df1:
 
     # "A familiar silhouette at the wheel, illuminated only by the glow of a lit cigarette."
-    ""
+    "Una persona muy familiar está sentada al volante iluminado por la ignición del cigarro que lleva en la boca."
 
 # game/game_script_act2.rpy:7350
 translate spanish game_script_act2_fd7ff00a:
 
     # "It’s him."
-    ""
+    "Es él."
 
 # game/game_script_act2.rpy:7353
 translate spanish game_script_act2_72addace:
 
     # "But as quickly as the car arrives, it’s gone, cruising past us and heading straight up the hill."
-    ""
+    "Tal y como el coche llega, pasa de nosotros y sube colina arriba."
 
 # game/game_script_act2.rpy:7354
 translate spanish game_script_act2_ef80ed3f:

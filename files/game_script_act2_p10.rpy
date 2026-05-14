@@ -1310,211 +1310,211 @@ translate spanish game_script_act2_298a9ccc:
 translate spanish game_script_act2_93f8ec4b:
 
     # s "Well..."
-    s ""
+    s "A ver...,"
 
 # game/game_script_act2.rpy:7064
 translate spanish game_script_act2_5bc7d6d1:
 
     # s "You need to remember that she’s {nw}"
-    s ""
+    s "creo que no recuerdas que está... {nw}"
 
 # game/game_script_act2.rpy:7066
 translate spanish game_script_act2_27e3ab04:
 
     # extend "{i}scared{/i}."
-    extend ""
+    extend "asustada."
 
 # game/game_script_act2.rpy:7068
 translate spanish game_script_act2_b8906787:
 
     # s "Scared and alone."
-    s ""
+    s "Asustada y muy sola, [player]."
 
 # game/game_script_act2.rpy:7070
 translate spanish game_script_act2_3312afb3:
 
     # s "She’s not...{i}alone{/i} alone, but she feels it."
-    s ""
+    s "O bueno, no tan sola sola, pero lo siente así."
 
 # game/game_script_act2.rpy:7072
 translate spanish game_script_act2_190af97a:
 
     # mc "Isolated?"
-    mc ""
+    mc "¿Aislada, quieres decir?"
 
 # game/game_script_act2.rpy:7074
 translate spanish game_script_act2_43e35598:
 
     # s "Isolated."
-    s ""
+    s "Sí, aislada."
 
 # game/game_script_act2.rpy:7076
 translate spanish game_script_act2_a5dc54b3:
 
     # s "And if she feels isolated...she’s gonna want somewhere normal to return to."
-    s ""
+    s "Si se siente aislada, querrá que todo vuelva a la normalidad,"
 
 # game/game_script_act2.rpy:7078
 translate spanish game_script_act2_35bdac7b:
 
     # s "Even if it’s bad for her in the long run."
-    s ""
+    s "aunque esa normalidad no sea muy normal ni le beneficie a largo plazo, ya me entiendes."
 
 # game/game_script_act2.rpy:7081
 translate spanish game_script_act2_bfecbc16:
 
     # "How could she feel alone like that?"
-    ""
+    "¿Cómo es posible que pueda sentirse de esa manera?"
 
 # game/game_script_act2.rpy:7082
 translate spanish game_script_act2_9beb7169:
 
     # "I’ve been there every moment."
-    ""
+    "Si he estado para ella en todo momento."
 
 # game/game_script_act2.rpy:7083
 translate spanish game_script_act2_cc19bf02:
 
     # "I continue listening."
-    ""
+    "Sigo escuchando a Sayori."
 
 # game/game_script_act2.rpy:7086
 translate spanish game_script_act2_1e8369ba:
 
     # s "I kinda felt something like that in the hospital, you know?"
-    s ""
+    s "Te puedo decir que sentí algo parecido en el hospital."
 
 # game/game_script_act2.rpy:7088
 translate spanish game_script_act2_01ad4b90:
 
     # s "By day two, I was losing my mind."
-    s ""
+    s "No pasaron ni tres días y ya estaba perdiendo la cabeza."
 
 # game/game_script_act2.rpy:7090
 translate spanish game_script_act2_1b4b32ea:
 
     # s "The only interaction I had with the outside world were nurses, the psychologist, Mum, and...you."
-    s ""
+    s "Las únicas interacciones que he tenido con el exterior han sido a base de enfermeros, psicólogos, mamá... y tú."
 
 # game/game_script_act2.rpy:7092
 translate spanish game_script_act2_2133146e:
 
     # s "I just wanted to go back and see my friends."
-    s ""
+    s "Quería irme de allí y ver a mis amigos."
 
 # game/game_script_act2.rpy:7094
 translate spanish game_script_act2_07776a10:
 
     # s "And that was only for three days."
-    s ""
+    s "Y lo dicho: ni tres dias."
 
 # game/game_script_act2.rpy:7096
 translate spanish game_script_act2_9ae7e608:
 
     # s "Imagine how Natsuki feels...close to a week now, right?"
-    s ""
+    s "Imagínate ella, que lleva... casi una semana, ¿no?"
 
 # game/game_script_act2.rpy:7098
 translate spanish game_script_act2_ff0f245b:
 
     # mc "Four days."
-    mc ""
+    mc "Cuatro días."
 
 # game/game_script_act2.rpy:7100
 translate spanish game_script_act2_0216457f:
 
     # s "Four days, and with no end in sight."
-    s ""
+    s "Cuatro días... y un futuro incierto."
 
 # game/game_script_act2.rpy:7102
 translate spanish game_script_act2_d6dfed4d:
 
     # s "I’m not comparing your place to a prison, [player]."
-    s ""
+    s "No estoy comparando tu casa con una cárcel, [player]...,"
 
 # game/game_script_act2.rpy:7104
 translate spanish game_script_act2_f44e9573:
 
     # s "But that’s how she might feel."
-    s ""
+    s "pero es lo que debe sentir ella."
 
 # game/game_script_act2.rpy:7106
 translate spanish game_script_act2_a3b1a71e_1:
 
     # mc "I guess."
-    mc ""
+    mc "Supongo..."
 
 # game/game_script_act2.rpy:7108
 translate spanish game_script_act2_9938916a:
 
     # mc "I just..."
-    mc ""
+    mc "Es que...,"
 
 # game/game_script_act2.rpy:7110
 translate spanish game_script_act2_29281f09:
 
     # mc "I wish she didn’t feel that way."
-    mc ""
+    mc "ojalá no se sintiese así."
 
 # game/game_script_act2.rpy:7111
 translate spanish game_script_act2_c214dc88:
 
     # mc "I was hoping that...since {nw}"
-    mc ""
+    mc "Tengo esas esperanzas desde que... {nw}"
 
 # game/game_script_act2.rpy:7113
 translate spanish game_script_act2_8ba88363:
 
     # extend "we’re together..."
-    extend ""
+    extend "estamos juntos..."
 
 # game/game_script_act2.rpy:7120
 translate spanish game_script_act2_146c923d:
 
     # "Sayori blinks."
-    ""
+    "Sayori parpadea."
 
 # game/game_script_act2.rpy:7122
 translate spanish game_script_act2_69c25b65_7:
 
     # mc "Yeah..."
-    mc ""
+    mc "Pues sí..."
 
 # game/game_script_act2.rpy:7125
 translate spanish game_script_act2_cce753cf:
 
     # "A longing, stinging silence."
-    ""
+    "Nos inunda un silencio que pincha muy fuerte."
 
 # game/game_script_act2.rpy:7128
 translate spanish game_script_act2_72a57f5c:
 
     # s "Hey, if I learned anything from my therapist, [player]..."
-    s ""
+    s "A ver, si algo he aprendido de mi terapeuta...,"
 
 # game/game_script_act2.rpy:7130
 translate spanish game_script_act2_d441634c:
 
     # s "It’s that a relationship doesn’t fix things."
-    s ""
+    s "es que salir con ella no va a arreglar las cosas, [player]."
 
 # game/game_script_act2.rpy:7132
 translate spanish game_script_act2_9db03244:
 
     # s "It can help to fix things, sometimes."
-    s ""
+    s "A veces sí ayuda,"
 
 # game/game_script_act2.rpy:7134
 translate spanish game_script_act2_fdd631d2:
 
     # s "But it’s not a cure-all."
-    s ""
+    s "pero no es mano de santo."
 
 # game/game_script_act2.rpy:7136
 translate spanish game_script_act2_c37121e0:
 
     # s "You...love her, right?"
-    s ""
+    s "La... quieres mucho, ¿no?"
 
 # game/game_script_act2.rpy:7138
 translate spanish game_script_act2_1395e79f:

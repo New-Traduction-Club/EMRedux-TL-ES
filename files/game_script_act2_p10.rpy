@@ -1898,79 +1898,79 @@ translate spanish game_script_act2_1316d8ef:
 translate spanish game_script_act2_158034ac:
 
     # "We begin making our way home, backtracking the way we came."
-    ""
+    "Volvemos sobre nuestros pasos para ir a casa."
 
 # game/game_script_act2.rpy:7301
 translate spanish game_script_act2_e118fe43:
 
     # mc "Y’know, this was nice."
-    mc ""
+    mc "¿Sabes? Ha estado genial."
 
 # game/game_script_act2.rpy:7302
 translate spanish game_script_act2_c328b9b6:
 
     # mc "Hopefully it makes up for not being able to hang out yesterday."
-    mc ""
+    mc "Espero que esto compense no haber salido ayer."
 
 # game/game_script_act2.rpy:7304
 translate spanish game_script_act2_4c7469e1:
 
     # s "Oh [player], don’t worry about it!"
-    s ""
+    s "¡Venga ya, [player], deja de preocuparte ya por eso!"
 
 # game/game_script_act2.rpy:7306
 translate spanish game_script_act2_1d10c449:
 
     # s "You were busy!"
-    s ""
+    s "¡Estabas de manos atadas!"
 
 # game/game_script_act2.rpy:7308
 translate spanish game_script_act2_54f273f6:
 
     # mc "Yeah, I guess."
-    mc ""
+    mc "Supongo yo que sí."
 
 # game/game_script_act2.rpy:7310
 translate spanish game_script_act2_4f7ad064:
 
     # mc "We should do it again sometime."
-    mc ""
+    mc "Tendríamos que repetir la experiencia otra vez."
 
 # game/game_script_act2.rpy:7311
 translate spanish game_script_act2_baae74a9:
 
     # mc "Sometime soon."
-    mc ""
+    mc "Algún día de estos."
 
 # game/game_script_act2.rpy:7313
 translate spanish game_script_act2_b66bf9b6:
 
     # s "Yeah...maybe not tomorrow, because Yuri’s coming over to help me study, but..."
-    s ""
+    s "Claro, aunque mañana no porque Yuri me va a ayudar con los estudios, pero...,"
 
 # game/game_script_act2.rpy:7315
 translate spanish game_script_act2_590980da:
 
     # s "Hey, maybe we could both come over! Have like a...'study-party-thing' or something?"
-    s ""
+    s "¡un momento! ¿Y si hacemos una sesión de estudio conjunta?"
 
 # game/game_script_act2.rpy:7317
 translate spanish game_script_act2_28d2acda:
 
     # mc "Heh, that actually sounds nice. Sure."
-    mc ""
+    mc "Ah, pues no suena nada mal. Me gustaría, sí."
 
 # game/game_script_act2.rpy:7318
 translate spanish game_script_act2_4d672054:
 
     # mc "And...thanks, Sayori."
-    mc ""
+    mc "Y... gracias, Sayori."
 
 # game/game_script_act2.rpy:7320
 translate spanish game_script_act2_9ec8a810:
 
     # mc "For everything."
-    mc ""
+    mc "Gracias por todo."
 
 # game/game_script_act2.rpy:7322
 translate spanish game_script_act2_56a7120b:

@@ -1046,229 +1046,229 @@ translate spanish game_script_act2_7e53bd2b:
 translate spanish game_script_act2_5b905094:
 
     # "I can hear the crashing of waves against the cliff face far below."
-    "Puedo "
+    "Se escuchan las olas de romper bajo el precipicio."
 
 # game/game_script_act2.rpy:6979
 translate spanish game_script_act2_c95a304a:
 
     # s "Yeah...not bad, is it?"
-    s ""
+    s "No está mal, ¿no?"
 
 # game/game_script_act2.rpy:6981
 translate spanish game_script_act2_0415cca1:
 
     # mc "Not bad at all."
-    mc ""
+    mc "Ni tan mal."
 
 # game/game_script_act2.rpy:6982
 translate spanish game_script_act2_78c42431:
 
     # mc "You walk all the way down there?"
-    mc ""
+    mc "¿Te haces toda la caminata hacia abajo?"
 
 # game/game_script_act2.rpy:6984
 translate spanish game_script_act2_f820c826:
 
     # s "If I plan to stay out for like, two more hours."
-    s ""
+    s "Si me quiero quedar un par de horas más andando... pues sí."
 
 # game/game_script_act2.rpy:6986
 translate spanish game_script_act2_14c79822:
 
     # s "That road carries on for miles."
-    s ""
+    s "Hay bastantes kilómetros a recorrer si sigues por ahí."
 
 # game/game_script_act2.rpy:6988
 translate spanish game_script_act2_b6302193:
 
     # s "I usually just hike up for the exercise."
-    s ""
+    s "Suelo subir andando para hacer ejercicio,"
 
 # game/game_script_act2.rpy:6990
 translate spanish game_script_act2_133a29dd:
 
     # s "Oh, and the view."
-    s ""
+    s "y para admirar las vistas."
 
 # game/game_script_act2.rpy:6992
 translate spanish game_script_act2_69c25b65_6:
 
     # mc "Yeah..."
-    mc ""
+    mc "Ya..."
 
 # game/game_script_act2.rpy:6994
 translate spanish game_script_act2_ea964549:
 
     # s "So, wanna take a seat?"
-    s ""
+    s "¿Te quieres sentar?"
 
 # game/game_script_act2.rpy:6997
 translate spanish game_script_act2_38af58d0:
 
     # "She points across the road, to a dingy little bus stop."
-    ""
+    "Me señala a la otra punta de la calle, en la que se divisa una lúgubre parada de autobús."
 
 # game/game_script_act2.rpy:6999
 translate spanish game_script_act2_606e2d02_2:
 
     # mc "Sure."
-    mc ""
+    mc "Claro."
 
 # game/game_script_act2.rpy:7001
 translate spanish game_script_act2_ed3205d2:
 
     # "We cross the road hastily, before sheltering in the bus stop."
-    ""
+    "Cruzamos la calle rápidamente y nos sentamos."
 
 # game/game_script_act2.rpy:7002
 translate spanish game_script_act2_dfd473b0:
 
     # "At least it protects us from the wind."
-    ""
+    "Por lo menos... no notamos el viento."
 
 # game/game_script_act2.rpy:7005
 translate spanish game_script_act2_9bc74079:
 
     # s "Anyway..."
-    s ""
+    s "En fin...,"
 
 # game/game_script_act2.rpy:7007
 translate spanish game_script_act2_ccb160a2:
 
     # s "I know you didn't walk with me all the way up here just to apologize."
-    s ""
+    s "ya puedes ir diciéndome lo que te ocurre, porque sé que no te has hecho toda esta caminata para disculparte solamente."
 
 # game/game_script_act2.rpy:7009
 translate spanish game_script_act2_67c16b44:
 
     # s "So, what's really going on?"
-    s ""
+    s "¿Estoy en lo cierto?"
 
 # game/game_script_act2.rpy:7011
 translate spanish game_script_act2_2b35b6fe_5:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/game_script_act2.rpy:7013
 translate spanish game_script_act2_1f0a14c8:
 
     # "I notice I’m not saying anything."
-    ""
+    "Me acabo de dar cuenta de que no he soltado ni una sola palabra."
 
 # game/game_script_act2.rpy:7014
 translate spanish game_script_act2_f1a9d30e:
 
     # "Why can’t I bring myself to say the words?"
-    ""
+    "¿Por qué no soy capaz de decirle nada?"
 
 # game/game_script_act2.rpy:7017
 translate spanish game_script_act2_323d835d:
 
     # mc "It's just the two of us, stuck in the house together..."
-    mc ""
+    mc "Estando los dos, y solo los dos, encerrados en casa...,"
 
 # game/game_script_act2.rpy:7019
 translate spanish game_script_act2_17945c8a:
 
     # mc "It just gets a little claustrophobic sometimes, y’know?"
-    mc ""
+    mc "parece hasta claustrofóbico algunas veces, ¿sabes?"
 
 # game/game_script_act2.rpy:7021
 translate spanish game_script_act2_e4a1ddab:
 
     # mc "But, it’s alright."
-    mc ""
+    mc "Pero está bien."
 
 # game/game_script_act2.rpy:7022
 translate spanish game_script_act2_2b35b6fe_6:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/game_script_act2.rpy:7024
 translate spanish game_script_act2_8ffe0009:
 
     # mc "...Okay, it’s not really alright."
-    mc ""
+    mc "No, no está bien."
 
 # game/game_script_act2.rpy:7026
 translate spanish game_script_act2_da42e785:
 
     # s "Trouble in paradise, huh?"
-    s ""
+    s "No todo es color rosa, ¿eh?"
 
 # game/game_script_act2.rpy:7029
 translate spanish game_script_act2_8ce61eb8:
 
     # "I nod."
-    ""
+    "Asiento."
 
 # game/game_script_act2.rpy:7032
 translate spanish game_script_act2_39018b77:
 
     # s "How...is she?"
-    s ""
+    s "¿Cómo... es ella?"
 
 # game/game_script_act2.rpy:7034
 translate spanish game_script_act2_4cb8c8db:
 
     # mc "Oh, y’know..."
-    mc ""
+    mc "Ah, pues verás...,"
 
 # game/game_script_act2.rpy:7035
 translate spanish game_script_act2_2c1476c1:
 
     # mc "Well, you saw how she blew up."
-    mc ""
+    mc "ya has visto lo rápido que ha reaccionado en el club."
 
 # game/game_script_act2.rpy:7036
 translate spanish game_script_act2_7a00ef4e:
 
     # mc "You tell me."
-    mc ""
+    mc "Tú sabrás."
 
 # game/game_script_act2.rpy:7038
 translate spanish game_script_act2_5891b815:
 
     # s "Mhm."
-    s ""
+    s "Ajá."
 
 # game/game_script_act2.rpy:7040
 translate spanish game_script_act2_283292d9:
 
     # s "Monika didn’t deserve {i}that{/i}."
-    s ""
+    s "Monika no se lo merecía...,"
 
 # game/game_script_act2.rpy:7042
 translate spanish game_script_act2_8d171aba:
 
     # s "But I guess...well, I get it."
-    s ""
+    s "pero... creo que lo pillo."
 
 # game/game_script_act2.rpy:7044
 translate spanish game_script_act2_cf1adef2_3:
 
     # mc "Yeah."
-    mc ""
+    mc "Sí."
 
 # game/game_script_act2.rpy:7045
 translate spanish game_script_act2_4a6eb6eb:
 
     # mc "And now..."
-    mc ""
+    mc "Pero es que ahora...,"
 
 # game/game_script_act2.rpy:7047
 translate spanish game_script_act2_70c5630e:
 
     # mc "She thinks she wants to go back home, and I don’t know what to do."
-    mc ""
+    mc "creo que quiere volverse a casa, y no tengo ni idea de lo que hacer..."
 
 # game/game_script_act2.rpy:7049
 translate spanish game_script_act2_4e88ac24:
 
     # s "Oh, no..."
-    s ""
+    s "Oh, no..."
 
 # game/game_script_act2.rpy:7051
 translate spanish game_script_act2_2772e2e6:

@@ -1892,7 +1892,7 @@ translate spanish game_script_act2_6ab7504f:
 translate spanish game_script_act2_1316d8ef:
 
     # "Struggling to my feet, I catch up with her."
-    "Me levanto com dificultad y la sigo."
+    "Me levanto con dificultad y la sigo."
 
 # game/game_script_act2.rpy:7290
 translate spanish game_script_act2_158034ac:

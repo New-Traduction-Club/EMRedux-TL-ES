@@ -2060,241 +2060,241 @@ translate spanish game_script_act2_72addace:
 translate spanish game_script_act2_ef80ed3f:
 
     # "The fact that he pays us no mind is no consolation."
-    ""
+    "Que no nos haya echado cuentas no alivia el asunto."
 
 # game/game_script_act2.rpy:7356
 translate spanish game_script_act2_2096c008:
 
     # "Sayori turns to me, clearly noticing the look on my face."
-    ""
+    "Sayori me mira porque se ha dado cuenta de mi cara."
 
 # game/game_script_act2.rpy:7359
 translate spanish game_script_act2_20213770:
 
     # s "[player]? Are you..?"
-    s ""
+    s "¿[player]? ¿Estás...?"
 
 # game/game_script_act2.rpy:7361
 translate spanish game_script_act2_ecfe4c48:
 
     # mc "Yeah, I’m..."
-    mc ""
+    mc "Sí, est..."
 
 # game/game_script_act2.rpy:7363
 translate spanish game_script_act2_b74774f9:
 
     # "My heart pounds in my ears."
-    ""
+    "Escucho mi corazón de latir desde mis oídos."
 
 # game/game_script_act2.rpy:7364
 translate spanish game_script_act2_4fe50f6c:
 
     # "I stumble towards a nearby lamppost for support, propping myself up against it."
-    ""
+    "Empiezo a tambalearme y busco mantenerme en pie como sea, por lo que me apoyo en una farola que hay cerca."
 
 # game/game_script_act2.rpy:7367
 translate spanish game_script_act2_21541f7d:
 
     # s "[player], what’s wrong?"
-    s ""
+    s "¿Qué es lo que pasa, [player]?"
 
 # game/game_script_act2.rpy:7369
 translate spanish game_script_act2_66f8661f:
 
     # mc "Sayori...it’s {size=-4}her {size=-8}dad...{/size}"
-    mc ""
+    mc "Es su... {size=-4}su padre, {size=-8}Sayori...{/size}"
 
 # game/game_script_act2.rpy:7371
 translate spanish game_script_act2_2101e629:
 
     # s "What?!"
-    s ""
+    s "¡¿Que qué?!"
 
 # game/game_script_act2.rpy:7374
 translate spanish game_script_act2_2b425f44:
 
     # "I can’t even bear to repeat it."
-    ""
+    "Es imposible que pueda repetirlo."
 
 # game/game_script_act2.rpy:7377
 translate spanish game_script_act2_f52dfeec:
 
     # "I start to run."
-    ""
+    "Empiezo a correr."
 
 # game/game_script_act2.rpy:7378
 translate spanish game_script_act2_909c552a:
 
     # "I need to get home."
-    ""
+    "Necesito ir a casa."
 
 # game/game_script_act2.rpy:7379
 translate spanish game_script_act2_36a99556:
 
     # "She needs to be safe."
-    ""
+    "Natsuki necesita estar a salvo."
 
 # game/game_script_act2.rpy:7380
 translate spanish game_script_act2_85ede2d5:
 
     # "I need to-"
-    ""
+    "Neces..."
 
 # game/game_script_act2.rpy:7381
 translate spanish game_script_act2_7bd613cc:
 
     # "My knees buckle, my foot slips, and I plummet down onto the snowy pavement."
-    ""
+    "Me fallan las rodillas, me resbalo y caigo de sopetón sobre la carretera."
 
 # game/game_script_act2.rpy:7397
 translate spanish game_script_act2_2d7cce6a:
 
     # s "[player]?!"
-    s ""
+    s "¡¿[player]?!"
 
 # game/game_script_act2.rpy:7400
 translate spanish game_script_act2_b521ab16:
 
     # "It quickly becomes a struggle to breathe."
-    ""
+    "De pronto, esto se ha convertido en luchar por respirar."
 
 # game/game_script_act2.rpy:7401
 translate spanish game_script_act2_a14467ee:
 
     # "All I can force myself to do is memorize..."
-    ""
+    "Lo único que me sale ahora mismo es recordar el patrón...:"
 
 # game/game_script_act2.rpy:7402
 translate spanish game_script_act2_ccd266e9:
 
     # "{i}'In, out, in, out...'{/i}"
-    ""
+    "Inspira, espira, inspira, espira..."
 
 # game/game_script_act2.rpy:7403
 translate spanish game_script_act2_d9f3e51e:
 
     # "Sayori hovers over me, unsure of what to do."
-    ""
+    "Sayori se arrodilla delante mía sin tener idea de lo que hacer."
 
 # game/game_script_act2.rpy:7406
 translate spanish game_script_act2_4cad8ed3:
 
     # s "{size=-6}[player], can you hear me?!{/size}"
-    s ""
+    s "{size=-6}[player], ¡¿me escuchas?!{/size}"
 
 # game/game_script_act2.rpy:7408
 translate spanish game_script_act2_e7f013aa:
 
     # s "{size=-12}Just, hang on, okay?{/size}"
-    s ""
+    s "{size=-12}Necesito que aguantes un poquito más, ¿vale?{/size}"
 
 # game/game_script_act2.rpy:7410
 translate spanish game_script_act2_91b56395:
 
     # s "{size=-18}I’ll get you an ambulance.{/size}"
-    s ""
+    s "{size=-18}Voy a llamar a una ambulancia.{/size}"
 
 # game/game_script_act2.rpy:7413
 translate spanish game_script_act2_befef680:
 
     # "I spring into action, just barely able to spit out a sentence."
-    ""
+    "Consigo intervenir siendo apenas capaz de formar una frase entera."
 
 # game/game_script_act2.rpy:7416
 translate spanish game_script_act2_c2b3fbf0:
 
     # mc "N-no!"
-    mc ""
+    mc "¡N-No!"
 
 # game/game_script_act2.rpy:7417
 translate spanish game_script_act2_a2ad2881:
 
     # mc "Just p-please...g-g-get me home..."
-    mc ""
+    mc "P-Por f-favor, n-necesito ir a c-casa...,"
 
 # game/game_script_act2.rpy:7418
 translate spanish game_script_act2_3269c707:
 
     # mc "Q-quickly."
-    mc ""
+    mc "y r-rápido..."
 
 # game/game_script_act2.rpy:7421
 translate spanish game_script_act2_f300d4b4:
 
     # "Sayori balks, before nodding."
-    ""
+    "Sayori se resiste y asiente tras un momento."
 
 # game/game_script_act2.rpy:7423
 translate spanish game_script_act2_5615fd09:
 
     # "Clasping my hand tightly, she prepares to try and hoist me up."
-    ""
+    "Coge mi mano con fuerza y tira de mí para intentar levantarme."
 
 # game/game_script_act2.rpy:7425
 translate spanish game_script_act2_73f8de20:
 
     # "She’s saying something, but I’ve completely tuned her out."
-    ""
+    "Parece ser que está diciendo algo, pero no le estoy prestando atención."
 
 # game/game_script_act2.rpy:7426
 translate spanish game_script_act2_e8f12f98:
 
     # "Maybe it’s a countdown."
-    ""
+    "Puede que sea una cuenta atrás."
 
 # game/game_script_act2.rpy:7428
 translate spanish game_script_act2_f2db0d05:
 
     # "She somehow pulls me into a sitting position."
-    ""
+    "De alguna manera ha conseguido sentarme."
 
 # game/game_script_act2.rpy:7442
 translate spanish game_script_act2_f6a3edcd:
 
     # "Before I know it, I’m back on my feet."
-    ""
+    "Antes de darme cuenta, ya me tiene de pie."
 
 # game/game_script_act2.rpy:7443
 translate spanish game_script_act2_bd25f66d:
 
     # "I feel her arm wrap around my shoulder, pulling me close."
-    ""
+    "Siento su brazo alrededor de mi hombro."
 
 # game/game_script_act2.rpy:7444
 translate spanish game_script_act2_7b873e74:
 
     # "One step...{w=0.5}two step..."
-    ""
+    "Pie izquierdo...{w=0.5} pie derecho..."
 
 # game/game_script_act2.rpy:7448
 translate spanish game_script_act2_d06167fe:
 
     # "{size=-4}One step...{w=0.4}two step...{/size}"
-    ""
+    "{size=-4}Pie izquierdo...{w=0.4} pie derecho...{/size}"
 
 # game/game_script_act2.rpy:7452
 translate spanish game_script_act2_a46e06f6:
 
     # "{size=-8}One step...{w=0.3}two step...{/size}"
-    ""
+    "{size=-8}Pie izquierdo...{w=0.3} pie derecho...{/size}"
 
 # game/game_script_act2.rpy:7456
 translate spanish game_script_act2_e7035a8b:
 
     # "{size=-12}One step...{w=0.2}two step...{/size}"
-    ""
+    "{size=-12}Pie izquierdo...{w=0.2} pie derecho...{/size}"
 
 # game/game_script_act2.rpy:7460
 translate spanish game_script_act2_16e79258:
 
     # "{size=-16}One step...{w=0.1}two step...{/size}"
-    ""
+    "{size=-16}Pie izquierdo...{w=0.1} pie derecho...{/size}"
 
 # game/game_script_act2.rpy:7464
 translate spanish game_script_act2_f8013444:
 
     # "{size=-20}One step...two step...{/size}"
-    ""
+    "{size=-20}Pie izquierdo..., pie derecho...{/size}"
 
 translate spanish strings:
 

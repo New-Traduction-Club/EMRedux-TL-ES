@@ -2156,7 +2156,7 @@ translate spanish game_script_act2_2d7cce6a:
 translate spanish game_script_act2_b521ab16:
 
     # "It quickly becomes a struggle to breathe."
-    "De pronto, esto se ha convertido en luchar por respirar."
+    "De un momento a otro, me hallo luchando por mantenerme respirando correctamente."
 
 # game/game_script_act2.rpy:7401
 translate spanish game_script_act2_a14467ee:

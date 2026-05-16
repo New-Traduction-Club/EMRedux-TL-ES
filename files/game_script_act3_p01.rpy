@@ -4,187 +4,187 @@
 translate spanish game_script_act3_ae996f98:
 
     # "Bleary-eyed, I shift around where I lay, trying to wake myself up."
-    ""
+    "Aún con la vista borrosa, trato de moverme en el sitio en el que me hallo acostado."
 
 # game/game_script_act3.rpy:28
 translate spanish game_script_act3_cea3da37:
 
     # "As I come to, I notice that I’m not in my own house."
-    ""
+    "Me acabo de dar cuenta de que no estoy en mi casa."
 
 # game/game_script_act3.rpy:39
 translate spanish game_script_act3_b0ea888e:
 
     # "Looking over to my left, I see Sayori, fast asleep on the couch opposite from me."
-    ""
+    "Miro hacia la izquierda y veo a Sayori dormida como un tronco en el sofá que está frente a mí."
 
 # game/game_script_act3.rpy:40
 translate spanish game_script_act3_2a7126ac:
 
     # "Did she spend the night down here?"
-    ""
+    "¿Es que ha estado toda la noche aquí?"
 
 # game/game_script_act3.rpy:41
 translate spanish game_script_act3_39b5847e:
 
     # "Scrambling to get up, I try to quietly make my way to the door."
-    ""
+    "Me levanto a toda prisa y voy hacia la puerta de entrada tan silenciosamente como puedo."
 
 # game/game_script_act3.rpy:42
 translate spanish game_script_act3_b207a081:
 
     # "I need to check on Natsuki."
-    ""
+    "Tengo que verla."
 
 # game/game_script_act3.rpy:43
 translate spanish game_script_act3_4d00de6f:
 
     # "Sayori stirs, however, and promptly notices me."
-    ""
+    "Sayori se espabila rápido y se percata de mi presencia."
 
 # game/game_script_act3.rpy:50
 translate spanish game_script_act3_8ad24cc9:
 
     # s turned neut om oe lup "Mm...hi..."
-    s turned neut om oe lup ""
+    s turned neut om oe lup "Ah..., hola..."
 
 # game/game_script_act3.rpy:51
 translate spanish game_script_act3_eb3c0d30:
 
     # s b1c "I, uh, tried to get the door open, but it was locked."
-    s b1c ""
+    s b1c "Yo, eh... quise dejarte en tu casa, pero la puerta estaba cerrada del todo."
 
 # game/game_script_act3.rpy:52
 translate spanish game_script_act3_32b37161:
 
     # s "And nobody answered..."
-    s ""
+    s "Como nadie contestaba...,"
 
 # game/game_script_act3.rpy:53
 translate spanish game_script_act3_8d4fa780:
 
     # s ldown b1a mb "So I brought you here."
-    s ldown b1a mb ""
+    s ldown b1a mb "te traje aquí."
 
 # game/game_script_act3.rpy:55
 translate spanish game_script_act3_7e98ed46:
 
     # mc "I told her last night that I was going out."
-    mc ""
+    mc "Anoche le dije que me iba."
 
 # game/game_script_act3.rpy:56
 translate spanish game_script_act3_239219e2:
 
     # mc "Told her to lock the door, and to answer for no-one."
-    mc ""
+    mc "Le dije que cerraría con llave y que no le contestase a nadie."
 
 # game/game_script_act3.rpy:57
 translate spanish game_script_act3_63ee397f:
 
     # mc "I have the key here."
-    mc ""
+    mc "La llave la tengo yo."
 
 # game/game_script_act3.rpy:59
 translate spanish game_script_act3_6c6a8891:
 
     # "Digging into my jacket pocket, I pull out my keychain."
-    ""
+    "Meto la mano en el bolsillo de mi chaqueta y saco las llaves."
 
 # game/game_script_act3.rpy:62
 translate spanish game_script_act3_0d5e1df4:
 
     # s rup b1b e2b mc "Ah...sorry."
-    s rup b1b e2b mc ""
+    s rup b1b e2b mc "Ah, perdona..."
 
 # game/game_script_act3.rpy:63
 translate spanish game_script_act3_5eaf2f68:
 
     # s mg b2a "I should’ve thought to--{w=0.2}{nw}"
-    s mg b2a ""
+    s mg b2a "Debí haber pensado qu...{w=0.2}{nw}"
 
 # game/game_script_act3.rpy:65
 translate spanish game_script_act3_bcfc8626:
 
     # mc "It’s fine."
-    mc ""
+    mc "Tranquila."
 
 # game/game_script_act3.rpy:67
 translate spanish game_script_act3_c4d5ccf4:
 
     # mc "Just...{w=0.6}I have to go check on her."
-    mc ""
+    mc "Pero es que...{w=0.6} tengo que ir a comprobar cómo está."
 
 # game/game_script_act3.rpy:68
 translate spanish game_script_act3_37056715:
 
     # s mh "[player], before you go..."
-    s mh ""
+    s mh "Antes de irte, [player]...,"
 
 # game/game_script_act3.rpy:69
 translate spanish game_script_act3_d252afbc:
 
     # s b1c lup "That wasn’t okay."
-    s b1c lup ""
+    s b1c lup "no ha estado nada bien."
 
 # game/game_script_act3.rpy:70
 translate spanish game_script_act3_0b66a8ac:
 
     # s mg "The...{w=0.6}{nw}"
-    s mg ""
+    s mg "Ya sabes, lo que...{w=0.6}{nw}"
 
 # game/game_script_act3.rpy:72
 translate spanish game_script_act3_65f758bd:
 
     # extend "whatever that was."
-    extend ""
+    extend " lo que sea que fuese lo que ocurrió anoche."
 
 # game/game_script_act3.rpy:73
 translate spanish game_script_act3_bcc16257:
 
     # s mh b1a "If you want...{w=0.5}{nw}"
-    s mh b1a ""
+    s mh b1a "Si quieres...{w=0.5}{nw}"
 
 # game/game_script_act3.rpy:75
 translate spanish game_script_act3_734b5bf6:
 
     # extend "I’ll come by after school, to check up on you two."
-    extend ""
+    extend " me paso por tu casa después de las clases para echaros un vistazo."
 
 # game/game_script_act3.rpy:76
 translate spanish game_script_act3_0df92659:
 
     # s "I can stop by before Yuri comes over to help me study."
-    s ""
+    s "Puedo pasarme justo antes de que Yuri venga a ayudarme con los deberes."
 
 # game/game_script_act3.rpy:77
 translate spanish game_script_act3_8033ba8d:
 
     # s b1a "Maybe I can bring her with me. If that's okay."
-    s b1a ""
+    s b1a "O a lo mejor, si quieres, la traigo conmigo."
 
 # game/game_script_act3.rpy:79
 translate spanish game_script_act3_f8e85f82:
 
     # mc "That’d be nice."
-    mc ""
+    mc "Por mí, vale."
 
 # game/game_script_act3.rpy:80
 translate spanish game_script_act3_ad8045bf:
 
     # mc "Anyway, I really have to..."
-    mc ""
+    mc "En fin, tengo que..."
 
 # game/game_script_act3.rpy:86
 translate spanish game_script_act3_a41f43b2:
 
     # s e1b b1c mh "Yeah, don’t let me keep you."
-    s e1b b1c mh ""
+    s e1b b1c mh "Sí, no te entretengo más."
 
 # game/game_script_act3.rpy:88
 translate spanish game_script_act3_dc0ff26a:
 
     # mc "Sorry."
-    mc ""
+    mc "Perdona."
 
 # game/game_script_act3.rpy:91
 translate spanish game_script_act3_4660ab89:

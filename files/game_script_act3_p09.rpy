@@ -1928,35 +1928,35 @@ translate spanish temp_label_196912b6:
 translate spanish temp_label_4a34935c:
 
     # "As my eyes try to adjust, I flip the switch and turn on the lig{nw}{done}maballs😂😂😂"
-    ""
+    "Tal y como mis ojos tratan de acostumbrarse, pulso el interruptor para encender lo que alum{nw}{done}bramiscojones 😂😂😂"
 
 translate spanish strings:
 
     # game/game_script_act3.rpy:12
     old "Act 3:\nA Wolf at the Door"
-    new ""
+    new "Acto 3:\nA Wolf at the Door"
 
     # game/game_script_act3.rpy:18
     old "Tuesday\n{size=-6}3rd October, 2017"
-    new ""
+    new "Martes,\n{size=-6}3 de octubre de 2017"
 
     # game/game_script_act3.rpy:2046
     old "Wednesday\n{size=-6}4th October, 2017"
-    new ""
+    new "Miércoles,\n{size=-6}4 de octubre de 2017"
 
     # game/game_script_act3.rpy:2969
     old "Thursday\n{size=-6}5th October, 2017"
-    new ""
+    new "Jueves,\n{size=-6}5 de octubre de 2017"
 
     # game/game_script_act3.rpy:5124
     old "Friday\n{size=-6}6th October, 2017"
-    new ""
+    new "Viernes,\n{size=-6}6 de octubre de 2017"
 
     # game/game_script_act3.rpy:5888
     old "Saturday\n{size=-6}7th October, 2017"
-    new ""
+    new "Sábado,\n{size=-6}7 de octubre de 2017"
 
     # game/game_script_act3.rpy:6801
     old "Sunday\n{size=-6}8th October, 2017"
-    new ""
+    new "Domingo,\n{size=-6}8 de octubre de 2017"
 

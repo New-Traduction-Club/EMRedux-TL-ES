@@ -148,7 +148,7 @@ translate spanish game_script_act3_bcc16257:
 translate spanish game_script_act3_734b5bf6:
 
     # extend "I’ll come by after school, to check up on you two."
-    extend " me paso por tu casa después de las clases para echaros un vistazo."
+    extend " me paso por tu casa después de clase para echaros un vistazo."
 
 # game/game_script_act3.rpy:76
 translate spanish game_script_act3_0df92659:

@@ -436,157 +436,157 @@ translate spanish game_script_act3_75dd06b3:
 translate spanish game_script_act3_ae200c6e:
 
     # mc "Tried to call you, but your phone’s...uh..."
-    mc "Intenté llamarte, pero ya sabes que tu móvil... está, eh..."
+    mc "Intenté llamarte, pero ya sabes que tu móvil... está, eh...,"
 
 # game/game_script_act3.rpy:194
 translate spanish game_script_act3_4cfdebf8:
 
     # mc "...So she let me crash there."
-    mc ""
+    mc "y por eso me quedé allí."
 
 # game/game_script_act3.rpy:196
 translate spanish game_script_act3_e6188717:
 
     # n "Right."
-    n ""
+    n "Ya."
 
 # game/game_script_act3.rpy:199
 translate spanish game_script_act3_6b943320:
 
     # "The silence is deafening."
-    ""
+    "El silencio es abrumador."
 
 # game/game_script_act3.rpy:201
 translate spanish game_script_act3_04f6fe8d:
 
     # mc "Look, uh..."
-    mc ""
+    mc "Mira, eh...,"
 
 # game/game_script_act3.rpy:203
 translate spanish game_script_act3_ec5b60f3:
 
     # mc "Maybe we can talk about this?"
-    mc ""
+    mc "¿quieres hablar de todo esto que ha ocurrido?"
 
 # game/game_script_act3.rpy:205
 translate spanish game_script_act3_38310308:
 
     # mc "How about I fix you some breakfast, or something?"
-    mc ""
+    mc "¿Y si te hago algo para desayunar?"
 
 # game/game_script_act3.rpy:211
 translate spanish game_script_act3_96cd4f77:
 
     # "A few minutes, two bowls of cereal and some aspirin later, I hear Natsuki exhale deeply."
-    ""
+    "Tras unos minutos, un par de cuencos con cereales y algo de aspirina, escucho a Natsuki espirar aire con fuerza."
 
 # game/game_script_act3.rpy:217
 translate spanish game_script_act3_3f67cffd:
 
     # n "I was worried about you, you know."
-    n ""
+    n "Estaba preocupada por ti, ¿sabes?"
 
 # game/game_script_act3.rpy:219
 translate spanish game_script_act3_74fc6761:
 
     # mc "Me too."
-    mc ""
+    mc "Y yo de ti."
 
 # game/game_script_act3.rpy:221
 translate spanish game_script_act3_c577eb98:
 
     # "She pauses before continuing."
-    ""
+    "Se detiene antes de seguir hablando."
 
 # game/game_script_act3.rpy:224
 translate spanish game_script_act3_eea3912a:
 
     # n b2a mh "I’m gonna sound like a broken record here."
-    n b2a mh ""
+    n b2a mh "Y sí, voy a sonar como un disco rayado...,"
 
 # game/game_script_act3.rpy:227
 translate spanish game_script_act3_e11c34eb:
 
     # n e1a b1b mh "You should have stood up for Sayori..."
-    n e1a b1b mh ""
+    n e1a b1b mh "pero deberías haberla defendido en el club."
 
 # game/game_script_act3.rpy:229
 translate spanish game_script_act3_cfcc2293:
 
     # mc "I know."
-    mc ""
+    mc "Lo sé."
 
 # game/game_script_act3.rpy:230
 translate spanish game_script_act3_3e070954:
 
     # n mh "...but I didn’t mean to push you that hard."
-    n mh ""
+    n mh "Aún así, no quería presionarte tanto con el tema."
 
 # game/game_script_act3.rpy:231
 translate spanish game_script_act3_dd5d3625:
 
     # n e1b "I just felt like...{w=0.7}{nw}"
-    n e1b ""
+    n e1b "Sentí que...{w=0.7} {nw}"
 
 # game/game_script_act3.rpy:233
 translate spanish game_script_act3_b933a458:
 
     # extend "if you felt that way about your own best friend, then..."
-    extend ""
+    extend "que si eras incapaz de hacerlo con tu mejor amiga, entonces yo..."
 
 # game/game_script_act3.rpy:235
 translate spanish game_script_act3_1986f84e:
 
     # n ldown "..."
-    n ldown ""
+    n ldown "..."
 
 # game/game_script_act3.rpy:239
 translate spanish game_script_act3_721f3034:
 
     # n mh "But that was really dumb of me to think."
-    n mh ""
+    n mh "Pero no hay excusas que valgan, fue muy impropio por mi parte pensar algo así."
 
 # game/game_script_act3.rpy:240
 translate spanish game_script_act3_0097725a:
 
     # n "I should’ve trusted you more than that."
-    n ""
+    n "Debí haber confiado en ti mucho más."
 
 # game/game_script_act3.rpy:241
 translate spanish game_script_act3_249f8834:
 
     # n ldown e1a b2c "And I spent all night worrying that I could’ve driven you away for good."
-    n ldown e1a b2c ""
+    n ldown e1a b2c "Estuve toda la noche preocupada pensando en que a lo mejor te estoy alejando de mí."
 
 # game/game_script_act3.rpy:243
 translate spanish game_script_act3_6ec991d0:
 
     # n rdown "So...{w=0.7}{nw}"
-    n rdown ""
+    n rdown "Es por eso que...{w=0.7} {nw}"
 
 # game/game_script_act3.rpy:244
 translate spanish game_script_act3_a80ff7e8:
 
     # extend mh b1b "I’m sorry, okay?"
-    extend mh b1b ""
+    extend mh b1b "lo siento mucho, ¿vale?"
 
 # game/game_script_act3.rpy:246
 translate spanish game_script_act3_1d0c1b68:
 
     # mc "Don’t mention it."
-    mc ""
+    mc "No te preocupes."
 
 # game/game_script_act3.rpy:247
 translate spanish game_script_act3_cec221aa:
 
     # mc "I’d rather not think about it."
-    mc ""
+    mc "Prefiero ya ni pensar en ello."
 
 # game/game_script_act3.rpy:249
 translate spanish game_script_act3_97fd30b5:
 
     # n b1a mb e1b rhip "Yeah. I don’t blame you."
-    n b1a mb e1b rhip ""
+    n b1a mb e1b rhip "No te culpo."
 
 # game/game_script_act3.rpy:254
 translate spanish game_script_act3_4f5a4528:

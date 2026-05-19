@@ -700,7 +700,7 @@ translate spanish game_script_act3_ef8709b7:
 translate spanish game_script_act3_337bc6d7:
 
     # "{i}About four, five blocks.{/i}"
-    "Cuatro o cinco cuadras."
+    "Son cuatro o cinco calles."
 
 # game/game_script_act3.rpy:311
 translate spanish game_script_act3_9d29a857:

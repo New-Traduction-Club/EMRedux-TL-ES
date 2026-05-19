@@ -334,109 +334,109 @@ translate spanish game_script_act3_0ad083b1:
 translate spanish game_script_act3_e5193e53:
 
     # "A wave of relief washes over me."
-    ""
+    "Una ola de alivio me inunda."
 
 # game/game_script_act3.rpy:160
 translate spanish game_script_act3_159a38b4:
 
     # n "Where were you?"
-    n ""
+    n "¿Dónde estabas?"
 
 # game/game_script_act3.rpy:163
 translate spanish game_script_act3_92fc6bc3:
 
     # "Natsuki can’t know."
-    ""
+    "No puede saberlo."
 
 # game/game_script_act3.rpy:164
 translate spanish game_script_act3_f4f098e3:
 
     # "She can’t."
-    ""
+    "No puede."
 
 # game/game_script_act3.rpy:165
 translate spanish game_script_act3_04544d57:
 
     # "{i}Why can’t she?{/i}"
-    ""
+    "¿Y por qué no?"
 
 # game/game_script_act3.rpy:166
 translate spanish game_script_act3_af24c681:
 
     # "It’s for her own sake, right?"
-    ""
+    "Es por su propio bien, ¿no?"
 
 # game/game_script_act3.rpy:168
 translate spanish game_script_act3_854523a6:
 
     # mc "I was with Sayori."
-    mc ""
+    mc "Estaba con Sayori."
 
 # game/game_script_act3.rpy:170
 translate spanish game_script_act3_0c6e4525:
 
     # mc "We got talking, and I...fell asleep on her couch."
-    mc ""
+    mc "Entre hablar y hablar... me quedé dormido en su sofá."
 
 # game/game_script_act3.rpy:172
 translate spanish game_script_act3_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/game_script_act3.rpy:174
 translate spanish game_script_act3_a6754e47:
 
     # n "I heard a knock last night."
-    n ""
+    n "Anoche escuché a alguien pegar fuerte en la puerta."
 
 # game/game_script_act3.rpy:176
 translate spanish game_script_act3_c8b87d18:
 
     # n "Scared the hell out of me."
-    n ""
+    n "Me llevé un susto tremendo...,"
 
 # game/game_script_act3.rpy:178
 translate spanish game_script_act3_11b1e3cf:
 
     # n "So I hid in here."
-    n ""
+    n "así que me escondí aquí."
 
 # game/game_script_act3.rpy:180
 translate spanish game_script_act3_5e5093f2:
 
     # n "I was worried about you, and I was alone and..."
-    n ""
+    n "Estaba preocupado por ti, y como estaba sola..."
 
 # game/game_script_act3.rpy:185
 translate spanish game_script_act3_0fb2d05f:
 
     # "She takes a deep breath."
-    ""
+    "Respirs hondo."
 
 # game/game_script_act3.rpy:188
 translate spanish game_script_act3_90df73d5:
 
     # n "That was you?"
-    n ""
+    n "¿Eras tú?"
 
 # game/game_script_act3.rpy:190
 translate spanish game_script_act3_745a5290:
 
     # mc "Not me. Sayori."
-    mc ""
+    mc "No, era Sayori."
 
 # game/game_script_act3.rpy:191
 translate spanish game_script_act3_75dd06b3:
 
     # mc "She told me she went over to let you know where I was, but didn’t get an answer."
-    mc ""
+    mc "Me dijo que fue a decirte dónde estaba yo y no hubo respuesta."
 
 # game/game_script_act3.rpy:193
 translate spanish game_script_act3_ae200c6e:
 
     # mc "Tried to call you, but your phone’s...uh..."
-    mc ""
+    mc "Intenté llamarte, pero ya sabes que tu móvil... está, eh..."
 
 # game/game_script_act3.rpy:194
 translate spanish game_script_act3_4cfdebf8:

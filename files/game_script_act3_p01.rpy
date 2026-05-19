@@ -820,127 +820,127 @@ translate spanish game_script_act3_9409312d:
 translate spanish game_script_act3_1b29fa45:
 
     # "Already dressed in yesterday’s uniform, I elect not to change clothes, and just prepare my bag for the day."
-    ""
+    "Como ya estoy vestido con la ropa de ayer, mi único objetivo es prepararme la mochila para las asignaturas de hoy."
 
 # game/game_script_act3.rpy:364
 translate spanish game_script_act3_2fcd9ab0:
 
     # "I pull yesterday’s textbooks out."
-    ""
+    "Saco los libros de ayer."
 
 # game/game_script_act3.rpy:365
 translate spanish game_script_act3_ed99e52f:
 
     # "I put today’s textbooks in."
-    ""
+    "Pongo los libros de hoy."
 
 # game/game_script_act3.rpy:366
 translate spanish game_script_act3_5b8c795a:
 
     # "I catch a dark glimpse at my reflection through the TV."
-    ""
+    "Me percato de mi reflejo en la pantalla de la tele."
 
 # game/game_script_act3.rpy:367
 translate spanish game_script_act3_7c423a00:
 
     # "Trying not to look again, I zip the bag up and exit my room."
-    ""
+    "Evitando volver a mirarme, cierro la mochila y salgo de mi cuarto."
 
 # game/game_script_act3.rpy:371
 translate spanish game_script_act3_9154ec3e:
 
     # "Natsuki is already waiting by the door."
-    ""
+    "Natsuki ya me está esperando."
 
 # game/game_script_act3.rpy:376
 translate spanish game_script_act3_bbfb0722:
 
     # n b1c mh "Ready?"
-    n b1c mh ""
+    n b1c mh "¿Ya?"
 
 # game/game_script_act3.rpy:378
 translate spanish game_script_act3_515ca1d6:
 
     # mc "I suppose."
-    mc ""
+    mc "Supongo."
 
 # game/game_script_act3.rpy:384
 translate spanish game_script_act3_9b221721:
 
     # "Gulping, I slowly edge open my front door, peering down both ends of the street."
-    ""
+    "Trago saliva y abro con cuidado la puerta de entrada. Tal y como asomo la cabeza, miro a izquierda y derecha."
 
 # game/game_script_act3.rpy:386
 translate spanish game_script_act3_84f16542:
 
     # mc "Okay..."
-    mc ""
+    mc "Genial..."
 
 # game/game_script_act3.rpy:389
 translate spanish game_script_act3_38128dc5:
 
     # "My ears perk up, as I pick up the rumble of an engine drawing closer."
-    ""
+    "Agudizo el oído al escuchar un motor de coche acercarse."
 
 # game/game_script_act3.rpy:390
 translate spanish game_script_act3_eb2d6760:
 
     # "I wait where I am, ready to retreat into the house at any moment."
-    ""
+    "Espero a que pase por delante de mi casa por si he de entrar corriendo."
 
 # game/game_script_act3.rpy:391
 translate spanish game_script_act3_4091607d:
 
     # "As if on cue, the recognizable paint job of a taxi rounds the corner at high speed, pulling up in front of us."
-    ""
+    "Como si fuera una señal divina, la muy reconocible pintura del taxi dobla la esquina con rapidez y se para en la puerta de mi casa."
 
 # game/game_script_act3.rpy:392
 translate spanish game_script_act3_b7e5786f:
 
     # "I offer a shaky wave to the cabby, before pulling open the back door and clambering in."
-    ""
+    "Saludo temblando mientras el taxista abre las puertas traseras para subirnos."
 
 # game/game_script_act3.rpy:394
 translate spanish game_script_act3_9a9d0c97:
 
     # "Natsuki follows, {nw}"
-    ""
+    "Natsuki me sigue, {nw}"
 
 # game/game_script_act3.rpy:396
 translate spanish game_script_act3_3f420596:
 
     # extend "setting her school bag down and {nw}"
-    extend ""
+    extend "suelta su mochila {nw}"
 
 # game/game_script_act3.rpy:399
 translate spanish game_script_act3_3e51434d:
 
     # extend "yanking the door shut behind her."
-    extend ""
+    extend "y cierra la puerta tras de sí."
 
 # game/game_script_act3.rpy:400
 translate spanish game_script_act3_fb586812:
 
     # "We set off."
-    ""
+    "Nos ponemos en marcha."
 
 # game/game_script_act3.rpy:415
 translate spanish game_script_act3_2ecb1297:
 
     # "The bell rings harshly, signalling our lunch break."
-    ""
+    "El timbre suena estrepitosamente fuerte y eso quiere decir que toca almorzar."
 
 # game/game_script_act3.rpy:416
 translate spanish game_script_act3_5938bcac:
 
     # "I spring out of my chair, but stop myself from immediately jetting out of the classroom."
-    ""
+    "Doy un respingo de la silla y me detengo para no salir pitando de clase inmediatamente."
 
 # game/game_script_act3.rpy:417
 translate spanish game_script_act3_5db60be5:
 
     # "Can't make myself noticeable."
-    ""
+    "No puedo ser el centro de atención."
 
 # game/game_script_act3.rpy:419
 translate spanish game_script_act3_ad2e2ebd:

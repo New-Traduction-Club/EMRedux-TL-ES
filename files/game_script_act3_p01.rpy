@@ -322,13 +322,13 @@ translate spanish game_script_act3_11441ecd:
 translate spanish game_script_act3_84fbffe2:
 
     # n "...{w}{nw}"
-    n "Ah, eh...{w} {nw}"
+    n "...{w} {nw}"
 
 # game/game_script_act3.rpy:149
 translate spanish game_script_act3_0ad083b1:
 
     # extend "No."
-    extend "no."
+    extend "No."
 
 # game/game_script_act3.rpy:152
 translate spanish game_script_act3_e5193e53:

@@ -712,7 +712,7 @@ translate spanish game_script_act3_9d29a857:
 translate spanish game_script_act3_36ada110:
 
     # "{i}Countless opportunities for him to show up.{/i}"
-    "Vete a saber tú cuántas veces podría aparecer en todo ese tiempo y en toda esa distancia."
+    "Innumerables oportunidades para que aparezca."
 
 # game/game_script_act3.rpy:320
 translate spanish game_script_act3_bf33d6b0:

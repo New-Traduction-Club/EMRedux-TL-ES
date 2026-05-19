@@ -412,7 +412,7 @@ translate spanish game_script_act3_5e5093f2:
 translate spanish game_script_act3_0fb2d05f:
 
     # "She takes a deep breath."
-    "Respirs hondo."
+    "Natsuki respira hondo."
 
 # game/game_script_act3.rpy:188
 translate spanish game_script_act3_90df73d5:

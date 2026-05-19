@@ -220,115 +220,115 @@ translate spanish game_script_act3_5f8ebde1:
 translate spanish game_script_act3_e593f4bf:
 
     # "Keys in hand, I reach my house and hastily unlock it."
-    ""
+    "Con el manojo de llaves en la mano, desbloqueo y abro la puerta rápidamente."
 
 # game/game_script_act3.rpy:105
 translate spanish game_script_act3_2f559ada:
 
     # "Entering, I shut it behind me and immediately rush up the stairs."
-    ""
+    "Entro, cierro tras de mí y subo las escaleras a toda prisa."
 
 # game/game_script_act3.rpy:108
 translate spanish game_script_act3_3d238ca7:
 
     # mc "Natsuki?"
-    mc ""
+    mc "¿Natsuki?"
 
 # game/game_script_act3.rpy:110
 translate spanish game_script_act3_bc0a2a4a:
 
     # "The silence is suffocating."
-    ""
+    "Este silencio es agobiante."
 
 # game/game_script_act3.rpy:111
 translate spanish game_script_act3_1c0e4f74:
 
     # "I can hear the door knob rattling as my hands shake with anxiety, eventually stopping as I begin to rationalise the situation."
-    ""
+    "Escucho el pomo de la puerta de retumbar mientras mis manos tiemblan de ansiedad... hasta que paran de hacerlo cuando empiezo a pensar con claridad."
 
 # game/game_script_act3.rpy:113
 translate spanish game_script_act3_e86a3309:
 
     # "She’ll be here."
-    ""
+    "Va a estar aquí."
 
 # game/game_script_act3.rpy:114
 translate spanish game_script_act3_eae6d358:
 
     # "She’ll be pissed off, or asleep, or something..."
-    ""
+    "Estará cabreada, dormida...,"
 
 # game/game_script_act3.rpy:115
 translate spanish game_script_act3_9b046604:
 
     # "But she’ll be here."
-    ""
+    "pero va a estar aquí."
 
 # game/game_script_act3.rpy:117
 translate spanish game_script_act3_79d9a3c5:
 
     # "I open the door."
-    ""
+    "Abro la puerta."
 
 # game/game_script_act3.rpy:124
 translate spanish game_script_act3_fa7d82c7:
 
     # "Oh thank God."
-    ""
+    "Gracias a Dios."
 
 # game/game_script_act3.rpy:125
 translate spanish game_script_act3_7771f53b:
 
     # "Natsuki, sitting on the futon and staring aimlessly,{w=0.7}{nw}"
-    ""
+    "Veo a Natsuki sentada en el futón mirando a la nada...{w=0.7} {nw}"
 
 # game/game_script_act3.rpy:127
 translate spanish game_script_act3_9304bd1c:
 
     # extend " turns to me."
-    extend ""
+    extend "hasta que me mira."
 
 # game/game_script_act3.rpy:134
 translate spanish game_script_act3_4e8813b6:
 
     # "She suddenly springs up and pulls me into her arms..."
-    ""
+    "De pronto, salta y me abraza con fuerza."
 
 # game/game_script_act3.rpy:135
 translate spanish game_script_act3_ca9f6e24:
 
     # "No words come to mind, but..."
-    ""
+    "No se me viene a la mente nada que decir... a excepción de que,"
 
 # game/game_script_act3.rpy:137
 translate spanish game_script_act3_89e3ebc7:
 
     # mc "You’re still here."
-    mc ""
+    mc "sigues aquí."
 
 # game/game_script_act3.rpy:139
 translate spanish game_script_act3_eadf3dfa:
 
     # n "Yeah. I’m still here."
-    n ""
+    n "Sí, sigo aquí."
 
 # game/game_script_act3.rpy:143
 translate spanish game_script_act3_11441ecd:
 
     # mc "Are you going to go back?"
-    mc ""
+    mc "¿Te vas a volver?"
 
 # game/game_script_act3.rpy:146
 translate spanish game_script_act3_84fbffe2:
 
     # n "...{w}{nw}"
-    n ""
+    n "Ah, eh...{w} {nw}"
 
 # game/game_script_act3.rpy:149
 translate spanish game_script_act3_0ad083b1:
 
     # extend "No."
-    extend ""
+    extend "no."
 
 # game/game_script_act3.rpy:152
 translate spanish game_script_act3_e5193e53:

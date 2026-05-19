@@ -190,31 +190,31 @@ translate spanish game_script_act3_dc0ff26a:
 translate spanish game_script_act3_4660ab89:
 
     # "I hastily head out the door, feeling Sayori’s gaze the entire way."
-    ""
+    "Salgo de dentro de su casa con prisas mientras siento que Sayori me sigue observando."
 
 # game/game_script_act3.rpy:97
 translate spanish game_script_act3_462665ef:
 
     # "A cool air hits me immediately, as rays of sunlight illuminate the slowly-melting snow on the street."
-    ""
+    "El viento fresco y los rayos de sol derritiendo la nieve poco a poco se compenetran muy bien."
 
 # game/game_script_act3.rpy:98
 translate spanish game_script_act3_90c72707:
 
     # "How long was I asleep?"
-    ""
+    "Y eso me hace preguntarme que... ¿cuánto tiempo he estado dormido?"
 
 # game/game_script_act3.rpy:99
 translate spanish game_script_act3_8294f4be:
 
     # "Cold, soggy, and muddy ground dirties my shoes as I half-sprint across Sayori's front yard."
-    ""
+    "Mientras corro por el patio delantero de la casa de Sayori, los charcos de barro húmedo me manchan los zapatos."
 
 # game/game_script_act3.rpy:100
 translate spanish game_script_act3_5f8ebde1:
 
     # "Hopping the fence dividing Sayori’s house and mine, I reach the front door."
-    ""
+    "Salto la valla que divide su casa con la mía y llego a la puerta de entrada."
 
 # game/game_script_act3.rpy:101
 translate spanish game_script_act3_e593f4bf:

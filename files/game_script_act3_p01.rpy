@@ -592,229 +592,229 @@ translate spanish game_script_act3_97fd30b5:
 translate spanish game_script_act3_4f5a4528:
 
     # "Distracting myself from the uncomfortable silence, I awkwardly fiddle with my school tie."
-    ""
+    "De la incomodidad, empiezo a toquetear la corbata de mi uniforme."
 
 # game/game_script_act3.rpy:256
 translate spanish game_script_act3_44d18258:
 
     # mc "Hey,{w=0.7}{nw}"
-    mc ""
+    mc "Pero oye,{w=0.7} {nw}"
 
 # game/game_script_act3.rpy:258
 translate spanish game_script_act3_ad8cd5ce:
 
     # extend " there’s a silver lining."
-    extend ""
+    extend "mira el lado positivo."
 
 # game/game_script_act3.rpy:259
 translate spanish game_script_act3_bc8ac110:
 
     # n b1f mh "Huh?"
-    n b1f mh ""
+    n b1f mh "¿Eh?"
 
 # game/game_script_act3.rpy:261
 translate spanish game_script_act3_32f17cb8:
 
     # mc "Well, Sayori was a lot less...{w=0.7}unforgiving...{w=0.7}than you thought she’d be."
-    mc ""
+    mc "Verás, Sayori fue un poco menos...{w=0.7} implacable...{w=0.7} de lo que crees que sería."
 
 # game/game_script_act3.rpy:262
 translate spanish game_script_act3_aedf99b5:
 
     # mc "In fact, {i}she{/i} was the first to defend Monika."
-    mc ""
+    mc "Es más, fue la primera en defender a Monika."
 
 # game/game_script_act3.rpy:263
 translate spanish game_script_act3_cb70afb1:
 
     # mc "So..."
-    mc ""
+    mc "Así que..."
 
 # game/game_script_act3.rpy:266
 translate spanish game_script_act3_4f01906f:
 
     # n mh "Huh."
-    n mh ""
+    n mh "Ajá."
 
 # game/game_script_act3.rpy:267
 translate spanish game_script_act3_43add698:
 
     # n turned worr om oe "Well, I’m glad she’s doing better, at least."
-    n turned worr om oe ""
+    n turned worr om oe "Bueno, pues me alegro de que, por lo menos, le vaya bien,"
 
 # game/game_script_act3.rpy:269
 translate spanish game_script_act3_69c25b65:
 
     # mc "Yeah..."
-    mc ""
+    mc "Ya..."
 
 # game/game_script_act3.rpy:272
 translate spanish game_script_act3_8057f624:
 
     # n e1a mg "But it still doesn’t make it okay."
-    n e1a mg ""
+    n e1a mg "aunque eso no me hace estar bien."
 
 # game/game_script_act3.rpy:278
 translate spanish game_script_act3_052bd4d9:
 
     # "Natsuki peers up towards the TV, pressing the 'home' button and taking note of the time on display."
-    ""
+    "Natsuki enciende la tele pulsando el botón 'Home' y mira la hora desde ahí."
 
 # game/game_script_act3.rpy:288
 translate spanish game_script_act3_f70da43b:
 
     # n b1c mh "We should be getting ready for school."
-    n b1c mh ""
+    n b1c mh "Deberíamos prepararnos para ir a clase."
 
 # game/game_script_act3.rpy:291
 translate spanish game_script_act3_73f6cedc:
 
     # "Oh shit."
-    ""
+    "Mierda."
 
 # game/game_script_act3.rpy:292
 translate spanish game_script_act3_9fe9bd05:
 
     # "School."
-    ""
+    "No contaba con el insti."
 
 # game/game_script_act3.rpy:294
 translate spanish game_script_act3_f93f3577:
 
     # mc "Oh...{w=0.7}yeah."
-    mc ""
+    mc "Ah...{w=0.7} ya."
 
 # game/game_script_act3.rpy:298
 translate spanish game_script_act3_7eb92f95:
 
     # "{i}A ten minute walk.{/i}"
-    ""
+    "Una caminata de diez minutos."
 
 # game/game_script_act3.rpy:302
 translate spanish game_script_act3_ef8709b7:
 
     # mc "Y-your uniform’s clean, right?"
-    mc ""
+    mc "¿T-Tienes el uniforme limpio?"
 
 # game/game_script_act3.rpy:307
 translate spanish game_script_act3_337bc6d7:
 
     # "{i}About four, five blocks.{/i}"
-    ""
+    "Cuatro o cinco cuadras."
 
 # game/game_script_act3.rpy:311
 translate spanish game_script_act3_9d29a857:
 
     # n rhip mh e1a b1c "Clean as a whistle."
-    n rhip mh e1a b1c ""
+    n rhip mh e1a b1c "Como los chorros del oro."
 
 # game/game_script_act3.rpy:316
 translate spanish game_script_act3_36ada110:
 
     # "{i}Countless opportunities for him to show up.{/i}"
-    ""
+    "Vete a saber tú cuántas veces podría aparecer en todo ese tiempo y en toda esa distancia."
 
 # game/game_script_act3.rpy:320
 translate spanish game_script_act3_bf33d6b0:
 
     # mc "Um, actually..."
-    mc ""
+    mc "Ah, entonces...,"
 
 # game/game_script_act3.rpy:321
 translate spanish game_script_act3_f2dc1375:
 
     # mc "Are you sure we should walk?"
-    mc ""
+    mc "¿segura de que prefieres ir andando?"
 
 # game/game_script_act3.rpy:323
 translate spanish game_script_act3_9ba3aba9:
 
     # mc "I'd rather make sure we get there on time..."
-    mc ""
+    mc "Me gustaría llegar allí a tiempo."
 
 # game/game_script_act3.rpy:324
 translate spanish game_script_act3_d7d4d1f5:
 
     # mc "Get a cab or something?"
-    mc ""
+    mc "¿Llamamos a un taxi o algo mejor?"
 
 # game/game_script_act3.rpy:326
 translate spanish game_script_act3_a1b64141:
 
     # "Natsuki pauses, letting the idea ruminate."
-    ""
+    "Natsuki se queda pensando en la idea."
 
 # game/game_script_act3.rpy:334
 translate spanish game_script_act3_e1d9e5d7:
 
     # n turned curi om oe "Oh, um, yeah."
-    n turned curi om oe ""
+    n turned curi om oe "Pues, eh... sí, claro."
 
 # game/game_script_act3.rpy:335
 translate spanish game_script_act3_de28933e:
 
     # n b1c "That might be good."
-    n b1c ""
+    n b1c "No estaría mal."
 
 # game/game_script_act3.rpy:336
 translate spanish game_script_act3_323698f7:
 
     # n rhip lhip turned anno om oe "Couldn’t it take a while though?"
-    n rhip lhip turned anno om oe ""
+    n rhip lhip turned anno om oe "Aunque, ¿no va a tardar un rato en llegar?"
 
 # game/game_script_act3.rpy:338
 translate spanish game_script_act3_c986b3e0:
 
     # mc "Oh, yeah, maybe."
-    mc ""
+    mc "Ay, pues puede que sí."
 
 # game/game_script_act3.rpy:339
 translate spanish game_script_act3_bb8f260c:
 
     # mc "We can take our chances though, right?"
-    mc ""
+    mc "Pero podemos intentarlo al menos, ¿no?"
 
 # game/game_script_act3.rpy:342
 translate spanish game_script_act3_49a79aee:
 
     # mc "I-I’ll pay."
-    mc ""
+    mc "P-Pago yo."
 
 # game/game_script_act3.rpy:345
 translate spanish game_script_act3_527d9e4b:
 
     # n b2b mh rdown "...[player], are you alright?"
-    n b2b mh rdown ""
+    n b2b mh rdown "Oye, [player], ¿va todo bien?"
 
 # game/game_script_act3.rpy:347
 translate spanish game_script_act3_78303f95:
 
     # mc "Alright enough."
-    mc ""
+    mc "Todo bien."
 
 # game/game_script_act3.rpy:349
 translate spanish game_script_act3_331065b0:
 
     # "Given the circumstances."
-    ""
+    "Sí, dadas las circunstancias."
 
 # game/game_script_act3.rpy:353
 translate spanish game_script_act3_f433c79d:
 
     # n mh "Okay..."
-    n mh ""
+    n mh "Vale..."
 
 # game/game_script_act3.rpy:356
 translate spanish game_script_act3_8b8b7d79:
 
     # n e1a b1c mh "Well, we don’t have long."
-    n e1a b1c mh ""
+    n e1a b1c mh "Bueno, no nos queda mucho ya."
 
 # game/game_script_act3.rpy:358
 translate spanish game_script_act3_9409312d:
 
     # mc "Yeah, I’ll go get my stuff..."
-    mc ""
+    mc "Lo sé, voy a por mis cosas..."
 
 # game/game_script_act3.rpy:363
 translate spanish game_script_act3_1b29fa45:

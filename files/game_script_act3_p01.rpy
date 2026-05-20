@@ -946,67 +946,67 @@ translate spanish game_script_act3_5db60be5:
 translate spanish game_script_act3_ad2e2ebd:
 
     # "Following the crowd through the maze of hallways, I come to a grinding halt at the stairway."
-    ""
+    "Siguiendo a la muchedumbre de estudiantes por el laberinto que he de llamar pasillo, me paro en las escaleras de sopetón."
 
 # game/game_script_act3.rpy:421
 translate spanish game_script_act3_8f7b54c6:
 
     # "As students trickle past me, I come closer to the display that caught my attention."
-    ""
+    "Mientras pasan por mi lado, veo algo que llama mi atención."
 
 # game/game_script_act3.rpy:422
 translate spanish game_script_act3_aa25ba18:
 
     # "Soccer tryouts, blah blah...but..."
-    ""
+    "Clases de fútbol, bla, bla, bla... pero...,"
 
 # game/game_script_act3.rpy:423
 translate spanish game_script_act3_3e76311f:
 
     # "Lined along the bottom of the display, are tens of copies of leaflets."
-    ""
+    "en la parte inferior veo docenas de panfletos."
 
 # game/game_script_act3.rpy:424
 translate spanish game_script_act3_76ee236b:
 
     # "Picking one up, I confirm my suspicion."
-    ""
+    "Cojo uno y confirmo lo que sospechaba."
 
 # game/game_script_act3.rpy:425
 translate spanish game_script_act3_8959b999:
 
     # "It's a flyer for other clubs."
-    ""
+    "Un panfleto de otros clubes."
 
 # game/game_script_act3.rpy:426
 translate spanish game_script_act3_ddec3088:
 
     # "Skimming through, I notice the likes of the Debate Club, the Chess Club, the Soccer Club - hell, even the Anime Club."
-    ""
+    "Al hojearlo, veo clubes como el de Debate, el de Ajedrez, el de Fútbol..., ​​joder, si hasta está el de Anime."
 
 # game/game_script_act3.rpy:427
 translate spanish game_script_act3_06f41fa6:
 
     # "And among them, the Literature Club."
-    ""
+    "Entre ellos, el club de literatura."
 
 # game/game_script_act3.rpy:428
 translate spanish game_script_act3_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script_act3.rpy:429
 translate spanish game_script_act3_c1059a78:
 
     # "After letting the Literature Club screw itself up, maybe I can...well, maybe not fix things, but..."
-    ""
+    "Después de dejar que el club se hunda por sí solo... puede que, bueno, no arreglar, pero...,"
 
 # game/game_script_act3.rpy:430
 translate spanish game_script_act3_177356e1:
 
     # "Offer them a nice alternative."
-    ""
+    "sí ofrecer una buena alternativa."
 
 # game/game_script_act3.rpy:431
 translate spanish game_script_act3_6ff8a9b8:

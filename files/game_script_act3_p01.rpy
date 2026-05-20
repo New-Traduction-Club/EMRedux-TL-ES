@@ -1330,169 +1330,169 @@ translate spanish game_script_act3_f73788b0:
 translate spanish game_script_act3_e43ec611:
 
     # "Natsuki wipes her mouth with her sleeve, crumpling up the tinfoil and tossing it back into her bag."
-    ""
+    "Natsuki se limpia la boca con la manga, arruga el papel de aluminio y lo mete en la mochila."
 
 # game/game_script_act3.rpy:578
 translate spanish game_script_act3_1dff3da5:
 
     # "C'mon..."
-    ""
+    "Vamos...,"
 
 # game/game_script_act3.rpy:579
 translate spanish game_script_act3_c7de72e1:
 
     # "Next class..."
-    ""
+    "que empiece ya la siguiente asignatura..."
 
 # game/game_script_act3.rpy:580
 translate spanish game_script_act3_46138cb6:
 
     # "Bell?"
-    ""
+    "¿Timbre ya?"
 
 # game/game_script_act3.rpy:593
 translate spanish game_script_act3_eeb83adf:
 
     # "Finally."
-    ""
+    "Timbre ya. Por fin..."
 
 # game/game_script_act3.rpy:594
 translate spanish game_script_act3_1b3c53b6:
 
     # "I rise from my seat, ready to go."
-    ""
+    "Me levanto, preparado para ir a clase ya."
 
 # game/game_script_act3.rpy:595
 translate spanish game_script_act3_7c971326:
 
     # "Only three lessons left."
-    ""
+    "Faltan solo tres asignaturas."
 
 # game/game_script_act3.rpy:596
 translate spanish game_script_act3_bc739352:
 
     # "Then a cab home."
-    ""
+    "Después, un taxi a casa."
 
 # game/game_script_act3.rpy:597
 translate spanish game_script_act3_a8028b5b:
 
     # "But...how can I rationalize it to her?"
-    ""
+    "Y pienso yo... ¿Cómo voy a convencerla y que se lo crea?"
 
 # game/game_script_act3.rpy:598
 translate spanish game_script_act3_83a9255a:
 
     # "Two taxi journeys in one day?"
-    ""
+    "¿Dos viajes en taxis en el mismo día?"
 
 # game/game_script_act3.rpy:599
 translate spanish game_script_act3_61fae46f_1:
 
     # "Crap."
-    ""
+    "Mierda."
 
 # game/game_script_act3.rpy:604
 translate spanish game_script_act3_c8c787f4:
 
     # "Natsuki pulls me out of my trance with a quick kiss."
-    ""
+    "Natsuki me saca del tren de pensamientos con un beso rápido."
 
 # game/game_script_act3.rpy:607
 translate spanish game_script_act3_890f7caf:
 
     # n "Mm. Vinegar-y."
-    n ""
+    n "Mmm... vaya gustito más avinagrado, ¿eh?"
 
 # game/game_script_act3.rpy:609
 translate spanish game_script_act3_b07f4a07:
 
     # n "Well, I'll see you later."
-    n ""
+    n "Bueno, nos vemos después."
 
 # game/game_script_act3.rpy:611
 translate spanish game_script_act3_04f6970b:
 
     # n "We’ll meet at the gate, okay?"
-    n ""
+    n "En la entrada, ¿vale?"
 
 # game/game_script_act3.rpy:613
 translate spanish game_script_act3_035aabff:
 
     # mc "Y-yeah."
-    mc ""
+    mc "C-Claro."
 
 # game/game_script_act3.rpy:615
 translate spanish game_script_act3_2392d369:
 
     # n "See ya."
-    n ""
+    n "Chao."
 
 # game/game_script_act3.rpy:618
 translate spanish game_script_act3_20f50996:
 
     # "She slings her bag over her shoulder, before {nw}"
-    ""
+    "Se cuelga la mochila al hombro antes de {nw}"
 
 # game/game_script_act3.rpy:621
 translate spanish game_script_act3_a1238deb:
 
     # extend "taking off."
-    extend ""
+    extend "despedirse."
 
 # game/game_script_act3.rpy:622
 translate spanish game_script_act3_e590fd56:
 
     # "Okay, back to class."
-    ""
+    "Genial, de vuelta al lío."
 
 # game/game_script_act3.rpy:623
 translate spanish game_script_act3_2364c07e:
 
     # "What's next?"
-    ""
+    "¿Qué toca ahora?"
 
 # game/game_script_act3.rpy:633
 translate spanish game_script_act3_4bae4515:
 
     # "Social studies."
-    ""
+    "Ciencias sociales."
 
 # game/game_script_act3.rpy:634
 translate spanish game_script_act3_16c5ad9f:
 
     # "The fact that I can hardly keep up with {i}social studies{/i} is telling."
-    ""
+    "Lo de que apenas me concentre en esta asignatura es de estudio, nunca mejor dicho."
 
 # game/game_script_act3.rpy:635
 translate spanish game_script_act3_8820b899:
 
     # "At this rate, I'm wasting both my own and the teacher's time by being here."
-    ""
+    "Mirándolo así, tanto el profesor como yo estamos perdiendo el tiempo estando en clase."
 
 # game/game_script_act3.rpy:636
 translate spanish game_script_act3_90445788:
 
     # "Eager for the lesson to end, I bide my time by scribbling meaningless garbage in my notebook."
-    ""
+    "Ansioso por el final de esta asignatura, empiezo a garabatear tonterías en la libreta."
 
 # game/game_script_act3.rpy:638
 translate spanish game_script_act3_4fa02819:
 
     # "Soon enough, the bell rings, finally signalling the end of the day."
-    ""
+    "Tan pronto como pensaba, suena el timbre y eso quiere decir que la jornada ha terminado."
 
 # game/game_script_act3.rpy:639
 translate spanish game_script_act3_039a57ac:
 
     # "This time, I bolt straight out of the classroom."
-    ""
+    "Ahora sí, salgo corriendo de la clase."
 
 # game/game_script_act3.rpy:641
 translate spanish game_script_act3_9c25a026:
 
     # "Can't risk him seeing her."
-    ""
+    "No puedo arriesgarme a que la vea."
 
 # game/game_script_act3.rpy:642
 translate spanish game_script_act3_a77fbee3:

@@ -1048,283 +1048,283 @@ translate spanish game_script_act3_61fae46f:
 translate spanish game_script_act3_a6618fd1:
 
     # "I consider just biding my time wandering the halls or hiding in the bathroom..."
-    ""
+    "Se me ha pasado por la cabeza ir de aquí para allá, deambular por los pasillos o encerrarme en los baños...,"
 
 # game/game_script_act3.rpy:442
 translate spanish game_script_act3_25b5495d:
 
     # "...but I'm not too keen on losing my spot here."
-    ""
+    "pero ni de coña le cedo este banco a alguien."
 
 # game/game_script_act3.rpy:443
 translate spanish game_script_act3_397087c4:
 
     # "Hallways..."
-    ""
+    "Pasillos...,"
 
 # game/game_script_act3.rpy:444
 translate spanish game_script_act3_f6d7d6b1:
 
     # "Bathroom..."
-    ""
+    "baños...,"
 
 # game/game_script_act3.rpy:448
 translate spanish game_script_act3_c131f4d6:
 
     # n "Scooch up."
-    n ""
+    n "Haz espacio."
 
 # game/game_script_act3.rpy:450
 translate spanish game_script_act3_2fb714ab:
 
     # "Natsuki's sudden remark is enough to make me flinch to the side, giving her space to {nw}"
-    ""
+    "El comentario de Natsuki me achanta, por lo que me echo a un lado y le doy sitio para {nw}"
 
 # game/game_script_act3.rpy:452
 translate spanish game_script_act3_78a63677:
 
     # extend "sit beside me."
-    extend ""
+    extend "sentarse junto a mí."
 
 # game/game_script_act3.rpy:454
 translate spanish game_script_act3_9ff3dbdb:
 
     # mc "O-oh, hey."
-    mc ""
+    mc "A-Ah, hola."
 
 # game/game_script_act3.rpy:455
 translate spanish game_script_act3_4ef47e61:
 
     # mc "D-didn't know you ate out here."
-    mc ""
+    mc "N-No sabía que comías también aquí."
 
 # game/game_script_act3.rpy:457
 translate spanish game_script_act3_90369dcf:
 
     # n "Yeah..."
-    n ""
+    n "Ya..."
 
 # game/game_script_act3.rpy:464
 translate spanish game_script_act3_c97577e0:
 
     # "She pulls a mass of tinfoil out of her bag."
-    ""
+    "Saca un montón de papel de aluminio de su mochila."
 
 # game/game_script_act3.rpy:484
 translate spanish game_script_act3_a60e007e:
 
     # n "Where ish your food?"
-    n ""
+    n "¿Dónde eshtá tu comida?"
 
 # game/game_script_act3.rpy:486
 translate spanish game_script_act3_d59df2a8:
 
     # mc "I usually make my own."
-    mc ""
+    mc "Me la suelo preparar yo...,"
 
 # game/game_script_act3.rpy:487
 translate spanish game_script_act3_ddb1ca88:
 
     # mc "Forgot."
-    mc ""
+    mc "y se me ha olvidado."
 
 # game/game_script_act3.rpy:489
 translate spanish game_script_act3_2546b91c:
 
     # n "Mm. Shame."
-    n ""
+    n "Ajá..., qué pena."
 
 # game/game_script_act3.rpy:491
 translate spanish game_script_act3_a9b81b01:
 
     # n "Don't ushually geh mine fwom the can'een, buh I had money tohay sho..."
-    n ""
+    n "No shuelom comprar nada de lam cantinam, pero hoy teníam dinero, ashí quem..."
 
 # game/game_script_act3.rpy:493
 translate spanish game_script_act3_203d3bdc:
 
     # n "Huh. Ish weird to fink--..."
-    n ""
+    n "Ay, esh raro pemshar qu..."
 
 # game/game_script_act3.rpy:495
 translate spanish game_script_act3_9af9db21:
 
     # n "Mm...{w}shorry, gimme a shecond..."
-    n ""
+    n "Mmm...,{w} perdonam, dame un shegundito..."
 
 # game/game_script_act3.rpy:500
 translate spanish game_script_act3_3ccccbda:
 
     # "Acutely aware of her temporary speech impediment, she finishes her mouthful before continuing."
-    ""
+    "Siendo consciente de su incapacidad temporal para hablar, termina de masticar antes de seguir hablando."
 
 # game/game_script_act3.rpy:503
 translate spanish game_script_act3_9d04258d:
 
     # n "It's weird to think that today, we're going straight home."
-    n ""
+    n "Me resulta raro pensar que hoy vamos directamente a casa."
 
 # game/game_script_act3.rpy:508
 translate spanish game_script_act3_7db21488:
 
     # n "No club, no stupid poems, or whatever."
-    n ""
+    n "Sin club, sin poemas estúpidos o lo que sean..."
 
 # game/game_script_act3.rpy:510
 translate spanish game_script_act3_69c25b65_1:
 
     # mc "Yeah..."
-    mc ""
+    mc "Ya..."
 
 # game/game_script_act3.rpy:515
 translate spanish game_script_act3_290548f7:
 
     # n "I mean, that {size=-3}would've been an {size=-3}end-of-days {size=-3}situation for me {size=-3}if I were {size=-3}still back home.{/size}"
-    n ""
+    n "En plan, estaría {size=-3}seguramente {size=-3}acabada {size=-3} si es que aún siguiese {size=-3}encerrada {size=-3}en esa casa.{/size}"
 
 # game/game_script_act3.rpy:520
 translate spanish game_script_act3_50194c78:
 
     # n "{size=-15}Wonder how it's{size=-3}hitting the others.{/size}"
-    n ""
+    n "{size=-15}A saber cómo les va {size=-3}a las chicas...{/size}"
 
 # game/game_script_act3.rpy:529
 translate spanish game_script_act3_3c4171c5:
 
     # n "{size=-18}Hey, Earth to [player].{/size}"
-    n ""
+    n "{size=-18}¿Hola? ¡Tierra llamando a [player]!{/size}"
 
 # game/game_script_act3.rpy:531
 translate spanish game_script_act3_ec144079:
 
     # n "{size=-18}You {size=+3}in {size=+3}there?{/size}"
-    n ""
+    n "{size=-18}¿Hola? {size=+3}¿Sigues {size=+3}ahí?{/size}"
 
 # game/game_script_act3.rpy:536
 translate spanish game_script_act3_b72336d2:
 
     # mc "Yeah, yeah, sorry..."
-    mc ""
+    mc "Sí, sí, perdona..."
 
 # game/game_script_act3.rpy:538
 translate spanish game_script_act3_99bcc12a:
 
     # n "What is up with you?"
-    n ""
+    n "¿Qué es lo que pasa contigo?"
 
 # game/game_script_act3.rpy:540
 translate spanish game_script_act3_615f13bc:
 
     # n "Are you good? Because you don't seem good."
-    n ""
+    n "¿Va todo bien? Porque parece que va de todo menos bien."
 
 # game/game_script_act3.rpy:542
 translate spanish game_script_act3_ce8592f6:
 
     # mc "Natsuki, I'm fine."
-    mc ""
+    mc "Natsuki, estoy bien."
 
 # game/game_script_act3.rpy:544
 translate spanish game_script_act3_9e346547:
 
     # n "Listen, if you're still mad about yesterday, I get that..."
-    n ""
+    n "Mira, si sigues enfadado por lo de ayer... lo pillo, ¿vale?"
 
 # game/game_script_act3.rpy:546
 translate spanish game_script_act3_8f41727b:
 
     # n "But can you at least tell me?"
-    n ""
+    n "Pero creo que, al menos, podrías decírmelo."
 
 # game/game_script_act3.rpy:548
 translate spanish game_script_act3_4635cee0:
 
     # mc "I dunno what you're on about, Nat."
-    mc ""
+    mc "No sé de qué hablas, Nat."
 
 # game/game_script_act3.rpy:549
 translate spanish game_script_act3_e79df68d:
 
     # mc "I'm fine."
-    mc ""
+    mc "Como he dicho, estoy bien."
 
 # game/game_script_act3.rpy:555
 translate spanish game_script_act3_c4f56362:
 
     # n "If you say so."
-    n ""
+    n "Si tú lo dices..."
 
 # game/game_script_act3.rpy:558
 translate spanish game_script_act3_f73ebf51:
 
     # "She gives up, returning to her sandwich."
-    ""
+    "Da la situación por perdida y vuelve a su comida."
 
 # game/game_script_act3.rpy:559
 translate spanish game_script_act3_b0054a83:
 
     # "Noticing Natsuki rummage through her bag, I watch as she {nw}"
-    ""
+    "Veo a Natsuki de rebuscar en su mochila y saca {nw}"
 
 # game/game_script_act3.rpy:561
 translate spanish game_script_act3_ff7f190f:
 
     # extend "pulls out a pack of salt and vinegar crisps."
-    extend ""
+    extend "una bolsa de patatas sabor vinagre y sal."
 
 # game/game_script_act3.rpy:564
 translate spanish game_script_act3_f12cd6b2:
 
     # n "Come on. Eat something."
-    n ""
+    n "Come algo, anda."
 
 # game/game_script_act3.rpy:566
 translate spanish game_script_act3_69b33941:
 
     # mc "Oh, uh..."
-    mc ""
+    mc "Ah, eh...,"
 
 # game/game_script_act3.rpy:567
 translate spanish game_script_act3_a64e8bc0:
 
     # mc "Thanks."
-    mc ""
+    mc "gracias."
 
 # game/game_script_act3.rpy:569
 translate spanish game_script_act3_d76ee872:
 
     # "I relieve them from her and tear the pack open."
-    ""
+    "Cojo la bolsa de patatas y la abro."
 
 # game/game_script_act3.rpy:570
 translate spanish game_script_act3_927f245a:
 
     # "They're very...strong."
-    ""
+    "Saben muy... fuerte."
 
 # game/game_script_act3.rpy:572
 translate spanish game_script_act3_2ab69d6d:
 
     # "Not quite to my taste, but I won't complain about free food."
-    ""
+    "No es que sea de mis sabores favoritos, pero a caballo regalado... no le mires el dentado."
 
 # game/game_script_act3.rpy:573
 translate spanish game_script_act3_8bb8d094:
 
     # "I just want to get back to class."
-    ""
+    "Mi única preocupación ahora es volver a clase lo antes posible."
 
 # game/game_script_act3.rpy:574
 translate spanish game_script_act3_45fcfc2a:
 
     # "As much as I want to spend time with her, I know I'm exposed here."
-    ""
+    "A pesar de que quiero pasar tiempo con ella... aquí estoy muy a la vista."
 
 # game/game_script_act3.rpy:575
 translate spanish game_script_act3_f73788b0:
 
     # "I quickly demolish the chips."
-    ""
+    "Acabo rápidamente con las patatas fritas."
 
 # game/game_script_act3.rpy:577
 translate spanish game_script_act3_e43ec611:

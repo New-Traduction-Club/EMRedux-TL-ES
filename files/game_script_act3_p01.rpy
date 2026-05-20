@@ -1012,37 +1012,37 @@ translate spanish game_script_act3_177356e1:
 translate spanish game_script_act3_6ff8a9b8:
 
     # "Folding the leaflet up, I dump it in my bag, before dipping out of the door and into the courtyard."
-    ""
+    "Lo doblo, me lo guardo en la mochila y salgo por la puerta hacia el patio."
 
 # game/game_script_act3.rpy:436
 translate spanish game_script_act3_d2c334b9:
 
     # "It's packed with students, taking up all the benches...except one."
-    ""
+    "Está repleto de estudiantes sentados en todos los bancos... a excepción de uno."
 
 # game/game_script_act3.rpy:437
 translate spanish game_script_act3_21f79410:
 
     # "Quick to snatch up the last spot, I make a beeline for the bench directly in front of the gushing fountain."
-    ""
+    "Apresurado para que no me quiten el sitio, me siento en el banco que está donde la fuente."
 
 # game/game_script_act3.rpy:438
 translate spanish game_script_act3_0b6203f4:
 
     # "Planting myself down, I dig through my bag, looking for something to eat."
-    ""
+    "Abro la mochila y busco algo para comer,"
 
 # game/game_script_act3.rpy:439
 translate spanish game_script_act3_e9de28ed:
 
     # "And I find that in my haste earlier, I forgot to pack lunch."
-    ""
+    "hasta que me acuerdo que, con las prisas de antes, me he olvidado de la comida."
 
 # game/game_script_act3.rpy:440
 translate spanish game_script_act3_61fae46f:
 
     # "Crap."
-    ""
+    "Mierda."
 
 # game/game_script_act3.rpy:441
 translate spanish game_script_act3_a6618fd1:

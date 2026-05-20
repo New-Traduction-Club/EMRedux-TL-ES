@@ -1000,13 +1000,13 @@ translate spanish game_script_act3_a20cefa7:
 translate spanish game_script_act3_c1059a78:
 
     # "After letting the Literature Club screw itself up, maybe I can...well, maybe not fix things, but..."
-    "Después de dejar que el club se hunda por sí solo... puede que, bueno, no arreglar, pero...,"
+    "Después de dejar que el club se hunda por sí solo... puede que, bueno, no arreglaré nada, pero...,"
 
 # game/game_script_act3.rpy:430
 translate spanish game_script_act3_177356e1:
 
     # "Offer them a nice alternative."
-    "sí ofrecer una buena alternativa."
+    "sí puedo ofrecer una buena alternativa."
 
 # game/game_script_act3.rpy:431
 translate spanish game_script_act3_6ff8a9b8:

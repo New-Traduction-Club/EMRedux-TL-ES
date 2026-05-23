@@ -1552,235 +1552,235 @@ translate spanish game_script_act3_4999ab68:
 translate spanish game_script_act3_1d7e70d0:
 
     # "Eventually, students slowly begin trickling out of the doorways."
-    ""
+    "Al cabo de un rato, empiezan a salir por la puerta los estudiantes."
 
 # game/game_script_act3.rpy:658
 translate spanish game_script_act3_ddae33b2:
 
     # "How late is everyone else?"
-    ""
+    "Van un poco tarde, ¿no?"
 
 # game/game_script_act3.rpy:659
 translate spanish game_script_act3_2680235b:
 
     # "After fiddling with what feels like every pocket and thing I have on me, I check my watch."
-    ""
+    "Tras rebuscar en mis bolsillos para asegurarme de llevar todas mis cosas, miro el reloj."
 
 # game/game_script_act3.rpy:660
 translate spanish game_script_act3_25a868ba:
 
     # "It's only been two minutes."
-    ""
+    "Han pasado un par de minutos,"
 
 # game/game_script_act3.rpy:661
 translate spanish game_script_act3_7a0efe71:
 
     # "Felt like an hour."
-    ""
+    "y parece casi una hora."
 
 # game/game_script_act3.rpy:662
 translate spanish game_script_act3_b4b0bb09:
 
     # "In the sea of people, a familiar face sticks out."
-    ""
+    "En todo el montón de gente puedo ver una figura familiar."
 
 # game/game_script_act3.rpy:666
 translate spanish game_script_act3_a8c4b004:
 
     # n "Hey."
-    n ""
+    n "Ey."
 
 # game/game_script_act3.rpy:668
 translate spanish game_script_act3_af4eb537:
 
     # mc "H-hey."
-    mc ""
+    mc "E-Ey..."
 
 # game/game_script_act3.rpy:670
 translate spanish game_script_act3_e381269d:
 
     # n "Good to go?"
-    n ""
+    n "¿Nos vamos ya?"
 
 # game/game_script_act3.rpy:672
 translate spanish game_script_act3_5ce09775:
 
     # mc "Mhm."
-    mc ""
+    mc "Sí."
 
 # game/game_script_act3.rpy:673
 translate spanish game_script_act3_ce7cab2d:
 
     # mc "Bit of a rush, though."
-    mc ""
+    mc "Habremos de apresurarnos."
 
 # game/game_script_act3.rpy:675
 translate spanish game_script_act3_5cdb71eb:
 
     # n "Huh? What's up?"
-    n ""
+    n "¿Y eso? ¿Pasa algo?"
 
 # game/game_script_act3.rpy:677
 translate spanish game_script_act3_2485f494:
 
     # mc "I..."
-    mc ""
+    mc "Pues me...,"
 
 # game/game_script_act3.rpy:679
 translate spanish game_script_act3_194f1810:
 
     # "Need an excuse."
-    ""
+    "Necesito una excusa creíble."
 
 # game/game_script_act3.rpy:682
 translate spanish game_script_act3_7023d467:
 
     # mc "...think I left the door unlocked."
-    mc ""
+    mc "me he dejado la puerta abierta, creo."
 
 # game/game_script_act3.rpy:684
 translate spanish game_script_act3_a3181880:
 
     # n "Oh, crap."
-    n ""
+    n "Ay, mierda."
 
 # game/game_script_act3.rpy:686
 translate spanish game_script_act3_1ef4aff6:
 
     # n "Yeah, let's go."
-    n ""
+    n "Vamos, sí."
 
 # game/game_script_act3.rpy:689
 translate spanish game_script_act3_77904b58:
 
     # "The two of us quickly depart."
-    ""
+    "Y así es como nos fuimos del instituto con rapidez."
 
 # game/game_script_act3.rpy:697
 translate spanish game_script_act3_26f0d1a3:
 
     # "I reach out to Natsuki, offering my hand to her."
-    ""
+    "Estiro el brazo para que Natsuki me coja la mano."
 
 # game/game_script_act3.rpy:698
 translate spanish game_script_act3_1c8f1820:
 
     # "She takes my hand in hers."
-    ""
+    "Y así hizo."
 
 # game/game_script_act3.rpy:699
 translate spanish game_script_act3_1fd6e7fe:
 
     # "Need to get home quickly."
-    ""
+    "Hay que llegar rápido a casa."
 
 # game/game_script_act3.rpy:704
 translate spanish game_script_act3_ddd36b50:
 
     # "It’s only ten minutes, I tell myself."
-    ""
+    "Me sigo repetiendo que son apenas diez minutos."
 
 # game/game_script_act3.rpy:705
 translate spanish game_script_act3_7f572e5e:
 
     # "It’s early afternoon, I tell myself."
-    ""
+    "Me sigo repitiendo que aún no es tan tarde."
 
 # game/game_script_act3.rpy:706
 translate spanish game_script_act3_340eddf0:
 
     # "He should still be in work by now, I tell myself."
-    ""
+    "Me sigo repitiendo que debería seguir en el trabajo."
 
 # game/game_script_act3.rpy:710
 translate spanish game_script_act3_efea736e:
 
     # "Calm down."
-    ""
+    "Tranquilo, [player]."
 
 # game/game_script_act3.rpy:711
 translate spanish game_script_act3_3df15d0a:
 
     # "Just get there."
-    ""
+    "Preocúpate en llegar a casa antes."
 
 # game/game_script_act3.rpy:712
 translate spanish game_script_act3_db4ce4c0:
 
     # "A to B."
-    ""
+    "Es fácil, hay que ir de un punto 'A' a un punto 'B'."
 
 # game/game_script_act3.rpy:713
 translate spanish game_script_act3_62b3f3ac:
 
     # "Home's safe."
-    ""
+    "En casa se está a salvo siempre."
 
 # game/game_script_act3.rpy:714
 translate spanish game_script_act3_76a4f2e0:
 
     # "Just...{w}get there."
-    ""
+    "Preocúpate...{w} en llegar a casa antes."
 
 # game/game_script_act3.rpy:720
 translate spanish game_script_act3_caed4317:
 
     # "I pull us into a nearby alleyway."
-    ""
+    "Vamos a un callejón que está aquí al lado."
 
 # game/game_script_act3.rpy:721
 translate spanish game_script_act3_0b2cea7c:
 
     # "She won’t think much of it, this is what we normally do."
-    ""
+    "No duda de mí porque esto lo hacemos de normal."
 
 # game/game_script_act3.rpy:722
 translate spanish game_script_act3_aaa5ba1c:
 
     # "I need to act normal."
-    ""
+    "Y es ahora lo que necesito hacer, actuar de normal."
 
 # game/game_script_act3.rpy:723
 translate spanish game_script_act3_a43ac0a3:
 
     # "{i}I'm normal.{/i}"
-    ""
+    "Soy normal, estoy normal."
 
 # game/game_script_act3.rpy:724
 translate spanish game_script_act3_7364875e:
 
     # "Strike up a conversation."
-    ""
+    "Saca un tema de conversación, vamos."
 
 # game/game_script_act3.rpy:726
 translate spanish game_script_act3_79ffc593:
 
     # mc "Hey, Natsuki..."
-    mc ""
+    mc "Oye, Natsuki...,"
 
 # game/game_script_act3.rpy:728
 translate spanish game_script_act3_45f2a1ff:
 
     # n "Mhm?"
-    n ""
+    n "¿Qué?"
 
 # game/game_script_act3.rpy:730
 translate spanish game_script_act3_f610d6fb:
 
     # mc "Since the, uh..."
-    mc ""
+    mc "como el club se ha, eh...,"
 
 # game/game_script_act3.rpy:731
 translate spanish game_script_act3_5e3e722d:
 
     # mc "Since the Literature Club's kind of disbanded..."
-    mc ""
+    mc "como el club está prácticamente disuelto...,"
 
 # game/game_script_act3.rpy:732
 translate spanish game_script_act3_9c6275f9:
 
     # mc "Have you given any thought to other clubs?"
-    mc ""
+    mc "¿has pensado en algún otro?"
 
 # game/game_script_act3.rpy:736
 translate spanish game_script_act3_7b4809e2:

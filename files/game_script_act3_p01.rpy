@@ -1786,214 +1786,214 @@ translate spanish game_script_act3_9c6275f9:
 translate spanish game_script_act3_7b4809e2:
 
     # "{i}That's one block.{/i}"
-    ""
+    "Queda una calle."
 
 # game/game_script_act3.rpy:740
 translate spanish game_script_act3_1dae07d0:
 
     # n "Uh, no. Why?"
-    n ""
+    n "Pues no. ¿Por qué lo preguntas?"
 
 # game/game_script_act3.rpy:742
 translate spanish game_script_act3_b2730110:
 
     # n "Have you got one in mind?"
-    n ""
+    n "¿Es que tú sí?"
 
 # game/game_script_act3.rpy:746
 translate spanish game_script_act3_5961ae0b:
 
     # "{i}Wait...{/i}"
-    ""
+    "Espera."
 
 # game/game_script_act3.rpy:750
 translate spanish game_script_act3_7a6b5209:
 
     # mc "Uh, not really..."
-    mc ""
+    mc "Pues... no, la verdad."
 
 # game/game_script_act3.rpy:751
 translate spanish game_script_act3_7eac04df:
 
     # mc "But I did pick up a little leaflet, if you wanna look through when we're back?"
-    mc ""
+    mc "Es que arranqué un folleto con clubes y tal. ¿Quieres echarle un vistazo conmigo cuando estemos en casa?"
 
 # game/game_script_act3.rpy:755
 translate spanish game_script_act3_dfccb810:
 
     # "{i}It was about 5pm when I saw his car parked outside the house...{/i}"
-    ""
+    "Eran las cinco de la tarde cuando vi su coche aparcado fuera."
 
 # game/game_script_act3.rpy:756
 translate spanish game_script_act3_690fccbf:
 
     # "{i}It's 3 o'clock now...{/i}"
-    ""
+    "Son las tres de la tarde ahora mismo..."
 
 # game/game_script_act3.rpy:757
 translate spanish game_script_act3_52e3e5c5:
 
     # "{i}Oh God, for all I know he could be on his way from work any second.{/i}"
-    ""
+    "Dios mío, si lo que sospecho es cierto... debería estar volviendo a casa de un momento a otro."
 
 # game/game_script_act3.rpy:761
 translate spanish game_script_act3_9bc7dd8f:
 
     # n "Sounds good."
-    n ""
+    n "Me parece bien."
 
 # game/game_script_act3.rpy:763
 translate spanish game_script_act3_99f2c0fe:
 
     # n "I dunno how easy it'd be to adjust to something other than writing poems..."
-    n ""
+    n "A saber si va a ser fácil acostumbrarme a otra cosa que no sea escribir poemas..."
 
 # game/game_script_act3.rpy:765
 translate spanish game_script_act3_0305c26b:
 
     # n "It feels a bit like cheating, y'know?"
-    n ""
+    n "Siento como si hiciese trampa o algo, ¿sabes?"
 
 # game/game_script_act3.rpy:769
 translate spanish game_script_act3_7f3091c9:
 
     # "{i}My eyes dart around in my skull, watching every corner we pass.{/i}"
-    ""
+    "Muevo los ojos como un loco de un lado a otro vigilando cada esquina que cruzamos."
 
 # game/game_script_act3.rpy:770
 translate spanish game_script_act3_add35b07:
 
     # "{i}Only a couple blocks to go now...{/i}"
-    ""
+    "Quedan un par o tres de calles para llegar..."
 
 # game/game_script_act3.rpy:771
 translate spanish game_script_act3_c08e2044:
 
     # "{i}I hear the distant rumble of an engine from a few blocks away.{/i}"
-    ""
+    "Puedo escuchar un motor en marcha unas cuantas calles a lo lejos,"
 
 # game/game_script_act3.rpy:773
 translate spanish game_script_act3_d4795aad:
 
     # mc "Uh...sure..."
-    mc ""
+    mc "Eh... sí, ya..."
 
 # game/game_script_act3.rpy:775
 translate spanish game_script_act3_f4fbb43a:
 
     # "{i}But before long, it dissipates.{/i}"
-    ""
+    "que, lejos de acercarse, se aleja y desaparece."
 
 # game/game_script_act3.rpy:778
 translate spanish game_script_act3_bdbac7db:
 
     # mc "I don't really..."
-    mc ""
+    mc "No creo que..."
 
 # game/game_script_act3.rpy:780
 translate spanish game_script_act3_dc0185aa:
 
     # "{i}Focus on Natsuki.{/i}"
-    ""
+    "Céntrate en Natsuki."
 
 # game/game_script_act3.rpy:781
 translate spanish game_script_act3_928ae3c1:
 
     # "{i}Be normal.{/i}"
-    ""
+    "Compórtate."
 
 # game/game_script_act3.rpy:784
 translate spanish game_script_act3_65d5a3ad:
 
     # mc "S-sorry, I lost my train of thought."
-    mc ""
+    mc "P-Perdona, me he quedado en Babia."
 
 # game/game_script_act3.rpy:786
 translate spanish game_script_act3_bc073ae1:
 
     # n "Something on your mind?"
-    n ""
+    n "¿Te pasa algo?"
 
 # game/game_script_act3.rpy:790
 translate spanish game_script_act3_71fb8f75:
 
     # "{i}How about your dad is gonna fucking kill us?{/i}"
-    ""
+    "¿Te parece si te digo que tu padre nos va a puto aniquilar?"
 
 # game/game_script_act3.rpy:794
 translate spanish game_script_act3_14607230:
 
     # mc "Nah...it just...happens sometimes."
-    mc ""
+    mc "No, es que... me ocurre a veces."
 
 # game/game_script_act3.rpy:800
 translate spanish game_script_act3_efc36c50:
 
     # "Finally. Home stretch."
-    ""
+    "Por fin, último tramo."
 
 # game/game_script_act3.rpy:801
 translate spanish game_script_act3_c29fbc7f:
 
     # "Still holding Natsuki's hand in mine, I nearly break into a run."
-    ""
+    "Aún con la mano de Natsuki entrelazada en la mía, casi me pongo a correr."
 
 # game/game_script_act3.rpy:807
 translate spanish game_script_act3_2fdf73bf:
 
     # "However, she's caught off-guard and nearly falls."
-    ""
+    "Como le pilla desprevenida, se tropieza."
 
 # game/game_script_act3.rpy:810
 translate spanish game_script_act3_72cfd56f:
 
     # n "Whoa—hey, careful!"
-    n ""
+    n "Ooo... ¡oye, eh! ¡Ten cuidado!"
 
 # game/game_script_act3.rpy:812
 translate spanish game_script_act3_4fbd6878:
 
     # mc "Yeah, sorry..."
-    mc ""
+    mc "Sí, perdón..."
 
 # game/game_script_act3.rpy:817
 translate spanish game_script_act3_fff6d3da:
 
     # "A mixture of nerves and tiredness from the brief run have my hands shaking, as I begin rifling through my pockets."
-    ""
+    "Entre los nervios y el cansancio, me tiemblan las manos mientras rebusco en mis bolsillos."
 
 # game/game_script_act3.rpy:818
 translate spanish game_script_act3_d648ca08:
 
     # "It doesn't even occur to me to act like the door may be unlocked."
-    ""
+    "Ya me da igual hacer o no como que la puerta está supuestamente abierta."
 
 # game/game_script_act3.rpy:819
 translate spanish game_script_act3_b58a4ce4:
 
     # "Just gotta find...the damn key..."
-    ""
+    "Tengo que buscar la... la puta llave..."
 
 # game/game_script_act3.rpy:820
 translate spanish game_script_act3_6d9277c1:
 
     # "There!"
-    ""
+    "¡La tengo!"
 
 # game/game_script_act3.rpy:822
 translate spanish game_script_act3_762ac26c:
 
     # "Opening up, I {nw}"
-    ""
+    "La abro, {nw}"
 
 # game/game_script_act3.rpy:825
 translate spanish game_script_act3_8a75244f:
 
     # extend "usher Natsuki in, before slamming the door behind me."
-    extend ""
+    extend "dejo pasar a Natsuki y pego un portazo, cerrando la puerta por completo."
 
 # game/game_script_act3.rpy:829
 translate spanish game_script_act3_2ed1480b:
 
     # "We're home."
-    ""
+    "Hogar, dulce hogar."

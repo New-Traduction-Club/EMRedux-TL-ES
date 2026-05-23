@@ -1498,55 +1498,55 @@ translate spanish game_script_act3_9c25a026:
 translate spanish game_script_act3_a77fbee3:
 
     # "Half-running through the corridor, I make my way to the front entrance and burst through the door."
-    ""
+    "Voy trotando por los pasillos y llego al portón de entrada, que atravieso."
 
 # game/game_script_act3.rpy:648
 translate spanish game_script_act3_7603191c:
 
     # "Not only am I one of the first students out, but Natsuki is nowhere in sight."
-    ""
+    "No es solo que sea el primero en salir, sino que Natsuki no está."
 
 # game/game_script_act3.rpy:649
 translate spanish game_script_act3_68cc2f9c:
 
     # "I'm early."
-    ""
+    "He llegado antes."
 
 # game/game_script_act3.rpy:650
 translate spanish game_script_act3_3c872fae:
 
     # "Waiting at the gate, I'm immediately aware of how exposed I am."
-    ""
+    "Mientras espero aquí, me doy cuenta de lo sumamente expuesto que estoy."
 
 # game/game_script_act3.rpy:652
 translate spanish game_script_act3_4a566a79:
 
     # "He could easily spot me from a mile away."
-    ""
+    "Sería capaz de verme a casi dos kilómetros de distancia."
 
 # game/game_script_act3.rpy:653
 translate spanish game_script_act3_5c4a80ce:
 
     # "{i}But he doesn't know me.{/i}"
-    ""
+    "Aunque no sabe quién soy."
 
 # game/game_script_act3.rpy:654
 translate spanish game_script_act3_33505aa3:
 
     # "{i}He drove right past Sayori and I, without a second thought.{/i}"
-    ""
+    "Pasó por delante nuestra esa noche sin pensárselo dos veces."
 
 # game/game_script_act3.rpy:655
 translate spanish game_script_act3_9158f6b4:
 
     # "{i}Though, if he sees me with Natsuki...{/i}"
-    ""
+    "Lo peligroso sería que me vea con Natsuki..."
 
 # game/game_script_act3.rpy:656
 translate spanish game_script_act3_4999ab68:
 
     # "I gulp."
-    ""
+    "Trago saliva."
 
 # game/game_script_act3.rpy:657
 translate spanish game_script_act3_1d7e70d0:

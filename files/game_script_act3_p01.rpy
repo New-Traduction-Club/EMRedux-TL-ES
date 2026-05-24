@@ -1918,7 +1918,7 @@ translate spanish game_script_act3_bc073ae1:
 translate spanish game_script_act3_71fb8f75:
 
     # "{i}How about your dad is gonna fucking kill us?{/i}"
-    "¿Te parece si te digo que tu padre nos va a puto aniquilar?"
+    "Algo me pasa, sí... ¿qué te parece si te digo que tu puto padre nos va a aniquilar?"
 
 # game/game_script_act3.rpy:794
 translate spanish game_script_act3_14607230:

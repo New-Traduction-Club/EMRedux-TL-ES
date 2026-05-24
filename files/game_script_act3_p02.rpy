@@ -200,7 +200,7 @@ translate spanish game_script_act3_317c33e1:
 translate spanish game_script_act3_48e0f1a6:
 
     # "{i}Why isn't Natsuki staying put?!{/i}"
-    "¡¿Es que Natsuki no sabe estarse quieta?!"
+    "¡¿Joder, es que Natsuki no sabe estarse quieta?!"
 
 # game/game_script_act3.rpy:895
 translate spanish game_script_act3_16c2258e:
@@ -434,7 +434,7 @@ translate spanish game_script_act3_1686358a:
 translate spanish game_script_act3_8f4bb4d9:
 
     # s "I just thought it might make it more fun!"
-    s "¡Pero creo que va a ser muy diver!"
+    s "¡Pero creo que va a ser muy díver!"
 
 # game/game_script_act3.rpy:1009
 translate spanish game_script_act3_709ad10b:
@@ -596,7 +596,7 @@ translate spanish game_script_act3_7d84369c:
 translate spanish game_script_act3_9f8505fd:
 
     # "In my room, I dig around through yesterday’s textbooks on the desk."
-    "Ya en mi cuarto, busco en los libros de ayer que dejé hoy en la mesa."
+    "Ya en mi cuarto, busco en los libros que dejé hoy en la mesa."
 
 # game/game_script_act3.rpy:1076
 translate spanish game_script_act3_ddb7f7bd:
@@ -620,7 +620,7 @@ translate spanish game_script_act3_67bb7afe:
 translate spanish game_script_act3_4ba0eb88:
 
     # "As I’m about to leave, {nw}"
-    "Tal y como voy a salir, {nw}"
+    "Justo al salir, {nw}"
 
 # game/game_script_act3.rpy:1081
 translate spanish game_script_act3_be5ff8e7:

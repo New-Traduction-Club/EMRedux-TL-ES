@@ -26,7 +26,7 @@ translate spanish game_script_act3_2b69e81b:
 translate spanish game_script_act3_c8302fee:
 
     # "{i}Check the window.{/i}"
-    "Mira por la ventana."
+    "Miro por la ventana."
 
 # game/game_script_act3.rpy:835
 translate spanish game_script_act3_9850f53c:
@@ -116,7 +116,7 @@ translate spanish game_script_act3_c84aa7b6:
 translate spanish game_script_act3_e8d9aaf2:
 
     # "{i}Double check the window.{/i}"
-    "Mira por la ventana otra vez, Dios mío."
+    "Miro por la ventana otra vez."
 
 # game/game_script_act3.rpy:863
 translate spanish game_script_act3_ca3cdeb5:

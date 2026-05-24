@@ -140,7 +140,7 @@ translate spanish game_script_act3_9a6d6470:
 translate spanish game_script_act3_6f0e45cd:
 
     # extend "you said something about a leaflet earlier, for clubs."
-    extend "que tenías como una especie de folleto en la que habían clubes y eso, ¿no?"
+    extend "que tenías como una especie de folleto en el que habían clubes y eso, ¿no?"
 
 # game/game_script_act3.rpy:873
 translate spanish game_script_act3_69c25b65_2:

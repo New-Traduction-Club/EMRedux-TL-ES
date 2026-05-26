@@ -692,235 +692,235 @@ translate spanish game_script_act3_94931f6b:
 translate spanish game_script_act3_3084a36b:
 
     # "Entering the room, I see books strewn across the floor."
-    ""
+    "Ya en el piso de abajo, veo libros tirados en el suelo."
 
 # game/game_script_act3.rpy:1111
 translate spanish game_script_act3_eedea182:
 
     # "Sayori and Yuri peer over them, muttering back and forth towards each other."
-    ""
+    "Sayori y Yuri se miran mientras murmuran cosas en voz baja."
 
 # game/game_script_act3.rpy:1112
 translate spanish game_script_act3_6d7adf63:
 
     # "Looks like they got a head start on us."
-    ""
+    "Han empezado ya con los estudios."
 
 # game/game_script_act3.rpy:1116
 translate spanish game_script_act3_ca3ad9fe:
 
     # mc "Okay, I’ve got our stuff."
-    mc ""
+    mc "Ya estoy aquí con lo que necesitamos."
 
 # game/game_script_act3.rpy:1118
 translate spanish game_script_act3_4aef3be0:
 
     # "Looking back through the windows one last time for good measure, I decide it’s time to try and put my mind at rest."
-    ""
+    "Miro por ventana una última vez por seguridad y decido que ya es hora de relajarme y no estar tenso."
 
 # game/game_script_act3.rpy:1119
 translate spanish game_script_act3_80b4229c:
 
     # "It’ll be okay."
-    ""
+    "Todo saldrá bien."
 
 # game/game_script_act3.rpy:1120
 translate spanish game_script_act3_349560d1:
 
     # "Just study."
-    ""
+    "Estudia, ya está."
 
 # game/game_script_act3.rpy:1124
 translate spanish game_script_act3_45510f82:
 
     # "Aside from the scratching of pencils upon notebooks, the room has an overwhelming awkward silence to it."
-    ""
+    "El salón de mi casa está en un silencio muy pesado que se ve interrumpido a veces por el garabateo de los lápices en las libretas."
 
 # game/game_script_act3.rpy:1125
 translate spanish game_script_act3_e4ac91a3:
 
     # "None of us have really studied with each other before."
-    ""
+    "Ninguno de nosotros ha estudiado juntos antes."
 
 # game/game_script_act3.rpy:1126
 translate spanish game_script_act3_39fbb5e8:
 
     # "Anxious to speak up, I guess."
-    ""
+    "Supongo que tendré muchas ganas de hablar..."
 
 # game/game_script_act3.rpy:1127
 translate spanish game_script_act3_9e36796c:
 
     # "I slam my pencil down in exasperation."
-    ""
+    "Doy con el lápiz en la mesa por desesperación."
 
 # game/game_script_act3.rpy:1128
 translate spanish game_script_act3_859151bd:
 
     # "It’s a silence that I’m going to have to break...{w}because I’m jumping out of a window otherwise."
-    ""
+    "Lo siento mucho, pero este silencio va a tener que romperse...{w} antes de que me tire por un barranco."
 
 # game/game_script_act3.rpy:1133
 translate spanish game_script_act3_4076a836:
 
     # mc "Okay, am I going insane, or are you guys having trouble with question 5 too?"
-    mc ""
+    mc "Estoy echando humo por la cabeza, madre mía... ¿soy yo el único que no sale del ejercicio 5?"
 
 # game/game_script_act3.rpy:1135
 translate spanish game_script_act3_638af191:
 
     # "Suddenly all eyes are on me, making me flinch slightly before calming."
-    ""
+    "Al momento de decirlo, todas me miran y eso me hace retroceder."
 
 # game/game_script_act3.rpy:1143
 translate spanish game_script_act3_8e6a9579:
 
     # "Sayori and Natsuki sigh and raise up their hands somewhat."
-    ""
+    "Sayori y Natsuki suspiran y levantan un poco las manos."
 
 # game/game_script_act3.rpy:1144
 translate spanish game_script_act3_83e0a5b0:
 
     # "Yuri, after a moment, {nw}"
-    ""
+    "Yuri, al rato, {nw}"
 
 # game/game_script_act3.rpy:1146
 translate spanish game_script_act3_83b9623b:
 
     # extend "nods."
-    extend ""
+    extend "asiente."
 
 # game/game_script_act3.rpy:1148
 translate spanish game_script_act3_886b928a:
 
     # n mg "This has to be a misprint."
-    n mg ""
+    n mg "Debe ser una errata seguro."
 
 # game/game_script_act3.rpy:1150
 translate spanish game_script_act3_567ba901:
 
     # s mh "It doesn’t even make any sense!"
-    s mh ""
+    s mh "¡Estoy con Natsuki! ¡No hay por dónde cogerlo!"
 
 # game/game_script_act3.rpy:1152
 translate spanish game_script_act3_555a217c:
 
     # y me "{size=-6}I’m...at a loss.{/size}"
-    y me ""
+    y me "{size=-6}Me... he perdido.{/size}"
 
 # game/game_script_act3.rpy:1154
 translate spanish game_script_act3_a7f57e45:
 
     # n b1d e2a ml "{i}Yuri{/i} doesn't know?"
-    n b1d e2a ml ""
+    n b1d e2a ml "¿Ni YURI es capaz de hacerlo?"
 
 # game/game_script_act3.rpy:1157
 translate spanish game_script_act3_0a81540d:
 
     # n e4a b3a mi "Screw this, I’m Googling it."
-    n e4a b3a mi ""
+    n e4a b3a mi "Que le den por saco, a ver si encuentro las respuestas en Google."
 
 # game/game_script_act3.rpy:1167
 translate spanish game_script_act3_0dd74262:
 
     # "She snatches my phone off me."
-    ""
+    "Me quita el móvil."
 
 # game/game_script_act3.rpy:1169
 translate spanish game_script_act3_6ea23bdd:
 
     # mc "Hey...!"
-    mc ""
+    mc "¡Pero bueno...!"
 
 # game/game_script_act3.rpy:1172
 translate spanish game_script_act3_ed06afed:
 
     # n "Shut it."
-    n ""
+    n "Que te calles."
 
 # game/game_script_act3.rpy:1176
 translate spanish game_script_act3_4dbd24e8:
 
     # "Sayori stifles a giggle, {w=0.7}{nw}"
-    ""
+    "Sayori se ríe, {w=0.7}{nw}"
 
 # game/game_script_act3.rpy:1179
 translate spanish game_script_act3_10456add:
 
     # extend "but is quickly replaced with another round of silence as we wait for the answer."
-    extend ""
+    extend "aunque deja de hacerlo porque se calla esperando la respuesta del ejercicio."
 
 # game/game_script_act3.rpy:1181
 translate spanish game_script_act3_8824244c:
 
     # "After a moment, Yuri speaks up."
-    ""
+    "Al poco tiempo, Yuri habla."
 
 # game/game_script_act3.rpy:1186
 translate spanish game_script_act3_09e8d77f:
 
     # y "So, Natsuki..."
-    y ""
+    y "Y... eh, Natsuki...,"
 
 # game/game_script_act3.rpy:1188
 translate spanish game_script_act3_72031932:
 
     # y "I...didn’t expect to see you here."
-    y ""
+    y "no... esperaba que estuvieses aquí."
 
 # game/game_script_act3.rpy:1190
 translate spanish game_script_act3_2b5632b9:
 
     # y "As in...living here."
-    y ""
+    y "Ya sabes..., viviendo aquí."
 
 # game/game_script_act3.rpy:1193
 translate spanish game_script_act3_38b5e631:
 
     # mc "Oh, yeah."
-    mc ""
+    mc "Ah, ya."
 
 # game/game_script_act3.rpy:1194
 translate spanish game_script_act3_639a79cd:
 
     # mc "It’s a lon--"
-    mc ""
+    mc "Es una la..."
 
 # game/game_script_act3.rpy:1198
 translate spanish game_script_act3_36509584:
 
     # n "We’re together."
-    n ""
+    n "Estamos juntos."
 
 # game/game_script_act3.rpy:1201
 translate spanish game_script_act3_96b7bf7e:
 
     # n "It’s a thing."
-    n ""
+    n "Es así."
 
 # game/game_script_act3.rpy:1204
 translate spanish game_script_act3_ca583126:
 
     # "She looks tempted to throw in a pre-emptive 'shut up' too, but holds off."
-    ""
+    "Parece que fuera a decir un 'Que te calles' preventivo, pero se ha callado ella."
 
 # game/game_script_act3.rpy:1208
 translate spanish game_script_act3_94737572:
 
     # y "Ah...right."
-    y ""
+    y "Ah, ya..."
 
 # game/game_script_act3.rpy:1210
 translate spanish game_script_act3_916ac900:
 
     # y "Well, er, congratulations, you two."
-    y ""
+    y "Pues, eh... felicidades a los dos."
 
 # game/game_script_act3.rpy:1213
 translate spanish game_script_act3_9048c71e:
 
     # s "Yeah...{w=0.5}{nw}"
-    s ""
+    s "Ya...{w=0.5} {nw}"
 
 # game/game_script_act3.rpy:1215
 translate spanish game_script_act3_6b91b00c:

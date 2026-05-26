@@ -716,7 +716,7 @@ translate spanish game_script_act3_ca3ad9fe:
 translate spanish game_script_act3_4aef3be0:
 
     # "Looking back through the windows one last time for good measure, I decide it’s time to try and put my mind at rest."
-    "Miro por ventana una última vez por seguridad y decido que ya es hora de relajarme y no estar tenso."
+    "Miro por la ventana una última vez por seguridad y decido que ya es hora de relajarme y no estar tenso."
 
 # game/game_script_act3.rpy:1119
 translate spanish game_script_act3_80b4229c:

@@ -734,7 +734,7 @@ translate spanish game_script_act3_349560d1:
 translate spanish game_script_act3_45510f82:
 
     # "Aside from the scratching of pencils upon notebooks, the room has an overwhelming awkward silence to it."
-    "El salón de mi casa está en un silencio muy pesado que se ve interrumpido a veces por el garabateo de los lápices en las libretas."
+    "El salón de mi casa está inundado por un silencio muy pesado que se ve interrumpido a veces por el garabateo de los lápices en las libretas."
 
 # game/game_script_act3.rpy:1125
 translate spanish game_script_act3_e4ac91a3:

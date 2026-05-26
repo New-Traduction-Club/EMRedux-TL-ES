@@ -926,37 +926,37 @@ translate spanish game_script_act3_9048c71e:
 translate spanish game_script_act3_6b91b00c:
 
     # extend "it’s exciting!"
-    extend ""
+    extend "¡qué guay!"
 
 # game/game_script_act3.rpy:1217
 translate spanish game_script_act3_a64e8bc0_1:
 
     # mc "Thanks."
-    mc ""
+    mc "Sí..., gracias."
 
 # game/game_script_act3.rpy:1218
 translate spanish game_script_act3_ee6a554d:
 
     # mc "Uh, where were we...?"
-    mc ""
+    mc "Y... ¿dónde nos hemos...?"
 
 # game/game_script_act3.rpy:1222
 translate spanish game_script_act3_843d4711:
 
     # y "The answer?"
-    y ""
+    y "¿La respuesta al 5?"
 
 # game/game_script_act3.rpy:1224
 translate spanish game_script_act3_cf1adef2:
 
     # mc "Yeah."
-    mc ""
+    mc "Ah, sí. Es verdad."
 
 # game/game_script_act3.rpy:1226
 translate spanish game_script_act3_ae703ce1:
 
     # n "Speaking of..."
-    n ""
+    n "Hablando del Rey de Roma..."
 
 # game/game_script_act3.rpy:1231
 translate spanish game_script_act3_86058d15:

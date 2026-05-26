@@ -962,235 +962,235 @@ translate spanish game_script_act3_ae703ce1:
 translate spanish game_script_act3_86058d15:
 
     # "Nat, looking pleased with herself, shows us the solution."
-    ""
+    "Nat, orgullosa de au logro, nos enseña la solución."
 
 # game/game_script_act3.rpy:1234
 translate spanish game_script_act3_524ee535:
 
     # mc "Literally {i}how{/i}?"
-    mc ""
+    mc "Es que cómo se supone que..."
 
 # game/game_script_act3.rpy:1235
 translate spanish game_script_act3_e7b88e90:
 
     # mc "Whatever."
-    mc ""
+    mc "Me la suda."
 
 # game/game_script_act3.rpy:1236
 translate spanish game_script_act3_25326912:
 
     # "I don’t normally advocate taking the easy way out, but..."
-    ""
+    "Normalmente no soy de los que va por el camino fácil, pero...,"
 
 # game/game_script_act3.rpy:1239
 translate spanish game_script_act3_2e648231:
 
     # "How else did they expect us to solve this?"
-    ""
+    "¿cómo coño esperaban que resolviésemos el ejercicio?"
 
 # game/game_script_act3.rpy:1240
 translate spanish game_script_act3_09fd3e5d:
 
     # "I groan and write down the answer as pictured."
-    ""
+    "Gimo y escribo todo tal cual pone en el teléfono."
 
 # game/game_script_act3.rpy:1244
 translate spanish game_script_act3_a8eb4e8e:
 
     # mc "All good to move on?"
-    mc ""
+    mc "¿Estamos todos preparados para seguir?"
 
 # game/game_script_act3.rpy:1246
 translate spanish game_script_act3_4d768d8f:
 
     # s "I am."
-    s ""
+    s "Sí."
 
 # game/game_script_act3.rpy:1249
 translate spanish game_script_act3_fff2d6da:
 
     # y "Yes."
-    y ""
+    y "Sí."
 
 # game/game_script_act3.rpy:1253
 translate spanish game_script_act3_fcbb10e2:
 
     # "Natsuki nods and hands me my phone back."
-    ""
+    "Natsuki asiente y me devuelve el móvil."
 
 # game/game_script_act3.rpy:1254
 translate spanish game_script_act3_f59717b3:
 
     # "I peer back over the textbook, resuming my note-taking."
-    ""
+    "Vuelvo a escribir apuntes mientras miro el libro de texto."
 
 # game/game_script_act3.rpy:1269
 translate spanish game_script_act3_a3eaee96:
 
     # "Several notebook pages of notes later, I stretch my arms out."
-    ""
+    "Me estiro tras escribir unas cuantas páginas más."
 
 # game/game_script_act3.rpy:1270
 translate spanish game_script_act3_ee7ddb6f:
 
     # "It’s about as torturous as one could expect maths to be, but it’s something to focus on."
-    ""
+    "Aunque considere que mates es lo mismo que las torturas medievales, requiere de mucha concentración."
 
 # game/game_script_act3.rpy:1271
 translate spanish game_script_act3_191bba11:
 
     # "To try and forget..."
-    ""
+    "Y sí, mucha concentración para olvidar que..."
 
 # game/game_script_act3.rpy:1287
 translate spanish game_script_act3_c4cb31c4:
 
     # "Interrupting my train of thought, Sayori lets out a long, drawn-out yawn."
-    ""
+    "Sayori bosteza durante un buen rato y me hace espabilar."
 
 # game/game_script_act3.rpy:1290
 translate spanish game_script_act3_f59776e3:
 
     # n "All this studying isn’t as exciting as you thought it’d be, huh?"
-    n ""
+    n "De verdad, pensaba que esto iba a ser más emocionante."
 
 # game/game_script_act3.rpy:1293
 translate spanish game_script_act3_b90c7f07:
 
     # s "Hey! I’m enjoying it, I’m just getting a little worn out."
-    s ""
+    s "¡Oye, que me lo estoy pasando bien! Lo que pasa es que estoy un poquito cansada."
 
 # game/game_script_act3.rpy:1295
 translate spanish game_script_act3_c6d2fd7b:
 
     # mc "You {i}enjoy{/i} math?"
-    mc ""
+    mc "¿Que te lo pasas bien con mates?"
 
 # game/game_script_act3.rpy:1297
 translate spanish game_script_act3_e62fc2a4:
 
     # s "Yeah! So?"
-    s ""
+    s "¡Claro! ¿Qué pasa?"
 
 # game/game_script_act3.rpy:1300
 translate spanish game_script_act3_bcc9f344:
 
     # n "Psychopath."
-    n ""
+    n "Menuda psicópata."
 
 # game/game_script_act3.rpy:1305
 translate spanish game_script_act3_5a38a058:
 
     # "She sticks out her tongue at Nat."
-    ""
+    "Le ha estirado la lengua, es lo que hay."
 
 # game/game_script_act3.rpy:1309
 translate spanish game_script_act3_773fe8f6:
 
     # s "I like the feeling of completing a puzzle in my head!"
-    s ""
+    s "¡Me gusta sentir que en mi mente estoy resolviendo un rompecabezas!"
 
 # game/game_script_act3.rpy:1311
 translate spanish game_script_act3_5e92d2ba:
 
     # s "Though, it {i}is{/i} getting really tiring..."
-    s ""
+    s "Aunque es cierto que ya cansa un poco..."
 
 # game/game_script_act3.rpy:1315
 translate spanish game_script_act3_2284eb0a:
 
     # y "In which case, it might be wise to take a short break."
-    y ""
+    y "En ese caso, ¿qué tal si descansamos un poco?"
 
 # game/game_script_act3.rpy:1317
 translate spanish game_script_act3_150ecc7e:
 
     # mc "Yeah. I can go see if we’ve got any snacks around?"
-    mc ""
+    mc "Claro. ¿Queréis que eche un vistazo por si tengo algo para picar?"
 
 # game/game_script_act3.rpy:1319
 translate spanish game_script_act3_242a314b:
 
     # s "Ooh, yes please!"
-    s ""
+    s "¡Ayyy! ¡Sí, sí, porfi!"
 
 # game/game_script_act3.rpy:1321
 translate spanish game_script_act3_369d123f:
 
     # mc "I've got some coffee, some hot chocolate, and a packet or two of green tea lying around, I think."
-    mc ""
+    mc "Tengo algo de café, un poco de chocolate caliente... y un par de sobres de té verde, creo."
 
 # game/game_script_act3.rpy:1322
 translate spanish game_script_act3_6cff264c:
 
     # mc "Any of you want some?"
-    mc ""
+    mc "¿Os apetece algo de eso?"
 
 # game/game_script_act3.rpy:1324
 translate spanish game_script_act3_71a7f721:
 
     # s "Mm, could I get some hot chocolate please?"
-    s ""
+    s "¿Me pones el chocolate?"
 
 # game/game_script_act3.rpy:1327
 translate spanish game_script_act3_c9d58479:
 
     # y "The tea for me...if it’s not a bother...?"
-    y ""
+    y "Si no es molestia... ¿podría el té?"
 
 # game/game_script_act3.rpy:1329
 translate spanish game_script_act3_5a86862f:
 
     # mc "Not at all."
-    mc ""
+    mc "Sin problema."
 
 # game/game_script_act3.rpy:1330
 translate spanish game_script_act3_3d238ca7_2:
 
     # mc "Natsuki?"
-    mc ""
+    mc "¿Tú, Natsuki?"
 
 # game/game_script_act3.rpy:1339
 translate spanish game_script_act3_8e06969e:
 
     # "Natsuki, entrenched in her textbook, is brought back to the real world."
-    ""
+    "Natsuki, inmersa en el libro de texto, vuelve a la realidad de golpe."
 
 # game/game_script_act3.rpy:1342
 translate spanish game_script_act3_a863d311:
 
     # n "Oh, huh?"
-    n ""
+    n "Ah, ¿eh?"
 
 # game/game_script_act3.rpy:1344
 translate spanish game_script_act3_53478e71:
 
     # mc "Hot chocolate?"
-    mc ""
+    mc "¿Quieres que te haga algo de chocolate caliente?"
 
 # game/game_script_act3.rpy:1346
 translate spanish game_script_act3_887e1e5f:
 
     # n "Oh, yeah. sure."
-    n ""
+    n "Ah... claro, claro."
 
 # game/game_script_act3.rpy:1348
 translate spanish game_script_act3_6651ab87:
 
     # mc "Alright."
-    mc ""
+    mc "Genial entonces."
 
 # game/game_script_act3.rpy:1349
 translate spanish game_script_act3_5034d0eb:
 
     # mc "Two hot chocolates, a tea, and a coffee. Coming right up."
-    mc ""
+    mc "Dos chocolates calientes, un té y un café. Oído cocina."
 
 # game/game_script_act3.rpy:1351
 translate spanish game_script_act3_f609c94f:
 
     # "Leaving them to their small talk, I enter the kitchen and reach for the kettle."
-    ""
+    "Las dejo charlar y voy a la cocina en busca de la tetera."
 
 # game/game_script_act3.rpy:1353
 translate spanish game_script_act3_64ad7615:

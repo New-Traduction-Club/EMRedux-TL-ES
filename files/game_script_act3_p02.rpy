@@ -1196,235 +1196,235 @@ translate spanish game_script_act3_f609c94f:
 translate spanish game_script_act3_64ad7615:
 
     # "I pick it up, approximating how full it is by weight."
-    ""
+    "La cojo, le voy echando agua y calculo el tope de llenado según el peso."
 
 # game/game_script_act3.rpy:1355
 translate spanish game_script_act3_0967abd5:
 
     # "Deeming it enough, I set it back down and flick the switch."
-    ""
+    "Creo que ya es suficiente agua, por lo que la vuelvo a colocar y le doy al interruptor."
 
 # game/game_script_act3.rpy:1356
 translate spanish game_script_act3_3f617680:
 
     # "The kettle comes to life, the deep rumbling slowly intensifying."
-    ""
+    "La tetera empieza a hacer ruido, que poco a poco se intensifica."
 
 # game/game_script_act3.rpy:1357
 translate spanish game_script_act3_686373cb:
 
     # "Reaching into the cupboard, I grab three generic mugs, alongside the cat-eared one."
-    ""
+    "Voy al armario y cojo tres tazas normaluchas junto a la rosa chillón con orejas de gato."
 
 # game/game_script_act3.rpy:1358
 translate spanish game_script_act3_ba7b9ac8:
 
     # "I grab the instant coffee and begin preparing my own drink."
-    ""
+    "Cojo el café instantáneo y me lo preparo."
 
 # game/game_script_act3.rpy:1359
 translate spanish game_script_act3_631715ab:
 
     # "As I begin my search for the tea packet, Sayori shows up."
-    ""
+    "Justo cuando voy a por una bolsita de té, Sayori viene."
 
 # game/game_script_act3.rpy:1362
 translate spanish game_script_act3_5f0d71bb:
 
     # s "Hey."
-    s ""
+    s "Ey."
 
 # game/game_script_act3.rpy:1364
 translate spanish game_script_act3_67202ff1:
 
     # s "Need any help with the drinks?"
-    s ""
+    s "¿Te echo una mano con las bebidas?"
 
 # game/game_script_act3.rpy:1366
 translate spanish game_script_act3_599093e2:
 
     # mc "Oh, sure."
-    mc ""
+    mc "Claro, ¿por qué no?"
 
 # game/game_script_act3.rpy:1368
 translate spanish game_script_act3_df140d35:
 
     # s "So...I did say I’d check up on you..."
-    s ""
+    s "Tal y como dije, he venido a echarte un vistazo... así que,"
 
 # game/game_script_act3.rpy:1370
 translate spanish game_script_act3_8e6a8b26:
 
     # s "How’re you feeling?"
-    s ""
+    s "¿cómo estás?"
 
 # game/game_script_act3.rpy:1372
 translate spanish game_script_act3_58d53a02:
 
     # mc "Do you really wanna know?"
-    mc ""
+    mc "¿Tantas ganas tienes de saberlo?"
 
 # game/game_script_act3.rpy:1375
 translate spanish game_script_act3_5c9ff614:
 
     # "She nods."
-    ""
+    "Asiente."
 
 # game/game_script_act3.rpy:1377
 translate spanish game_script_act3_650b7b6c:
 
     # mc "Well, the good news is, I managed to clear everything up with Natsuki."
-    mc ""
+    mc "Pues mira, lo único bueno es que he conseguido arreglar todo con Natsuki."
 
 # game/game_script_act3.rpy:1379
 translate spanish game_script_act3_82c6eb91:
 
     # s "Hey, that’s something!"
-    s ""
+    s "¡Algo es algo!"
 
 # game/game_script_act3.rpy:1381
 translate spanish game_script_act3_312c58db:
 
     # mc "The bad news is, I’m..."
-    mc ""
+    mc "Lo malo es...,"
 
 # game/game_script_act3.rpy:1383
 translate spanish game_script_act3_2660596c:
 
     # mc "Well, I’m terrified."
-    mc ""
+    mc "pues eso, que tengo miedo."
 
 # game/game_script_act3.rpy:1385
 translate spanish game_script_act3_28300309:
 
     # mc "I’m sure you figured that out already, but..."
-    mc ""
+    mc "Seguro que ya te habrás dado cuenta..."
 
 # game/game_script_act3.rpy:1387
 translate spanish game_script_act3_56661c1f:
 
     # s "I’m sorry, [player]..."
-    s ""
+    s "Lo siento muchísimo, [player]..."
 
 # game/game_script_act3.rpy:1389
 translate spanish game_script_act3_b701432b:
 
     # mc "Not your fault."
-    mc ""
+    mc "No es culpa tuya."
 
 # game/game_script_act3.rpy:1390
 translate spanish game_script_act3_5b18062b:
 
     # mc "It’s just...this morning, I got us a taxi to avoid the walk to school."
-    mc ""
+    mc "Esta mañana pillamos un taxi para evitar ir a clase andando...,"
 
 # game/game_script_act3.rpy:1392
 translate spanish game_script_act3_dc5f7bf9:
 
     # mc "And on the way back...God, I felt like my heart was gonna explode."
-    mc ""
+    mc "y Dios mío, a la hora de volver... me iba a estallar el pecho."
 
 # game/game_script_act3.rpy:1393
 translate spanish game_script_act3_6f5b6026:
 
     # mc "I only even went to school because..."
-    mc ""
+    mc "Solo he asistido a clases por tal de...,"
 
 # game/game_script_act3.rpy:1395
 translate spanish game_script_act3_a9b08cc6:
 
     # mc "...because I didn’t want to tell her."
-    mc ""
+    mc "por tal de no decirle nada."
 
 # game/game_script_act3.rpy:1397
 translate spanish game_script_act3_63b5eb45:
 
     # "Without a proper response ready, Sayori is left stammering."
-    ""
+    "Sin nada que decir, a Sayori parece temblarle la boca."
 
 # game/game_script_act3.rpy:1400
 translate spanish game_script_act3_20ca3639:
 
     # mc "But, we’ll manage."
-    mc ""
+    mc "Nos la apañaremos, ¿vale?"
 
 # game/game_script_act3.rpy:1402
 translate spanish game_script_act3_a1f29220:
 
     # mc "And hey, the study thing...it’s helping keep my mind off it."
-    mc ""
+    mc "Y piensa también que esta actividad que has montado me está ayudando bastante a sobrellevarlo."
 
 # game/game_script_act3.rpy:1403
 translate spanish game_script_act3_0ae6b054:
 
     # mc "So thanks."
-    mc ""
+    mc "Muchas gracias."
 
 # game/game_script_act3.rpy:1405
 translate spanish game_script_act3_23d81314:
 
     # s "[player]..."
-    s ""
+    s "[player]..."
 
 # game/game_script_act3.rpy:1407
 translate spanish game_script_act3_bccb88d1:
 
     # s "You can’t hide this from her forever, you know?"
-    s ""
+    s "Sabes bien que no puedes esconderlo para siempre."
 
 # game/game_script_act3.rpy:1409
 translate spanish game_script_act3_211ff9db:
 
     # s "It’ll be a tough conversation, but she has to know."
-    s ""
+    s "Será duro de hablarlo, pero ha de saberlo."
 
 # game/game_script_act3.rpy:1411
 translate spanish game_script_act3_1d318b7d:
 
     # s "It’s really not right to keep something this important from her."
-    s ""
+    s "No es bueno que trates de ocultárselo siendo algo tan importante."
 
 # game/game_script_act3.rpy:1413
 translate spanish game_script_act3_e86d06a7:
 
     # mc "I get the concern, but..."
-    mc ""
+    mc "Lo pillo, pero...,"
 
 # game/game_script_act3.rpy:1414
 translate spanish game_script_act3_c1b0fadc:
 
     # mc "Could we talk about this another time?"
-    mc ""
+    mc "¿te apetece hablarlo en otro momento?"
 
 # game/game_script_act3.rpy:1417
 translate spanish game_script_act3_af74e112:
 
     # s "...{w}Yeah, I guess."
-    s ""
+    s "Eh...{w} sí, supongo."
 
 # game/game_script_act3.rpy:1419
 translate spanish game_script_act3_3e6a1e56:
 
     # mc "Sorry, Sayori, it's just..."
-    mc ""
+    mc "Perdona, Sayori, es que..."
 
 # game/game_script_act3.rpy:1421
 translate spanish game_script_act3_0e1a6d5e:
 
     # s "No, I understand. Don't worry about it, okay?"
-    s ""
+    s "No, no, tranquilo. Te comprendo. No te preocupes, ¿vale?"
 
 # game/game_script_act3.rpy:1423
 translate spanish game_script_act3_8109d2ac:
 
     # mc "O-okay."
-    mc ""
+    mc "S-Sí."
 
 # game/game_script_act3.rpy:1425
 translate spanish game_script_act3_7552239e:
 
     # "The kettle’s hiss takes me back to the drinks."
-    ""
+    "El silbido de la tetera me hace volver a centrarme en las bebidas."
 
 # game/game_script_act3.rpy:1427
 translate spanish game_script_act3_a2638b8f:

@@ -1424,139 +1424,139 @@ translate spanish game_script_act3_8109d2ac:
 translate spanish game_script_act3_7552239e:
 
     # "The kettle’s hiss takes me back to the drinks."
-    "El silbido de la tetera me hace volver a centrarme en las bebidas."
+    "El silbido de la tetera me hace volver a las bebidas."
 
 # game/game_script_act3.rpy:1427
 translate spanish game_script_act3_a2638b8f:
 
     # mc "Sorry, c-could you grab two of the little hot chocolate packets? Top cupboard."
-    mc ""
+    mc "Perdona, ¿t-te importaría coger dos sobres de chocolate caliente? Están en la parte de arriba del armario."
 
 # game/game_script_act3.rpy:1429
 translate spanish game_script_act3_0e186c9d:
 
     # s "Sure thing."
-    s ""
+    s "Claro."
 
 # game/game_script_act3.rpy:1434
 translate spanish game_script_act3_b8a4585f:
 
     # "She digs around in one of the upper cupboards, before recovering the pack of hot chocolate sachets and passing it to me."
-    ""
+    "Rebusca por la parte de arriba hasta encontrar los sobres y dármelos."
 
 # game/game_script_act3.rpy:1436
 translate spanish game_script_act3_a64e8bc0_2:
 
     # mc "Thanks."
-    mc ""
+    mc "Gracias."
 
 # game/game_script_act3.rpy:1438
 translate spanish game_script_act3_a76efe50:
 
     # "Tearing each sachet open with my teeth, I dump them into the other cups, before returning to my coffee."
-    ""
+    "Abriéndolos con los dientes, los echo en cada taza y vuelvo a mi café."
 
 # game/game_script_act3.rpy:1439
 translate spanish game_script_act3_db4dec52:
 
     # "Taking the kettle, I slowly pour the boiling water into each of the mugs, before gently stirring each with a spoon."
-    ""
+    "Cojo la tetera y echo agua hirviendo en cada taza, poniendo una cuchara por cada una llena."
 
 # game/game_script_act3.rpy:1440
 translate spanish game_script_act3_fa44be01:
 
     # "Sayori grabs two of the mugs, while I take the other two, and together we bring them all back to the living room."
-    ""
+    "Sayori se lleva dos de ellas, y yo las que quedan, para ir directamente al salón."
 
 # game/game_script_act3.rpy:1446
 translate spanish game_script_act3_fd377454:
 
     # y "Thank you, [player]."
-    y ""
+    y "Muchas gracias, [player]."
 
 # game/game_script_act3.rpy:1450
 translate spanish game_script_act3_75e1b106:
 
     # n "Thanks."
-    n ""
+    n "Gracias."
 
 # game/game_script_act3.rpy:1452
 translate spanish game_script_act3_5bb4ef48:
 
     # mc "Don’t worry about it."
-    mc ""
+    mc "A vosotras."
 
 # game/game_script_act3.rpy:1465
 translate spanish game_script_act3_9f6ce5fa:
 
     # "We all drink in sync."
-    ""
+    "Bebemos al unísono."
 
 # game/game_script_act3.rpy:1473
 translate spanish game_script_act3_cb45f210:
 
     # "Yuri peers around the living room, taking in...whatever it is that’s so interesting about it."
-    ""
+    "Yuri ojea todo el salón atenta a... yo qué sé, lo que le interese tanto."
 
 # game/game_script_act3.rpy:1474
 translate spanish game_script_act3_08b8fb25:
 
     # "Soon after, she speaks up."
-    ""
+    "Tras eso, habla."
 
 # game/game_script_act3.rpy:1478
 translate spanish game_script_act3_093bfd60:
 
     # y "I...like your house, [player]."
-    y ""
+    y "Me... gusta bastante tu casa, [player]."
 
 # game/game_script_act3.rpy:1481
 translate spanish game_script_act3_98ca3ad1:
 
     # y "The decor is very...{w=0.7}{nw}"
-    y ""
+    y "La decoración pega bastante con...{w=0.7} {nw}"
 
 # game/game_script_act3.rpy:1484
 translate spanish game_script_act3_dd47bc65:
 
     # extend "you."
-    extend ""
+    extend "tigo."
 
 # game/game_script_act3.rpy:1486
 translate spanish game_script_act3_3a33c469:
 
     # mc "Aha...thanks."
-    mc ""
+    mc "Ja, ja, ja. Gracias."
 
 # game/game_script_act3.rpy:1489
 translate spanish game_script_act3_c5663f00:
 
     # mc "I wish I was the one with the great taste, but this was all my parents’ doing."
-    mc ""
+    mc "Ojalá decir que ha sido mérito mío, pero hay que achacarle todo a mis padres."
 
 # game/game_script_act3.rpy:1491
 translate spanish game_script_act3_06544bb2:
 
     # n "Well, apart from the mess."
-    n ""
+    n "Sí, ya, pero el dejarla hecha un desastre sí es cosa tuya."
 
 # game/game_script_act3.rpy:1495
 translate spanish game_script_act3_982b637b:
 
     # n "That’s all him."
-    n ""
+    n "Todo cosa suya."
 
 # game/game_script_act3.rpy:1498
 translate spanish game_script_act3_a64e8bc0_3:
 
     # mc "Thanks."
-    mc ""
+    mc "Gracias, Natsuki."
 
 # game/game_script_act3.rpy:1500
 translate spanish game_script_act3_eaad1ffe:
 
     # n "Anytime."
-    n ""
+    n "Sin problemas."
 
 # game/game_script_act3.rpy:1503
 translate spanish game_script_act3_45a64dce:

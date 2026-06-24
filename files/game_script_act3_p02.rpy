@@ -578,9 +578,7 @@ translate spanish game_script_act3_154aa50e:
 translate spanish game_script_act3_559227f0:
 
     # mc "Don’t worry, you guys can go ahead."
-    mc "No pasa nada, id empezando vosotras."
-
-# game/game_script_act3.rpy:1069
+    mc "No pasa nada, id empevaadodolqodhqlr7wbrkwoehdkwhdbsubsoejndoel# game/game_script_act3.rpy:1069
 translate spanish game_script_act3_85c47b78:
 
     # mc "I’ll be right back."
@@ -1544,7 +1542,7 @@ translate spanish game_script_act3_06544bb2:
 translate spanish game_script_act3_982b637b:
 
     # n "That’s all him."
-    n "Todo cosa suya."
+    n "Es todo cosa suya."
 
 # game/game_script_act3.rpy:1498
 translate spanish game_script_act3_a64e8bc0_3:
@@ -1562,37 +1560,37 @@ translate spanish game_script_act3_eaad1ffe:
 translate spanish game_script_act3_45a64dce:
 
     # "It seems nobody wants to talk about the elephant in the room."
-    ""
+    "No parece que nadie quiera hablarlo...,"
 
 # game/game_script_act3.rpy:1504
 translate spanish game_script_act3_f818b11a:
 
     # "That will have to happen eventually..."
-    ""
+    "pero alguien tendrá que romper el hielo en algún momento."
 
 # game/game_script_act3.rpy:1505
 translate spanish game_script_act3_3720b96c:
 
     # "It’d be better to rip the bandage off now."
-    ""
+    "Me parece que esa persona tendrá que ser el menda."
 
 # game/game_script_act3.rpy:1510
 translate spanish game_script_act3_a67b97ae:
 
     # mc "So, uh...earlier, Natsuki and I were discussing...options, for other clubs."
-    mc ""
+    mc "Eh... resulta que... Natsuki y yo estuvimos hablando sobre, mmm..., sobre unirnos a otro club."
 
 # game/game_script_act3.rpy:1512
 translate spanish game_script_act3_2bfd8911:
 
     # "Sayori and Yuri both turn my way."
-    ""
+    "Sayori y Yuri me miran."
 
 # game/game_script_act3.rpy:1514
 translate spanish game_script_act3_28ce9a80:
 
     # "All eyes are on me."
-    ""
+    "Y ahora me mira todo el mundo."
 
 # game/game_script_act3.rpy:1516
 translate spanish game_script_act3_24656395:

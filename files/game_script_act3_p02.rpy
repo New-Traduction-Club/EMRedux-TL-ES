@@ -578,7 +578,7 @@ translate spanish game_script_act3_154aa50e:
 translate spanish game_script_act3_559227f0:
 
     # mc "Don’t worry, you guys can go ahead."
-    mc "No pasa nada, id empevaadodolqodhqlr7wbrkwoehdkwhdbsubsoejndoel# game/game_script_act3.rpy:1069
+    mc "No pasa nada, id empevaahdelanodubwudaientoo7wbrkwoehdkwhdbsubsoejndoel# game/game_script_act3.rpy:1069
 translate spanish game_script_act3_85c47b78:
 
     # mc "I’ll be right back."
@@ -1578,7 +1578,7 @@ translate spanish game_script_act3_3720b96c:
 translate spanish game_script_act3_a67b97ae:
 
     # mc "So, uh...earlier, Natsuki and I were discussing...options, for other clubs."
-    mc "Eh... resulta que... Natsuki y yo estuvimos hablando sobre, mmm..., sobre unirnos a otro club."
+    mc "Pues... resulta que... Natsuki y yo estuvimos hablando sobre, mmm..., sobre unirnos a otro club y...,"
 
 # game/game_script_act3.rpy:1512
 translate spanish game_script_act3_2bfd8911:
@@ -1596,31 +1596,31 @@ translate spanish game_script_act3_28ce9a80:
 translate spanish game_script_act3_24656395:
 
     # mc "And, uh, I figured maybe you guys would wanna take part in that."
-    mc ""
+    mc "y pensé que... pues eso, que queríais echarle un ojo a alguno conmigo."
 
 # game/game_script_act3.rpy:1517
 translate spanish game_script_act3_76696138:
 
     # y mh e1b b1b "Oh, I don’t know..."
-    y mh e1b b1b ""
+    y mh e1b b1b "Ah, pues n lo tengo muy claro, la verdad..."
 
 # game/game_script_act3.rpy:1518
 translate spanish game_script_act3_959baf65:
 
     # y mb e1a b2b "I don’t really know if I’d...fit in as well elsewhere..."
-    y mb e1a b2b ""
+    y mb e1a b2b "No siento que vaya a... a encajar de igual manera en cualquier otro club..."
 
 # game/game_script_act3.rpy:1520
 translate spanish game_script_act3_3b7b27bf:
 
     # mc "Well, there’s a lot on offer."
-    mc ""
+    mc "A ver, no hay pocos precisamente para elegir."
 
 # game/game_script_act3.rpy:1522
 translate spanish game_script_act3_18659b9a:
 
     # "I grab the leaflet from my bag and begin poring over it."
-    ""
+    "Cojo el folleto de la mochila y lo leo despacio."
 
 # game/game_script_act3.rpy:1526
 translate spanish game_script_act3_06b83a19:

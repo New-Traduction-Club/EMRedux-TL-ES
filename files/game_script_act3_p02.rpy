@@ -578,7 +578,7 @@ translate spanish game_script_act3_154aa50e:
 translate spanish game_script_act3_559227f0:
 
     # mc "Don’t worry, you guys can go ahead."
-    mc "No pasa nada, id empevaahdelanodubwudaientoo7wbrkwoehdkwhdbsubsoejndoel# game/game_script_act3.rpy:1069
+    mc "No pasa nada, id empevntodkwhdbsubsoejndoel# game/game_script_act3.rpy:1069
 translate spanish game_script_act3_85c47b78:
 
     # mc "I’ll be right back."
@@ -1320,7 +1320,7 @@ translate spanish game_script_act3_5b18062b:
 translate spanish game_script_act3_dc5f7bf9:
 
     # mc "And on the way back...God, I felt like my heart was gonna explode."
-    mc "y Dios mío, a la hora de volver... me iba a estallar el pecho."
+    mc "y Dios mío, a la hora de volver... me quería morir."
 
 # game/game_script_act3.rpy:1393
 translate spanish game_script_act3_6f5b6026:
@@ -1626,133 +1626,133 @@ translate spanish game_script_act3_18659b9a:
 translate spanish game_script_act3_06b83a19:
 
     # "Natsuki snatches it out of my hands once I’ve finished and skims over it..."
-    ""
+    "Natsuki me lo arranca de las manos cuando termino de leerlo y le echa un vistazo por encima...,"
 
 # game/game_script_act3.rpy:1535
 translate spanish game_script_act3_21165f54:
 
     # "...before handing it over to Sayori."
-    ""
+    "antes de dárselo a Sayori."
 
 # game/game_script_act3.rpy:1543
 translate spanish game_script_act3_683802af:
 
     # "She then hands it to Yuri..."
-    ""
+    "Sayori hace lo mismo que Natsuki y se lo da a Yuri."
 
 # game/game_script_act3.rpy:1550
 translate spanish game_script_act3_538564f0:
 
     # "...and before long it makes its way back to me."
-    ""
+    "Y Yuri hace lo mismo que Sayori y me lo devuelve."
 
 # game/game_script_act3.rpy:1551
 translate spanish game_script_act3_3b1113ef:
 
     # mc "Don’t see anything you like?"
-    mc ""
+    mc "¿No os llama ninguno?"
 
 # game/game_script_act3.rpy:1552
 translate spanish game_script_act3_1883baf3:
 
     # n cross e1d b1d mg "Not really."
-    n cross e1d b1d mg ""
+    n cross e1d b1d mg "Qué va."
 
 # game/game_script_act3.rpy:1553
 translate spanish game_script_act3_50af3aeb:
 
     # n e1b b1c mh "It’s just not the same."
-    n e1b b1c mh ""
+    n e1b b1c mh "No me atraen igual que el club de literatura."
 
 # game/game_script_act3.rpy:1555
 translate spanish game_script_act3_099e0f15:
 
     # s b1f mb "Really?"
-    s b1f mb ""
+    s b1f mb "¿En serio?"
 
 # game/game_script_act3.rpy:1556
 translate spanish game_script_act3_f7f22427:
 
     # s b1a e2b mc "I mean, there’s the baking club, the chess team, the debate club..."
-    s b1a e2b mc ""
+    s b1a e2b mc "Pero si hay club de cocina, de ajedrez, de debate..."
 
 # game/game_script_act3.rpy:1558
 translate spanish game_script_act3_a6772076:
 
     # y rup mb e4a b2c awkw "I could never."
-    y rup mb e4a b2c awkw ""
+    y rup mb e4a b2c awkw "No me atrevería."
 
 # game/game_script_act3.rpy:1562
 translate spanish game_script_act3_1411e09b:
 
     # "Yuri, aware of her thought slipping out, elaborates."
-    ""
+    "Yuri argumenta su pensamiento en voz alta."
 
 # game/game_script_act3.rpy:1564
 translate spanish game_script_act3_6a8e69ab:
 
     # y -blaw mb e1c b1b "D-debating seems a little intense for me."
-    y -blaw mb e1c b1b ""
+    y -blaw mb e1c b1b "Debatir no es lo m-mío..."
 
 # game/game_script_act3.rpy:1565
 translate spanish game_script_act3_26343f6e:
 
     # y mg e1a "I could probably put together a solid argument..."
-    y mg e1a ""
+    y mg e1a "Puede que llegue a una irrebatible argumentación sólida...,"
 
 # game/game_script_act3.rpy:1566
 translate spanish game_script_act3_fa71fc42:
 
     # y mk e1b "...but actually getting it out there in a clear and concise way?"
-    y mk e1b ""
+    y mk e1b "pero... ¿creéis que sabría expresarla de forma clara y concisa?"
 
 # game/game_script_act3.rpy:1568
 translate spanish game_script_act3_718ab5e7:
 
     # s awkw b1b mb e1c "Yeah..."
-    s awkw b1b mb e1c ""
+    s awkw b1b mb e1c "Ah, ya..."
 
 # game/game_script_act3.rpy:1569
 translate spanish game_script_act3_04ee0779:
 
     # s e1b lup "Okay, maybe the other clubs aren’t such a good idea..."
-    s e1b lup ""
+    s e1b lup "A ver, puede que unirnos a otros clubes no sea la mejor idea que hayamos tenido..."
 
 # game/game_script_act3.rpy:1570
 translate spanish game_script_act3_34925ffc:
 
     # s -awkw e1a mh rup "I don’t like keeping myself away from the literature club."
-    s -awkw e1a mh rup ""
+    s -awkw e1a mh rup "No me hace mucha gracia alejarme de todo lo que es el club de literatura,"
 
 # game/game_script_act3.rpy:1571
 translate spanish game_script_act3_0807845d:
 
     # s e1b mi rdown ldown "But...I don’t know if I’d feel well there unless Monika..."
-    s e1b mi rdown ldown ""
+    s e1b mi rdown ldown "pero no sé si me voy a sentir cómoda hasta que Monika no...,"
 
 # game/game_script_act3.rpy:1574
 translate spanish game_script_act3_197ce7c1:
 
     # n b1e e1c mi "Learns how to appropriately treat someone with a mental illness?{w=0.8}{nw}"
-    n b1e e1c mi ""
+    n b1e e1c mi "¿no aprenda a tratar mejor a alguien con una enfermedad mental?{w=0.8}{nw}"
 
 # game/game_script_act3.rpy:1576
 translate spanish game_script_act3_5687b4d7:
 
     # extend "...No offense."
-    extend ""
+    extend "Eh..., sin ofender."
 
 # game/game_script_act3.rpy:1579
 translate spanish game_script_act3_7ca6357b:
 
     # "Despite the bluntness of her statement, Sayori seems unphased."
-    ""
+    "A pesar de la brusquedad que ha soltado, Sayori parece impasible."
 
 # game/game_script_act3.rpy:1582
 translate spanish game_script_act3_750a4e6b:
 
     # s e1b mg "I guess."
-    s e1b mg ""
+    s e1b mg "Sí, supongo."
 
 # game/game_script_act3.rpy:1585
 translate spanish game_script_act3_0049814c:

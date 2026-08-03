@@ -1602,7 +1602,7 @@ translate spanish game_script_act3_24656395:
 translate spanish game_script_act3_76696138:
 
     # y mh e1b b1b "Oh, I don’t know..."
-    y mh e1b b1b "Ah, pues n lo tengo muy claro, la verdad..."
+    y mh e1b b1b "Ah, pues no lo tengo muy claro, la verdad..."
 
 # game/game_script_act3.rpy:1518
 translate spanish game_script_act3_959baf65:

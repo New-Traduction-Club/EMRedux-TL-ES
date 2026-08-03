@@ -578,7 +578,7 @@ translate spanish game_script_act3_154aa50e:
 translate spanish game_script_act3_559227f0:
 
     # mc "Don’t worry, you guys can go ahead."
-    mc "No pasa nada, id empevntodkwhdbsubsoejndoel# game/game_script_act3.rpy:1069
+    mc "No pasa nada, id emubse/game_script_act3.rpy:1069
 translate spanish game_script_act3_85c47b78:
 
     # mc "I’ll be right back."
@@ -1758,139 +1758,139 @@ translate spanish game_script_act3_750a4e6b:
 translate spanish game_script_act3_0049814c:
 
     # y b2a e4a mi "Perhaps, in due time, Monika may come to her senses on her own."
-    y b2a e4a mi ""
+    y b2a e4a mi "Puede que Monika recapacite con el tiempo."
 
 # game/game_script_act3.rpy:1587
 translate spanish game_script_act3_38bdb1b3:
 
     # n mh e4a b3a "I doubt it, seeing how she acted during the party."
-    n mh e4a b3a ""
+    n mh e4a b3a "Viendo cómo estaba en la fiesta, permíteme dudarlo."
 
 # game/game_script_act3.rpy:1588
 translate spanish game_script_act3_60428b0b:
 
     # n mk e1a b1e "That kind of attitude, it’s ingrained."
-    n mk e1a b1e ""
+    n mk e1a b1e "Esa actitud la lleva dentro."
 
 # game/game_script_act3.rpy:1589
 translate spanish game_script_act3_9cd8082d:
 
     # n mh e1c "She’s gonna need a real talking-to."
-    n mh e1c ""
+    n mh e1c "Va a necesitar una buena reprimenda."
 
 # game/game_script_act3.rpy:1590
 translate spanish game_script_act3_103ca9d7:
 
     # n e4a b3b "Just..."
-    n e4a b3b ""
+    n e4a b3b "Es que..."
 
 # game/game_script_act3.rpy:1591
 translate spanish game_script_act3_ac8dbbcf:
 
     # n mg e1b b1d "Just...{fast}I don’t want to lose my temper again."
-    n mg e1b b1d ""
+    n mg e1b b1d "Es que...{fast} no quiero volver a perder los estribos."
 
 # game/game_script_act3.rpy:1594
 translate spanish game_script_act3_3fce47c1:
 
     # "She shoots me a guilty look."
-    ""
+    "Me mira y siento culpa en su cara."
 
 # game/game_script_act3.rpy:1597
 translate spanish game_script_act3_7ea301cd:
 
     # s mg b1d "I know..."
-    s mg b1d ""
+    s mg b1d "Ya..."
 
 # game/game_script_act3.rpy:1598
 translate spanish game_script_act3_18d8a4d5:
 
     # s mh b1c "I just want her to get it."
-    s mh b1c ""
+    s mh b1c "Quiero que lo tenga claro."
 
 # game/game_script_act3.rpy:1602
 translate spanish game_script_act3_071d5f0a:
 
     # mc "Well, have you talked to her since?"
-    mc ""
+    mc "¿Has hablado con ella?"
 
 # game/game_script_act3.rpy:1604
 translate spanish game_script_act3_24c691a1:
 
     # mc "It’s probably best to just put into words how you feel."
-    mc ""
+    mc "Creo que decirle lo que sientes es lo mejor que puedes hacer."
 
 # game/game_script_act3.rpy:1608
 translate spanish game_script_act3_f8961c05:
 
     # "I should probably step up to the plate."
-    ""
+    "Es hora de dar un paso al frente."
 
 # game/game_script_act3.rpy:1609
 translate spanish game_script_act3_d95f3a76:
 
     # "It’s the least I can do to repay Sayori."
-    ""
+    "Entra dentro de lo mínimo que debo hacer para redimirme con Sayori."
 
 # game/game_script_act3.rpy:1610
 translate spanish game_script_act3_383cfa2c:
 
     # "And I don't think Natsuki would forgive me if I didn't."
-    ""
+    "Además, no creo que Natsuki me perdone si dejo pasar la oportunidad."
 
 # game/game_script_act3.rpy:1613
 translate spanish game_script_act3_f2064bd8:
 
     # mc "Maybe...I could talk to her for you?"
-    mc ""
+    mc "¿Quieres... que lo haga yo por ti?"
 
 # game/game_script_act3.rpy:1614
 translate spanish game_script_act3_052664ab:
 
     # s lup rup b1b e1a mh "[player], that’s really nice of you."
-    s lup rup b1b e1a mh ""
+    s lup rup b1b e1a mh "Muy amable por tu parte, [player],"
 
 # game/game_script_act3.rpy:1615
 translate spanish game_script_act3_f26c4def:
 
     # s ldown rdown e1b mi "But I feel like if anyone could explain it best to her, {w=0.8}{nw}"
-    s ldown rdown e1b mi ""
+    s ldown rdown e1b mi "pero de este asunto..., {w=0.8}{nw}"
 
 # game/game_script_act3.rpy:1617
 translate spanish game_script_act3_ea8cfc1a:
 
     # extend "it’d be me..."
-    extend ""
+    extend "la que mejor puede explicar las cosas soy yo."
 
 # game/game_script_act3.rpy:1619
 translate spanish game_script_act3_45ab6db4:
 
     # mc "O-oh, alright."
-    mc ""
+    mc "A-Ah, vale."
 
 # game/game_script_act3.rpy:1620
 translate spanish game_script_act3_5d4a3035:
 
     # s lup rup b1b e1a mb "I really do appreciate the gesture though."
-    s lup rup b1b e1a mb ""
+    s lup rup b1b e1a mb "Pero agradezco el gesto."
 
 # game/game_script_act3.rpy:1623
 translate spanish game_script_act3_8ce61eb8:
 
     # "I nod."
-    ""
+    "Asiento."
 
 # game/game_script_act3.rpy:1625
 translate spanish game_script_act3_b55bbc0c:
 
     # s e4a mi "It’s just a bit...touchy...right now."
-    s e4a mi ""
+    s e4a mi "Aunque ahora mismo está todo un poquiiito delicado...,"
 
 # game/game_script_act3.rpy:1626
 translate spanish game_script_act3_c4488233:
 
     # s b2a e1b mh "I will do it...soon."
-    s b2a e1b mh ""
+    s b2a e1b mh "lo haré prontito."
 
 # game/game_script_act3.rpy:1629
 translate spanish game_script_act3_0e6565f4:

@@ -578,7 +578,7 @@ translate spanish game_script_act3_154aa50e:
 translate spanish game_script_act3_559227f0:
 
     # mc "Don’t worry, you guys can go ahead."
-    mc "No pasa nada, id emubse/game_script_act3.rpy:1069
+    mc "No pasa nada, id emubspasado069
 translate spanish game_script_act3_85c47b78:
 
     # mc "I’ll be right back."
@@ -1896,100 +1896,100 @@ translate spanish game_script_act3_c4488233:
 translate spanish game_script_act3_0e6565f4:
 
     # s b1a e4b mb "Pinky promise."
-    s b1a e4b mb ""
+    s b1a e4b mb "Juramento de meñique."
 
 # game/game_script_act3.rpy:1630
 translate spanish game_script_act3_539cd202:
 
     # s b1b e1a "I don’t want the club to stay out-of-action."
-    s b1b e1a ""
+    s b1b e1a "No quiero que el club se quede fuera de juego."
 
 # game/game_script_act3.rpy:1632
 translate spanish game_script_act3_42e3b98e:
 
     # mc "None of us do."
-    mc ""
+    mc "Nadie querría eso."
 
 # game/game_script_act3.rpy:1637
 translate spanish game_script_act3_176ef510:
 
     # "Natsuki and Yuri both quietly nod in agreement."
-    ""
+    "Natsuki y Yuri asienten en silencio."
 
 # game/game_script_act3.rpy:1639
 translate spanish game_script_act3_cb70afb1_1:
 
     # mc "So..."
-    mc ""
+    mc "Pues..."
 
 # game/game_script_act3.rpy:1645
 translate spanish game_script_act3_b294ef5f:
 
     # "Before I can awkwardly change the subject again, Yuri appears to check her phone."
-    ""
+    "Antes de poder siquiera cambiar de tema, Yuri le echa un vistazo a su teléfono."
 
 # game/game_script_act3.rpy:1649
 translate spanish game_script_act3_ba5f8d42:
 
     # "She glances at us with a guilty expression."
-    ""
+    "Nos mira preocupada."
 
 # game/game_script_act3.rpy:1652
 translate spanish game_script_act3_4c7a5e3b:
 
     # y shy n5 m4 "O-oh, goodness."
-    y shy n5 m4 ""
+    y shy n5 m4 "A-Ay, Dios..."
 
 # game/game_script_act3.rpy:1653
 translate spanish game_script_act3_9cd10e59:
 
     # y turned b1b e2b mb n4 "I hadn’t even realized the time."
-    y turned b1b e2b mb n4 ""
+    y turned b1b e2b mb n4 "No me he percatado ni de la hora."
 
 # game/game_script_act3.rpy:1656
 translate spanish game_script_act3_76cf07bb:
 
     # "She begins organizing her books, sweeping them all into a pile on the floor."
-    ""
+    "Empieza a apilar los libros formando una torre en el suelo."
 
 # game/game_script_act3.rpy:1658
 translate spanish game_script_act3_0ecb5d0b:
 
     # y ldown b1c e4a mh n1 "[player], Natsuki, Sayori..."
-    y ldown b1c e4a mh n1 ""
+    y ldown b1c e4a mh n1 "[player], Natsuki, Sayori...,"
 
 # game/game_script_act3.rpy:1659
 translate spanish game_script_act3_0b922c9c:
 
     # y b1b e1b mb n3 "This was nice, but I really must be going now."
-    y b1b e1b mb n3 ""
+    y b1b e1b mb n3 "me lo he pasado genial, pero debería de haberme marchado ya."
 
 # game/game_script_act3.rpy:1662
 translate spanish game_script_act3_05d63fa6:
 
     # s lup rup b1a e4b mb "Oh, alright."
-    s lup rup b1a e4b mb ""
+    s lup rup b1a e4b mb "Ah, vale."
 
 # game/game_script_act3.rpy:1663
 translate spanish game_script_act3_5c45e3c1:
 
     # s b1a e1a "Your mum wants you home?"
-    s b1a e1a ""
+    s b1a e1a "¿Tu madre te necesita en casa?"
 
 # game/game_script_act3.rpy:1665
 translate spanish game_script_act3_1c00bb89:
 
     # y b1c e4a mh "Yes..."
-    y b1c e4a mh ""
+    y b1c e4a mh "Sí..."
 
 # game/game_script_act3.rpy:1666
 translate spanish game_script_act3_772d5aba:
 
     # y e1c "I forgot we were...having family over for dinner tonight."
-    y e1c ""
+    y e1c "No recordaba que... había cena familiar."
 
 # game/game_script_act3.rpy:1672
 translate spanish game_script_act3_6cfdced1:
 
     # "Zipping her bag up, she rushes over to the door."
-    ""
+    "Cerrando su bolso, corre hacia la puerta de entrada."

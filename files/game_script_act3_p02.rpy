@@ -960,7 +960,7 @@ translate spanish game_script_act3_ae703ce1:
 translate spanish game_script_act3_86058d15:
 
     # "Nat, looking pleased with herself, shows us the solution."
-    "Nat, orgullosa de au logro, nos enseña la solución."
+    "Nat, orgullosa de su logro, nos enseña la solución."
 
 # game/game_script_act3.rpy:1234
 translate spanish game_script_act3_524ee535:

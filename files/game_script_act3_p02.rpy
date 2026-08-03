@@ -578,7 +578,7 @@ translate spanish game_script_act3_154aa50e:
 translate spanish game_script_act3_559227f0:
 
     # mc "Don’t worry, you guys can go ahead."
-    mc "No pasa nada, id emubspasado069
+    mc "No pasa nada, id empezando."
 translate spanish game_script_act3_85c47b78:
 
     # mc "I’ll be right back."

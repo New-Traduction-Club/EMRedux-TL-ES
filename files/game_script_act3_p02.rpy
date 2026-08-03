@@ -1734,13 +1734,13 @@ translate spanish game_script_act3_0807845d:
 translate spanish game_script_act3_197ce7c1:
 
     # n b1e e1c mi "Learns how to appropriately treat someone with a mental illness?{w=0.8}{nw}"
-    n b1e e1c mi "¿no aprenda a tratar mejor a alguien con una enfermedad mental?{w=0.8}{nw}"
+    n b1e e1c mi "¿no aprenda a tratar mejor a alguien con una enfermedad mental?{w=0.8} {nw}"
 
 # game/game_script_act3.rpy:1576
 translate spanish game_script_act3_5687b4d7:
 
     # extend "...No offense."
-    extend "Eh..., sin ofender."
+    extend "Sin... ofender."
 
 # game/game_script_act3.rpy:1579
 translate spanish game_script_act3_7ca6357b:

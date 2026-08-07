@@ -32,13 +32,13 @@ translate spanish game_script_act3_27094b01:
 translate spanish game_script_act3_3e2dbd7e:
 
     # y b1c e1a mb "O-oh, and [player], thank you again for having us all over."
-    y b1c e1a mb "A-Ah, [player], quería decirte que muchas gracias por dejarnos entrar."
+    y b1c e1a mb "A-Ah, [player], quería decirte que muchas gracias por dejarnos estar en tu casa."
 
 # game/game_script_act3.rpy:1687
 translate spanish game_script_act3_506126ca:
 
     # mc "Happy to accommodate."
-    mc "Yo estoy encantado de que estéis cómodas."
+    mc "Yo estoy encantado sabiendo que os habéis sentido como en la vuestra."
 
 # game/game_script_act3.rpy:1695
 translate spanish game_script_act3_54e9d265:
@@ -92,7 +92,7 @@ translate spanish game_script_act3_885d8515:
 translate spanish game_script_act3_38db3688:
 
     # mc "You know what I'm like with, like, anything academic."
-    mc "Bueeeno... ya sabes cómo soy con todo lo que sea académico,"
+    mc "Bueeeno... ya sabes cómo soy con todo lo que tenga que ver con el insti,"
 
 # game/game_script_act3.rpy:1715
 translate spanish game_script_act3_6f8aa126:
@@ -104,25 +104,25 @@ translate spanish game_script_act3_6f8aa126:
 translate spanish game_script_act3_9bd8569a:
 
     # mc "I think we both needed the company."
-    mc "Creo que necesitábamos que esto ocurriese."
+    mc "No creo equivocarme cuando digo que necesitábamos la compañía de esas dos."
 
 # game/game_script_act3.rpy:1718
 translate spanish game_script_act3_90369dcf_1:
 
     # n "Yeah..."
-    n "Pues sí..."
+    n "Ya ves..."
 
 # game/game_script_act3.rpy:1720
 translate spanish game_script_act3_8c712f1a:
 
     # n "Maybe I'm worrying too much, but you just seemed a little...off."
-    n "Aunque... puede que sea cosa mía y me esté preocupando sin razón, pero te veo apagado."
+    n "Aunque... puede que sea cosa mía y me esté preocupando sin razón, pero te he notado un pelín raro."
 
 # game/game_script_act3.rpy:1722
 translate spanish game_script_act3_0912ad8f:
 
     # n "No offense, but you've been weird all through today."
-    n "No te lo tomes a mal, solo que has estado muy raro durante todo el día."
+    n "No te lo tomes a mal, es que has estado así durante todo el día."
 
 # game/game_script_act3.rpy:1724
 translate spanish game_script_act3_4db70f32:
@@ -134,7 +134,7 @@ translate spanish game_script_act3_4db70f32:
 translate spanish game_script_act3_12deb62c:
 
     # mc "I guess it's still catching up to me."
-    mc "Tengo que cogerle el ritmo aún..."
+    mc "Supongo que aún me hace mella..."
 
 # game/game_script_act3.rpy:1728
 translate spanish game_script_act3_90369dcf_2:
@@ -176,103 +176,103 @@ translate spanish game_script_act3_e175c876:
 translate spanish game_script_act3_4d8f7295:
 
     # "Natsuki departs, the stairs creaking as she climbs them."
-    ""
+    "Natsuki sube por las escaleras y la confirmación de ello es el crujido que emite cada escalón."
 
 # game/game_script_act3.rpy:1746
 translate spanish game_script_act3_de7f0814:
 
     # "My mind swirls, attempting to process the day’s events."
-    ""
+    "Mi mente da vueltas entre las cosas que han pasado el día de hoy."
 
 # game/game_script_act3.rpy:1747
 translate spanish game_script_act3_d65e2daa:
 
     # "But even as my head is about to explode, I can’t help but think back to the literature club through everything."
-    ""
+    "Y aunque me vaya a reventar la cabeza, no puedo evitar tener el club de literatura presente en todo momento."
 
 # game/game_script_act3.rpy:1748
 translate spanish game_script_act3_7bce42ce:
 
     # "Things had just ended so abruptly yesterday."
-    ""
+    "Ayer todo acabó de forma muy repentina."
 
 # game/game_script_act3.rpy:1749
 translate spanish game_script_act3_151a662c:
 
     # "It’s hard to think that yesterday was our last club meeting, possibly ever."
-    ""
+    "Cuesta pensar que la reunión de ayer fuera la última de todas..."
 
 # game/game_script_act3.rpy:1750
 translate spanish game_script_act3_88eb8074:
 
     # "It feels almost...{i}surreal{/i}."
-    ""
+    "Parece mentira..."
 
 # game/game_script_act3.rpy:1751
 translate spanish game_script_act3_ab5c82f0:
 
     # "Given nobody was keen on any of the alternative clubs, it seems like Natsuki and I are on our own."
-    ""
+    "Y ya que a nadie le interesa unirse a otro club, Natsuki y yo estamos solos en la búsqueda."
 
 # game/game_script_act3.rpy:1752
 translate spanish game_script_act3_5f902c9c:
 
     # "No support group."
-    ""
+    "Nada de apoyo grupal."
 
 # game/game_script_act3.rpy:1753
 translate spanish game_script_act3_481abf03:
 
     # "No safe haven."
-    ""
+    "Nada de refugios seguros."
 
 # game/game_script_act3.rpy:1754
 translate spanish game_script_act3_0c63d6d4:
 
     # "No police."
-    ""
+    "Nada de policías."
 
 # game/game_script_act3.rpy:1755
 translate spanish game_script_act3_c967cc39:
 
     # "Just me, her, and Sayori next door."
-    ""
+    "Solo ella, Sayori en la puerta de al lado y yo."
 
 # game/game_script_act3.rpy:1756
 translate spanish game_script_act3_8aebd3d1:
 
     # "It’s us against the world."
-    ""
+    "Nosotros contra el mundo."
 
 # game/game_script_act3.rpy:1757
 translate spanish game_script_act3_f047f6c6:
 
     # "Oh, and a psychopath who may well be hunting us down."
-    ""
+    "Ah, bueno, y también un psicópata que puede estar dándonos caza ahora mismo."
 
 # game/game_script_act3.rpy:1758
 translate spanish game_script_act3_c8717772:
 
     # "I reflexively peer out of the window."
-    ""
+    "Echo un vistazo a través de la ventana."
 
 # game/game_script_act3.rpy:1759
 translate spanish game_script_act3_6c326236:
 
     # "Nothing suspicious."
-    ""
+    "Nada sospechoso."
 
 # game/game_script_act3.rpy:1760
 translate spanish game_script_act3_8e95ce90:
 
     # "Cleaning up after Sayori and Yuri, I grab the club leaflet and contemplate crumpling it up and throwing it in the trash."
-    ""
+    "Mientras limpio después de la visita de Sayori y Yuri, cojo el folleto y se me pasa por la cabeza arrugarlo y tirarlo a la basura...,"
 
 # game/game_script_act3.rpy:1761
 translate spanish game_script_act3_85fa776a:
 
     # "However, I instead decide to hold onto it, just in case."
-    ""
+    "pero no, decido quedármelo por si las moscas."
 
 # game/game_script_act3.rpy:1762
 translate spanish game_script_act3_2ae13417:

@@ -2,175 +2,175 @@
 translate spanish game_script_act3_e8a24fba:
 
     # s lup mb "Want me to walk you there?"
-    s lup mb ""
+    s lup mb "¿Te acompaño?"
 
 # game/game_script_act3.rpy:1676
 translate spanish game_script_act3_d370a30c:
 
     # y b2b e1c mb "Oh, thank you."
-    y b2b e1c mb ""
+    y b2b e1c mb "Ah, pues muchas gracias."
 
 # game/game_script_act3.rpy:1679
 translate spanish game_script_act3_4bad0e22:
 
     # "Sayori slips her shoes on, catching up to Yuri, who’s already halfway out."
-    ""
+    "Sayori se pone los zapatos y va con Yuri, quien ya está casi en la puerta de entrada."
 
 # game/game_script_act3.rpy:1681
 translate spanish game_script_act3_8cce9942:
 
     # s b1b e1a mb "Uuuhhh...guess I’ll talk to you two later?"
-    s b1b e1a mb ""
+    s b1b e1a mb "Y... eh, ¿hablamos más tarde?"
 
 # game/game_script_act3.rpy:1683
 translate spanish game_script_act3_27094b01:
 
     # n cross b1a e1a mc "Yeah. See you guys later."
-    n cross b1a e1a mc ""
+    n cross b1a e1a mc "Claro, ya nos veremos."
 
 # game/game_script_act3.rpy:1685
 translate spanish game_script_act3_3e2dbd7e:
 
     # y b1c e1a mb "O-oh, and [player], thank you again for having us all over."
-    y b1c e1a mb ""
+    y b1c e1a mb "A-Ah, [player], quería decirte que muchas gracias por dejarnos entrar."
 
 # game/game_script_act3.rpy:1687
 translate spanish game_script_act3_506126ca:
 
     # mc "Happy to accommodate."
-    mc ""
+    mc "Yo estoy encantado de que estéis cómodas."
 
 # game/game_script_act3.rpy:1695
 translate spanish game_script_act3_54e9d265:
 
     # "I flash a smile their way."
-    ""
+    "Le sonrío."
 
 # game/game_script_act3.rpy:1696
 translate spanish game_script_act3_cd6a6537:
 
     # "They take their leave, their voices fading as they disappear down the street, and the door slowly creaks shut."
-    ""
+    "Se van y sus voces se alejan poco a poco mientras la puerta se va cerrando."
 
 # game/game_script_act3.rpy:1697
 translate spanish game_script_act3_636dd410:
 
     # "I quickly reach over and pull the door the rest of the way."
-    ""
+    "Tiro del pomo para cerrarla del todo."
 
 # game/game_script_act3.rpy:1699
 translate spanish game_script_act3_9a54dc4f:
 
     # n b1c e1d mh "Well, that was..."
-    n b1c e1d mh ""
+    n b1c e1d mh "Pues no ha estado nada mal, ¿no?"
 
 # game/game_script_act3.rpy:1701
 translate spanish game_script_act3_7129dea6:
 
     # mc "Nice."
-    mc ""
+    mc "Pues sí."
 
 # game/game_script_act3.rpy:1703
 translate spanish game_script_act3_d0484d29:
 
     # mc "The math sucked, but it was nice seeing them having fun."
-    mc ""
+    mc "Casi poto con las mates, pero con verlas divertirse se me pasaba el mal trago."
 
 # game/game_script_act3.rpy:1705
 translate spanish game_script_act3_cb486a77:
 
     # n "Heh, yeah."
-    n ""
+    n "Ja, ya ves."
 
 # game/game_script_act3.rpy:1711
 translate spanish game_script_act3_885d8515:
 
     # n "What about you?"
-    n ""
+    n "Y tú qué."
 
 # game/game_script_act3.rpy:1713
 translate spanish game_script_act3_38db3688:
 
     # mc "You know what I'm like with, like, anything academic."
-    mc ""
+    mc "Bueeeno... ya sabes cómo soy con todo lo que sea académico,"
 
 # game/game_script_act3.rpy:1715
 translate spanish game_script_act3_6f8aa126:
 
     # mc "But yeah, no, I had fun."
-    mc ""
+    mc "pero sí, me lo he pasado bien."
 
 # game/game_script_act3.rpy:1716
 translate spanish game_script_act3_9bd8569a:
 
     # mc "I think we both needed the company."
-    mc ""
+    mc "Creo que necesitábamos que esto ocurriese."
 
 # game/game_script_act3.rpy:1718
 translate spanish game_script_act3_90369dcf_1:
 
     # n "Yeah..."
-    n ""
+    n "Pues sí..."
 
 # game/game_script_act3.rpy:1720
 translate spanish game_script_act3_8c712f1a:
 
     # n "Maybe I'm worrying too much, but you just seemed a little...off."
-    n ""
+    n "Aunque... puede que sea cosa mía y me esté preocupando sin razón, pero te veo apagado."
 
 # game/game_script_act3.rpy:1722
 translate spanish game_script_act3_0912ad8f:
 
     # n "No offense, but you've been weird all through today."
-    n ""
+    n "No te lo tomes a mal, solo que has estado muy raro durante todo el día."
 
 # game/game_script_act3.rpy:1724
 translate spanish game_script_act3_4db70f32:
 
     # mc "Well, you know what this morning was like."
-    mc ""
+    mc "Ya, pero tú sabes más que de sobra cómo ha ido todo esta mañana."
 
 # game/game_script_act3.rpy:1726
 translate spanish game_script_act3_12deb62c:
 
     # mc "I guess it's still catching up to me."
-    mc ""
+    mc "Tengo que cogerle el ritmo aún..."
 
 # game/game_script_act3.rpy:1728
 translate spanish game_script_act3_90369dcf_2:
 
     # n "Yeah..."
-    n ""
+    n "Ya..."
 
 # game/game_script_act3.rpy:1730
 translate spanish game_script_act3_5c79e51c:
 
     # n "Yeah, I suppose."
-    n ""
+    n "Supongo que sí."
 
 # game/game_script_act3.rpy:1732
 translate spanish game_script_act3_78b852b9:
 
     # n "Well, either way, I trust you."
-    n ""
+    n "Bueno, me da igual. Te creo."
 
 # game/game_script_act3.rpy:1735
 translate spanish game_script_act3_13f1415e:
 
     # "An awkward silence."
-    ""
+    "Silencio incómodo."
 
 # game/game_script_act3.rpy:1739
 translate spanish game_script_act3_82355820:
 
     # n "I'm gonna go get changed, okay?"
-    n ""
+    n "Voy a cambiarme, ¿vale?"
 
 # game/game_script_act3.rpy:1741
 translate spanish game_script_act3_e175c876:
 
     # mc "Y-yeah, okay."
-    mc ""
+    mc "C-Claro, sí."
 
 # game/game_script_act3.rpy:1745
 translate spanish game_script_act3_4d8f7295:

@@ -14,7 +14,7 @@ translate spanish game_script_act3_d370a30c:
 translate spanish game_script_act3_4bad0e22:
 
     # "Sayori slips her shoes on, catching up to Yuri, who’s already halfway out."
-    "Sayori se pone los zapatos y va con Yuri, quien ya está casi en la puerta de entrada."
+    "Sayori se pone los zapatos y va con Yuri, quien ya está casi allí."
 
 # game/game_script_act3.rpy:1681
 translate spanish game_script_act3_8cce9942:

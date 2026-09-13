@@ -440,97 +440,97 @@ translate spanish game_script_act3_4cb17491:
 translate spanish game_script_act3_53ed73f6:
 
     # "I watch with bated breath as Natsuki's eyes scan the page."
-    ""
+    "Aguanto la respiración mientras Natsuki lee detenidamente."
 
 # game/game_script_act3.rpy:1824
 translate spanish game_script_act3_5443182f:
 
     # "I hope she likes it. I can barely contain my own thoughts on hers."
-    ""
+    "Espero que le guste... porque apenas puedo contener lo que siento hacia ella."
 
 # game/game_script_act3.rpy:1826
 translate spanish game_script_act3_6dc17aa4:
 
     # "As she lowers the poem to face me, we both share a look."
-    ""
+    "Deja de leer y nos miramos fijamente."
 
 # game/game_script_act3.rpy:1829
 translate spanish game_script_act3_cf9b22bb:
 
     # mcn "Wow..."
-    mcn ""
+    mcn "Hala..."
 
 # game/game_script_act3.rpy:1832
 translate spanish game_script_act3_17428cde:
 
     # "Registering the jinx, we both chuckle a bit."
-    ""
+    "Nos damos cuenta de las chispas y reímos...,"
 
 # game/game_script_act3.rpy:1834
 translate spanish game_script_act3_3c092118:
 
     # "Somehow, she refrains from calling it and socking me in the arm."
-    ""
+    "aunque ninguno se atreve a decir la palabra y Natsuki me pega en el brazo directamente."
 
 # game/game_script_act3.rpy:1836
 translate spanish game_script_act3_30c338a5:
 
     # "A few anxious seconds pass, us both trading looks to figure out who goes first."
-    ""
+    "Pasan un par de segundos, en los que ella y yo nos seguimos mirando, tratando de averiguar quién abre la boca antes."
 
 # game/game_script_act3.rpy:1838
 translate spanish game_script_act3_0413c4c3:
 
     # "Natsuki wins."
-    ""
+    "Natsuki gana."
 
 # game/game_script_act3.rpy:1841
 translate spanish game_script_act3_db83b6a9:
 
     # n "I...I really liked that."
-    n ""
+    n "Me... me ha encantado."
 
 # game/game_script_act3.rpy:1844
 translate spanish game_script_act3_90363519:
 
     # "I'm caught by surprise."
-    ""
+    "Me pilla por sorpresa."
 
 # game/game_script_act3.rpy:1847
 translate spanish game_script_act3_faf12507:
 
     # mc "Wasn’t it a bit too much?"
-    mc ""
+    mc "¿No te ha parecido mucha tela?"
 
 # game/game_script_act3.rpy:1849
 translate spanish game_script_act3_de502af9:
 
     # n "Eh? Since when was that a problem?"
-    n ""
+    n "¿Cómo que mucha tela? ¿Desde cuándo eso ha sido un problema?"
 
 # game/game_script_act3.rpy:1851
 translate spanish game_script_act3_41960f13:
 
     # n "I-I mean, maybe it was a {i}bit{/i} head-long, but...{w=0.6}"
-    n ""
+    n "A ver, puede que te hayas pasado un poquiiito de largo, pero... {w=0.6}"
 
 # game/game_script_act3.rpy:1853
 translate spanish game_script_act3_5146fcfc:
 
     # extend "I don’t think it mattered."
-    extend ""
+    extend "no es que haya importado mucho."
 
 # game/game_script_act3.rpy:1855
 translate spanish game_script_act3_5693a819:
 
     # mc "Huh..."
-    mc ""
+    mc "Ah..."
 
 # game/game_script_act3.rpy:1857
 translate spanish game_script_act3_12003c6f:
 
     # mc "I just thought...what with you and Yuri’s conflicting styles..."
-    mc ""
+    mc "Creía que... con los encontronazos que tenías con Yuri por vuestra manera de escribir tan distinta..."
 
 # game/game_script_act3.rpy:1859
 translate spanish game_script_act3_72591710:

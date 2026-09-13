@@ -266,7 +266,7 @@ translate spanish game_script_act3_6c326236:
 translate spanish game_script_act3_8e95ce90:
 
     # "Cleaning up after Sayori and Yuri, I grab the club leaflet and contemplate crumpling it up and throwing it in the trash."
-    "Mientras ordenó tras la visita de Sayori y Yuri, cojo el folleto y se me pasa por la cabeza arrugarlo y tirarlo a la basura...,"
+    "Mientras ordeno tras la visita de Sayori y Yuri, cojo el folleto y se me pasa por la cabeza arrugarlo y tirarlo a la basura...,"
 
 # game/game_script_act3.rpy:1761
 translate spanish game_script_act3_85fa776a:

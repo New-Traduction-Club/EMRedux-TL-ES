@@ -38,7 +38,7 @@ translate spanish game_script_act3_3e2dbd7e:
 translate spanish game_script_act3_506126ca:
 
     # mc "Happy to accommodate."
-    mc "Yo estoy encantado sabiendo que os habéis sentido como en la vuestra."
+    mc "El placer es mío, Yuri."
 
 # game/game_script_act3.rpy:1695
 translate spanish game_script_act3_54e9d265:
@@ -62,19 +62,19 @@ translate spanish game_script_act3_636dd410:
 translate spanish game_script_act3_9a54dc4f:
 
     # n b1c e1d mh "Well, that was..."
-    n b1c e1d mh "Pues no ha estado nada mal, ¿no?"
+    n b1c e1d mh "Pues no ha estado..."
 
 # game/game_script_act3.rpy:1701
 translate spanish game_script_act3_7129dea6:
 
     # mc "Nice."
-    mc "Pues sí."
+    mc "nada mal."
 
 # game/game_script_act3.rpy:1703
 translate spanish game_script_act3_d0484d29:
 
     # mc "The math sucked, but it was nice seeing them having fun."
-    mc "Casi poto con las mates, pero con verlas divertirse se me pasaba el mal trago."
+    mc "Casi poto con las mates, pero verlas así hace que se me pase el mal trago."
 
 # game/game_script_act3.rpy:1705
 translate spanish game_script_act3_cb486a77:
@@ -266,7 +266,7 @@ translate spanish game_script_act3_6c326236:
 translate spanish game_script_act3_8e95ce90:
 
     # "Cleaning up after Sayori and Yuri, I grab the club leaflet and contemplate crumpling it up and throwing it in the trash."
-    "Mientras limpio después de la visita de Sayori y Yuri, cojo el folleto y se me pasa por la cabeza arrugarlo y tirarlo a la basura...,"
+    "Mientras ordenó tras la visita de Sayori y Yuri, cojo el folleto y se me pasa por la cabeza arrugarlo y tirarlo a la basura...,"
 
 # game/game_script_act3.rpy:1761
 translate spanish game_script_act3_85fa776a:
@@ -278,163 +278,163 @@ translate spanish game_script_act3_85fa776a:
 translate spanish game_script_act3_2ae13417:
 
     # "I grab my bag and stuff it in, next to my geography textbook, and..."
-    ""
+    "Cojo la mochila y lo guardo entre el libro de geografía y mi...,"
 
 # game/game_script_act3.rpy:1764
 translate spanish game_script_act3_7802f4ba:
 
     # "Well, with hindsight, it’s pretty...bad."
-    ""
+    "En... en retrospectiva, es malo de narices."
 
 # game/game_script_act3.rpy:1765
 translate spanish game_script_act3_8e30c9af:
 
     # "And long. {i}Way{/i} too long."
-    ""
+    "Pero muchas, muchas narices."
 
 # game/game_script_act3.rpy:1766
 translate spanish game_script_act3_b142d48d:
 
     # "But looking for anything at all to take my mind off {i}him{/i}..."
-    ""
+    "Pero mientras busco algo para quitarme de la cabeza a ese hombre...,"
 
 # game/game_script_act3.rpy:1767
 translate spanish game_script_act3_3f969aac:
 
     # "As Natsuki makes her way downstairs, I decide to float a long since forgotten plan."
-    ""
+    "aprovecho que Natsuki baja las escaleras para rescatar un plan olvidado."
 
 # game/game_script_act3.rpy:1770
 translate spanish game_script_act3_90fa8c33:
 
     # mc "Huh, would you look at this?"
-    mc ""
+    mc "Oye, ¿quieres echarle un vistazo a esto?"
 
 # game/game_script_act3.rpy:1771
 translate spanish game_script_act3_815b372e:
 
     # n cross b1f mh "Hm?"
-    n cross b1f mh ""
+    n cross b1f mh "¿Eh?"
 
 # game/game_script_act3.rpy:1773
 translate spanish game_script_act3_4b337c97:
 
     # mc "I found my poem."
-    mc ""
+    mc "Acabo de encontrar mi poema."
 
 # game/game_script_act3.rpy:1778
 translate spanish game_script_act3_85e9fe53:
 
     # mc "The one we wrote for the club on Friday..."
-    mc ""
+    mc "Ya sabes, el que escribimos el viernes para el club."
 
 # game/game_script_act3.rpy:1779
 translate spanish game_script_act3_884eb1d5:
 
     # n b1c e1b mh "Ohh, yeah, I remember."
-    n b1c e1b mh ""
+    n b1c e1b mh "Ah, ya me acuerdo."
 
 # game/game_script_act3.rpy:1781
 translate spanish game_script_act3_c2fc544a:
 
     # mc "Well...we never did get to read each other’s poems, like we planned."
-    mc ""
+    mc "La cosa es que nunca tuvimos la oportunidad de leer el poema del otro, tal y como planeamos."
 
 # game/game_script_act3.rpy:1784
 translate spanish game_script_act3_5f3af2d5:
 
     # "Natsuki begins looking through her own bag."
-    ""
+    "Natsuki rebusca en su mochila."
 
 # game/game_script_act3.rpy:1786
 translate spanish game_script_act3_7eb5e485:
 
     # n lhip rhip b1b e1a mh "You sure you want to?"
-    n lhip rhip b1b e1a mh ""
+    n lhip rhip b1b e1a mh "¿Seguro que quieres leerlo?"
 
 # game/game_script_act3.rpy:1788
 translate spanish game_script_act3_9d578b81:
 
     # mc "Hey, it can’t hurt too much to read them anyway."
-    mc ""
+    mc "Venga ya, no hace daño leer un poema."
 
 # game/game_script_act3.rpy:1789
 translate spanish game_script_act3_96ed2ac6:
 
     # mc "Even if it’s just for the constructive criticism."
-    mc ""
+    mc "Aunque sea siquiera por darnos una crítica constructiva."
 
 # game/game_script_act3.rpy:1791
 translate spanish game_script_act3_3bbca04b:
 
     # "She shrugs."
-    ""
+    "Se encoge de hombros."
 
 # game/game_script_act3.rpy:1792
 translate spanish game_script_act3_92c372d2:
 
     # n mh "Sure."
-    n mh ""
+    n mh "Pues vale."
 
 # game/game_script_act3.rpy:1794
 translate spanish game_script_act3_40c2c5f2:
 
     # "We both stand there for a moment, but Natsuki becomes restless."
-    ""
+    "Nos quedamos ahí pasmados hasta que Natsuki empieza a incomodarse."
 
 # game/game_script_act3.rpy:1795
 translate spanish game_script_act3_b19bc301:
 
     # n cross b1f e1d mh "...You gonna give it over then?"
-    n cross b1f e1d mh ""
+    n cross b1f e1d mh "¿Me... me lo vas a dar entonces?"
 
 # game/game_script_act3.rpy:1797
 translate spanish game_script_act3_38b5e631_1:
 
     # mc "Oh, yeah."
-    mc ""
+    mc "Ah, claro."
 
 # game/game_script_act3.rpy:1802
 translate spanish game_script_act3_38b3e752:
 
     # "I hand my poem over to her."
-    ""
+    "Se lo doy."
 
 # game/game_script_act3.rpy:1803
 translate spanish game_script_act3_c22cec24:
 
     # "In return, she thrusts her own poem into my hands."
-    ""
+    "Natsuki hace lo mismo con el suyo."
 
 # game/game_script_act3.rpy:1809
 translate spanish game_script_act3_3aa42c3b:
 
     # mc "Natsuki..."
-    mc ""
+    mc "Natsuki..."
 
 # game/game_script_act3.rpy:1812
 translate spanish game_script_act3_5645aa7f:
 
     # "She turns to me, eyebrow raised, before resuming reading."
-    ""
+    "Me mira con una ceja levantada antes de seguir leyendo."
 
 # game/game_script_act3.rpy:1815
 translate spanish game_script_act3_a3d0016d:
 
     # mc "That was...really..."
-    mc ""
+    mc "Es..."
 
 # game/game_script_act3.rpy:1817
 translate spanish game_script_act3_e4f14700:
 
     # n "Shh...sorry, just a sec..."
-    n ""
+    n "Shhh, un momentín..."
 
 # game/game_script_act3.rpy:1820
 translate spanish game_script_act3_4cb17491:
 
     # "Nodding, I give her the time to finish reading my poem."
-    ""
+    "Asiento y le doy tiempo a que termine de leer."
 
 # game/game_script_act3.rpy:1822
 translate spanish game_script_act3_53ed73f6:

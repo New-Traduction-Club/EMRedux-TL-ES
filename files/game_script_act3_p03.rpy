@@ -548,7 +548,7 @@ translate spanish game_script_act3_81adcd7e:
 translate spanish game_script_act3_78308ef1:
 
     # n "I just think...I dunno, I think the story called for it."
-    n "Creo que... no sé, creo que esta ocasiónlo requería."
+    n "Creo que... no sé, creo que esta ocasión lo requería."
 
 # game/game_script_act3.rpy:1865
 translate spanish game_script_act3_813271bf:

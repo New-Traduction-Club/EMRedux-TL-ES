@@ -536,67 +536,67 @@ translate spanish game_script_act3_12003c6f:
 translate spanish game_script_act3_72591710:
 
     # n "[player], I was talking about being needlessly wordy."
-    n ""
+    n "Hablaba de enrollarse mucho, [player]."
 
 # game/game_script_act3.rpy:1861
 translate spanish game_script_act3_81adcd7e:
 
     # n "I don’t have a problem with something being long unless it’s done for the sake of it, or to look smarter than it is."
-    n ""
-
+    n "Mi problema no es que haya mucho texto, sino que se haga excesivamente largo por rellenar o por aparentar ser listo."
+    
 # game/game_script_act3.rpy:1863
 translate spanish game_script_act3_78308ef1:
 
     # n "I just think...I dunno, I think the story called for it."
-    n ""
+    n "Creo que... no sé, creo que esta ocasiónlo requería."
 
 # game/game_script_act3.rpy:1865
 translate spanish game_script_act3_813271bf:
 
     # mc "I suppose..."
-    mc ""
+    mc "Supongo que sí."
 
 # game/game_script_act3.rpy:1867
 translate spanish game_script_act3_8619f2c6:
 
     # "I shrug."
-    ""
+    "Me encojo de hombros."
 
 # game/game_script_act3.rpy:1868
 translate spanish game_script_act3_6f04cfb0:
 
     # "Maybe it wasn't that big a problem after all."
-    ""
+    "Al final no era para tanto."
 
 # game/game_script_act3.rpy:1871
 translate spanish game_script_act3_ebcb44f4:
 
     # n "And speaking of the story..."
-    n ""
+    n "Y hablando de la ocasión..."
 
 # game/game_script_act3.rpy:1874
 translate spanish game_script_act3_47f4b7d9:
 
     # "Without warning, she lays The Shimmer down on the coffee table before {nw}"
-    ""
+    "Sin previo aviso, deja el poema en la mesita {nw}"
 
 # game/game_script_act3.rpy:1876
 translate spanish game_script_act3_8292b7db:
 
     # extend "launching into a hug."
-    extend ""
+    extend "y me abraza de sopetón."
 
 # game/game_script_act3.rpy:1877
 translate spanish game_script_act3_e8132389:
 
     # "Taken aback, I initially jump a little, but quickly ease into it."
-    ""
+    "Aunque sorprendido, retrocedo un poco y me relajo."
 
 # game/game_script_act3.rpy:1878
 translate spanish game_script_act3_cff23767:
 
     # "She lowers her voice to a whisper."
-    ""
+    "De repente, baja su tono de voz hasta llegar a susurrarme."
 
 # game/game_script_act3.rpy:1881
 translate spanish game_script_act3_58d6c42e:

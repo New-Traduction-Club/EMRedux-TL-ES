@@ -679,104 +679,104 @@ translate spanish game_script_act3_3bbd6799:
 # game/game_script_act3.rpy:1907
 translate spanish game_script_act3_753f0034:
 
-    # n "It was very much a..."
-    n "Iba a..."
+    # n "It was very much a...{w=0.7}{nw}"
+    n "Iba a...{w=0.7} {nw}"
 
 # game/game_script_act3.rpy:1909
 translate spanish game_script_act3_d681f665:
 
     # extend "it was for your eyes only."
-    extend ""
+    extend "a enseñártelo solo a ti."
 
 # game/game_script_act3.rpy:1911
 translate spanish game_script_act3_c69a496a:
 
     # mc "I thought as much. Seems very..."
-    mc ""
+    mc "Lo había pensado. Es como muy..."
 
 # game/game_script_act3.rpy:1913
 translate spanish game_script_act3_d94f6824:
 
     # n "Blatant?"
-    n ""
+    n "¿Muy descarado?"
 
 # game/game_script_act3.rpy:1915
 translate spanish game_script_act3_8e0bd39c:
 
     # mc "Yeah. Blatant."
-    mc ""
+    mc "Sí, ahí le has dado."
 
 # game/game_script_act3.rpy:1917
 translate spanish game_script_act3_0c48989c:
 
     # n "I could never give them something that obvious. I...can't have them knowing."
-    n ""
+    n "No iba a darles algo tan sumamente obvio. No... no iba a dejar que supieran nada."
 
 # game/game_script_act3.rpy:1919
 translate spanish game_script_act3_cee877d2:
 
     # mc "Well, maybe it’s just obvious to me because I know what I know."
-    mc ""
+    mc "Bueno, puede que sea obvio para mí porque sé lo que sé."
 
 # game/game_script_act3.rpy:1921
 translate spanish game_script_act3_952aa689:
 
     # n "I’m sorry [player], but I’d never risk it."
-    n ""
+    n "Lo siento, [player], pero no voy a arriesgarme."
 
 # game/game_script_act3.rpy:1923
 translate spanish game_script_act3_04d02374:
 
     # n "No, I wrote something a little more...digestible for the club."
-    n ""
+    n "De hecho, escribí algo más... apropiado para el club, si así se puede decir."
 
 # game/game_script_act3.rpy:1925
 translate spanish game_script_act3_d94343b1:
 
     # mc "Well, am I allowed to see it?"
-    mc ""
+    mc "¿Y bien? ¿Puedo verlo?"
 
 # game/game_script_act3.rpy:1926
 translate spanish game_script_act3_f23fa59b:
 
     # mc "Y-y'know, to be constructive and stuff..."
-    mc ""
+    mc "Y-Ya sabes, para ser constructivo y todo eso..."
 
 # game/game_script_act3.rpy:1929
 translate spanish game_script_act3_5b1408be:
 
     # "Natsuki scratches the back of her neck awkwardly."
-    ""
+    "Natsuki se rasca la nuca avergonzada."
 
 # game/game_script_act3.rpy:1932
 translate spanish game_script_act3_f5006d10:
 
     # n "I, uh...I ripped it up in Monika’s face."
-    n ""
+    n "Pues... se lo partí a Monika en la cara."
 
 # game/game_script_act3.rpy:1934
 translate spanish game_script_act3_4c65cf67:
 
     # mc "Did you really have to hammer home the point that hard?"
-    mc ""
+    mc "¿Era necesario hacerlo?"
 
 # game/game_script_act3.rpy:1936
 translate spanish game_script_act3_7cd46613:
 
     # "Knowing where this leads, I second-guess bringing it up."
-    ""
+    "Sabiendo que esto puede acabar mal, no lo mencionaré más."
 
 # game/game_script_act3.rpy:1939
 translate spanish game_script_act3_c4f06caa:
 
     # mc "I-In fact, maybe it’s better we don’t go there."
-    mc ""
+    mc "E-Es mejor no hablar de eso ahora."
 
 # game/game_script_act3.rpy:1941
 translate spanish game_script_act3_8de8a51b:
 
     # n "Yeah...thanks."
-    n ""
+    n "Sí... gracias."
 
 # game/game_script_act3.rpy:1944
 translate spanish game_script_act3_8d5e2429:

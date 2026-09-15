@@ -602,85 +602,85 @@ translate spanish game_script_act3_cff23767:
 translate spanish game_script_act3_58d6c42e:
 
     # n "You’re so sweet, [player]..."
-    n ""
+    n "Qué mono eres, [player]..."
 
 # game/game_script_act3.rpy:1883
 translate spanish game_script_act3_46dba254:
 
     # n "And...man, you were gonna show this to the club...?"
-    n ""
+    n "Y... oye, ¿es este el poema que querías llevar al club?"
 
 # game/game_script_act3.rpy:1885
 translate spanish game_script_act3_951669e5:
 
     # n "It really means a lot to me."
-    n ""
+    n "Porque me haría mucha ilusión."
 
 # game/game_script_act3.rpy:1887
 translate spanish game_script_act3_e0963ef5:
 
     # n "So...thanks."
-    n ""
+    n "Gracias, en serio."
 
 # game/game_script_act3.rpy:1889
 translate spanish game_script_act3_2521dc19:
 
     # mc "I, uh...I’m happy to...it’s no problem."
-    mc ""
+    mc "Yo... eh, me hace muy feliz que... eh, yo... sin problema, Natsuki."
 
 # game/game_script_act3.rpy:1891
 translate spanish game_script_act3_333b644d:
 
     # "Unsure how to respond, I grin back."
-    ""
+    "Sin saber lo que decir, le sonrío."
 
 # game/game_script_act3.rpy:1893
 translate spanish game_script_act3_72b43216:
 
     # "Now, where to begin with Dollhouse..?"
-    ""
+    "Vale, ¿por dónde empiezo con su poema?"
 
 # game/game_script_act3.rpy:1894
 translate spanish game_script_act3_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script_act3.rpy:1895
 translate spanish game_script_act3_12542bd7:
 
     # "I run the words through my head carefully."
-    ""
+    "Selecciono cuidadosamente las palabras que voy a decir."
 
 # game/game_script_act3.rpy:1896
 translate spanish game_script_act3_bc08a64c:
 
     # "I hope this isn't too sensitive..."
-    ""
+    "Espero que esto no sea tan delicado como parece..."
 
 # game/game_script_act3.rpy:1899
 translate spanish game_script_act3_b0b346aa:
 
     # mc "Were you really gonna show Dollhouse to the club...?"
-    mc ""
+    mc "¿Ibas a enseñarles Casita de muñecas a las chicas?"
 
 # game/game_script_act3.rpy:1902
 translate spanish game_script_act3_e1da7a0e:
 
     # "Natsuki balks for a moment, before answering."
-    ""
+    "Natsuki duda antes de decir nada."
 
 # game/game_script_act3.rpy:1905
 translate spanish game_script_act3_3bbd6799:
 
     # n "I...I wasn’t."
-    n ""
+    n "Pu... pues no."
 
 # game/game_script_act3.rpy:1907
 translate spanish game_script_act3_753f0034:
 
-    # n "It was very much a...{w=0.7}{nw}"
-    n ""
+    # n "It was very much a..."
+    n "Iba a..."
 
 # game/game_script_act3.rpy:1909
 translate spanish game_script_act3_d681f665:

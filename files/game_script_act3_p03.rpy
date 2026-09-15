@@ -782,7 +782,7 @@ translate spanish game_script_act3_8de8a51b:
 translate spanish game_script_act3_8d5e2429:
 
     # "We take a second to look each other back and forth."
-    ""
+    "Nos miramos."
 
 # game/game_script_act3.rpy:1948
 translate spanish game_script_act3_709e5643:
